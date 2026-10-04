@@ -6,7 +6,7 @@
 <title>Todd’s Front Office</title>
 <meta name="robots" content="noindex, nofollow">
 <meta name="apple-mobile-web-app-title" content="Todd’s">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230e6b50'/%3E%3Cpath d='M8 32C20 13 44 13 56 32C44 51 20 51 8 32ZM24 32H40M28 28V36M32 28V36M36 28V36' fill='none' stroke='%23fff' stroke-width='3.5' stroke-linejoin='round' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230c0d0e'/%3E%3Cpath d='M8 32C20 13 44 13 56 32C44 51 20 51 8 32ZM24 32H40M28 28V36M32 28V36M36 28V36' fill='none' stroke='%23d5d9dc' stroke-width='3.5' stroke-linejoin='round' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="apple-touch-icon" href="icon.png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap">
 <style>
@@ -36,8 +36,9 @@ h2 { font-size: 15px; font-weight: 600; letter-spacing: .09em; text-transform: u
 .sub { margin: 6px 0 0; color: var(--muted); }
 .brand { display: flex; align-items: center; gap: 16px; }
 .logo { width: 112px; flex: none; }
-.logo path { fill: none; stroke: var(--accent); stroke-width: 4; stroke-linejoin: round; stroke-linecap: round; }
-.logo text { font: 700 29px var(--display); letter-spacing: .05em; fill: var(--ink); }
+.logo .ball { fill: #0c0d0e; stroke: #2e3235; stroke-width: 1.5; }
+.logo .rim { fill: none; stroke: url(#silver); stroke-width: 2.2; stroke-linejoin: round; stroke-linecap: round; }
+.logo text { font: 700 27px var(--display); letter-spacing: .06em; fill: url(#silver); }
 .fresh { color: var(--muted); font-size: 13px; text-align: right; }
 .tabs { display: flex; gap: 4px; margin: 20px 0 22px; border-bottom: 1px solid var(--line); overflow-x: auto; overflow-y: hidden; }
 .tabs button { font-size: 18px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; padding: 8px 14px 9px; border: 0; background: none;
@@ -120,7 +121,7 @@ details[open] summary { margin-bottom: 10px; }
 <body>
 <div class="wrap">
   <div class="top">
-    <div class="brand"><svg class="logo" viewBox="0 0 168 92" role="img" aria-label="Todd’s"><path d="M6 46C38 0 130 0 162 46C130 92 38 92 6 46Z"/><path d="M31.4 23.9Q26 46 31.4 68.1M136.6 23.9Q142 46 136.6 68.1"/><text x="84" y="56.5" text-anchor="middle">TODD’S</text></svg><div><h1 id="team">Front Office</h1><p class="sub" id="sub"></p></div></div>
+    <div class="brand"><svg class="logo" viewBox="0 0 168 92" role="img" aria-label="Todd’s"><defs><linearGradient id="silver" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f7f8"/><stop offset=".48" stop-color="#c5cace"/><stop offset=".56" stop-color="#9aa1a7"/><stop offset="1" stop-color="#e4e7e9"/></linearGradient></defs><path class="ball" d="M3 46C40 -3 128 -3 165 46C128 95 40 95 3 46Z"/><path class="rim" d="M13 46C44 6 124 6 155 46C124 86 44 86 13 46Z"/><path class="rim" d="M36.7 26.8Q32 46 36.7 65.2M131.3 26.8Q136 46 131.3 65.2"/><text x="84" y="55.5" text-anchor="middle" transform="translate(84 46) skewX(-9) translate(-84 -46)">TODD’S</text></svg><div><h1 id="team">Front Office</h1><p class="sub" id="sub"></p></div></div>
     <div class="fresh" id="fresh"></div>
   </div>
   <div class="tabs" role="tablist" id="tabs">
