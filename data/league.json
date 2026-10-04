@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-04T14:24:09+00:00",
- "updated_et": "Sun Oct 04 2026, 10:24 AM ET",
+ "updated_utc": "2026-10-04T14:51:45+00:00",
+ "updated_et": "Sun Oct 04 2026, 10:51 AM ET",
  "league_id": 1241185,
  "season": 2026,
  "week": 4,
@@ -223,7 +223,15 @@
     "label": "Total Fumbles Lost",
     "points": -2.0
    }
-  ]
+  ],
+  "position_limits": {
+   "QB": 2,
+   "RB": 4,
+   "WR": 5,
+   "TE": 2,
+   "K": 2,
+   "D/ST": 2
+  }
  },
  "teams": [
   {
@@ -343,7 +351,7 @@
      "proj_avg": 20.3,
      "bye_week": 6,
      "pct_owned": 99.93,
-     "pct_started": 99.71,
+     "pct_started": 99.72,
      "week": {
       "slot": "WR",
       "proj": 20.1,
@@ -373,7 +381,7 @@
      "proj_avg": 20.3,
      "bye_week": 5,
      "pct_owned": 99.84,
-     "pct_started": 98.5,
+     "pct_started": 98.51,
      "week": {
       "slot": "RB",
       "proj": 20.5,
@@ -402,8 +410,8 @@
      "proj_season_pts": 167.7,
      "proj_avg": 12.0,
      "bye_week": 10,
-     "pct_owned": 94.77,
-     "pct_started": 53.3,
+     "pct_owned": 94.76,
+     "pct_started": 53.33,
      "week": {
       "slot": "BE",
       "proj": 11.9,
@@ -416,7 +424,7 @@
      "acquired": "DRAFT",
      "pos_rank": 38,
      "expert_rank": 25.5,
-     "pct_change": -0.06,
+     "pct_change": -0.07,
      "preseason_avg": 11.9,
      "waivers_until": null
     },
@@ -432,8 +440,8 @@
      "proj_season_pts": 199.2,
      "proj_avg": 14.2,
      "bye_week": 10,
-     "pct_owned": 96.57,
-     "pct_started": 78.36,
+     "pct_owned": 96.58,
+     "pct_started": 78.49,
      "week": {
       "slot": "RB",
       "proj": 14.6,
@@ -462,8 +470,8 @@
      "proj_season_pts": 209.4,
      "proj_avg": 15.0,
      "bye_week": 11,
-     "pct_owned": 94.71,
-     "pct_started": 74.25,
+     "pct_owned": 94.72,
+     "pct_started": 74.34,
      "week": {
       "slot": "WR",
       "proj": 14.4,
@@ -476,7 +484,7 @@
      "acquired": "DRAFT",
      "pos_rank": 5,
      "expert_rank": 15.6,
-     "pct_change": 0.06,
+     "pct_change": 0.07,
      "preseason_avg": 12.8,
      "waivers_until": null
     },
@@ -492,8 +500,8 @@
      "proj_season_pts": 198.3,
      "proj_avg": 14.2,
      "bye_week": 8,
-     "pct_owned": 97.11,
-     "pct_started": 84.98,
+     "pct_owned": 97.12,
+     "pct_started": 85.08,
      "week": {
       "slot": "TE",
       "proj": 13.7,
@@ -506,7 +514,7 @@
      "acquired": "DRAFT",
      "pos_rank": 5,
      "expert_rank": 3.1,
-     "pct_change": 0.07,
+     "pct_change": 0.08,
      "preseason_avg": 11.3,
      "waivers_until": null
     },
@@ -522,8 +530,8 @@
      "proj_season_pts": 143.7,
      "proj_avg": 11.1,
      "bye_week": 10,
-     "pct_owned": 78.34,
-     "pct_started": 5.5,
+     "pct_owned": 78.29,
+     "pct_started": 5.44,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -536,7 +544,7 @@
      "acquired": "DRAFT",
      "pos_rank": 21,
      "expert_rank": null,
-     "pct_change": -0.4,
+     "pct_change": -0.44,
      "preseason_avg": 10.8,
      "waivers_until": null
     },
@@ -552,8 +560,8 @@
      "proj_season_pts": 125.6,
      "proj_avg": 9.0,
      "bye_week": 7,
-     "pct_owned": 52.8,
-     "pct_started": 3.81,
+     "pct_owned": 52.74,
+     "pct_started": 3.8,
      "week": {
       "slot": "BE",
       "proj": 8.5,
@@ -566,7 +574,7 @@
      "acquired": "DRAFT",
      "pos_rank": 87,
      "expert_rank": 49.5,
-     "pct_change": -0.75,
+     "pct_change": -0.78,
      "preseason_avg": 9.4,
      "waivers_until": null
     },
@@ -582,8 +590,8 @@
      "proj_season_pts": 228.4,
      "proj_avg": 16.3,
      "bye_week": 10,
-     "pct_owned": 76.63,
-     "pct_started": 21.92,
+     "pct_owned": 76.61,
+     "pct_started": 21.88,
      "week": {
       "slot": "BE",
       "proj": 15.1,
@@ -596,7 +604,7 @@
      "acquired": "DRAFT",
      "pos_rank": 21,
      "expert_rank": 17.4,
-     "pct_change": -0.3,
+     "pct_change": -0.31,
      "preseason_avg": 18.2,
      "waivers_until": null
     },
@@ -612,8 +620,8 @@
      "proj_season_pts": 209.6,
      "proj_avg": 15.0,
      "bye_week": 5,
-     "pct_owned": 93.78,
-     "pct_started": 76.92,
+     "pct_owned": 93.8,
+     "pct_started": 77.05,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 16.6,
@@ -626,7 +634,7 @@
      "acquired": "DRAFT",
      "pos_rank": 10,
      "expert_rank": 9.5,
-     "pct_change": 0.13,
+     "pct_change": 0.14,
      "preseason_avg": 13.4,
      "waivers_until": null
     },
@@ -642,8 +650,8 @@
      "proj_season_pts": 247.1,
      "proj_avg": 17.6,
      "bye_week": 6,
-     "pct_owned": 64.78,
-     "pct_started": 29.93,
+     "pct_owned": 64.85,
+     "pct_started": 30.06,
      "week": {
       "slot": "QB",
       "proj": 19.2,
@@ -656,7 +664,7 @@
      "acquired": "DRAFT",
      "pos_rank": 36,
      "expert_rank": 9.0,
-     "pct_change": 0.45,
+     "pct_change": 0.5,
      "preseason_avg": 18.4,
      "waivers_until": null
     },
@@ -672,7 +680,7 @@
      "proj_season_pts": 104.2,
      "proj_avg": 10.4,
      "bye_week": 8,
-     "pct_owned": 34.47,
+     "pct_owned": 34.46,
      "pct_started": 0.18,
      "week": {
       "slot": "IR",
@@ -686,7 +694,7 @@
      "acquired": "DRAFT",
      "pos_rank": 0,
      "expert_rank": null,
-     "pct_change": -0.04,
+     "pct_change": -0.05,
      "preseason_avg": 10.5,
      "waivers_until": null
     },
@@ -702,8 +710,8 @@
      "proj_season_pts": 66.8,
      "proj_avg": 3.9,
      "bye_week": 10,
-     "pct_owned": 20.53,
-     "pct_started": 15.13,
+     "pct_owned": 20.49,
+     "pct_started": 15.09,
      "week": {
       "slot": "D/ST",
       "proj": 5.9,
@@ -716,7 +724,7 @@
      "acquired": "DRAFT",
      "pos_rank": 12,
      "expert_rank": 11.9,
-     "pct_change": -0.38,
+     "pct_change": -0.41,
      "preseason_avg": 5.6,
      "waivers_until": null
     },
@@ -763,7 +771,7 @@
      "proj_avg": 8.0,
      "bye_week": 13,
      "pct_owned": 1.93,
-     "pct_started": 1.36,
+     "pct_started": 1.37,
      "week": {
       "slot": "K",
       "proj": 8.1,
@@ -792,7 +800,7 @@
      "proj_season_pts": 69.9,
      "proj_avg": 5.0,
      "bye_week": 5,
-     "pct_owned": 20.46,
+     "pct_owned": 20.45,
      "pct_started": 0.73,
      "week": {
       "slot": "BE",
@@ -806,7 +814,7 @@
      "acquired": "ADD",
      "pos_rank": 44,
      "expert_rank": 47.8,
-     "pct_change": -0.28,
+     "pct_change": -0.29,
      "preseason_avg": 6.3,
      "waivers_until": null
     },
@@ -822,8 +830,8 @@
      "proj_season_pts": 105.0,
      "proj_avg": 7.5,
      "bye_week": 8,
-     "pct_owned": 65.54,
-     "pct_started": 21.88,
+     "pct_owned": 65.58,
+     "pct_started": 22.05,
      "week": {
       "slot": "BE",
       "proj": 10.6,
@@ -836,7 +844,7 @@
      "acquired": "ADD",
      "pos_rank": 24,
      "expert_rank": 34.1,
-     "pct_change": 0.3,
+     "pct_change": 0.34,
      "preseason_avg": 7.4,
      "waivers_until": null
     },
@@ -852,8 +860,8 @@
      "proj_season_pts": 53.7,
      "proj_avg": 3.2,
      "bye_week": 5,
-     "pct_owned": 13.09,
-     "pct_started": 7.15,
+     "pct_owned": 12.85,
+     "pct_started": 6.9,
      "week": {
       "slot": "BE",
       "proj": 2.6,
@@ -866,7 +874,7 @@
      "acquired": "ADD",
      "pos_rank": 9,
      "expert_rank": null,
-     "pct_change": -1.62,
+     "pct_change": -1.81,
      "preseason_avg": 3.4,
      "waivers_until": null
     }
@@ -992,7 +1000,7 @@
      "proj_avg": 20.5,
      "bye_week": 6,
      "pct_owned": 99.93,
-     "pct_started": 99.67,
+     "pct_started": 99.68,
      "week": {
       "slot": "WR",
       "proj": 20.4,
@@ -1022,7 +1030,7 @@
      "proj_avg": 14.8,
      "bye_week": 14,
      "pct_owned": 98.86,
-     "pct_started": 88.6,
+     "pct_started": 88.71,
      "week": {
       "slot": "RB",
       "proj": 15.6,
@@ -1052,7 +1060,7 @@
      "proj_avg": 15.7,
      "bye_week": 14,
      "pct_owned": 98.93,
-     "pct_started": 86.45,
+     "pct_started": 86.39,
      "week": {
       "slot": "BE",
       "proj": 14.6,
@@ -1082,7 +1090,7 @@
      "proj_avg": 13.6,
      "bye_week": 5,
      "pct_owned": 98.01,
-     "pct_started": 85.23,
+     "pct_started": 85.33,
      "week": {
       "slot": "WR",
       "proj": 15.8,
@@ -1112,7 +1120,7 @@
      "proj_avg": 12.5,
      "bye_week": 8,
      "pct_owned": 94.99,
-     "pct_started": 67.63,
+     "pct_started": 67.64,
      "week": {
       "slot": "RB",
       "proj": 13.5,
@@ -1142,7 +1150,7 @@
      "proj_avg": 12.1,
      "bye_week": 7,
      "pct_owned": 92.96,
-     "pct_started": 28.83,
+     "pct_started": 28.82,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -1171,8 +1179,8 @@
      "proj_season_pts": 101.0,
      "proj_avg": 7.2,
      "bye_week": 11,
-     "pct_owned": 78.37,
-     "pct_started": 31.47,
+     "pct_owned": 78.28,
+     "pct_started": 31.27,
      "week": {
       "slot": "BE",
       "proj": 7.4,
@@ -1185,7 +1193,7 @@
      "acquired": "DRAFT",
      "pos_rank": 64,
      "expert_rank": 21.0,
-     "pct_change": -0.71,
+     "pct_change": -0.78,
      "preseason_avg": 10.9,
      "waivers_until": null
     },
@@ -1201,8 +1209,8 @@
      "proj_season_pts": 101.2,
      "proj_avg": 6.0,
      "bye_week": 8,
-     "pct_owned": 87.38,
-     "pct_started": 63.84,
+     "pct_owned": 87.3,
+     "pct_started": 63.64,
      "week": {
       "slot": "D/ST",
       "proj": 4.9,
@@ -1215,7 +1223,7 @@
      "acquired": "DRAFT",
      "pos_rank": 21,
      "expert_rank": 15.1,
-     "pct_change": -0.52,
+     "pct_change": -0.58,
      "preseason_avg": 7.5,
      "waivers_until": null
     },
@@ -1231,8 +1239,8 @@
      "proj_season_pts": 131.8,
      "proj_avg": 9.4,
      "bye_week": 8,
-     "pct_owned": 86.91,
-     "pct_started": 82.79,
+     "pct_owned": 86.9,
+     "pct_started": 82.78,
      "week": {
       "slot": "K",
       "proj": 9.9,
@@ -1245,7 +1253,7 @@
      "acquired": "DRAFT",
      "pos_rank": 25,
      "expert_rank": 2.9,
-     "pct_change": -0.18,
+     "pct_change": -0.19,
      "preseason_avg": 9.4,
      "waivers_until": null
     },
@@ -1261,8 +1269,8 @@
      "proj_season_pts": 81.0,
      "proj_avg": 4.8,
      "bye_week": 10,
-     "pct_owned": 64.61,
-     "pct_started": 50.55,
+     "pct_owned": 64.37,
+     "pct_started": 50.2,
      "week": {
       "slot": "BE",
       "proj": 4.1,
@@ -1275,7 +1283,7 @@
      "acquired": "DRAFT",
      "pos_rank": 27,
      "expert_rank": 20.5,
-     "pct_change": -1.71,
+     "pct_change": -1.89,
      "preseason_avg": 6.7,
      "waivers_until": null
     },
@@ -1291,8 +1299,8 @@
      "proj_season_pts": 113.6,
      "proj_avg": 8.1,
      "bye_week": 10,
-     "pct_owned": 28.02,
-     "pct_started": 24.56,
+     "pct_owned": 28.03,
+     "pct_started": 24.57,
      "week": {
       "slot": "BE",
       "proj": 8.5,
@@ -1305,7 +1313,7 @@
      "acquired": "DRAFT",
      "pos_rank": 2,
      "expert_rank": 14.5,
-     "pct_change": -0.03,
+     "pct_change": -0.02,
      "preseason_avg": 8.6,
      "waivers_until": null
     },
@@ -1321,8 +1329,8 @@
      "proj_season_pts": 226.9,
      "proj_avg": 16.2,
      "bye_week": 11,
-     "pct_owned": 51.38,
-     "pct_started": 17.23,
+     "pct_owned": 51.35,
+     "pct_started": 17.17,
      "week": {
       "slot": "BE",
       "proj": 14.8,
@@ -1335,7 +1343,7 @@
      "acquired": "DRAFT",
      "pos_rank": 16,
      "expert_rank": 21.9,
-     "pct_change": -0.42,
+     "pct_change": -0.44,
      "preseason_avg": 16.6,
      "waivers_until": null
     },
@@ -1351,7 +1359,7 @@
      "proj_season_pts": 0,
      "proj_avg": 0,
      "bye_week": null,
-     "pct_owned": 26.93,
+     "pct_owned": 26.92,
      "pct_started": 0.06,
      "week": {
       "slot": "IR",
@@ -1365,7 +1373,7 @@
      "acquired": "ADD",
      "pos_rank": 0,
      "expert_rank": null,
-     "pct_change": 0.08,
+     "pct_change": 0.06,
      "preseason_avg": null,
      "waivers_until": null
     },
@@ -1381,8 +1389,8 @@
      "proj_season_pts": 108.3,
      "proj_avg": 7.7,
      "bye_week": 14,
-     "pct_owned": 28.34,
-     "pct_started": 2.01,
+     "pct_owned": 28.32,
+     "pct_started": 2.03,
      "week": {
       "slot": "BE",
       "proj": 8.1,
@@ -1395,7 +1403,7 @@
      "acquired": "TRADE",
      "pos_rank": 38,
      "expert_rank": 38.8,
-     "pct_change": -0.37,
+     "pct_change": -0.39,
      "preseason_avg": 7.6,
      "waivers_until": null
     },
@@ -1411,8 +1419,8 @@
      "proj_season_pts": 138.6,
      "proj_avg": 9.9,
      "bye_week": 10,
-     "pct_owned": 51.09,
-     "pct_started": 15.72,
+     "pct_owned": 51.2,
+     "pct_started": 15.91,
      "week": {
       "slot": "BE",
       "proj": 9.9,
@@ -1425,7 +1433,7 @@
      "acquired": "ADD",
      "pos_rank": 13,
      "expert_rank": 41.5,
-     "pct_change": 1.12,
+     "pct_change": 1.19,
      "preseason_avg": 5.8,
      "waivers_until": null
     },
@@ -1442,7 +1450,7 @@
      "proj_avg": 18.8,
      "bye_week": 6,
      "pct_owned": 97.2,
-     "pct_started": 66.63,
+     "pct_started": 66.7,
      "week": {
       "slot": "QB",
       "proj": 18.1,
@@ -1471,8 +1479,8 @@
      "proj_season_pts": 117.0,
      "proj_avg": 8.4,
      "bye_week": 14,
-     "pct_owned": 78.96,
-     "pct_started": 29.61,
+     "pct_owned": 78.94,
+     "pct_started": 29.58,
      "week": {
       "slot": "TE",
       "proj": 8.1,
@@ -1485,7 +1493,7 @@
      "acquired": "TRADE",
      "pos_rank": 15,
      "expert_rank": 18.5,
-     "pct_change": -0.27,
+     "pct_change": -0.28,
      "preseason_avg": 9.1,
      "waivers_until": null
     },
@@ -1501,8 +1509,8 @@
      "proj_season_pts": 153.1,
      "proj_avg": 10.9,
      "bye_week": 6,
-     "pct_owned": 26.93,
-     "pct_started": 8.9,
+     "pct_owned": 27.16,
+     "pct_started": 9.12,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 10.4,
@@ -1515,7 +1523,7 @@
      "acquired": "ADD",
      "pos_rank": 44,
      "expert_rank": 38.2,
-     "pct_change": 2.19,
+     "pct_change": 2.37,
      "preseason_avg": 7.7,
      "waivers_until": null
     }
@@ -1635,8 +1643,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "RB",
-     "season_pts": 66.0,
-     "season_avg": 16.5,
+     "season_pts": 73.5,
+     "season_avg": 18.4,
      "proj_season_pts": 275.1,
      "proj_avg": 19.6,
      "bye_week": 13,
@@ -1645,7 +1653,7 @@
      "week": {
       "slot": "RB",
       "proj": 20.3,
-      "pts": 2.5,
+      "pts": 10.0,
       "opp": "WSH",
       "opp_rank_vs_pos": 2,
       "bye": false,
@@ -1671,7 +1679,7 @@
      "proj_avg": 13.0,
      "bye_week": 8,
      "pct_owned": 98.25,
-     "pct_started": 73.59,
+     "pct_started": 73.62,
      "week": {
       "slot": "WR",
       "proj": 13.6,
@@ -1700,8 +1708,8 @@
      "proj_season_pts": 215.8,
      "proj_avg": 15.4,
      "bye_week": 7,
-     "pct_owned": 94.9,
-     "pct_started": 76.34,
+     "pct_owned": 94.92,
+     "pct_started": 76.45,
      "week": {
       "slot": "WR",
       "proj": 15.3,
@@ -1714,7 +1722,7 @@
      "acquired": "DRAFT",
      "pos_rank": 11,
      "expert_rank": 11.2,
-     "pct_change": 0.12,
+     "pct_change": 0.14,
      "preseason_avg": 13.0,
      "waivers_until": null
     },
@@ -1731,7 +1739,7 @@
      "proj_avg": 11.2,
      "bye_week": 8,
      "pct_owned": 89.0,
-     "pct_started": 49.7,
+     "pct_started": 49.69,
      "week": {
       "slot": "TE",
       "proj": 11.7,
@@ -1744,7 +1752,7 @@
      "acquired": "DRAFT",
      "pos_rank": 8,
      "expert_rank": 6.9,
-     "pct_change": -0.03,
+     "pct_change": -0.02,
      "preseason_avg": 11.5,
      "waivers_until": null
     },
@@ -1760,7 +1768,7 @@
      "proj_season_pts": 0.0,
      "proj_avg": 0.0,
      "bye_week": 8,
-     "pct_owned": 28.71,
+     "pct_owned": 28.65,
      "pct_started": 0.12,
      "week": {
       "slot": "IR",
@@ -1774,7 +1782,7 @@
      "acquired": "DRAFT",
      "pos_rank": 151,
      "expert_rank": null,
-     "pct_change": -0.59,
+     "pct_change": -0.63,
      "preseason_avg": 0.0,
      "waivers_until": null
     },
@@ -1790,7 +1798,7 @@
      "proj_season_pts": 105.3,
      "proj_avg": 6.2,
      "bye_week": 11,
-     "pct_owned": 98.41,
+     "pct_owned": 98.42,
      "pct_started": 94.07,
      "week": {
       "slot": "D/ST",
@@ -1804,7 +1812,7 @@
      "acquired": "DRAFT",
      "pos_rank": 4,
      "expert_rank": 2.5,
-     "pct_change": 0.04,
+     "pct_change": 0.05,
      "preseason_avg": 7.1,
      "waivers_until": null
     },
@@ -1820,8 +1828,8 @@
      "proj_season_pts": 124.6,
      "proj_avg": 8.9,
      "bye_week": 5,
-     "pct_owned": 80.46,
-     "pct_started": 73.98,
+     "pct_owned": 80.44,
+     "pct_started": 73.96,
      "week": {
       "slot": "K",
       "proj": 8.8,
@@ -1834,7 +1842,7 @@
      "acquired": "DRAFT",
      "pos_rank": 10,
      "expert_rank": 9.4,
-     "pct_change": -0.29,
+     "pct_change": -0.3,
      "preseason_avg": 8.8,
      "waivers_until": null
     },
@@ -1880,8 +1888,8 @@
      "proj_season_pts": 238.2,
      "proj_avg": 17.0,
      "bye_week": 5,
-     "pct_owned": 84.19,
-     "pct_started": 63.19,
+     "pct_owned": 84.28,
+     "pct_started": 63.31,
      "week": {
       "slot": "QB",
       "proj": 20.2,
@@ -1894,7 +1902,7 @@
      "acquired": "ADD",
      "pos_rank": 4,
      "expert_rank": 5.5,
-     "pct_change": 0.78,
+     "pct_change": 0.84,
      "preseason_avg": 15.4,
      "waivers_until": null
     },
@@ -1910,7 +1918,7 @@
      "proj_season_pts": 70.6,
      "proj_avg": 4.2,
      "bye_week": 13,
-     "pct_owned": 11.54,
+     "pct_owned": 11.57,
      "pct_started": 6.51,
      "week": {
       "slot": "BE",
@@ -1924,7 +1932,7 @@
      "acquired": "ADD",
      "pos_rank": 2,
      "expert_rank": null,
-     "pct_change": 0.38,
+     "pct_change": 0.4,
      "preseason_avg": 3.8,
      "waivers_until": null
     },
@@ -1940,8 +1948,8 @@
      "proj_season_pts": 226.6,
      "proj_avg": 16.2,
      "bye_week": 11,
-     "pct_owned": 52.53,
-     "pct_started": 25.04,
+     "pct_owned": 52.66,
+     "pct_started": 25.24,
      "week": {
       "slot": "BE",
       "proj": 17.0,
@@ -1954,7 +1962,7 @@
      "acquired": "ADD",
      "pos_rank": 30,
      "expert_rank": 16.8,
-     "pct_change": 0.97,
+     "pct_change": 1.08,
      "preseason_avg": 14.6,
      "waivers_until": null
     },
@@ -1970,8 +1978,8 @@
      "proj_season_pts": 145.0,
      "proj_avg": 10.4,
      "bye_week": 10,
-     "pct_owned": 71.04,
-     "pct_started": 12.96,
+     "pct_owned": 71.05,
+     "pct_started": 13.08,
      "week": {
       "slot": "BE",
       "proj": 10.1,
@@ -1984,7 +1992,7 @@
      "acquired": "TRADE",
      "pos_rank": 37,
      "expert_rank": 28.9,
-     "pct_change": 0.01,
+     "pct_change": 0.02,
      "preseason_avg": 9.9,
      "waivers_until": null
     },
@@ -2000,8 +2008,8 @@
      "proj_season_pts": 173.2,
      "proj_avg": 12.4,
      "bye_week": 10,
-     "pct_owned": 90.56,
-     "pct_started": 41.2,
+     "pct_owned": 90.57,
+     "pct_started": 41.44,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 12.4,
@@ -2014,7 +2022,7 @@
      "acquired": "TRADE",
      "pos_rank": 29,
      "expert_rank": 26.5,
-     "pct_change": 0.03,
+     "pct_change": 0.04,
      "preseason_avg": 12.7,
      "waivers_until": null
     },
@@ -2030,8 +2038,8 @@
      "proj_season_pts": 118.1,
      "proj_avg": 8.4,
      "bye_week": 11,
-     "pct_owned": 34.69,
-     "pct_started": 4.44,
+     "pct_owned": 34.65,
+     "pct_started": 4.43,
      "week": {
       "slot": "BE",
       "proj": 8.5,
@@ -2044,7 +2052,7 @@
      "acquired": "TRADE",
      "pos_rank": 94,
      "expert_rank": 52.4,
-     "pct_change": -0.49,
+     "pct_change": -0.52,
      "preseason_avg": 8.9,
      "waivers_until": null
     },
@@ -2061,7 +2069,7 @@
      "proj_avg": 17.2,
      "bye_week": 7,
      "pct_owned": 99.91,
-     "pct_started": 98.76,
+     "pct_started": 98.77,
      "week": {
       "slot": "RB",
       "proj": 17.4,
@@ -2090,8 +2098,8 @@
      "proj_season_pts": 122.0,
      "proj_avg": 8.7,
      "bye_week": 6,
-     "pct_owned": 25.64,
-     "pct_started": 2.47,
+     "pct_owned": 25.69,
+     "pct_started": 2.49,
      "week": {
       "slot": "BE",
       "proj": 7.5,
@@ -2104,7 +2112,7 @@
      "acquired": "ADD",
      "pos_rank": 95,
      "expert_rank": 43.0,
-     "pct_change": 0.66,
+     "pct_change": 0.68,
      "preseason_avg": 2.1,
      "waivers_until": null
     },
@@ -2150,8 +2158,8 @@
      "proj_season_pts": 137.1,
      "proj_avg": 9.8,
      "bye_week": 5,
-     "pct_owned": 71.77,
-     "pct_started": 12.47,
+     "pct_owned": 71.75,
+     "pct_started": 12.46,
      "week": {
       "slot": "BE",
       "proj": 9.8,
@@ -2164,7 +2172,7 @@
      "acquired": "ADD",
      "pos_rank": 55,
      "expert_rank": 41.2,
-     "pct_change": -0.35,
+     "pct_change": -0.36,
      "preseason_avg": 10.8,
      "waivers_until": null
     }
@@ -2319,8 +2327,8 @@
      "proj_season_pts": 213.8,
      "proj_avg": 15.3,
      "bye_week": 13,
-     "pct_owned": 99.84,
-     "pct_started": 92.16,
+     "pct_owned": 99.85,
+     "pct_started": 92.39,
      "week": {
       "slot": "TE",
       "proj": 15.9,
@@ -2350,7 +2358,7 @@
      "proj_avg": 13.8,
      "bye_week": 11,
      "pct_owned": 98.51,
-     "pct_started": 83.99,
+     "pct_started": 83.97,
      "week": {
       "slot": "RB",
       "proj": 13.1,
@@ -2380,7 +2388,7 @@
      "proj_avg": 16.4,
      "bye_week": 13,
      "pct_owned": 98.76,
-     "pct_started": 80.62,
+     "pct_started": 80.77,
      "week": {
       "slot": "WR",
       "proj": 15.4,
@@ -2409,8 +2417,8 @@
      "proj_season_pts": 138.5,
      "proj_avg": 9.9,
      "bye_week": 10,
-     "pct_owned": 88.3,
-     "pct_started": 22.17,
+     "pct_owned": 88.28,
+     "pct_started": 22.22,
      "week": {
       "slot": "BE",
       "proj": 9.9,
@@ -2423,7 +2431,7 @@
      "acquired": "DRAFT",
      "pos_rank": 57,
      "expert_rank": 37.4,
-     "pct_change": -0.22,
+     "pct_change": -0.23,
      "preseason_avg": 12.4,
      "waivers_until": null
     },
@@ -2439,8 +2447,8 @@
      "proj_season_pts": 265.3,
      "proj_avg": 18.9,
      "bye_week": 7,
-     "pct_owned": 88.65,
-     "pct_started": 52.02,
+     "pct_owned": 88.66,
+     "pct_started": 52.15,
      "week": {
       "slot": "QB",
       "proj": 18.5,
@@ -2453,7 +2461,7 @@
      "acquired": "DRAFT",
      "pos_rank": 14,
      "expert_rank": 6.9,
-     "pct_change": 0.04,
+     "pct_change": 0.05,
      "preseason_avg": 18.2,
      "waivers_until": null
     },
@@ -2469,8 +2477,8 @@
      "proj_season_pts": 101.1,
      "proj_avg": 7.2,
      "bye_week": 10,
-     "pct_owned": 60.39,
-     "pct_started": 3.8,
+     "pct_owned": 60.33,
+     "pct_started": 3.82,
      "week": {
       "slot": "BE",
       "proj": 7.0,
@@ -2483,7 +2491,7 @@
      "acquired": "DRAFT",
      "pos_rank": 54,
      "expert_rank": 59.1,
-     "pct_change": -0.7,
+     "pct_change": -0.73,
      "preseason_avg": 10.2,
      "waivers_until": null
     },
@@ -2499,8 +2507,8 @@
      "proj_season_pts": 121.1,
      "proj_avg": 8.7,
      "bye_week": 11,
-     "pct_owned": 71.61,
-     "pct_started": 6.44,
+     "pct_owned": 71.59,
+     "pct_started": 6.45,
      "week": {
       "slot": "BE",
       "proj": 8.1,
@@ -2513,7 +2521,7 @@
      "acquired": "DRAFT",
      "pos_rank": 36,
      "expert_rank": 37.2,
-     "pct_change": -0.34,
+     "pct_change": -0.36,
      "preseason_avg": 8.9,
      "waivers_until": null
     },
@@ -2529,8 +2537,8 @@
      "proj_season_pts": 174.4,
      "proj_avg": 12.5,
      "bye_week": 9,
-     "pct_owned": 85.97,
-     "pct_started": 29.83,
+     "pct_owned": 85.98,
+     "pct_started": 30.0,
      "week": {
       "slot": "BE",
       "proj": 11.8,
@@ -2543,7 +2551,7 @@
      "acquired": "DRAFT",
      "pos_rank": 27,
      "expert_rank": 24.0,
-     "pct_change": 0.11,
+     "pct_change": 0.12,
      "preseason_avg": 11.9,
      "waivers_until": null
     },
@@ -2554,8 +2562,8 @@
      "nfl": "WSH",
      "status": null,
      "slot": "WR",
-     "season_pts": 49.6,
-     "season_avg": 12.4,
+     "season_pts": 51.0,
+     "season_avg": 12.8,
      "proj_season_pts": 153.0,
      "proj_avg": 10.9,
      "bye_week": 7,
@@ -2564,7 +2572,7 @@
      "week": {
       "slot": "WR",
       "proj": 12.8,
-      "pts": 5.1,
+      "pts": 6.5,
       "opp": "IND",
       "opp_rank_vs_pos": 20,
       "bye": false,
@@ -2590,7 +2598,7 @@
      "proj_avg": 11.1,
      "bye_week": 8,
      "pct_owned": 84.78,
-     "pct_started": 35.84,
+     "pct_started": 35.86,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 10.8,
@@ -2603,7 +2611,7 @@
      "acquired": "DRAFT",
      "pos_rank": 23,
      "expert_rank": 33.5,
-     "pct_change": -0.06,
+     "pct_change": -0.05,
      "preseason_avg": 11.3,
      "waivers_until": null
     },
@@ -2619,8 +2627,8 @@
      "proj_season_pts": 91.7,
      "proj_avg": 5.4,
      "bye_week": 7,
-     "pct_owned": 28.38,
-     "pct_started": 19.56,
+     "pct_owned": 28.39,
+     "pct_started": 19.57,
      "week": {
       "slot": "BE",
       "proj": 5.1,
@@ -2633,7 +2641,7 @@
      "acquired": "DRAFT",
      "pos_rank": 4,
      "expert_rank": 16.8,
-     "pct_change": 0.13,
+     "pct_change": 0.14,
      "preseason_avg": 5.1,
      "waivers_until": null
     },
@@ -2649,8 +2657,8 @@
      "proj_season_pts": 125.3,
      "proj_avg": 8.9,
      "bye_week": 7,
-     "pct_owned": 80.73,
-     "pct_started": 74.42,
+     "pct_owned": 80.71,
+     "pct_started": 74.4,
      "week": {
       "slot": "BE",
       "proj": 8.7,
@@ -2663,7 +2671,7 @@
      "acquired": "DRAFT",
      "pos_rank": 18,
      "expert_rank": 8.8,
-     "pct_change": -0.3,
+     "pct_change": -0.31,
      "preseason_avg": 8.7,
      "waivers_until": null
     },
@@ -2679,8 +2687,8 @@
      "proj_season_pts": 108.2,
      "proj_avg": 6.4,
      "bye_week": 6,
-     "pct_owned": 89.05,
-     "pct_started": 87.01,
+     "pct_owned": 89.19,
+     "pct_started": 87.19,
      "week": {
       "slot": "D/ST",
       "proj": 8.5,
@@ -2693,7 +2701,7 @@
      "acquired": "DRAFT",
      "pos_rank": 1,
      "expert_rank": 1.1,
-     "pct_change": 1.05,
+     "pct_change": 1.15,
      "preseason_avg": 5.9,
      "waivers_until": null
     },
@@ -2704,8 +2712,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "K",
-     "season_pts": 38.0,
-     "season_avg": 12.7,
+     "season_pts": 39.0,
+     "season_avg": 9.8,
      "proj_season_pts": 119.8,
      "proj_avg": 8.6,
      "bye_week": 13,
@@ -2714,7 +2722,7 @@
      "week": {
       "slot": "K",
       "proj": 9.0,
-      "pts": 0.0,
+      "pts": 1.0,
       "opp": "WSH",
       "opp_rank_vs_pos": 27,
       "bye": false,
@@ -2723,7 +2731,7 @@
      "acquired": "DRAFT",
      "pos_rank": 3,
      "expert_rank": 7.1,
-     "pct_change": 1.31,
+     "pct_change": 1.27,
      "preseason_avg": 8.4,
      "waivers_until": null
     },
@@ -2739,8 +2747,8 @@
      "proj_season_pts": 76.8,
      "proj_avg": 7.7,
      "bye_week": 11,
-     "pct_owned": 20.53,
-     "pct_started": 1.26,
+     "pct_owned": 20.38,
+     "pct_started": 1.18,
      "week": {
       "slot": "IR",
       "proj": 0.0,
@@ -2753,7 +2761,7 @@
      "acquired": "ADD",
      "pos_rank": 29,
      "expert_rank": 25.9,
-     "pct_change": -1.42,
+     "pct_change": -1.51,
      "preseason_avg": 6.0,
      "waivers_until": null
     },
@@ -2769,7 +2777,7 @@
      "proj_season_pts": 213.4,
      "proj_avg": 15.2,
      "bye_week": 13,
-     "pct_owned": 8.86,
+     "pct_owned": 8.87,
      "pct_started": 3.75,
      "week": {
       "slot": "BE",
@@ -2783,7 +2791,7 @@
      "acquired": "ADD",
      "pos_rank": 17,
      "expert_rank": 21.0,
-     "pct_change": -0.04,
+     "pct_change": -0.03,
      "preseason_avg": 14.6,
      "waivers_until": null
     },
@@ -2799,8 +2807,8 @@
      "proj_season_pts": 35.5,
      "proj_avg": 2.5,
      "bye_week": 11,
-     "pct_owned": 2.21,
-     "pct_started": 0.73,
+     "pct_owned": 2.27,
+     "pct_started": 0.76,
      "week": {
       "slot": "BE",
       "proj": 7.7,
@@ -2813,7 +2821,7 @@
      "acquired": "ADD",
      "pos_rank": 25,
      "expert_rank": 25.5,
-     "pct_change": 0.46,
+     "pct_change": 0.49,
      "preseason_avg": 1.8,
      "waivers_until": null
     }
@@ -2938,8 +2946,8 @@
      "proj_season_pts": 235.5,
      "proj_avg": 18.1,
      "bye_week": 6,
-     "pct_owned": 99.88,
-     "pct_started": 39.55,
+     "pct_owned": 99.87,
+     "pct_started": 36.52,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -2999,7 +3007,7 @@
      "proj_avg": 22.5,
      "bye_week": 7,
      "pct_owned": 99.93,
-     "pct_started": 98.68,
+     "pct_started": 98.69,
      "week": {
       "slot": "QB",
       "proj": 22.2,
@@ -3028,8 +3036,8 @@
      "proj_season_pts": 156.9,
      "proj_avg": 12.1,
      "bye_week": 7,
-     "pct_owned": 96.17,
-     "pct_started": 45.52,
+     "pct_owned": 96.16,
+     "pct_started": 45.05,
      "week": {
       "slot": "WR",
       "proj": 11.8,
@@ -3042,7 +3050,7 @@
      "acquired": "DRAFT",
      "pos_rank": 27,
      "expert_rank": 27.1,
-     "pct_change": -0.11,
+     "pct_change": -0.12,
      "preseason_avg": 13.8,
      "waivers_until": null
     },
@@ -3058,8 +3066,8 @@
      "proj_season_pts": 102.3,
      "proj_avg": 10.2,
      "bye_week": 11,
-     "pct_owned": 84.68,
-     "pct_started": 11.84,
+     "pct_owned": 84.42,
+     "pct_started": 11.05,
      "week": {
       "slot": "IR",
       "proj": 0.0,
@@ -3072,7 +3080,7 @@
      "acquired": "DRAFT",
      "pos_rank": 48,
      "expert_rank": null,
-     "pct_change": -3.15,
+     "pct_change": -3.38,
      "preseason_avg": 10.8,
      "waivers_until": null
     },
@@ -3088,8 +3096,8 @@
      "proj_season_pts": 88.1,
      "proj_avg": 6.3,
      "bye_week": 14,
-     "pct_owned": 72.68,
-     "pct_started": 6.14,
+     "pct_owned": 72.62,
+     "pct_started": 6.17,
      "week": {
       "slot": "BE",
       "proj": 6.4,
@@ -3102,7 +3110,7 @@
      "acquired": "DRAFT",
      "pos_rank": 95,
      "expert_rank": 60.9,
-     "pct_change": -0.58,
+     "pct_change": -0.62,
      "preseason_avg": 9.8,
      "waivers_until": null
     },
@@ -3118,8 +3126,8 @@
      "proj_season_pts": 156.8,
      "proj_avg": 11.2,
      "bye_week": 10,
-     "pct_owned": 78.87,
-     "pct_started": 17.78,
+     "pct_owned": 78.86,
+     "pct_started": 17.86,
      "week": {
       "slot": "BE",
       "proj": 10.1,
@@ -3132,7 +3140,7 @@
      "acquired": "DRAFT",
      "pos_rank": 51,
      "expert_rank": 28.2,
-     "pct_change": -0.17,
+     "pct_change": -0.18,
      "preseason_avg": 11.5,
      "waivers_until": null
     },
@@ -3149,7 +3157,7 @@
      "proj_avg": 10.0,
      "bye_week": 14,
      "pct_owned": 99.49,
-     "pct_started": 98.15,
+     "pct_started": 98.14,
      "week": {
       "slot": "K",
       "proj": 9.6,
@@ -3179,7 +3187,7 @@
      "proj_avg": 10.9,
      "bye_week": 7,
      "pct_owned": 91.53,
-     "pct_started": 56.06,
+     "pct_started": 56.04,
      "week": {
       "slot": "TE",
       "proj": 10.7,
@@ -3208,8 +3216,8 @@
      "proj_season_pts": 214.6,
      "proj_avg": 15.3,
      "bye_week": 8,
-     "pct_owned": 37.07,
-     "pct_started": 14.74,
+     "pct_owned": 37.11,
+     "pct_started": 14.78,
      "week": {
       "slot": "BE",
       "proj": 16.8,
@@ -3222,7 +3230,7 @@
      "acquired": "DRAFT",
      "pos_rank": 19,
      "expert_rank": 15.8,
-     "pct_change": 0.09,
+     "pct_change": 0.12,
      "preseason_avg": 15.6,
      "waivers_until": null
     },
@@ -3238,7 +3246,7 @@
      "proj_season_pts": 116.9,
      "proj_avg": 8.3,
      "bye_week": 10,
-     "pct_owned": 28.79,
+     "pct_owned": 28.77,
      "pct_started": 23.87,
      "week": {
       "slot": "BE",
@@ -3252,7 +3260,7 @@
      "acquired": "DRAFT",
      "pos_rank": 13,
      "expert_rank": 17.6,
-     "pct_change": -0.16,
+     "pct_change": -0.17,
      "preseason_avg": 9.0,
      "waivers_until": null
     },
@@ -3268,8 +3276,8 @@
      "proj_season_pts": 47.2,
      "proj_avg": 2.8,
      "bye_week": 8,
-     "pct_owned": 7.93,
-     "pct_started": 6.07,
+     "pct_owned": 7.9,
+     "pct_started": 6.04,
      "week": {
       "slot": "BE",
       "proj": 5.9,
@@ -3282,7 +3290,7 @@
      "acquired": "ADD",
      "pos_rank": 22,
      "expert_rank": 11.4,
-     "pct_change": -0.31,
+     "pct_change": -0.33,
      "preseason_avg": 5.2,
      "waivers_until": null
     },
@@ -3299,7 +3307,7 @@
      "proj_avg": 15.2,
      "bye_week": 10,
      "pct_owned": 99.62,
-     "pct_started": 89.82,
+     "pct_started": 89.8,
      "week": {
       "slot": "RB",
       "proj": 14.3,
@@ -3312,7 +3320,7 @@
      "acquired": "TRADE",
      "pos_rank": 33,
      "expert_rank": 15.5,
-     "pct_change": 0.0,
+     "pct_change": -0.01,
      "preseason_avg": 17.0,
      "waivers_until": null
     },
@@ -3328,8 +3336,8 @@
      "proj_season_pts": 110.6,
      "proj_avg": 7.9,
      "bye_week": 6,
-     "pct_owned": 54.9,
-     "pct_started": 13.09,
+     "pct_owned": 54.88,
+     "pct_started": 13.17,
      "week": {
       "slot": "BE",
       "proj": 9.1,
@@ -3342,7 +3350,7 @@
      "acquired": "TRADE",
      "pos_rank": 24,
      "expert_rank": 17.5,
-     "pct_change": -0.25,
+     "pct_change": -0.26,
      "preseason_avg": 9.4,
      "waivers_until": null
     },
@@ -3358,8 +3366,8 @@
      "proj_season_pts": 136.8,
      "proj_avg": 10.5,
      "bye_week": 13,
-     "pct_owned": 27.72,
-     "pct_started": 0.33,
+     "pct_owned": 27.66,
+     "pct_started": 0.31,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -3372,7 +3380,7 @@
      "acquired": "TRADE",
      "pos_rank": 62,
      "expert_rank": null,
-     "pct_change": -0.79,
+     "pct_change": -0.83,
      "preseason_avg": 8.4,
      "waivers_until": null
     },
@@ -3388,8 +3396,8 @@
      "proj_season_pts": 151.6,
      "proj_avg": 10.8,
      "bye_week": 7,
-     "pct_owned": 75.15,
-     "pct_started": 15.51,
+     "pct_owned": 75.21,
+     "pct_started": 15.92,
      "week": {
       "slot": "WR",
       "proj": 10.8,
@@ -3402,7 +3410,7 @@
      "acquired": "ADD",
      "pos_rank": 30,
      "expert_rank": 31.9,
-     "pct_change": 0.66,
+     "pct_change": 0.71,
      "preseason_avg": 10.5,
      "waivers_until": null
     },
@@ -3418,8 +3426,8 @@
      "proj_season_pts": 37.4,
      "proj_avg": 2.2,
      "bye_week": 14,
-     "pct_owned": 2.56,
-     "pct_started": 2.31,
+     "pct_owned": 2.61,
+     "pct_started": 2.36,
      "week": {
       "slot": "D/ST",
       "proj": 5.5,
@@ -3432,7 +3440,7 @@
      "acquired": "ADD",
      "pos_rank": 26,
      "expert_rank": 12.8,
-     "pct_change": 0.28,
+     "pct_change": 0.32,
      "preseason_avg": 3.0,
      "waivers_until": null
     },
@@ -3448,8 +3456,8 @@
      "proj_season_pts": 28.6,
      "proj_avg": 7.1,
      "bye_week": 11,
-     "pct_owned": 13.3,
-     "pct_started": 4.47,
+     "pct_owned": 13.93,
+     "pct_started": 4.81,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 10.3,
@@ -3462,7 +3470,7 @@
      "acquired": "ADD",
      "pos_rank": 41,
      "expert_rank": 31.0,
-     "pct_change": 7.87,
+     "pct_change": 8.33,
      "preseason_avg": 2.4,
      "waivers_until": null
     }
@@ -3648,7 +3656,7 @@
      "proj_avg": 13.7,
      "bye_week": 6,
      "pct_owned": 96.9,
-     "pct_started": 77.17,
+     "pct_started": 77.24,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 13.7,
@@ -3678,7 +3686,7 @@
      "proj_avg": 14.1,
      "bye_week": 8,
      "pct_owned": 98.13,
-     "pct_started": 86.81,
+     "pct_started": 86.86,
      "week": {
       "slot": "RB",
       "proj": 16.1,
@@ -3707,8 +3715,8 @@
      "proj_season_pts": 215.8,
      "proj_avg": 15.4,
      "bye_week": 13,
-     "pct_owned": 99.13,
-     "pct_started": 92.77,
+     "pct_owned": 99.14,
+     "pct_started": 92.81,
      "week": {
       "slot": "WR",
       "proj": 16.5,
@@ -3751,7 +3759,7 @@
      "acquired": "DRAFT",
      "pos_rank": 27,
      "expert_rank": null,
-     "pct_change": -0.26,
+     "pct_change": -0.25,
      "preseason_avg": 19.9,
      "waivers_until": null
     },
@@ -3797,8 +3805,8 @@
      "proj_season_pts": 179.5,
      "proj_avg": 13.8,
      "bye_week": 8,
-     "pct_owned": 91.7,
-     "pct_started": 28.2,
+     "pct_owned": 91.69,
+     "pct_started": 27.74,
      "week": {
       "slot": "BE",
       "proj": 11.8,
@@ -3811,7 +3819,7 @@
      "acquired": "DRAFT",
      "pos_rank": 26,
      "expert_rank": 24.8,
-     "pct_change": -0.09,
+     "pct_change": -0.1,
      "preseason_avg": 12.4,
      "waivers_until": null
     },
@@ -3841,7 +3849,7 @@
      "acquired": "DRAFT",
      "pos_rank": 30,
      "expert_rank": 25.2,
-     "pct_change": 0.9,
+     "pct_change": 0.87,
      "preseason_avg": 10.6,
      "waivers_until": null
     },
@@ -3857,8 +3865,8 @@
      "proj_season_pts": 123.7,
      "proj_avg": 8.8,
      "bye_week": 13,
-     "pct_owned": 37.59,
-     "pct_started": 5.81,
+     "pct_owned": 37.57,
+     "pct_started": 5.82,
      "week": {
       "slot": "BE",
       "proj": 9.3,
@@ -3871,7 +3879,7 @@
      "acquired": "DRAFT",
      "pos_rank": 28,
      "expert_rank": 45.0,
-     "pct_change": -0.31,
+     "pct_change": -0.32,
      "preseason_avg": 8.2,
      "waivers_until": null
     },
@@ -3917,7 +3925,7 @@
      "proj_season_pts": 131.1,
      "proj_avg": 9.4,
      "bye_week": 8,
-     "pct_owned": 78.52,
+     "pct_owned": 78.51,
      "pct_started": 73.46,
      "week": {
       "slot": "BE",
@@ -3947,8 +3955,8 @@
      "proj_season_pts": 92.1,
      "proj_avg": 5.4,
      "bye_week": 5,
-     "pct_owned": 62.9,
-     "pct_started": 55.08,
+     "pct_owned": 63.03,
+     "pct_started": 55.21,
      "week": {
       "slot": "D/ST",
       "proj": 6.5,
@@ -3961,7 +3969,7 @@
      "acquired": "DRAFT",
      "pos_rank": 9,
      "expert_rank": 4.5,
-     "pct_change": 0.84,
+     "pct_change": 0.95,
      "preseason_avg": 6.5,
      "waivers_until": null
     },
@@ -3977,8 +3985,8 @@
      "proj_season_pts": 120.1,
      "proj_avg": 8.6,
      "bye_week": 11,
-     "pct_owned": 17.82,
-     "pct_started": 14.86,
+     "pct_owned": 17.77,
+     "pct_started": 14.81,
      "week": {
       "slot": "K",
       "proj": 8.1,
@@ -3991,7 +3999,7 @@
      "acquired": "DRAFT",
      "pos_rank": 21,
      "expert_rank": 20.2,
-     "pct_change": -0.46,
+     "pct_change": -0.48,
      "preseason_avg": 8.9,
      "waivers_until": null
     },
@@ -4007,8 +4015,8 @@
      "proj_season_pts": 68.0,
      "proj_avg": 4.0,
      "bye_week": 6,
-     "pct_owned": 17.94,
-     "pct_started": 10.19,
+     "pct_owned": 17.83,
+     "pct_started": 10.06,
      "week": {
       "slot": "BE",
       "proj": 4.4,
@@ -4021,7 +4029,7 @@
      "acquired": "DRAFT",
      "pos_rank": 6,
      "expert_rank": 19.9,
-     "pct_change": -0.72,
+     "pct_change": -0.81,
      "preseason_avg": 4.6,
      "waivers_until": null
     },
@@ -4037,8 +4045,8 @@
      "proj_season_pts": 119.6,
      "proj_avg": 8.5,
      "bye_week": 8,
-     "pct_owned": 58.05,
-     "pct_started": 26.11,
+     "pct_owned": 58.0,
+     "pct_started": 26.05,
      "week": {
       "slot": "BE",
       "proj": 9.0,
@@ -4051,7 +4059,7 @@
      "acquired": "ADD",
      "pos_rank": 7,
      "expert_rank": 13.9,
-     "pct_change": -0.67,
+     "pct_change": -0.69,
      "preseason_avg": 7.7,
      "waivers_until": null
     },
@@ -4067,8 +4075,8 @@
      "proj_season_pts": 125.7,
      "proj_avg": 12.6,
      "bye_week": 8,
-     "pct_owned": 91.08,
-     "pct_started": 14.06,
+     "pct_owned": 91.0,
+     "pct_started": 13.7,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -4081,7 +4089,7 @@
      "acquired": "TRADE",
      "pos_rank": 25,
      "expert_rank": null,
-     "pct_change": -0.54,
+     "pct_change": -0.59,
      "preseason_avg": 14.2,
      "waivers_until": null
     },
@@ -4098,7 +4106,7 @@
      "proj_avg": 19.5,
      "bye_week": 8,
      "pct_owned": 96.64,
-     "pct_started": 70.44,
+     "pct_started": 70.43,
      "week": {
       "slot": "BE",
       "proj": 18.7,
@@ -4267,7 +4275,7 @@
      "proj_avg": 15.0,
      "bye_week": 8,
      "pct_owned": 99.0,
-     "pct_started": 69.83,
+     "pct_started": 71.18,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 15.3,
@@ -4296,8 +4304,8 @@
      "proj_season_pts": 160.4,
      "proj_avg": 11.5,
      "bye_week": 10,
-     "pct_owned": 96.76,
-     "pct_started": 57.66,
+     "pct_owned": 96.75,
+     "pct_started": 57.55,
      "week": {
       "slot": "WR",
       "proj": 11.2,
@@ -4321,8 +4329,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "TE",
-     "season_pts": 39.4,
-     "season_avg": 13.1,
+     "season_pts": 41.6,
+     "season_avg": 10.4,
      "proj_season_pts": 170.0,
      "proj_avg": 12.2,
      "bye_week": 13,
@@ -4331,7 +4339,7 @@
      "week": {
       "slot": "TE",
       "proj": 13.0,
-      "pts": 0.0,
+      "pts": 2.2,
       "opp": "WSH",
       "opp_rank_vs_pos": 31,
       "bye": false,
@@ -4386,8 +4394,8 @@
      "proj_season_pts": 198.7,
      "proj_avg": 14.2,
      "bye_week": 7,
-     "pct_owned": 73.33,
-     "pct_started": 17.96,
+     "pct_owned": 73.25,
+     "pct_started": 17.75,
      "week": {
       "slot": "BE",
       "proj": 12.5,
@@ -4400,7 +4408,7 @@
      "acquired": "DRAFT",
      "pos_rank": 26,
      "expert_rank": 24.4,
-     "pct_change": -0.89,
+     "pct_change": -0.95,
      "preseason_avg": 17.3,
      "waivers_until": null
     },
@@ -4416,8 +4424,8 @@
      "proj_season_pts": 136.1,
      "proj_avg": 9.7,
      "bye_week": 11,
-     "pct_owned": 89.48,
-     "pct_started": 28.63,
+     "pct_owned": 89.47,
+     "pct_started": 28.64,
      "week": {
       "slot": "BE",
       "proj": 9.5,
@@ -4430,7 +4438,7 @@
      "acquired": "DRAFT",
      "pos_rank": 39,
      "expert_rank": 29.8,
-     "pct_change": -0.13,
+     "pct_change": -0.14,
      "preseason_avg": 10.0,
      "waivers_until": null
     },
@@ -4460,7 +4468,7 @@
      "acquired": "DRAFT",
      "pos_rank": 91,
      "expert_rank": null,
-     "pct_change": -0.52,
+     "pct_change": -0.51,
      "preseason_avg": 11.3,
      "waivers_until": null
     },
@@ -4477,7 +4485,7 @@
      "proj_avg": 8.0,
      "bye_week": 8,
      "pct_owned": 51.91,
-     "pct_started": 6.03,
+     "pct_started": 6.08,
      "week": {
       "slot": "BE",
       "proj": 8.5,
@@ -4490,7 +4498,7 @@
      "acquired": "DRAFT",
      "pos_rank": 32,
      "expert_rank": 34.2,
-     "pct_change": -0.08,
+     "pct_change": -0.09,
      "preseason_avg": 6.8,
      "waivers_until": null
     },
@@ -4506,8 +4514,8 @@
      "proj_season_pts": 140.1,
      "proj_avg": 10.0,
      "bye_week": 13,
-     "pct_owned": 79.16,
-     "pct_started": 32.4,
+     "pct_owned": 79.14,
+     "pct_started": 32.41,
      "week": {
       "slot": "BE",
       "proj": 10.0,
@@ -4520,7 +4528,7 @@
      "acquired": "DRAFT",
      "pos_rank": 20,
      "expert_rank": 11.1,
-     "pct_change": -0.19,
+     "pct_change": -0.2,
      "preseason_avg": 10.2,
      "waivers_until": null
     },
@@ -4536,8 +4544,8 @@
      "proj_season_pts": 119.8,
      "proj_avg": 8.6,
      "bye_week": 7,
-     "pct_owned": 79.1,
-     "pct_started": 70.06,
+     "pct_owned": 79.04,
+     "pct_started": 69.97,
      "week": {
       "slot": "BE",
       "proj": 8.0,
@@ -4550,7 +4558,7 @@
      "acquired": "DRAFT",
      "pos_rank": 32,
      "expert_rank": 20.1,
-     "pct_change": -0.65,
+     "pct_change": -0.69,
      "preseason_avg": 9.2,
      "waivers_until": null
     },
@@ -4566,8 +4574,8 @@
      "proj_season_pts": 159.3,
      "proj_avg": 11.4,
      "bye_week": 6,
-     "pct_owned": 82.7,
-     "pct_started": 39.85,
+     "pct_owned": 82.9,
+     "pct_started": 40.95,
      "week": {
       "slot": "WR",
       "proj": 14.8,
@@ -4580,7 +4588,7 @@
      "acquired": "DRAFT",
      "pos_rank": 49,
      "expert_rank": 16.2,
-     "pct_change": 2.12,
+     "pct_change": 2.24,
      "preseason_avg": 9.9,
      "waivers_until": null
     },
@@ -4596,8 +4604,8 @@
      "proj_season_pts": 244.1,
      "proj_avg": 17.4,
      "bye_week": 6,
-     "pct_owned": 82.18,
-     "pct_started": 44.58,
+     "pct_owned": 82.2,
+     "pct_started": 44.66,
      "week": {
       "slot": "QB",
       "proj": 17.3,
@@ -4610,7 +4618,7 @@
      "acquired": "DRAFT",
      "pos_rank": 7,
      "expert_rank": 10.4,
-     "pct_change": 0.15,
+     "pct_change": 0.17,
      "preseason_avg": 16.5,
      "waivers_until": null
     },
@@ -4626,8 +4634,8 @@
      "proj_season_pts": 128.2,
      "proj_avg": 9.2,
      "bye_week": 10,
-     "pct_owned": 53.82,
-     "pct_started": 19.55,
+     "pct_owned": 54.21,
+     "pct_started": 20.14,
      "week": {
       "slot": "BE",
       "proj": 11.2,
@@ -4640,7 +4648,7 @@
      "acquired": "DRAFT",
      "pos_rank": 32,
      "expert_rank": 32.0,
-     "pct_change": 4.61,
+     "pct_change": 4.86,
      "preseason_avg": 8.6,
      "waivers_until": null
     },
@@ -4656,8 +4664,8 @@
      "proj_season_pts": 121.9,
      "proj_avg": 8.7,
      "bye_week": 6,
-     "pct_owned": 39.73,
-     "pct_started": 36.68,
+     "pct_owned": 39.84,
+     "pct_started": 36.8,
      "week": {
       "slot": "K",
       "proj": 9.1,
@@ -4670,7 +4678,7 @@
      "acquired": "DRAFT",
      "pos_rank": 5,
      "expert_rank": 5.8,
-     "pct_change": 0.8,
+     "pct_change": 0.89,
      "preseason_avg": 8.6,
      "waivers_until": null
     },
@@ -4686,8 +4694,8 @@
      "proj_season_pts": 64.2,
      "proj_avg": 3.8,
      "bye_week": 8,
-     "pct_owned": 3.92,
-     "pct_started": 2.37,
+     "pct_owned": 3.91,
+     "pct_started": 2.35,
      "week": {
       "slot": "BE",
       "proj": 3.2,
@@ -4700,7 +4708,7 @@
      "acquired": "DRAFT",
      "pos_rank": 24,
      "expert_rank": 19.8,
-     "pct_change": -0.12,
+     "pct_change": -0.14,
      "preseason_avg": 5.0,
      "waivers_until": null
     },
@@ -4716,8 +4724,8 @@
      "proj_season_pts": 64.4,
      "proj_avg": 3.8,
      "bye_week": 7,
-     "pct_owned": 45.83,
-     "pct_started": 42.74,
+     "pct_owned": 46.22,
+     "pct_started": 43.15,
      "week": {
       "slot": "D/ST",
       "proj": 6.4,
@@ -4730,7 +4738,7 @@
      "acquired": "DRAFT",
      "pos_rank": 22,
      "expert_rank": 5.6,
-     "pct_change": 2.52,
+     "pct_change": 2.83,
      "preseason_avg": 3.7,
      "waivers_until": null
     },
@@ -4746,7 +4754,7 @@
      "proj_season_pts": 118.9,
      "proj_avg": 9.2,
      "bye_week": 13,
-     "pct_owned": 44.09,
+     "pct_owned": 44.08,
      "pct_started": 4.43,
      "week": {
       "slot": "BE",
@@ -4886,7 +4894,7 @@
      "proj_avg": 20.8,
      "bye_week": 11,
      "pct_owned": 99.9,
-     "pct_started": 83.12,
+     "pct_started": 84.27,
      "week": {
       "slot": "IR",
       "proj": 18.1,
@@ -4916,7 +4924,7 @@
      "proj_avg": 16.4,
      "bye_week": 11,
      "pct_owned": 99.64,
-     "pct_started": 96.34,
+     "pct_started": 96.39,
      "week": {
       "slot": "WR",
       "proj": 16.7,
@@ -4946,7 +4954,7 @@
      "proj_avg": 17.3,
      "bye_week": 14,
      "pct_owned": 99.9,
-     "pct_started": 99.47,
+     "pct_started": 99.48,
      "week": {
       "slot": "TE",
       "proj": 17.4,
@@ -4975,8 +4983,8 @@
      "proj_season_pts": 146.1,
      "proj_avg": 10.4,
      "bye_week": 6,
-     "pct_owned": 90.71,
-     "pct_started": 33.46,
+     "pct_owned": 90.7,
+     "pct_started": 33.55,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 10.4,
@@ -4989,7 +4997,7 @@
      "acquired": "DRAFT",
      "pos_rank": 53,
      "expert_rank": 33.1,
-     "pct_change": -0.1,
+     "pct_change": -0.11,
      "preseason_avg": 11.9,
      "waivers_until": null
     },
@@ -5035,8 +5043,8 @@
      "proj_season_pts": 131.4,
      "proj_avg": 13.1,
      "bye_week": 11,
-     "pct_owned": 82.17,
-     "pct_started": 4.39,
+     "pct_owned": 82.14,
+     "pct_started": 4.38,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -5049,7 +5057,7 @@
      "acquired": "DRAFT",
      "pos_rank": 0,
      "expert_rank": null,
-     "pct_change": -0.23,
+     "pct_change": -0.25,
      "preseason_avg": 15.0,
      "waivers_until": null
     },
@@ -5065,8 +5073,8 @@
      "proj_season_pts": 114.1,
      "proj_avg": 8.2,
      "bye_week": 10,
-     "pct_owned": 66.77,
-     "pct_started": 7.5,
+     "pct_owned": 66.73,
+     "pct_started": 7.54,
      "week": {
       "slot": "RB",
       "proj": 8.3,
@@ -5079,7 +5087,7 @@
      "acquired": "DRAFT",
      "pos_rank": 63,
      "expert_rank": 37.1,
-     "pct_change": -0.52,
+     "pct_change": -0.55,
      "preseason_avg": 9.4,
      "waivers_until": null
     },
@@ -5095,8 +5103,8 @@
      "proj_season_pts": 96.3,
      "proj_avg": 6.9,
      "bye_week": 10,
-     "pct_owned": 52.79,
-     "pct_started": 6.65,
+     "pct_owned": 52.99,
+     "pct_started": 6.97,
      "week": {
       "slot": "BE",
       "proj": 10.5,
@@ -5109,7 +5117,7 @@
      "acquired": "DRAFT",
      "pos_rank": 101,
      "expert_rank": 39.4,
-     "pct_change": 2.53,
+     "pct_change": 2.64,
      "preseason_avg": 9.0,
      "waivers_until": null
     },
@@ -5126,7 +5134,7 @@
      "proj_avg": 17.6,
      "bye_week": 11,
      "pct_owned": 89.77,
-     "pct_started": 41.71,
+     "pct_started": 41.73,
      "week": {
       "slot": "QB",
       "proj": 16.5,
@@ -5185,8 +5193,8 @@
      "proj_season_pts": 139.5,
      "proj_avg": 10.0,
      "bye_week": 7,
-     "pct_owned": 62.04,
-     "pct_started": 7.14,
+     "pct_owned": 62.02,
+     "pct_started": 7.21,
      "week": {
       "slot": "WR",
       "proj": 9.8,
@@ -5199,7 +5207,7 @@
      "acquired": "DRAFT",
      "pos_rank": 71,
      "expert_rank": 42.4,
-     "pct_change": -0.29,
+     "pct_change": -0.3,
      "preseason_avg": 10.3,
      "waivers_until": null
     },
@@ -5215,8 +5223,8 @@
      "proj_season_pts": 123.3,
      "proj_avg": 8.8,
      "bye_week": 6,
-     "pct_owned": 60.54,
-     "pct_started": 54.77,
+     "pct_owned": 60.51,
+     "pct_started": 54.75,
      "week": {
       "slot": "BE",
       "proj": 8.7,
@@ -5229,7 +5237,7 @@
      "acquired": "DRAFT",
      "pos_rank": 22,
      "expert_rank": 11.1,
-     "pct_change": -0.35,
+     "pct_change": -0.37,
      "preseason_avg": 8.6,
      "waivers_until": null
     },
@@ -5335,8 +5343,8 @@
      "proj_season_pts": 59.3,
      "proj_avg": 3.5,
      "bye_week": 10,
-     "pct_owned": 35.9,
-     "pct_started": 32.41,
+     "pct_owned": 36.43,
+     "pct_started": 32.96,
      "week": {
       "slot": "BE",
       "proj": 6.4,
@@ -5349,7 +5357,7 @@
      "acquired": "DRAFT",
      "pos_rank": 8,
      "expert_rank": 6.6,
-     "pct_change": 3.57,
+     "pct_change": 4.0,
      "preseason_avg": 4.0,
      "waivers_until": null
     },
@@ -5365,8 +5373,8 @@
      "proj_season_pts": 43.3,
      "proj_avg": 3.1,
      "bye_week": 11,
-     "pct_owned": 8.74,
-     "pct_started": 0.7,
+     "pct_owned": 8.69,
+     "pct_started": 0.69,
      "week": {
       "slot": "BE",
       "proj": 3.9,
@@ -5379,7 +5387,7 @@
      "acquired": "ADD",
      "pos_rank": 68,
      "expert_rank": null,
-     "pct_change": -0.42,
+     "pct_change": -0.45,
      "preseason_avg": 4.6,
      "waivers_until": null
     },
@@ -5395,7 +5403,7 @@
      "proj_season_pts": 104.3,
      "proj_avg": 7.5,
      "bye_week": 8,
-     "pct_owned": 7.61,
+     "pct_owned": 7.59,
      "pct_started": 0.57,
      "week": {
       "slot": "BE",
@@ -5409,7 +5417,7 @@
      "acquired": "ADD",
      "pos_rank": 86,
      "expert_rank": 57.1,
-     "pct_change": -0.22,
+     "pct_change": -0.23,
      "preseason_avg": 6.2,
      "waivers_until": null
     }
@@ -5565,7 +5573,7 @@
      "proj_avg": 14.2,
      "bye_week": 14,
      "pct_owned": 99.28,
-     "pct_started": 87.53,
+     "pct_started": 87.52,
      "week": {
       "slot": "WR",
       "proj": 13.7,
@@ -5594,8 +5602,8 @@
      "proj_season_pts": 212.4,
      "proj_avg": 16.3,
      "bye_week": 13,
-     "pct_owned": 97.83,
-     "pct_started": 19.63,
+     "pct_owned": 97.8,
+     "pct_started": 18.98,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -5608,7 +5616,7 @@
      "acquired": "DRAFT",
      "pos_rank": 15,
      "expert_rank": null,
-     "pct_change": -0.12,
+     "pct_change": -0.14,
      "preseason_avg": 15.5,
      "waivers_until": null
     },
@@ -5625,7 +5633,7 @@
      "proj_avg": 13.2,
      "bye_week": 7,
      "pct_owned": 95.16,
-     "pct_started": 58.42,
+     "pct_started": 58.8,
      "week": {
       "slot": "WR",
       "proj": 13.0,
@@ -5654,8 +5662,8 @@
      "proj_season_pts": 240.5,
      "proj_avg": 17.2,
      "bye_week": 11,
-     "pct_owned": 87.52,
-     "pct_started": 32.67,
+     "pct_owned": 87.46,
+     "pct_started": 32.47,
      "week": {
       "slot": "BE",
       "proj": 17.5,
@@ -5668,7 +5676,7 @@
      "acquired": "DRAFT",
      "pos_rank": 34,
      "expert_rank": 14.4,
-     "pct_change": -0.44,
+     "pct_change": -0.48,
      "preseason_avg": 19.8,
      "waivers_until": null
     },
@@ -5685,7 +5693,7 @@
      "proj_avg": 11.3,
      "bye_week": 6,
      "pct_owned": 96.03,
-     "pct_started": 76.63,
+     "pct_started": 76.64,
      "week": {
       "slot": "TE",
       "proj": 11.2,
@@ -5744,8 +5752,8 @@
      "proj_season_pts": 115.5,
      "proj_avg": 8.2,
      "bye_week": 7,
-     "pct_owned": 67.22,
-     "pct_started": 4.81,
+     "pct_owned": 67.16,
+     "pct_started": 4.82,
      "week": {
       "slot": "BE",
       "proj": 8.2,
@@ -5758,7 +5766,7 @@
      "acquired": "DRAFT",
      "pos_rank": 77,
      "expert_rank": 51.8,
-     "pct_change": -0.73,
+     "pct_change": -0.77,
      "preseason_avg": 10.4,
      "waivers_until": null
     },
@@ -5774,8 +5782,8 @@
      "proj_season_pts": 109.5,
      "proj_avg": 7.8,
      "bye_week": 11,
-     "pct_owned": 58.65,
-     "pct_started": 8.43,
+     "pct_owned": 58.61,
+     "pct_started": 8.45,
      "week": {
       "slot": "BE",
       "proj": 9.8,
@@ -5788,7 +5796,7 @@
      "acquired": "DRAFT",
      "pos_rank": 64,
      "expert_rank": 42.8,
-     "pct_change": -0.49,
+     "pct_change": -0.5,
      "preseason_avg": 8.8,
      "waivers_until": null
     },
@@ -5805,7 +5813,7 @@
      "proj_avg": 18.7,
      "bye_week": 14,
      "pct_owned": 93.9,
-     "pct_started": 62.26,
+     "pct_started": 62.18,
      "week": {
       "slot": "QB",
       "proj": 17.3,
@@ -5834,8 +5842,8 @@
      "proj_season_pts": 84.3,
      "proj_avg": 5.0,
      "bye_week": 11,
-     "pct_owned": 49.3,
-     "pct_started": 32.41,
+     "pct_owned": 49.11,
+     "pct_started": 32.12,
      "week": {
       "slot": "BE",
       "proj": 2.9,
@@ -5848,7 +5856,7 @@
      "acquired": "DRAFT",
      "pos_rank": 6,
      "expert_rank": null,
-     "pct_change": -1.36,
+     "pct_change": -1.52,
      "preseason_avg": 6.2,
      "waivers_until": null
     },
@@ -5878,7 +5886,7 @@
      "acquired": "DRAFT",
      "pos_rank": 26,
      "expert_rank": null,
-     "pct_change": -0.9,
+     "pct_change": -0.87,
      "preseason_avg": 7.7,
      "waivers_until": null
     },
@@ -5894,8 +5902,8 @@
      "proj_season_pts": 84.0,
      "proj_avg": 4.9,
      "bye_week": 8,
-     "pct_owned": 48.46,
-     "pct_started": 36.7,
+     "pct_owned": 48.32,
+     "pct_started": 36.52,
      "week": {
       "slot": "D/ST",
       "proj": 5.9,
@@ -5908,7 +5916,7 @@
      "acquired": "DRAFT",
      "pos_rank": 14,
      "expert_rank": 11.9,
-     "pct_change": -1.24,
+     "pct_change": -1.34,
      "preseason_avg": 5.8,
      "waivers_until": null
     },
@@ -5924,8 +5932,8 @@
      "proj_season_pts": 112.0,
      "proj_avg": 8.0,
      "bye_week": 10,
-     "pct_owned": 7.05,
-     "pct_started": 4.6,
+     "pct_owned": 7.04,
+     "pct_started": 4.59,
      "week": {
       "slot": "BE",
       "proj": 7.8,
@@ -5938,7 +5946,7 @@
      "acquired": "DRAFT",
      "pos_rank": 29,
      "expert_rank": null,
-     "pct_change": -0.08,
+     "pct_change": -0.09,
      "preseason_avg": 8.1,
      "waivers_until": null
     },
@@ -5954,8 +5962,8 @@
      "proj_season_pts": 90.4,
      "proj_avg": 6.5,
      "bye_week": 5,
-     "pct_owned": 32.86,
-     "pct_started": 19.62,
+     "pct_owned": 33.32,
+     "pct_started": 20.12,
      "week": {
       "slot": "BE",
       "proj": 10.1,
@@ -5968,7 +5976,7 @@
      "acquired": "ADD",
      "pos_rank": 13,
      "expert_rank": 14.5,
-     "pct_change": 3.75,
+     "pct_change": 4.1,
      "preseason_avg": 5.9,
      "waivers_until": null
     },
@@ -5984,7 +5992,7 @@
      "proj_season_pts": 75.2,
      "proj_avg": 5.4,
      "bye_week": 8,
-     "pct_owned": 35.0,
+     "pct_owned": 34.95,
      "pct_started": 1.01,
      "week": {
       "slot": "BE",
@@ -5998,7 +6006,7 @@
      "acquired": "ADD",
      "pos_rank": 55,
      "expert_rank": 46.8,
-     "pct_change": -0.7,
+     "pct_change": -0.72,
      "preseason_avg": 7.6,
      "waivers_until": null
     },
@@ -6014,8 +6022,8 @@
      "proj_season_pts": 32.6,
      "proj_avg": 8.2,
      "bye_week": 11,
-     "pct_owned": 46.29,
-     "pct_started": 19.69,
+     "pct_owned": 47.01,
+     "pct_started": 20.42,
      "week": {
       "slot": "RB",
       "proj": 11.5,
@@ -6028,7 +6036,7 @@
      "acquired": "ADD",
      "pos_rank": 58,
      "expert_rank": 26.0,
-     "pct_change": 10.63,
+     "pct_change": 11.08,
      "preseason_avg": 1.8,
      "waivers_until": null
     },
@@ -6044,8 +6052,8 @@
      "proj_season_pts": 110.4,
      "proj_avg": 7.9,
      "bye_week": 5,
-     "pct_owned": 2.84,
-     "pct_started": 2.39,
+     "pct_owned": 2.87,
+     "pct_started": 2.41,
      "week": {
       "slot": "K",
       "proj": 8.7,
@@ -6058,7 +6066,7 @@
      "acquired": "ADD",
      "pos_rank": 5,
      "expert_rank": 14.6,
-     "pct_change": 0.18,
+     "pct_change": 0.2,
      "preseason_avg": 7.6,
      "waivers_until": null
     }
@@ -6184,7 +6192,7 @@
      "proj_avg": 16.9,
      "bye_week": 6,
      "pct_owned": 99.44,
-     "pct_started": 93.43,
+     "pct_started": 93.42,
      "week": {
       "slot": "RB",
       "proj": 16.2,
@@ -6214,7 +6222,7 @@
      "proj_avg": 14.9,
      "bye_week": 5,
      "pct_owned": 98.97,
-     "pct_started": 86.8,
+     "pct_started": 86.82,
      "week": {
       "slot": "WR",
       "proj": 14.9,
@@ -6244,7 +6252,7 @@
      "proj_avg": 12.8,
      "bye_week": 7,
      "pct_owned": 92.83,
-     "pct_started": 60.26,
+     "pct_started": 60.42,
      "week": {
       "slot": "BE",
       "proj": 12.7,
@@ -6273,8 +6281,8 @@
      "proj_season_pts": 98.7,
      "proj_avg": 5.8,
      "bye_week": 11,
-     "pct_owned": 84.79,
-     "pct_started": 68.64,
+     "pct_owned": 84.81,
+     "pct_started": 68.68,
      "week": {
       "slot": "D/ST",
       "proj": 6.2,
@@ -6287,7 +6295,7 @@
      "acquired": "DRAFT",
      "pos_rank": 15,
      "expert_rank": 8.2,
-     "pct_change": 0.05,
+     "pct_change": 0.08,
      "preseason_avg": 6.1,
      "waivers_until": null
     },
@@ -6303,8 +6311,8 @@
      "proj_season_pts": 185.2,
      "proj_avg": 13.2,
      "bye_week": 14,
-     "pct_owned": 86.27,
-     "pct_started": 46.01,
+     "pct_owned": 86.3,
+     "pct_started": 46.39,
      "week": {
       "slot": "BE",
       "proj": 13.3,
@@ -6317,7 +6325,7 @@
      "acquired": "DRAFT",
      "pos_rank": 22,
      "expert_rank": 20.5,
-     "pct_change": 0.28,
+     "pct_change": 0.31,
      "preseason_avg": 10.5,
      "waivers_until": null
     },
@@ -6333,7 +6341,7 @@
      "proj_season_pts": 132.8,
      "proj_avg": 9.5,
      "bye_week": 11,
-     "pct_owned": 93.52,
+     "pct_owned": 93.53,
      "pct_started": 89.51,
      "week": {
       "slot": "K",
@@ -6363,7 +6371,7 @@
      "proj_season_pts": 149.2,
      "proj_avg": 12.4,
      "bye_week": 11,
-     "pct_owned": 57.68,
+     "pct_owned": 57.77,
      "pct_started": 0.14,
      "week": {
       "slot": "IR",
@@ -6377,7 +6385,7 @@
      "acquired": "DRAFT",
      "pos_rank": 0,
      "expert_rank": null,
-     "pct_change": 1.68,
+     "pct_change": 1.74,
      "preseason_avg": 12.1,
      "waivers_until": null
     },
@@ -6393,8 +6401,8 @@
      "proj_season_pts": 256.1,
      "proj_avg": 18.3,
      "bye_week": 8,
-     "pct_owned": 87.14,
-     "pct_started": 58.61,
+     "pct_owned": 87.17,
+     "pct_started": 58.7,
      "week": {
       "slot": "QB",
       "proj": 18.6,
@@ -6407,7 +6415,7 @@
      "acquired": "DRAFT",
      "pos_rank": 3,
      "expert_rank": 4.8,
-     "pct_change": 0.26,
+     "pct_change": 0.28,
      "preseason_avg": 17.2,
      "waivers_until": null
     },
@@ -6423,8 +6431,8 @@
      "proj_season_pts": 118.0,
      "proj_avg": 8.4,
      "bye_week": 7,
-     "pct_owned": 9.95,
-     "pct_started": 8.14,
+     "pct_owned": 9.94,
+     "pct_started": 8.13,
      "week": {
       "slot": "BE",
       "proj": 8.5,
@@ -6437,7 +6445,7 @@
      "acquired": "DRAFT",
      "pos_rank": 14,
      "expert_rank": 13.6,
-     "pct_change": -0.12,
+     "pct_change": -0.13,
      "preseason_avg": 8.5,
      "waivers_until": null
     },
@@ -6453,8 +6461,8 @@
      "proj_season_pts": 85.0,
      "proj_avg": 5.0,
      "bye_week": 13,
-     "pct_owned": 11.38,
-     "pct_started": 9.72,
+     "pct_owned": 11.4,
+     "pct_started": 9.74,
      "week": {
       "slot": "BE",
       "proj": 6.0,
@@ -6467,7 +6475,7 @@
      "acquired": "ADD",
      "pos_rank": 12,
      "expert_rank": 12.9,
-     "pct_change": -0.02,
+     "pct_change": 0.0,
      "preseason_avg": 5.1,
      "waivers_until": null
     },
@@ -6484,7 +6492,7 @@
      "proj_avg": 15.0,
      "bye_week": 11,
      "pct_owned": 99.1,
-     "pct_started": 90.8,
+     "pct_started": 90.85,
      "week": {
       "slot": "WR",
       "proj": 15.6,
@@ -6508,8 +6516,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "RB/WR/TE",
-     "season_pts": 35.7,
-     "season_avg": 8.9,
+     "season_pts": 37.2,
+     "season_avg": 9.3,
      "proj_season_pts": 155.6,
      "proj_avg": 11.1,
      "bye_week": 13,
@@ -6518,7 +6526,7 @@
      "week": {
       "slot": "RB/WR/TE",
       "proj": 13.6,
-      "pts": 3.1,
+      "pts": 4.6,
       "opp": "WSH",
       "opp_rank_vs_pos": 32,
       "bye": false,
@@ -6527,7 +6535,7 @@
      "acquired": "TRADE",
      "pos_rank": 34,
      "expert_rank": 19.4,
-     "pct_change": 0.59,
+     "pct_change": 0.58,
      "preseason_avg": 9.6,
      "waivers_until": null
     },
@@ -6544,7 +6552,7 @@
      "proj_avg": 16.0,
      "bye_week": 10,
      "pct_owned": 96.76,
-     "pct_started": 81.94,
+     "pct_started": 82.03,
      "week": {
       "slot": "RB",
       "proj": 15.9,
@@ -6573,8 +6581,8 @@
      "proj_season_pts": 116.1,
      "proj_avg": 8.3,
      "bye_week": 11,
-     "pct_owned": 8.38,
-     "pct_started": 2.81,
+     "pct_owned": 8.43,
+     "pct_started": 2.84,
      "week": {
       "slot": "BE",
       "proj": 8.4,
@@ -6587,7 +6595,7 @@
      "acquired": "ADD",
      "pos_rank": 22,
      "expert_rank": 18.6,
-     "pct_change": 0.27,
+     "pct_change": 0.3,
      "preseason_avg": 6.6,
      "waivers_until": null
     },
@@ -6603,8 +6611,8 @@
      "proj_season_pts": 210.1,
      "proj_avg": 17.5,
      "bye_week": 10,
-     "pct_owned": 88.93,
-     "pct_started": 4.16,
+     "pct_owned": 88.91,
+     "pct_started": 4.13,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -6617,7 +6625,7 @@
      "acquired": "TRADE",
      "pos_rank": 20,
      "expert_rank": null,
-     "pct_change": -0.13,
+     "pct_change": -0.15,
      "preseason_avg": 19.5,
      "waivers_until": null
     },
@@ -6633,8 +6641,8 @@
      "proj_season_pts": 131.2,
      "proj_avg": 10.1,
      "bye_week": 13,
-     "pct_owned": 58.14,
-     "pct_started": 16.84,
+     "pct_owned": 58.15,
+     "pct_started": 16.73,
      "week": {
       "slot": "TE",
       "proj": 9.9,
@@ -6647,7 +6655,7 @@
      "acquired": "TRADE",
      "pos_rank": 11,
      "expert_rank": 11.0,
-     "pct_change": 0.2,
+     "pct_change": 0.19,
      "preseason_avg": 7.9,
      "waivers_until": null
     },
@@ -6663,8 +6671,8 @@
      "proj_season_pts": 129.6,
      "proj_avg": 9.3,
      "bye_week": 9,
-     "pct_owned": 64.85,
-     "pct_started": 6.77,
+     "pct_owned": 64.84,
+     "pct_started": 6.9,
      "week": {
       "slot": "BE",
       "proj": 9.2,
@@ -6677,7 +6685,7 @@
      "acquired": "ADD",
      "pos_rank": 38,
      "expert_rank": 45.2,
-     "pct_change": -0.07,
+     "pct_change": -0.08,
      "preseason_avg": 9.9,
      "waivers_until": null
     },
@@ -6693,8 +6701,8 @@
      "proj_season_pts": 82.4,
      "proj_avg": 5.9,
      "bye_week": 11,
-     "pct_owned": 27.27,
-     "pct_started": 3.24,
+     "pct_owned": 27.29,
+     "pct_started": 3.26,
      "week": {
       "slot": "BE",
       "proj": 6.1,
@@ -6707,7 +6715,7 @@
      "acquired": "ADD",
      "pos_rank": 31,
      "expert_rank": 45.8,
-     "pct_change": 0.14,
+     "pct_change": 0.16,
      "preseason_avg": 5.7,
      "waivers_until": null
     }
@@ -6833,7 +6841,7 @@
      "proj_avg": 17.4,
      "bye_week": 14,
      "pct_owned": 99.92,
-     "pct_started": 99.35,
+     "pct_started": 99.36,
      "week": {
       "slot": "WR",
       "proj": 16.9,
@@ -6862,8 +6870,8 @@
      "proj_season_pts": 172.8,
      "proj_avg": 12.3,
      "bye_week": 7,
-     "pct_owned": 98.59,
-     "pct_started": 66.02,
+     "pct_owned": 98.58,
+     "pct_started": 65.75,
      "week": {
       "slot": "RB",
       "proj": 10.7,
@@ -6876,7 +6884,7 @@
      "acquired": "DRAFT",
      "pos_rank": 23,
      "expert_rank": 22.5,
-     "pct_change": -0.07,
+     "pct_change": -0.08,
      "preseason_avg": 14.0,
      "waivers_until": null
     },
@@ -6923,7 +6931,7 @@
      "proj_avg": 20.3,
      "bye_week": 13,
      "pct_owned": 99.87,
-     "pct_started": 92.98,
+     "pct_started": 93.02,
      "week": {
       "slot": "QB",
       "proj": 21.2,
@@ -6952,8 +6960,8 @@
      "proj_season_pts": 128.5,
      "proj_avg": 9.2,
      "bye_week": 11,
-     "pct_owned": 85.58,
-     "pct_started": 42.45,
+     "pct_owned": 85.55,
+     "pct_started": 42.34,
      "week": {
       "slot": "TE",
       "proj": 8.9,
@@ -6966,7 +6974,7 @@
      "acquired": "DRAFT",
      "pos_rank": 28,
      "expert_rank": 13.6,
-     "pct_change": -0.28,
+     "pct_change": -0.3,
      "preseason_avg": 10.4,
      "waivers_until": null
     },
@@ -6982,8 +6990,8 @@
      "proj_season_pts": 167.7,
      "proj_avg": 12.0,
      "bye_week": 9,
-     "pct_owned": 85.62,
-     "pct_started": 27.97,
+     "pct_owned": 85.63,
+     "pct_started": 28.18,
      "week": {
       "slot": "BE",
       "proj": 11.9,
@@ -6996,7 +7004,7 @@
      "acquired": "DRAFT",
      "pos_rank": 45,
      "expert_rank": 28.9,
-     "pct_change": 0.09,
+     "pct_change": 0.11,
      "preseason_avg": 11.8,
      "waivers_until": null
     },
@@ -7012,7 +7020,7 @@
      "proj_season_pts": 128.3,
      "proj_avg": 10.7,
      "bye_week": 6,
-     "pct_owned": 54.24,
+     "pct_owned": 54.2,
      "pct_started": 0.3,
      "week": {
       "slot": "IR",
@@ -7026,7 +7034,7 @@
      "acquired": "DRAFT",
      "pos_rank": 56,
      "expert_rank": null,
-     "pct_change": -0.36,
+     "pct_change": -0.39,
      "preseason_avg": 9.9,
      "waivers_until": null
     },
@@ -7042,8 +7050,8 @@
      "proj_season_pts": 187.1,
      "proj_avg": 13.4,
      "bye_week": 11,
-     "pct_owned": 87.51,
-     "pct_started": 47.98,
+     "pct_owned": 87.53,
+     "pct_started": 48.32,
      "week": {
       "slot": "WR",
       "proj": 12.9,
@@ -7056,7 +7064,7 @@
      "acquired": "DRAFT",
      "pos_rank": 14,
      "expert_rank": 22.6,
-     "pct_change": 0.13,
+     "pct_change": 0.15,
      "preseason_avg": 11.1,
      "waivers_until": null
     },
@@ -7072,8 +7080,8 @@
      "proj_season_pts": 94.0,
      "proj_avg": 5.5,
      "bye_week": 10,
-     "pct_owned": 77.08,
-     "pct_started": 47.34,
+     "pct_owned": 77.0,
+     "pct_started": 47.19,
      "week": {
       "slot": "BE",
       "proj": 3.2,
@@ -7086,7 +7094,7 @@
      "acquired": "DRAFT",
      "pos_rank": 11,
      "expert_rank": null,
-     "pct_change": -0.54,
+     "pct_change": -0.61,
      "preseason_avg": 7.4,
      "waivers_until": null
     },
@@ -7102,8 +7110,8 @@
      "proj_season_pts": 140.8,
      "proj_avg": 10.1,
      "bye_week": 8,
-     "pct_owned": 75.11,
-     "pct_started": 45.23,
+     "pct_owned": 75.2,
+     "pct_started": 45.46,
      "week": {
       "slot": "BE",
       "proj": 10.6,
@@ -7116,7 +7124,7 @@
      "acquired": "DRAFT",
      "pos_rank": 4,
      "expert_rank": 8.2,
-     "pct_change": 0.92,
+     "pct_change": 0.99,
      "preseason_avg": 8.9,
      "waivers_until": null
     },
@@ -7132,8 +7140,8 @@
      "proj_season_pts": 47.4,
      "proj_avg": 2.8,
      "bye_week": 11,
-     "pct_owned": 28.78,
-     "pct_started": 25.08,
+     "pct_owned": 29.07,
+     "pct_started": 25.39,
      "week": {
       "slot": "D/ST",
       "proj": 6.2,
@@ -7146,7 +7154,7 @@
      "acquired": "DRAFT",
      "pos_rank": 29,
      "expert_rank": 7.8,
-     "pct_change": 1.64,
+     "pct_change": 1.89,
      "preseason_avg": 4.1,
      "waivers_until": null
     },
@@ -7162,7 +7170,7 @@
      "proj_season_pts": 0.0,
      "proj_avg": 0.0,
      "bye_week": 8,
-     "pct_owned": 28.23,
+     "pct_owned": 28.22,
      "pct_started": 0.06,
      "week": {
       "slot": "BE",
@@ -7176,7 +7184,7 @@
      "acquired": "DRAFT",
      "pos_rank": 0,
      "expert_rank": null,
-     "pct_change": -0.17,
+     "pct_change": -0.18,
      "preseason_avg": null,
      "waivers_until": null
     },
@@ -7192,8 +7200,8 @@
      "proj_season_pts": 119.9,
      "proj_avg": 8.6,
      "bye_week": 6,
-     "pct_owned": 48.98,
-     "pct_started": 45.34,
+     "pct_owned": 49.03,
+     "pct_started": 45.4,
      "week": {
       "slot": "K",
       "proj": 8.4,
@@ -7206,7 +7214,7 @@
      "acquired": "DRAFT",
      "pos_rank": 1,
      "expert_rank": 12.0,
-     "pct_change": 0.46,
+     "pct_change": 0.49,
      "preseason_avg": 8.6,
      "waivers_until": null
     },
@@ -7223,7 +7231,7 @@
      "proj_avg": 8.7,
      "bye_week": 8,
      "pct_owned": 4.46,
-     "pct_started": 3.79,
+     "pct_started": 3.8,
      "week": {
       "slot": "BE",
       "proj": 8.9,
@@ -7252,8 +7260,8 @@
      "proj_season_pts": 162.0,
      "proj_avg": 11.6,
      "bye_week": 6,
-     "pct_owned": 92.57,
-     "pct_started": 71.68,
+     "pct_owned": 92.63,
+     "pct_started": 72.04,
      "week": {
       "slot": "RB",
       "proj": 18.0,
@@ -7266,7 +7274,7 @@
      "acquired": "TRADE",
      "pos_rank": 22,
      "expert_rank": 12.1,
-     "pct_change": 0.43,
+     "pct_change": 0.48,
      "preseason_avg": 12.0,
      "waivers_until": null
     },
@@ -7283,7 +7291,7 @@
      "proj_avg": 10.7,
      "bye_week": 6,
      "pct_owned": 62.46,
-     "pct_started": 13.75,
+     "pct_started": 13.73,
      "week": {
       "slot": "BE",
       "proj": 9.0,
@@ -7296,7 +7304,7 @@
      "acquired": "ADD",
      "pos_rank": 45,
      "expert_rank": 30.8,
-     "pct_change": -0.29,
+     "pct_change": -0.28,
      "preseason_avg": 2.0,
      "waivers_until": null
     },
@@ -7312,8 +7320,8 @@
      "proj_season_pts": 95.9,
      "proj_avg": 6.8,
      "bye_week": 13,
-     "pct_owned": 75.41,
-     "pct_started": 46.55,
+     "pct_owned": 75.57,
+     "pct_started": 46.91,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 12.7,
@@ -7326,7 +7334,7 @@
      "acquired": "ADD",
      "pos_rank": 40,
      "expert_rank": 20.6,
-     "pct_change": 1.4,
+     "pct_change": 1.52,
      "preseason_avg": 7.7,
      "waivers_until": null
     },
@@ -7481,8 +7489,8 @@
      "proj_season_pts": 139.9,
      "proj_avg": 14.0,
      "bye_week": 11,
-     "pct_owned": 95.29,
-     "pct_started": 9.13,
+     "pct_owned": 95.27,
+     "pct_started": 9.11,
      "week": {
       "slot": "IR",
       "proj": 0.0,
@@ -7495,7 +7503,7 @@
      "acquired": "DRAFT",
      "pos_rank": 121,
      "expert_rank": null,
-     "pct_change": -0.08,
+     "pct_change": -0.09,
      "preseason_avg": 15.2,
      "waivers_until": null
     },
@@ -7512,7 +7520,7 @@
      "proj_avg": 16.2,
      "bye_week": 8,
      "pct_owned": 99.7,
-     "pct_started": 97.13,
+     "pct_started": 97.15,
      "week": {
       "slot": "WR",
       "proj": 18.2,
@@ -7541,8 +7549,8 @@
      "proj_season_pts": 120.1,
      "proj_avg": 8.6,
      "bye_week": 10,
-     "pct_owned": 91.61,
-     "pct_started": 45.52,
+     "pct_owned": 91.59,
+     "pct_started": 45.44,
      "week": {
       "slot": "BE",
       "proj": 8.6,
@@ -7555,7 +7563,7 @@
      "acquired": "DRAFT",
      "pos_rank": 47,
      "expert_rank": 12.5,
-     "pct_change": -0.18,
+     "pct_change": -0.2,
      "preseason_avg": 11.6,
      "waivers_until": null
     },
@@ -7572,7 +7580,7 @@
      "proj_avg": 11.7,
      "bye_week": 11,
      "pct_owned": 89.61,
-     "pct_started": 38.07,
+     "pct_started": 38.08,
      "week": {
       "slot": "RB",
       "proj": 11.6,
@@ -7585,7 +7593,7 @@
      "acquired": "DRAFT",
      "pos_rank": 28,
      "expert_rank": 24.2,
-     "pct_change": -0.07,
+     "pct_change": -0.08,
      "preseason_avg": 13.8,
      "waivers_until": null
     },
@@ -7602,7 +7610,7 @@
      "proj_avg": 18.9,
      "bye_week": 10,
      "pct_owned": 98.71,
-     "pct_started": 64.94,
+     "pct_started": 64.69,
      "week": {
       "slot": "QB",
       "proj": 17.6,
@@ -7631,8 +7639,8 @@
      "proj_season_pts": 148.9,
      "proj_avg": 10.6,
      "bye_week": 10,
-     "pct_owned": 82.61,
-     "pct_started": 20.22,
+     "pct_owned": 82.6,
+     "pct_started": 20.31,
      "week": {
       "slot": "BE",
       "proj": 10.5,
@@ -7691,8 +7699,8 @@
      "proj_season_pts": 94.0,
      "proj_avg": 5.5,
      "bye_week": 13,
-     "pct_owned": 88.91,
-     "pct_started": 80.34,
+     "pct_owned": 88.99,
+     "pct_started": 80.51,
      "week": {
       "slot": "D/ST",
       "proj": 6.7,
@@ -7705,7 +7713,7 @@
      "acquired": "DRAFT",
      "pos_rank": 18,
      "expert_rank": 2.4,
-     "pct_change": 0.54,
+     "pct_change": 0.61,
      "preseason_avg": 7.2,
      "waivers_until": null
     },
@@ -7721,8 +7729,8 @@
      "proj_season_pts": 112.3,
      "proj_avg": 8.0,
      "bye_week": 10,
-     "pct_owned": 76.95,
-     "pct_started": 10.64,
+     "pct_owned": 76.94,
+     "pct_started": 10.69,
      "week": {
       "slot": "RB/WR/TE",
       "proj": 8.2,
@@ -7735,7 +7743,7 @@
      "acquired": "DRAFT",
      "pos_rank": 24,
      "expert_rank": 33.5,
-     "pct_change": -0.21,
+     "pct_change": -0.22,
      "preseason_avg": 9.8,
      "waivers_until": null
     },
@@ -7751,8 +7759,8 @@
      "proj_season_pts": 126.0,
      "proj_avg": 9.0,
      "bye_week": 11,
-     "pct_owned": 70.25,
-     "pct_started": 63.28,
+     "pct_owned": 70.22,
+     "pct_started": 63.25,
      "week": {
       "slot": "BE",
       "proj": 8.5,
@@ -7765,7 +7773,7 @@
      "acquired": "DRAFT",
      "pos_rank": 25,
      "expert_rank": 16.9,
-     "pct_change": -0.3,
+     "pct_change": -0.32,
      "preseason_avg": 9.2,
      "waivers_until": null
     },
@@ -7781,8 +7789,8 @@
      "proj_season_pts": 123.8,
      "proj_avg": 8.8,
      "bye_week": 13,
-     "pct_owned": 62.8,
-     "pct_started": 58.4,
+     "pct_owned": 62.88,
+     "pct_started": 58.5,
      "week": {
       "slot": "K",
       "proj": 9.3,
@@ -7795,7 +7803,7 @@
      "acquired": "DRAFT",
      "pos_rank": 7,
      "expert_rank": 4.1,
-     "pct_change": 0.64,
+     "pct_change": 0.69,
      "preseason_avg": 8.9,
      "waivers_until": null
     },
@@ -7841,8 +7849,8 @@
      "proj_season_pts": 83.7,
      "proj_avg": 13.9,
      "bye_week": 13,
-     "pct_owned": 16.61,
-     "pct_started": 5.76,
+     "pct_owned": 16.64,
+     "pct_started": 5.77,
      "week": {
       "slot": "BE",
       "proj": 14.0,
@@ -7855,7 +7863,7 @@
      "acquired": "ADD",
      "pos_rank": 11,
      "expert_rank": 25.2,
-     "pct_change": 0.2,
+     "pct_change": 0.22,
      "preseason_avg": 12.4,
      "waivers_until": null
     },
@@ -7871,8 +7879,8 @@
      "proj_season_pts": 114.8,
      "proj_avg": 8.2,
      "bye_week": 8,
-     "pct_owned": 64.91,
-     "pct_started": 19.8,
+     "pct_owned": 65.0,
+     "pct_started": 20.0,
      "week": {
       "slot": "RB",
       "proj": 10.6,
@@ -7885,7 +7893,7 @@
      "acquired": "TRADE",
      "pos_rank": 54,
      "expert_rank": 27.0,
-     "pct_change": 0.75,
+     "pct_change": 0.82,
      "preseason_avg": 7.2,
      "waivers_until": null
     },
@@ -7901,8 +7909,8 @@
      "proj_season_pts": 169.8,
      "proj_avg": 13.1,
      "bye_week": 5,
-     "pct_owned": 87.75,
-     "pct_started": 23.06,
+     "pct_owned": 87.71,
+     "pct_started": 20.1,
      "week": {
       "slot": "BE",
       "proj": 0.0,
@@ -7915,7 +7923,7 @@
      "acquired": "TRADE",
      "pos_rank": 10,
      "expert_rank": null,
-     "pct_change": -0.22,
+     "pct_change": -0.26,
      "preseason_avg": 11.6,
      "waivers_until": null
     },
@@ -7932,7 +7940,7 @@
      "proj_avg": 11.8,
      "bye_week": 5,
      "pct_owned": 95.31,
-     "pct_started": 78.35,
+     "pct_started": 78.39,
      "week": {
       "slot": "TE",
       "proj": 11.8,
@@ -7945,7 +7953,7 @@
      "acquired": "TRADE",
      "pos_rank": 3,
      "expert_rank": 5.0,
-     "pct_change": 0.04,
+     "pct_change": 0.05,
      "preseason_avg": 10.4,
      "waivers_until": null
     },
@@ -7991,8 +7999,8 @@
      "proj_season_pts": 52.3,
      "proj_avg": 3.7,
      "bye_week": 8,
-     "pct_owned": 16.97,
-     "pct_started": 4.36,
+     "pct_owned": 17.05,
+     "pct_started": 4.4,
      "week": {
       "slot": "BE",
       "proj": 8.8,
@@ -8005,7 +8013,7 @@
      "acquired": "ADD",
      "pos_rank": 53,
      "expert_rank": 36.9,
-     "pct_change": 0.62,
+     "pct_change": 0.68,
      "preseason_avg": 0.0,
      "waivers_until": null
     }
@@ -8026,8 +8034,8 @@
    {
     "id": 15,
     "name": "Thr Short Bus",
-    "score": 21.6,
-    "proj": 125.95
+    "score": 23.8,
+    "proj": 126.14
    }
   ],
   [
@@ -8048,8 +8056,8 @@
    {
     "id": 14,
     "name": "The Ghee-talians",
-    "score": 2.5,
-    "proj": 123.64
+    "score": 10.0,
+    "proj": 128.02
    },
    {
     "id": 17,
@@ -8068,8 +8076,8 @@
    {
     "id": 16,
     "name": "Cook'n brown rice",
-    "score": 3.1,
-    "proj": 119.43
+    "score": 4.6,
+    "proj": 118.85
    }
   ],
   [
@@ -8082,8 +8090,8 @@
    {
     "id": 2,
     "name": "Brock Hard for TDs",
-    "score": 5.1,
-    "proj": 128.08
+    "score": 7.5,
+    "proj": 127.14
    }
   ],
   [
@@ -8115,8 +8123,8 @@
     "proj_season_pts": 166.4,
     "proj_avg": 13.9,
     "bye_week": 10,
-    "pct_owned": 35.82,
-    "pct_started": 1.43,
+    "pct_owned": 35.72,
+    "pct_started": 1.36,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -8129,7 +8137,7 @@
     "acquired": null,
     "pos_rank": 24,
     "expert_rank": null,
-    "pct_change": -0.81,
+    "pct_change": -0.89,
     "preseason_avg": 16.7,
     "waivers_until": null
    },
@@ -8145,8 +8153,8 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 8,
-    "pct_owned": 35.35,
-    "pct_started": 8.13,
+    "pct_owned": 35.24,
+    "pct_started": 8.09,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -8159,7 +8167,7 @@
     "acquired": null,
     "pos_rank": 31,
     "expert_rank": null,
-    "pct_change": -0.87,
+    "pct_change": -0.96,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -8170,8 +8178,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 27.2,
-    "season_avg": 6.8,
+    "season_pts": 25.9,
+    "season_avg": 6.5,
     "proj_season_pts": 196.5,
     "proj_avg": 14.0,
     "bye_week": 13,
@@ -8180,7 +8188,7 @@
     "week": {
      "slot": "FA",
      "proj": 15.2,
-     "pts": -1.1,
+     "pts": -2.4,
      "opp": "WSH",
      "opp_rank_vs_pos": 31,
      "bye": false,
@@ -8219,7 +8227,7 @@
     "acquired": null,
     "pos_rank": 28,
     "expert_rank": 13.0,
-    "pct_change": 1.27,
+    "pct_change": 1.23,
     "preseason_avg": null,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
@@ -8235,8 +8243,8 @@
     "proj_season_pts": 198.8,
     "proj_avg": 14.2,
     "bye_week": 6,
-    "pct_owned": 11.08,
-    "pct_started": 1.1,
+    "pct_owned": 11.05,
+    "pct_started": 1.09,
     "week": {
      "slot": "FA",
      "proj": 11.8,
@@ -8249,7 +8257,7 @@
     "acquired": null,
     "pos_rank": 23,
     "expert_rank": null,
-    "pct_change": -0.23,
+    "pct_change": -0.25,
     "preseason_avg": 14.8,
     "waivers_until": null
    },
@@ -8265,8 +8273,8 @@
     "proj_season_pts": 216.3,
     "proj_avg": 15.4,
     "bye_week": 14,
-    "pct_owned": 9.57,
-    "pct_started": 4.0,
+    "pct_owned": 9.65,
+    "pct_started": 4.06,
     "week": {
      "slot": "FA",
      "proj": 16.0,
@@ -8279,7 +8287,7 @@
     "acquired": null,
     "pos_rank": 18,
     "expert_rank": 18.8,
-    "pct_change": 0.47,
+    "pct_change": 0.53,
     "preseason_avg": 14.3,
     "waivers_until": null
    },
@@ -8295,7 +8303,7 @@
     "proj_season_pts": 190.1,
     "proj_avg": 13.6,
     "bye_week": 9,
-    "pct_owned": 6.14,
+    "pct_owned": 6.13,
     "pct_started": 0.92,
     "week": {
      "slot": "FA",
@@ -8309,7 +8317,7 @@
     "acquired": null,
     "pos_rank": 22,
     "expert_rank": null,
-    "pct_change": -0.1,
+    "pct_change": -0.11,
     "preseason_avg": 13.0,
     "waivers_until": null
    },
@@ -8325,8 +8333,8 @@
     "proj_season_pts": 200.2,
     "proj_avg": 14.3,
     "bye_week": 11,
-    "pct_owned": 5.76,
-    "pct_started": 2.1,
+    "pct_owned": 5.79,
+    "pct_started": 2.11,
     "week": {
      "slot": "FA",
      "proj": 14.7,
@@ -8339,7 +8347,7 @@
     "acquired": null,
     "pos_rank": 35,
     "expert_rank": 23.6,
-    "pct_change": 0.1,
+    "pct_change": 0.12,
     "preseason_avg": 14.3,
     "waivers_until": null
    },
@@ -8355,7 +8363,7 @@
     "proj_season_pts": 124.8,
     "proj_avg": 15.6,
     "bye_week": 13,
-    "pct_owned": 4.41,
+    "pct_owned": 4.4,
     "pct_started": 0.09,
     "week": {
      "slot": "FA",
@@ -8385,8 +8393,8 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 10,
-    "pct_owned": 2.88,
-    "pct_started": 0.8,
+    "pct_owned": 2.82,
+    "pct_started": 0.74,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -8399,7 +8407,7 @@
     "acquired": null,
     "pos_rank": 33,
     "expert_rank": null,
-    "pct_change": -0.55,
+    "pct_change": -0.59,
     "preseason_avg": null,
     "waivers_until": null
    },
@@ -8445,8 +8453,8 @@
     "proj_season_pts": 29.0,
     "proj_avg": 7.2,
     "bye_week": 10,
-    "pct_owned": 1.49,
-    "pct_started": 0.57,
+    "pct_owned": 1.5,
+    "pct_started": 0.58,
     "week": {
      "slot": "FA",
      "proj": 14.8,
@@ -8459,38 +8467,8 @@
     "acquired": null,
     "pos_rank": 57,
     "expert_rank": 25.9,
-    "pct_change": 0.07,
+    "pct_change": 0.09,
     "preseason_avg": null,
-    "waivers_until": null
-   },
-   {
-    "id": 2573079,
-    "name": "Carson Wentz",
-    "pos": "QB",
-    "nfl": "MIN",
-    "status": null,
-    "slot": "",
-    "season_pts": 25.5,
-    "season_avg": 8.5,
-    "proj_season_pts": 0.0,
-    "proj_avg": 0.0,
-    "bye_week": 6,
-    "pct_owned": 1.48,
-    "pct_started": 0.08,
-    "week": {
-     "slot": "FA",
-     "proj": 0.0,
-     "pts": 0,
-     "opp": "MIA",
-     "opp_rank_vs_pos": 24,
-     "bye": false,
-     "game": "2026-10-04 20:05:00"
-    },
-    "acquired": null,
-    "pos_rank": 32,
-    "expert_rank": null,
-    "pct_change": -0.07,
-    "preseason_avg": 0.0,
     "waivers_until": null
    },
    {
@@ -8506,7 +8484,7 @@
     "proj_avg": 13.4,
     "bye_week": 8,
     "pct_owned": 1.47,
-    "pct_started": 0.07,
+    "pct_started": 0.06,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -8521,6 +8499,36 @@
     "expert_rank": null,
     "pct_change": 0.01,
     "preseason_avg": null,
+    "waivers_until": null
+   },
+   {
+    "id": 2573079,
+    "name": "Carson Wentz",
+    "pos": "QB",
+    "nfl": "MIN",
+    "status": null,
+    "slot": "",
+    "season_pts": 25.5,
+    "season_avg": 8.5,
+    "proj_season_pts": 0.0,
+    "proj_avg": 0.0,
+    "bye_week": 6,
+    "pct_owned": 1.47,
+    "pct_started": 0.08,
+    "week": {
+     "slot": "FA",
+     "proj": 0.0,
+     "pts": 0,
+     "opp": "MIA",
+     "opp_rank_vs_pos": 24,
+     "bye": false,
+     "game": "2026-10-04 20:05:00"
+    },
+    "acquired": null,
+    "pos_rank": 32,
+    "expert_rank": null,
+    "pct_change": -0.07,
+    "preseason_avg": 0.0,
     "waivers_until": null
    },
    {
@@ -8597,8 +8605,8 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 6,
-    "pct_owned": 50.94,
-    "pct_started": 18.23,
+    "pct_owned": 50.67,
+    "pct_started": 17.77,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -8611,7 +8619,7 @@
     "acquired": null,
     "pos_rank": 29,
     "expert_rank": null,
-    "pct_change": -2.0,
+    "pct_change": -2.21,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -8627,8 +8635,8 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 5,
-    "pct_owned": 49.68,
-    "pct_started": 0.82,
+    "pct_owned": 49.59,
+    "pct_started": 0.81,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -8641,7 +8649,7 @@
     "acquired": null,
     "pos_rank": 64,
     "expert_rank": null,
-    "pct_change": -0.89,
+    "pct_change": -0.95,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -8657,8 +8665,8 @@
     "proj_season_pts": 28.4,
     "proj_avg": 7.1,
     "bye_week": 11,
-    "pct_owned": 49.37,
-    "pct_started": 4.38,
+    "pct_owned": 49.26,
+    "pct_started": 4.33,
     "week": {
      "slot": "FA",
      "proj": 6.5,
@@ -8671,7 +8679,7 @@
     "acquired": null,
     "pos_rank": 43,
     "expert_rank": 43.8,
-    "pct_change": -1.35,
+    "pct_change": -1.42,
     "preseason_avg": 7.0,
     "waivers_until": null
    },
@@ -8687,8 +8695,8 @@
     "proj_season_pts": 115.8,
     "proj_avg": 8.9,
     "bye_week": 9,
-    "pct_owned": 40.95,
-    "pct_started": 1.95,
+    "pct_owned": 40.89,
+    "pct_started": 1.93,
     "week": {
      "slot": "FA",
      "proj": 8.0,
@@ -8701,7 +8709,7 @@
     "acquired": null,
     "pos_rank": 49,
     "expert_rank": 40.4,
-    "pct_change": -0.61,
+    "pct_change": -0.65,
     "preseason_avg": 9.1,
     "waivers_until": null
    },
@@ -8717,7 +8725,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 10,
-    "pct_owned": 24.76,
+    "pct_owned": 24.7,
     "pct_started": 0.14,
     "week": {
      "slot": "FA",
@@ -8731,7 +8739,7 @@
     "acquired": null,
     "pos_rank": 46,
     "expert_rank": null,
-    "pct_change": -0.64,
+    "pct_change": -0.68,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -8747,7 +8755,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 6,
-    "pct_owned": 22.8,
+    "pct_owned": 22.76,
     "pct_started": 0.23,
     "week": {
      "slot": "FA",
@@ -8761,7 +8769,7 @@
     "acquired": null,
     "pos_rank": 0,
     "expert_rank": null,
-    "pct_change": -0.34,
+    "pct_change": -0.37,
     "preseason_avg": null,
     "waivers_until": null
    },
@@ -8777,7 +8785,7 @@
     "proj_season_pts": 44.9,
     "proj_avg": 3.2,
     "bye_week": 13,
-    "pct_owned": 21.42,
+    "pct_owned": 21.4,
     "pct_started": 0.7,
     "week": {
      "slot": "FA",
@@ -8791,7 +8799,7 @@
     "acquired": null,
     "pos_rank": 41,
     "expert_rank": 49.6,
-    "pct_change": -0.19,
+    "pct_change": -0.21,
     "preseason_avg": 3.5,
     "waivers_until": null
    },
@@ -8807,7 +8815,7 @@
     "proj_season_pts": 74.4,
     "proj_avg": 5.3,
     "bye_week": 7,
-    "pct_owned": 18.24,
+    "pct_owned": 18.23,
     "pct_started": 0.88,
     "week": {
      "slot": "FA",
@@ -8837,8 +8845,8 @@
     "proj_season_pts": 70.5,
     "proj_avg": 5.0,
     "bye_week": 7,
-    "pct_owned": 17.38,
-    "pct_started": 0.69,
+    "pct_owned": 17.36,
+    "pct_started": 0.7,
     "week": {
      "slot": "FA",
      "proj": 5.0,
@@ -8851,7 +8859,7 @@
     "acquired": null,
     "pos_rank": 52,
     "expert_rank": 50.5,
-    "pct_change": -0.23,
+    "pct_change": -0.24,
     "preseason_avg": 5.6,
     "waivers_until": null
    },
@@ -8867,7 +8875,7 @@
     "proj_season_pts": 43.2,
     "proj_avg": 3.1,
     "bye_week": 10,
-    "pct_owned": 15.81,
+    "pct_owned": 15.77,
     "pct_started": 0.5,
     "week": {
      "slot": "FA",
@@ -8881,7 +8889,7 @@
     "acquired": null,
     "pos_rank": 57,
     "expert_rank": null,
-    "pct_change": -0.44,
+    "pct_change": -0.47,
     "preseason_avg": 3.2,
     "waivers_until": null
    },
@@ -8897,7 +8905,7 @@
     "proj_season_pts": 73.0,
     "proj_avg": 5.2,
     "bye_week": 13,
-    "pct_owned": 12.0,
+    "pct_owned": 11.99,
     "pct_started": 0.75,
     "week": {
      "slot": "FA",
@@ -8911,7 +8919,7 @@
     "acquired": null,
     "pos_rank": 58,
     "expert_rank": 47.5,
-    "pct_change": -0.19,
+    "pct_change": -0.2,
     "preseason_avg": 7.5,
     "waivers_until": null
    },
@@ -8957,8 +8965,8 @@
     "proj_season_pts": 9.3,
     "proj_avg": 9.3,
     "bye_week": 13,
-    "pct_owned": 8.2,
-    "pct_started": 3.01,
+    "pct_owned": 8.26,
+    "pct_started": 3.05,
     "week": {
      "slot": "FA",
      "proj": 9.3,
@@ -8971,7 +8979,7 @@
     "acquired": null,
     "pos_rank": 101,
     "expert_rank": 35.1,
-    "pct_change": 0.28,
+    "pct_change": 0.34,
     "preseason_avg": null,
     "waivers_until": null
    },
@@ -8987,8 +8995,8 @@
     "proj_season_pts": 80.1,
     "proj_avg": 5.7,
     "bye_week": 8,
-    "pct_owned": 7.93,
-    "pct_started": 0.9,
+    "pct_owned": 7.95,
+    "pct_started": 0.92,
     "week": {
      "slot": "FA",
      "proj": 6.6,
@@ -9001,7 +9009,7 @@
     "acquired": null,
     "pos_rank": 73,
     "expert_rank": 43.2,
-    "pct_change": 0.12,
+    "pct_change": 0.13,
     "preseason_avg": null,
     "waivers_until": null
    },
@@ -9017,7 +9025,7 @@
     "proj_season_pts": 73.2,
     "proj_avg": 5.2,
     "bye_week": 6,
-    "pct_owned": 7.67,
+    "pct_owned": 7.66,
     "pct_started": 0.37,
     "week": {
      "slot": "FA",
@@ -9031,7 +9039,7 @@
     "acquired": null,
     "pos_rank": 50,
     "expert_rank": 48.9,
-    "pct_change": -0.12,
+    "pct_change": -0.13,
     "preseason_avg": 6.0,
     "waivers_until": null
    },
@@ -9048,7 +9056,7 @@
     "proj_avg": 4.1,
     "bye_week": 11,
     "pct_owned": 6.2,
-    "pct_started": 0.7,
+    "pct_started": 0.71,
     "week": {
      "slot": "FA",
      "proj": 7.2,
@@ -9061,7 +9069,7 @@
     "acquired": null,
     "pos_rank": 73,
     "expert_rank": 41.0,
-    "pct_change": -0.07,
+    "pct_change": -0.06,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -9077,7 +9085,7 @@
     "proj_season_pts": 19.5,
     "proj_avg": 1.5,
     "bye_week": 7,
-    "pct_owned": 5.28,
+    "pct_owned": 5.27,
     "pct_started": 0.2,
     "week": {
      "slot": "FA",
@@ -9091,7 +9099,7 @@
     "acquired": null,
     "pos_rank": 98,
     "expert_rank": null,
-    "pct_change": -0.12,
+    "pct_change": -0.13,
     "preseason_avg": 2.3,
     "waivers_until": null
    },
@@ -9107,7 +9115,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 8,
-    "pct_owned": 4.74,
+    "pct_owned": 4.71,
     "pct_started": 0.21,
     "week": {
      "slot": "FA",
@@ -9121,7 +9129,7 @@
     "acquired": null,
     "pos_rank": 47,
     "expert_rank": null,
-    "pct_change": -0.27,
+    "pct_change": -0.29,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -9137,7 +9145,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 14,
-    "pct_owned": 3.13,
+    "pct_owned": 3.14,
     "pct_started": 0.03,
     "week": {
      "slot": "FA",
@@ -9167,7 +9175,7 @@
     "proj_season_pts": 10.2,
     "proj_avg": 0.7,
     "bye_week": 8,
-    "pct_owned": 2.27,
+    "pct_owned": 2.26,
     "pct_started": 0.09,
     "week": {
      "slot": "FA",
@@ -9181,7 +9189,7 @@
     "acquired": null,
     "pos_rank": 122,
     "expert_rank": null,
-    "pct_change": -0.04,
+    "pct_change": -0.05,
     "preseason_avg": 0.4,
     "waivers_until": null
    },
@@ -9192,8 +9200,8 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 1.2,
-    "season_avg": 1.2,
+    "season_pts": 2.2,
+    "season_avg": 2.2,
     "proj_season_pts": 54.9,
     "proj_avg": 3.9,
     "bye_week": 7,
@@ -9202,7 +9210,7 @@
     "week": {
      "slot": "FA",
      "proj": 5.9,
-     "pts": 1.2,
+     "pts": 2.2,
      "opp": "IND",
      "opp_rank_vs_pos": 27,
      "bye": false,
@@ -9211,7 +9219,7 @@
     "acquired": null,
     "pos_rank": 0,
     "expert_rank": 49.8,
-    "pct_change": 0.22,
+    "pct_change": 0.21,
     "preseason_avg": null,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
@@ -9258,7 +9266,7 @@
     "proj_avg": 4.5,
     "bye_week": 7,
     "pct_owned": 1.65,
-    "pct_started": 0.2,
+    "pct_started": 0.21,
     "week": {
      "slot": "FA",
      "proj": 4.5,
@@ -9287,7 +9295,7 @@
     "proj_season_pts": 36.2,
     "proj_avg": 2.6,
     "bye_week": 7,
-    "pct_owned": 1.47,
+    "pct_owned": 1.46,
     "pct_started": 0.06,
     "week": {
      "slot": "FA",
@@ -9366,6 +9374,36 @@
     "waivers_until": null
    },
    {
+    "id": 3116385,
+    "name": "Joe Mixon",
+    "pos": "RB",
+    "nfl": "None",
+    "status": "OUT",
+    "slot": "",
+    "season_pts": 0.0,
+    "season_avg": 0.0,
+    "proj_season_pts": 0,
+    "proj_avg": 0,
+    "bye_week": null,
+    "pct_owned": 0.91,
+    "pct_started": 0.01,
+    "week": {
+     "slot": "FA",
+     "proj": 0,
+     "pts": 0,
+     "opp": null,
+     "opp_rank_vs_pos": null,
+     "bye": true,
+     "game": null
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": 0.78,
+    "preseason_avg": null,
+    "waivers_until": null
+   },
+   {
     "id": 4239934,
     "name": "AJ Dillon",
     "pos": "RB",
@@ -9402,8 +9440,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 5.1,
-    "season_avg": 1.3,
+    "season_pts": 5.9,
+    "season_avg": 1.5,
     "proj_season_pts": 34.7,
     "proj_avg": 2.5,
     "bye_week": 13,
@@ -9412,7 +9450,7 @@
     "week": {
      "slot": "FA",
      "proj": 2.9,
-     "pts": 2.7,
+     "pts": 3.5,
      "opp": "WSH",
      "opp_rank_vs_pos": 2,
      "bye": false,
@@ -9424,36 +9462,6 @@
     "pct_change": 0.0,
     "preseason_avg": 2.9,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
-   },
-   {
-    "id": 4912274,
-    "name": "Sione Vaki",
-    "pos": "RB",
-    "nfl": "DET",
-    "status": null,
-    "slot": "",
-    "season_pts": 10.5,
-    "season_avg": 3.5,
-    "proj_season_pts": 61.3,
-    "proj_avg": 4.4,
-    "bye_week": 6,
-    "pct_owned": 0.86,
-    "pct_started": 0.09,
-    "week": {
-     "slot": "FA",
-     "proj": 4.4,
-     "pts": 0,
-     "opp": "CAR",
-     "opp_rank_vs_pos": 30,
-     "bye": false,
-     "game": "2026-10-05 00:20:00"
-    },
-    "acquired": null,
-    "pos_rank": 61,
-    "expert_rank": null,
-    "pct_change": 0.02,
-    "preseason_avg": 5.6,
-    "waivers_until": null
    }
   ],
   "WR": [
@@ -9499,8 +9507,8 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 11,
-    "pct_owned": 38.37,
-    "pct_started": 0.55,
+    "pct_owned": 38.2,
+    "pct_started": 0.54,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -9513,7 +9521,7 @@
     "acquired": null,
     "pos_rank": 115,
     "expert_rank": null,
-    "pct_change": -1.37,
+    "pct_change": -1.5,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -9529,7 +9537,7 @@
     "proj_season_pts": 11.1,
     "proj_avg": 0.8,
     "bye_week": 7,
-    "pct_owned": 38.28,
+    "pct_owned": 38.19,
     "pct_started": 2.42,
     "week": {
      "slot": "FA",
@@ -9543,7 +9551,7 @@
     "acquired": null,
     "pos_rank": 137,
     "expert_rank": null,
-    "pct_change": -0.66,
+    "pct_change": -0.73,
     "preseason_avg": 2.9,
     "waivers_until": null
    },
@@ -9559,8 +9567,8 @@
     "proj_season_pts": 109.8,
     "proj_avg": 7.8,
     "bye_week": 13,
-    "pct_owned": 24.45,
-    "pct_started": 2.7,
+    "pct_owned": 24.4,
+    "pct_started": 2.68,
     "week": {
      "slot": "FA",
      "proj": 7.9,
@@ -9573,7 +9581,7 @@
     "acquired": null,
     "pos_rank": 43,
     "expert_rank": 53.6,
-    "pct_change": -0.53,
+    "pct_change": -0.56,
     "preseason_avg": 7.1,
     "waivers_until": null
    },
@@ -9589,8 +9597,8 @@
     "proj_season_pts": 110.3,
     "proj_avg": 8.5,
     "bye_week": 6,
-    "pct_owned": 18.61,
-    "pct_started": 0.14,
+    "pct_owned": 18.56,
+    "pct_started": 0.13,
     "week": {
      "slot": "FA",
      "proj": 0.0,
@@ -9603,7 +9611,7 @@
     "acquired": null,
     "pos_rank": 67,
     "expert_rank": null,
-    "pct_change": -0.65,
+    "pct_change": -0.68,
     "preseason_avg": 9.5,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
@@ -9619,7 +9627,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 10,
-    "pct_owned": 16.59,
+    "pct_owned": 16.53,
     "pct_started": 0.12,
     "week": {
      "slot": "FA",
@@ -9633,7 +9641,7 @@
     "acquired": null,
     "pos_rank": 151,
     "expert_rank": null,
-    "pct_change": -0.43,
+    "pct_change": -0.47,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -9679,8 +9687,8 @@
     "proj_season_pts": 86.2,
     "proj_avg": 6.2,
     "bye_week": 11,
-    "pct_owned": 13.18,
-    "pct_started": 4.25,
+    "pct_owned": 13.3,
+    "pct_started": 4.36,
     "week": {
      "slot": "FA",
      "proj": 9.7,
@@ -9693,7 +9701,7 @@
     "acquired": null,
     "pos_rank": 42,
     "expert_rank": 43.1,
-    "pct_change": 1.1,
+    "pct_change": 1.2,
     "preseason_avg": 6.1,
     "waivers_until": null
    },
@@ -9709,8 +9717,8 @@
     "proj_season_pts": 93.9,
     "proj_avg": 6.7,
     "bye_week": 11,
-    "pct_owned": 12.67,
-    "pct_started": 1.93,
+    "pct_owned": 12.69,
+    "pct_started": 1.96,
     "week": {
      "slot": "FA",
      "proj": 6.8,
@@ -9723,7 +9731,7 @@
     "acquired": null,
     "pos_rank": 49,
     "expert_rank": 60.8,
-    "pct_change": 0.27,
+    "pct_change": 0.29,
     "preseason_avg": 7.3,
     "waivers_until": null
    },
@@ -9739,7 +9747,7 @@
     "proj_season_pts": 34.0,
     "proj_avg": 2.4,
     "bye_week": 9,
-    "pct_owned": 11.93,
+    "pct_owned": 11.9,
     "pct_started": 0.24,
     "week": {
      "slot": "FA",
@@ -9753,7 +9761,7 @@
     "acquired": null,
     "pos_rank": 122,
     "expert_rank": null,
-    "pct_change": -0.28,
+    "pct_change": -0.3,
     "preseason_avg": 6.7,
     "waivers_until": null
    },
@@ -9769,8 +9777,8 @@
     "proj_season_pts": 68.0,
     "proj_avg": 4.9,
     "bye_week": 8,
-    "pct_owned": 9.03,
-    "pct_started": 0.44,
+    "pct_owned": 9.0,
+    "pct_started": 0.43,
     "week": {
      "slot": "FA",
      "proj": 5.2,
@@ -9783,7 +9791,7 @@
     "acquired": null,
     "pos_rank": 84,
     "expert_rank": null,
-    "pct_change": -0.29,
+    "pct_change": -0.31,
     "preseason_avg": 7.4,
     "waivers_until": null
    },
@@ -9799,7 +9807,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 13,
-    "pct_owned": 8.8,
+    "pct_owned": 8.79,
     "pct_started": 0.08,
     "week": {
      "slot": "FA",
@@ -9813,7 +9821,7 @@
     "acquired": null,
     "pos_rank": 137,
     "expert_rank": null,
-    "pct_change": -0.14,
+    "pct_change": -0.15,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -9829,8 +9837,8 @@
     "proj_season_pts": 78.5,
     "proj_avg": 5.6,
     "bye_week": 6,
-    "pct_owned": 6.97,
-    "pct_started": 1.6,
+    "pct_owned": 7.13,
+    "pct_started": 1.71,
     "week": {
      "slot": "FA",
      "proj": 9.7,
@@ -9843,7 +9851,7 @@
     "acquired": null,
     "pos_rank": 147,
     "expert_rank": 50.2,
-    "pct_change": 1.44,
+    "pct_change": 1.56,
     "preseason_avg": 6.9,
     "waivers_until": null
    },
@@ -9859,7 +9867,7 @@
     "proj_season_pts": 91.1,
     "proj_avg": 6.5,
     "bye_week": 13,
-    "pct_owned": 6.75,
+    "pct_owned": 6.73,
     "pct_started": 0.29,
     "week": {
      "slot": "FA",
@@ -9873,7 +9881,7 @@
     "acquired": null,
     "pos_rank": 102,
     "expert_rank": 58.9,
-    "pct_change": -0.12,
+    "pct_change": -0.13,
     "preseason_avg": 7.0,
     "waivers_until": null
    },
@@ -9884,8 +9892,8 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 25.3,
-    "season_avg": 6.3,
+    "season_pts": 26.8,
+    "season_avg": 6.7,
     "proj_season_pts": 76.3,
     "proj_avg": 5.5,
     "bye_week": 7,
@@ -9894,7 +9902,7 @@
     "week": {
      "slot": "FA",
      "proj": 8.0,
-     "pts": 0.0,
+     "pts": 1.5,
      "opp": "IND",
      "opp_rank_vs_pos": 20,
      "bye": false,
@@ -9919,8 +9927,8 @@
     "proj_season_pts": 113.7,
     "proj_avg": 8.1,
     "bye_week": 7,
-    "pct_owned": 5.68,
-    "pct_started": 0.54,
+    "pct_owned": 5.69,
+    "pct_started": 0.55,
     "week": {
      "slot": "FA",
      "proj": 7.8,
@@ -9933,7 +9941,7 @@
     "acquired": null,
     "pos_rank": 47,
     "expert_rank": 54.0,
-    "pct_change": 0.39,
+    "pct_change": 0.38,
     "preseason_avg": 6.0,
     "waivers_until": null
    },
@@ -9949,8 +9957,8 @@
     "proj_season_pts": 99.9,
     "proj_avg": 7.1,
     "bye_week": 6,
-    "pct_owned": 5.24,
-    "pct_started": 0.65,
+    "pct_owned": 5.27,
+    "pct_started": 0.67,
     "week": {
      "slot": "FA",
      "proj": 8.7,
@@ -9963,7 +9971,7 @@
     "acquired": null,
     "pos_rank": 82,
     "expert_rank": 53.4,
-    "pct_change": 0.42,
+    "pct_change": 0.43,
     "preseason_avg": 7.0,
     "waivers_until": null
    },
@@ -9979,8 +9987,8 @@
     "proj_season_pts": 47.8,
     "proj_avg": 3.4,
     "bye_week": 8,
-    "pct_owned": 4.82,
-    "pct_started": 0.21,
+    "pct_owned": 4.81,
+    "pct_started": 0.2,
     "week": {
      "slot": "FA",
      "proj": 3.6,
@@ -9993,7 +10001,7 @@
     "acquired": null,
     "pos_rank": 72,
     "expert_rank": null,
-    "pct_change": -0.1,
+    "pct_change": -0.11,
     "preseason_avg": 5.2,
     "waivers_until": null
    },
@@ -10009,8 +10017,8 @@
     "proj_season_pts": 101.2,
     "proj_avg": 7.2,
     "bye_week": 8,
-    "pct_owned": 4.82,
-    "pct_started": 0.6,
+    "pct_owned": 4.81,
+    "pct_started": 0.59,
     "week": {
      "slot": "FA",
      "proj": 7.7,
@@ -10023,7 +10031,7 @@
     "acquired": null,
     "pos_rank": 61,
     "expert_rank": 57.8,
-    "pct_change": -0.2,
+    "pct_change": -0.21,
     "preseason_avg": 7.1,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
@@ -10039,8 +10047,8 @@
     "proj_season_pts": 138.7,
     "proj_avg": 9.9,
     "bye_week": 14,
-    "pct_owned": 4.63,
-    "pct_started": 0.85,
+    "pct_owned": 4.65,
+    "pct_started": 0.87,
     "week": {
      "slot": "FA",
      "proj": 9.6,
@@ -10053,7 +10061,7 @@
     "acquired": null,
     "pos_rank": 79,
     "expert_rank": 47.5,
-    "pct_change": 0.17,
+    "pct_change": 0.19,
     "preseason_avg": 6.9,
     "waivers_until": null
    },
@@ -10069,7 +10077,7 @@
     "proj_season_pts": 85.5,
     "proj_avg": 6.1,
     "bye_week": 7,
-    "pct_owned": 4.19,
+    "pct_owned": 4.18,
     "pct_started": 0.29,
     "week": {
      "slot": "FA",
@@ -10083,7 +10091,7 @@
     "acquired": null,
     "pos_rank": 70,
     "expert_rank": null,
-    "pct_change": -0.1,
+    "pct_change": -0.11,
     "preseason_avg": 5.2,
     "waivers_until": null
    },
@@ -10220,7 +10228,7 @@
     "proj_avg": 6.5,
     "bye_week": 11,
     "pct_owned": 2.51,
-    "pct_started": 0.51,
+    "pct_started": 0.52,
     "week": {
      "slot": "FA",
      "proj": 9.1,
@@ -10371,8 +10379,8 @@
     "proj_season_pts": 120.8,
     "proj_avg": 8.6,
     "bye_week": 11,
-    "pct_owned": 43.86,
-    "pct_started": 9.36,
+    "pct_owned": 43.81,
+    "pct_started": 9.32,
     "week": {
      "slot": "FA",
      "proj": 8.9,
@@ -10385,7 +10393,7 @@
     "acquired": null,
     "pos_rank": 35,
     "expert_rank": 16.1,
-    "pct_change": -0.54,
+    "pct_change": -0.57,
     "preseason_avg": 9.1,
     "waivers_until": null
    },
@@ -10401,8 +10409,8 @@
     "proj_season_pts": 112.2,
     "proj_avg": 8.0,
     "bye_week": 7,
-    "pct_owned": 16.73,
-    "pct_started": 3.02,
+    "pct_owned": 16.72,
+    "pct_started": 3.04,
     "week": {
      "slot": "FA",
      "proj": 8.0,
@@ -10415,7 +10423,7 @@
     "acquired": null,
     "pos_rank": 27,
     "expert_rank": 19.4,
-    "pct_change": -0.06,
+    "pct_change": -0.07,
     "preseason_avg": 8.5,
     "waivers_until": null
    },
@@ -10431,8 +10439,8 @@
     "proj_season_pts": 86.5,
     "proj_avg": 6.2,
     "bye_week": 13,
-    "pct_owned": 12.19,
-    "pct_started": 1.33,
+    "pct_owned": 12.15,
+    "pct_started": 1.31,
     "week": {
      "slot": "FA",
      "proj": 6.5,
@@ -10445,7 +10453,7 @@
     "acquired": null,
     "pos_rank": 19,
     "expert_rank": 25.5,
-    "pct_change": -0.34,
+    "pct_change": -0.37,
     "preseason_avg": 6.0,
     "waivers_until": null
    },
@@ -10461,8 +10469,8 @@
     "proj_season_pts": 104.1,
     "proj_avg": 7.4,
     "bye_week": 6,
-    "pct_owned": 9.59,
-    "pct_started": 2.09,
+    "pct_owned": 9.6,
+    "pct_started": 2.1,
     "week": {
      "slot": "FA",
      "proj": 7.5,
@@ -10475,7 +10483,7 @@
     "acquired": null,
     "pos_rank": 16,
     "expert_rank": 23.2,
-    "pct_change": 0.05,
+    "pct_change": 0.06,
     "preseason_avg": 6.9,
     "waivers_until": null
    },
@@ -10491,8 +10499,8 @@
     "proj_season_pts": 89.3,
     "proj_avg": 6.4,
     "bye_week": 7,
-    "pct_owned": 6.92,
-    "pct_started": 1.35,
+    "pct_owned": 6.89,
+    "pct_started": 1.33,
     "week": {
      "slot": "FA",
      "proj": 7.1,
@@ -10505,7 +10513,7 @@
     "acquired": null,
     "pos_rank": 34,
     "expert_rank": 24.6,
-    "pct_change": -0.39,
+    "pct_change": -0.41,
     "preseason_avg": 3.9,
     "waivers_until": null
    },
@@ -10521,7 +10529,7 @@
     "proj_season_pts": 74.8,
     "proj_avg": 5.3,
     "bye_week": 10,
-    "pct_owned": 3.71,
+    "pct_owned": 3.7,
     "pct_started": 0.47,
     "week": {
      "slot": "FA",
@@ -10535,7 +10543,7 @@
     "acquired": null,
     "pos_rank": 33,
     "expert_rank": null,
-    "pct_change": -0.08,
+    "pct_change": -0.09,
     "preseason_avg": 6.9,
     "waivers_until": null
    },
@@ -10551,7 +10559,7 @@
     "proj_season_pts": 100.1,
     "proj_avg": 7.2,
     "bye_week": 9,
-    "pct_owned": 3.44,
+    "pct_owned": 3.43,
     "pct_started": 0.4,
     "week": {
      "slot": "FA",
@@ -10581,7 +10589,7 @@
     "proj_season_pts": 112.2,
     "proj_avg": 8.0,
     "bye_week": 10,
-    "pct_owned": 3.13,
+    "pct_owned": 3.14,
     "pct_started": 0.89,
     "week": {
      "slot": "FA",
@@ -10611,7 +10619,7 @@
     "proj_season_pts": 0.0,
     "proj_avg": 0.0,
     "bye_week": 7,
-    "pct_owned": 2.48,
+    "pct_owned": 2.47,
     "pct_started": 0.08,
     "week": {
      "slot": "FA",
@@ -10625,7 +10633,7 @@
     "acquired": null,
     "pos_rank": 39,
     "expert_rank": null,
-    "pct_change": -0.05,
+    "pct_change": -0.06,
     "preseason_avg": 0.0,
     "waivers_until": null
    },
@@ -10671,7 +10679,7 @@
     "proj_season_pts": 95.7,
     "proj_avg": 6.8,
     "bye_week": 6,
-    "pct_owned": 1.69,
+    "pct_owned": 1.68,
     "pct_started": 0.22,
     "week": {
      "slot": "FA",
@@ -10701,8 +10709,8 @@
     "proj_season_pts": 57.6,
     "proj_avg": 4.4,
     "bye_week": 8,
-    "pct_owned": 1.64,
-    "pct_started": 0.32,
+    "pct_owned": 1.63,
+    "pct_started": 0.3,
     "week": {
      "slot": "FA",
      "proj": 4.5,
@@ -10792,7 +10800,7 @@
     "proj_avg": 3.4,
     "bye_week": 7,
     "pct_owned": 0.87,
-    "pct_started": 0.16,
+    "pct_started": 0.15,
     "week": {
      "slot": "FA",
      "proj": 3.3,
@@ -10823,7 +10831,7 @@
     "proj_season_pts": 112.7,
     "proj_avg": 8.1,
     "bye_week": 8,
-    "pct_owned": 2.15,
+    "pct_owned": 2.16,
     "pct_started": 1.75,
     "week": {
      "slot": "FA",
@@ -10853,8 +10861,8 @@
     "proj_season_pts": 101.4,
     "proj_avg": 7.2,
     "bye_week": 11,
-    "pct_owned": 1.85,
-    "pct_started": 1.29,
+    "pct_owned": 1.84,
+    "pct_started": 1.28,
     "week": {
      "slot": "FA",
      "proj": 7.2,
@@ -10867,7 +10875,7 @@
     "acquired": null,
     "pos_rank": 25,
     "expert_rank": null,
-    "pct_change": -0.02,
+    "pct_change": -0.03,
     "preseason_avg": 7.9,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
@@ -10914,7 +10922,7 @@
     "proj_avg": 8.0,
     "bye_week": 14,
     "pct_owned": 0.49,
-    "pct_started": 0.31,
+    "pct_started": 0.32,
     "week": {
      "slot": "FA",
      "proj": 8.0,
@@ -10973,7 +10981,7 @@
     "proj_season_pts": 101.7,
     "proj_avg": 7.3,
     "bye_week": 9,
-    "pct_owned": 0.48,
+    "pct_owned": 0.47,
     "pct_started": 0.3,
     "week": {
      "slot": "FA",
@@ -11126,7 +11134,7 @@
     "proj_avg": 4.3,
     "bye_week": 11,
     "pct_owned": 41.42,
-    "pct_started": 36.52,
+    "pct_started": 36.53,
     "week": {
      "slot": "FA",
      "proj": 6.5,
@@ -11155,8 +11163,8 @@
     "proj_season_pts": 61.9,
     "proj_avg": 3.6,
     "bye_week": 6,
-    "pct_owned": 40.55,
-    "pct_started": 29.32,
+    "pct_owned": 40.45,
+    "pct_started": 29.2,
     "week": {
      "slot": "FA",
      "proj": 4.6,
@@ -11169,7 +11177,7 @@
     "acquired": null,
     "pos_rank": 27,
     "expert_rank": 19.1,
-    "pct_change": -0.78,
+    "pct_change": -0.87,
     "preseason_avg": 6.2,
     "waivers_until": null
    },
@@ -11185,8 +11193,8 @@
     "proj_season_pts": 55.8,
     "proj_avg": 3.3,
     "bye_week": 7,
-    "pct_owned": 18.41,
-    "pct_started": 12.29,
+    "pct_owned": 18.36,
+    "pct_started": 12.26,
     "week": {
      "slot": "FA",
      "proj": 4.0,
@@ -11199,7 +11207,7 @@
     "acquired": null,
     "pos_rank": 15,
     "expert_rank": null,
-    "pct_change": -0.35,
+    "pct_change": -0.38,
     "preseason_avg": 5.2,
     "waivers_until": null
    },
@@ -11216,7 +11224,7 @@
     "proj_avg": 3.2,
     "bye_week": 14,
     "pct_owned": 6.4,
-    "pct_started": 3.23,
+    "pct_started": 3.24,
     "week": {
      "slot": "FA",
      "proj": 4.3,
@@ -11240,8 +11248,8 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 23.0,
-    "season_avg": 5.8,
+    "season_pts": 24.0,
+    "season_avg": 6.0,
     "proj_season_pts": 68.8,
     "proj_avg": 4.0,
     "bye_week": 7,
@@ -11250,7 +11258,7 @@
     "week": {
      "slot": "FA",
      "proj": 6.3,
-     "pts": 13.0,
+     "pts": 14.0,
      "opp": "IND",
      "opp_rank_vs_pos": 17,
      "bye": false,
@@ -11259,7 +11267,7 @@
     "acquired": null,
     "pos_rank": 25,
     "expert_rank": 10.9,
-    "pct_change": 0.61,
+    "pct_change": 0.59,
     "preseason_avg": 3.9,
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
@@ -11275,8 +11283,8 @@
     "proj_season_pts": 57.5,
     "proj_avg": 3.4,
     "bye_week": 9,
-    "pct_owned": 1.78,
-    "pct_started": 0.86,
+    "pct_owned": 1.76,
+    "pct_started": 0.84,
     "week": {
      "slot": "FA",
      "proj": 2.3,
@@ -11289,7 +11297,7 @@
     "acquired": null,
     "pos_rank": 18,
     "expert_rank": null,
-    "pct_change": -0.12,
+    "pct_change": -0.13,
     "preseason_avg": 4.1,
     "waivers_until": null
    },
@@ -11336,7 +11344,7 @@
     "proj_avg": 2.1,
     "bye_week": 6,
     "pct_owned": 0.56,
-    "pct_started": 0.35,
+    "pct_started": 0.36,
     "week": {
      "slot": "FA",
      "proj": 3.4,
