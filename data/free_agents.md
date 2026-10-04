@@ -1,6 +1,6 @@
 # Free agents
 
-Updated: Sun Oct 04 2026, 10:15 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:24 AM ET · NFL week 4 · The Re-Todds
 
 Unrostered players (free agents and players on waivers), most-rostered first.
 
@@ -12,7 +12,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Baker Mayfield | QB | TB | OUT | GB (#12 vs QB) | 0.0 | 0 | 11.7 | 35.1 | 13.9 |  | 10 | 35.82 | -0.81 |
 | Jaxson Dart | QB | NYG | INJURY_RESERVE | ARI (#29 vs QB) | 0.0 | 0 | 13.7 | 27.4 | 0.0 |  | 8 | 35.35 | -0.87 |
-| Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | -1.4 | 6.7 | 26.9 | 14.0 | 19.9 | 13 | 23.15 | -0.12 |
+| Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | -1.1 | 6.8 | 27.2 | 14.0 | 19.9 | 13 | 23.15 | -0.12 |
 | Marcus Mariota | QB | WSH | QUESTIONABLE | IND (#28 vs QB) | 18.6 | 5.3 | 11.5 | 34.5 | 9.3 | 13.0 | 7 | 20.79 | 1.27 |
 | Malik Willis | QB | MIA |  | MIN (#7 vs QB) | 11.8 | 0 | 13.1 | 39.2 | 14.2 |  | 6 | 11.08 | -0.23 |
 | Jacoby Brissett | QB | ARI |  | NYG (#17 vs QB) | 16.0 | 0 | 16.2 | 48.6 | 15.4 | 18.8 | 14 | 9.57 | 0.47 |
@@ -58,7 +58,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Raheim Sanders | RB | CLE |  | PIT (#21 vs RB) | 6.2 | 3.6 | 5.1 | 20.4 | 6.3 |  | 11 | 1.33 | 0.0 |
 | Jordan James | RB | SF |  | DEN (#28 vs RB) | 0.0 | 0 | 0.8 | 1.5 | 0.0 |  | 8 | 0.97 | -0.02 |
 | AJ Dillon | RB | CAR |  | DET (#16 vs RB) | 4.9 | 0 | 1.6 | 4.9 | 4.3 |  | 5 | 0.9 | -0.03 |
-| Seth McGowan | RB | IND |  | WSH (#2 vs RB) | 2.9 | 0.0 | 0.6 | 2.4 | 2.5 |  | 13 | 0.88 | 0.0 |
+| Seth McGowan | RB | IND |  | WSH (#2 vs RB) | 2.9 | 2.7 | 1.3 | 5.1 | 2.5 |  | 13 | 0.88 | 0.0 |
 | Sione Vaki | RB | DET |  | CAR (#30 vs RB) | 4.4 | 0 | 3.5 | 10.5 | 4.4 |  | 6 | 0.86 | 0.02 |
 
 ## WR
@@ -79,7 +79,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Ja'Kobi Lane | WR | BAL | INJURY_RESERVE | TEN (#18 vs WR) | 0.0 | 0 | 2.1 | 2.1 | 0.0 |  | 13 | 8.8 | -0.14 |
 | Jauan Jennings | WR | MIN |  | MIA (#5 vs WR) | 9.7 | 0 | 0.6 | 1.1 | 5.6 | 50.2 | 6 | 6.97 | 1.44 |
 | Jalen Nailor | WR | LV |  | KC (#2 vs WR) | 6.8 | 0 | 3.4 | 10.2 | 6.5 | 58.9 | 13 | 6.75 | -0.12 |
-| Antonio Williams | WR | WSH |  | IND (#20 vs WR) | 8.0 | 0.0 | 8.4 | 25.3 | 5.5 | 57.5 | 7 | 6.7 | 0.62 |
+| Antonio Williams | WR | WSH |  | IND (#20 vs WR) | 8.0 | 0.0 | 6.3 | 25.3 | 5.5 | 57.5 | 7 | 6.7 | 0.62 |
 | Tre' Harris | WR | LAC |  | SEA (#4 vs WR) | 7.8 | 0 | 8.3 | 24.9 | 8.1 | 54.0 | 7 | 5.68 | 0.39 |
 | Chris Bell | WR | MIA |  | MIN (#23 vs WR) | 8.7 | 0 | 4.7 | 14.2 | 7.1 | 53.4 | 6 | 5.24 | 0.42 |
 | Jaylin Noel | WR | HOU |  | DAL (#13 vs WR) | 3.6 | 0 | 5.7 | 17.2 | 3.4 |  | 8 | 4.82 | -0.1 |

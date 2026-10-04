@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 04 2026, 10:15 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:24 AM ET · NFL week 4 · The Re-Todds
 
 ## Trade offers
 
@@ -33,7 +33,7 @@ None visible.
 | Thu Sep 10, 12:00 AM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; the blind side gives Kyle Pitts Sr., Jeremiyah Love | CANCELED |
 | Wed Sep 09, 11:56 PM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; Big Papa gives Kenneth Walker III, George Kittle | CANCELED |
 | Wed Sep 09, 04:24 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | CANCELED |
-| Wed Sep 09, 04:23 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | EXPIRED |
+| Wed Sep 09, 04:23 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | DECLINED |
 | Sat Sep 05, 04:10 PM ET | Big Papa | Big Papa gives Jordyn Tyson, Mike Washington Jr., George Kittle; The Ghee-talians gives De'Zhaun Stribling, Bucky Irving | CANCELED |
 
 ### Accepted trades

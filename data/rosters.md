@@ -1,6 +1,6 @@
 # All rosters
 
-Updated: Sun Oct 04 2026, 10:15 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:24 AM ET · NFL week 4 · The Re-Todds
 
 Proj and Opp are for this week. Avg/gm and Season pts are season to date.
 
@@ -145,7 +145,7 @@ Owner Victor · 1-2-0 · seed 6 · 402.4 PF · waiver rank 7
 | D/ST | Chiefs D/ST | D/ST | KC |  | LV (#12 vs D/ST) | 6.5 | 0 | 7.3 | 22.0 | 5.4 | 4.5 | 5 | 62.9 | 0.84 |
 | K | Trey Smack | K | GB |  | TB (#32 vs K) | 8.1 | 0 | 7.3 | 22.0 | 8.6 | 20.2 | 11 | 17.82 | -0.46 |
 | BE | Mike Evans | WR | SF | QUESTIONABLE | DEN (#9 vs WR) | 11.8 | 0 | 12.6 | 37.7 | 13.8 | 24.8 | 8 | 91.7 | -0.09 |
-| BE | Jacory Croskey-Merritt | RB | WSH |  | IND (#27 vs RB) | 11.1 | 5.4 | 7.3 | 29.1 | 8.6 | 25.2 | 7 | 72.26 | 0.9 |
+| BE | Jacory Croskey-Merritt | RB | WSH |  | IND (#27 vs RB) | 11.1 | 5.6 | 7.3 | 29.3 | 8.6 | 25.2 | 7 | 72.26 | 0.9 |
 | BE | Tre Tucker | WR | LV |  | KC (#2 vs WR) | 9.3 | 0 | 12.0 | 35.9 | 8.8 | 45.0 | 13 | 37.59 | -0.31 |
 | BE | Eddy Pineiro | K | SF |  | DEN (#24 vs K) | 9.3 | 0 | 7.7 | 23.0 | 9.4 | 7.0 | 8 | 78.52 | -0.19 |
 | BE | Bengals D/ST | D/ST | CIN |  | JAX (#9 vs D/ST) | 4.4 | 0 | 9.0 | 27.0 | 4.0 | 19.9 | 6 | 17.94 | -0.72 |

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-04T14:15:34+00:00",
- "updated_et": "Sun Oct 04 2026, 10:15 AM ET",
+ "updated_utc": "2026-10-04T14:24:09+00:00",
+ "updated_et": "Sun Oct 04 2026, 10:24 AM ET",
  "league_id": 1241185,
  "season": 2026,
  "week": 4,
@@ -3822,7 +3822,7 @@
      "nfl": "WSH",
      "status": null,
      "slot": "BE",
-     "season_pts": 29.1,
+     "season_pts": 29.3,
      "season_avg": 7.3,
      "proj_season_pts": 120.0,
      "proj_avg": 8.6,
@@ -3832,7 +3832,7 @@
      "week": {
       "slot": "BE",
       "proj": 11.1,
-      "pts": 5.4,
+      "pts": 5.6,
       "opp": "IND",
       "opp_rank_vs_pos": 27,
       "bye": false,
@@ -8027,7 +8027,7 @@
     "id": 15,
     "name": "Thr Short Bus",
     "score": 21.6,
-    "proj": 126.76
+    "proj": 125.95
    }
   ],
   [
@@ -8049,7 +8049,7 @@
     "id": 14,
     "name": "The Ghee-talians",
     "score": 2.5,
-    "proj": 124.91
+    "proj": 123.64
    },
    {
     "id": 17,
@@ -8069,7 +8069,7 @@
     "id": 16,
     "name": "Cook'n brown rice",
     "score": 3.1,
-    "proj": 120.28
+    "proj": 119.43
    }
   ],
   [
@@ -8083,7 +8083,7 @@
     "id": 2,
     "name": "Brock Hard for TDs",
     "score": 5.1,
-    "proj": 129.44
+    "proj": 128.08
    }
   ],
   [
@@ -8170,8 +8170,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 26.9,
-    "season_avg": 6.7,
+    "season_pts": 27.2,
+    "season_avg": 6.8,
     "proj_season_pts": 196.5,
     "proj_avg": 14.0,
     "bye_week": 13,
@@ -8180,7 +8180,7 @@
     "week": {
      "slot": "FA",
      "proj": 15.2,
-     "pts": -1.4,
+     "pts": -1.1,
      "opp": "WSH",
      "opp_rank_vs_pos": 31,
      "bye": false,
@@ -9402,8 +9402,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 2.4,
-    "season_avg": 0.6,
+    "season_pts": 5.1,
+    "season_avg": 1.3,
     "proj_season_pts": 34.7,
     "proj_avg": 2.5,
     "bye_week": 13,
@@ -9412,7 +9412,7 @@
     "week": {
      "slot": "FA",
      "proj": 2.9,
-     "pts": 0.0,
+     "pts": 2.7,
      "opp": "WSH",
      "opp_rank_vs_pos": 2,
      "bye": false,
@@ -9885,7 +9885,7 @@
     "status": null,
     "slot": "",
     "season_pts": 25.3,
-    "season_avg": 8.4,
+    "season_avg": 6.3,
     "proj_season_pts": 76.3,
     "proj_avg": 5.5,
     "bye_week": 7,
@@ -13448,6 +13448,327 @@
      "player": "Rico Dowdle",
      "pos": "RB",
      "nfl": "PIT"
+    }
+   ]
+  }
+ ],
+ "completed_trades": [
+  {
+   "when": "Wed Sep 30, 11:40 AM ET",
+   "actions": [
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_SENT",
+     "player": "Joe Burrow",
+     "pos": "QB",
+     "nfl": "CIN"
+    },
+    {
+     "team": "the blind side",
+     "action": "TRADE_RECEIVED",
+     "player": "Joe Burrow",
+     "pos": "QB",
+     "nfl": "CIN"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_SENT",
+     "player": "Jake Ferguson",
+     "pos": "TE",
+     "nfl": "DAL"
+    },
+    {
+     "team": "the blind side",
+     "action": "TRADE_RECEIVED",
+     "player": "Jake Ferguson",
+     "pos": "TE",
+     "nfl": "DAL"
+    },
+    {
+     "team": "the blind side",
+     "action": "TRADE_SENT",
+     "player": "Caleb Williams",
+     "pos": "QB",
+     "nfl": "CHI"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_RECEIVED",
+     "player": "Caleb Williams",
+     "pos": "QB",
+     "nfl": "CHI"
+    },
+    {
+     "team": "the blind side",
+     "action": "TRADE_SENT",
+     "player": "Kenyon Sadiq",
+     "pos": "TE",
+     "nfl": "NYJ"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_RECEIVED",
+     "player": "Kenyon Sadiq",
+     "pos": "TE",
+     "nfl": "NYJ"
+    }
+   ]
+  },
+  {
+   "when": "Wed Sep 30, 11:09 AM ET",
+   "actions": [
+    {
+     "team": "Saquan these nuts",
+     "action": "TRADE_SENT",
+     "player": "Travis Kelce",
+     "pos": "TE",
+     "nfl": "KC"
+    },
+    {
+     "team": "GioDoesCokeOnKamara",
+     "action": "TRADE_RECEIVED",
+     "player": "Travis Kelce",
+     "pos": "TE",
+     "nfl": "KC"
+    },
+    {
+     "team": "Saquan these nuts",
+     "action": "TRADE_SENT",
+     "player": "Alvin Kamara",
+     "pos": "RB",
+     "nfl": "NO"
+    },
+    {
+     "team": "GioDoesCokeOnKamara",
+     "action": "TRADE_RECEIVED",
+     "player": "Alvin Kamara",
+     "pos": "RB",
+     "nfl": "NO"
+    },
+    {
+     "team": "GioDoesCokeOnKamara",
+     "action": "TRADE_SENT",
+     "player": "Adonai Mitchell",
+     "pos": "WR",
+     "nfl": "NYJ"
+    },
+    {
+     "team": "Saquan these nuts",
+     "action": "TRADE_RECEIVED",
+     "player": "Adonai Mitchell",
+     "pos": "WR",
+     "nfl": "NYJ"
+    },
+    {
+     "team": "GioDoesCokeOnKamara",
+     "action": "TRADE_SENT",
+     "player": "T.J. Hockenson",
+     "pos": "TE",
+     "nfl": "MIN"
+    },
+    {
+     "team": "Saquan these nuts",
+     "action": "TRADE_RECEIVED",
+     "player": "T.J. Hockenson",
+     "pos": "TE",
+     "nfl": "MIN"
+    },
+    {
+     "team": "GioDoesCokeOnKamara",
+     "action": "TRADE_SENT",
+     "player": "Saquon Barkley",
+     "pos": "RB",
+     "nfl": "PHI"
+    },
+    {
+     "team": "Saquan these nuts",
+     "action": "TRADE_RECEIVED",
+     "player": "Saquon Barkley",
+     "pos": "RB",
+     "nfl": "PHI"
+    },
+    {
+     "team": "Saquan these nuts",
+     "action": "TRADE_SENT",
+     "player": "Jalen Coker",
+     "pos": "WR",
+     "nfl": "CAR"
+    },
+    {
+     "team": "GioDoesCokeOnKamara",
+     "action": "TRADE_RECEIVED",
+     "player": "Jalen Coker",
+     "pos": "WR",
+     "nfl": "CAR"
+    }
+   ]
+  },
+  {
+   "when": "Tue Sep 29, 05:21 PM ET",
+   "actions": [
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_SENT",
+     "player": "Davante Adams",
+     "pos": "WR",
+     "nfl": "LAR"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_RECEIVED",
+     "player": "Davante Adams",
+     "pos": "WR",
+     "nfl": "LAR"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_SENT",
+     "player": "Rashid Shaheed",
+     "pos": "WR",
+     "nfl": "SEA"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_RECEIVED",
+     "player": "Rashid Shaheed",
+     "pos": "WR",
+     "nfl": "SEA"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_SENT",
+     "player": "James Cook III",
+     "pos": "RB",
+     "nfl": "BUF"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_RECEIVED",
+     "player": "James Cook III",
+     "pos": "RB",
+     "nfl": "BUF"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_SENT",
+     "player": "Josh Downs",
+     "pos": "WR",
+     "nfl": "IND"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_RECEIVED",
+     "player": "Josh Downs",
+     "pos": "WR",
+     "nfl": "IND"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_SENT",
+     "player": "Bucky Irving",
+     "pos": "RB",
+     "nfl": "TB"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_RECEIVED",
+     "player": "Bucky Irving",
+     "pos": "RB",
+     "nfl": "TB"
+    },
+    {
+     "team": "Cook'n brown rice",
+     "action": "TRADE_SENT",
+     "player": "Luther Burden III",
+     "pos": "WR",
+     "nfl": "CHI"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_RECEIVED",
+     "player": "Luther Burden III",
+     "pos": "WR",
+     "nfl": "CHI"
+    }
+   ]
+  },
+  {
+   "when": "Tue Sep 29, 03:35 PM ET",
+   "actions": [
+    {
+     "team": "The Slim Reapers",
+     "action": "TRADE_SENT",
+     "player": "Brock Purdy",
+     "pos": "QB",
+     "nfl": "SF"
+    },
+    {
+     "team": "Swedes2xChamp2026",
+     "action": "TRADE_RECEIVED",
+     "player": "Brock Purdy",
+     "pos": "QB",
+     "nfl": "SF"
+    },
+    {
+     "team": "The Slim Reapers",
+     "action": "TRADE_SENT",
+     "player": "Travis Etienne Jr.",
+     "pos": "RB",
+     "nfl": "NO"
+    },
+    {
+     "team": "Swedes2xChamp2026",
+     "action": "TRADE_RECEIVED",
+     "player": "Travis Etienne Jr.",
+     "pos": "RB",
+     "nfl": "NO"
+    },
+    {
+     "team": "Swedes2xChamp2026",
+     "action": "TRADE_SENT",
+     "player": "Aaron Jones Sr.",
+     "pos": "RB",
+     "nfl": "MIN"
+    },
+    {
+     "team": "The Slim Reapers",
+     "action": "TRADE_RECEIVED",
+     "player": "Aaron Jones Sr.",
+     "pos": "RB",
+     "nfl": "MIN"
+    }
+   ]
+  },
+  {
+   "when": "Thu Sep 24, 09:04 AM ET",
+   "actions": [
+    {
+     "team": "the blind side",
+     "action": "TRADE_SENT",
+     "player": "RJ Harvey",
+     "pos": "RB",
+     "nfl": "DEN"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_RECEIVED",
+     "player": "RJ Harvey",
+     "pos": "RB",
+     "nfl": "DEN"
+    },
+    {
+     "team": "The Ghee-talians",
+     "action": "TRADE_SENT",
+     "player": "Tyler Allgeier",
+     "pos": "RB",
+     "nfl": "ARI"
+    },
+    {
+     "team": "the blind side",
+     "action": "TRADE_RECEIVED",
+     "player": "Tyler Allgeier",
+     "pos": "RB",
+     "nfl": "ARI"
     }
    ]
   }
