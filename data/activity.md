@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 04 2026, 09:52 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:14 AM ET · NFL week 4 · The Re-Todds
 
 ## Trade offers
 
@@ -71,10 +71,27 @@ ESPN shows who declined and when, but not the players.
 | Wed Sep 09, 04:24 PM ET | Brock Hard for TDs |
 | Mon Sep 07, 11:52 PM ET | GioDoesCokeOnKamara |
 
+## Waiver claims a manager placed and then cancelled
+
+These never show in the ESPN app. They hint at who a team wanted.
+
+| When | Team | Wanted | Would have dropped |
+|---|---|---|---|
+| Fri Oct 02, 03:50 PM ET | Christian McCracker | Emanuel Wilson | Austin Ekeler |
+| Wed Sep 30, 12:18 AM ET | The Ghee-talians | Ollie Gordon II | De'Von Achane |
+| Wed Sep 30, 12:02 AM ET | The Ghee-talians | Braelon Allen | De'Von Achane |
+| Wed Sep 23, 02:29 AM ET | The Slim Reapers | Tank Bigsby |  |
+| Wed Sep 23, 02:29 AM ET | The Slim Reapers | Jonah Coleman |  |
+| Tue Sep 22, 07:46 PM ET | The Slim Reapers | Tank Bigsby | MarShawn Lloyd |
+| Tue Sep 22, 07:46 PM ET | The Slim Reapers | Jonah Coleman | MarShawn Lloyd |
+| Tue Sep 15, 02:26 PM ET | The Slim Reapers | Rashod Bateman | Keenan Allen |
+| Sun Sep 06, 02:51 PM ET | The Slim Reapers | Keenan Allen |  |
+
 ## Recent adds, drops and completed trades
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Oct 04, 09:57 AM ET | Saquan these nuts | FA ADDED | George Holani | RB | SEA |
 | Sat Oct 03, 11:26 PM ET | The Ghee-talians | DROPPED | Xavier Hutchinson | WR | HOU |
 | Sat Oct 03, 11:26 PM ET | The Ghee-talians | FA ADDED | Xavier Worthy | WR | KC |
 | Sat Oct 03, 06:29 PM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
@@ -173,5 +190,3 @@ ESPN shows who declined and when, but not the players.
 | Thu Sep 24, 09:04 AM ET | the blind side | TRADE_RECEIVED | Tyler Allgeier | RB | ARI |
 | Thu Sep 24, 03:24 AM ET | Christian McCracker | WAIVER ADDED | Kaelon Black | RB | SF |
 | Thu Sep 24, 03:24 AM ET | Christian McCracker | DROPPED | Rico Dowdle | RB | PIT |
-| Wed Sep 23, 07:25 PM ET | Saquan these nuts | DROPPED | Commanders D/ST | D/ST | WSH |
-| Wed Sep 23, 07:25 PM ET | Saquan these nuts | FA ADDED | Giants D/ST | D/ST | NYG |
