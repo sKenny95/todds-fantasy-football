@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Todds Front Office</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap">
+<style>
+/* Layout: one narrow column, four tabs, each tab opens with what to do and puts detail underneath. */
+:root {
+  --bg: #f1f4f1; --surface: #ffffff; --ink: #17201b; --muted: #5f6b65; --line: #dde3de;
+  --accent: #0e6b50; --accent-soft: #e1eee8;
+  --good: #1c7c46; --good-soft: #dcefe3; --warn: #96600c; --warn-soft: #f5e9d2; --bad: #b3372c; --bad-soft: #f6dfdc;
+  --display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --body: "Barlow", system-ui, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #111614; --surface: #19201d; --ink: #e7ece9; --muted: #96a39c; --line: #2b3430;
+    --accent: #56c7a0; --accent-soft: #1d3229;
+    --good: #62cb8d; --good-soft: #1c3226; --warn: #e0b05c; --warn-soft: #382e18; --bad: #ef8a7f; --bad-soft: #3d2320;
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.45 var(--body); }
+.wrap { max-width: 1060px; margin: 0 auto; padding-inline: 20px; padding-block: 24px 64px; }
+h1, h2, h3, .num, .tabs button, .slot, th { font-family: var(--display); }
+h1 { font-size: 34px; line-height: 1; margin: 0; font-weight: 700; letter-spacing: .01em; }
+h2 { font-size: 15px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); margin: 0 0 10px; }
+.top { display: flex; flex-wrap: wrap; gap: 6px 24px; align-items: flex-end; justify-content: space-between; }
+.sub { margin: 6px 0 0; color: var(--muted); }
+.fresh { color: var(--muted); font-size: 13px; text-align: right; }
+.tabs { display: flex; gap: 4px; margin: 20px 0 22px; border-bottom: 1px solid var(--line); overflow-x: auto; overflow-y: hidden; }
+.tabs button { font-size: 18px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; padding: 8px 14px 9px; border: 0; background: none;
+  color: var(--muted); cursor: pointer; border-bottom: 3px solid transparent; white-space: nowrap; }
+.tabs button:hover { color: var(--ink); }
+.tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+button:focus-visible, tr[tabindex]:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.stack { display: flex; flex-direction: column; gap: 26px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px; }
+.note { color: var(--muted); font-size: 13px; margin: 0 0 10px; max-width: 95ch; }
+.empty { color: var(--muted); margin: 0; }
+.num { font-variant-numeric: tabular-nums; font-size: 17px; font-weight: 600; }
+.meta { color: var(--muted); font-size: 13px; }
+
+/* matchup */
+.matchup { display: grid; grid-template-columns: 1fr auto 1fr; gap: 6px 18px; align-items: end; }
+.matchup .side.r { text-align: right; }
+.matchup .name { font-weight: 600; }
+.matchup .big { font-family: var(--display); font-size: 44px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.matchup .vs { color: var(--muted); font-family: var(--display); font-size: 18px; padding-bottom: 6px; }
+.bar { grid-column: 1 / -1; height: 8px; border-radius: 4px; background: var(--line); overflow: hidden; margin-top: 8px; }
+.bar i { display: block; height: 100%; background: var(--accent); }
+.verdict { grid-column: 1 / -1; margin: 2px 0 0; color: var(--muted); }
+
+/* to-do */
+.todo { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.todo li { display: grid; grid-template-columns: 76px 1fr; gap: 12px; padding: 9px 0; border-top: 1px solid var(--line); align-items: baseline; }
+.todo li:first-child { border-top: 0; padding-top: 2px; }
+.tag { font-family: var(--display); font-size: 13px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--accent); }
+.tag.warn { color: var(--warn); } .tag.bad { color: var(--bad); }
+
+/* tables */
+.scroll { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; font-size: 13px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); padding: 0 10px 7px 0; white-space: nowrap; }
+td { padding: 8px 10px 8px 0; border-top: 1px solid var(--line); vertical-align: baseline; }
+th.r, td.r { text-align: right; padding-right: 0; padding-left: 10px; }
+td.slot { color: var(--muted); font-weight: 600; font-size: 14px; width: 62px; white-space: nowrap; }
+tr.bench td { color: var(--muted); }
+tr.bench strong { font-weight: 500; color: var(--ink); }
+tr.divider td { border-top: 0; padding: 14px 0 4px; font-family: var(--display); font-size: 13px; letter-spacing: .07em; text-transform: uppercase; color: var(--muted); }
+tr.mine td { background: var(--accent-soft); }
+tr.mine td:first-child { box-shadow: inset 3px 0 0 var(--accent); padding-left: 8px; }
+tr.pick { cursor: pointer; }
+tr.pick:hover td { background: var(--accent-soft); }
+.chip { display: inline-block; font-size: 12px; font-weight: 600; padding: 1px 7px; border-radius: 10px; background: var(--line); color: var(--ink); white-space: nowrap; vertical-align: 1px; }
+.chip.good { background: var(--good-soft); color: var(--good); } .chip.warn { background: var(--warn-soft); color: var(--warn); } .chip.bad { background: var(--bad-soft); color: var(--bad); }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--line); margin-left: 5px; }
+.dot.good { background: var(--good); } .dot.bad { background: var(--bad); }
+.up { color: var(--good); } .down { color: var(--bad); }
+
+/* trades */
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px; }
+.card { border: 1px solid var(--line); border-radius: 6px; padding: 13px 15px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.card header { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; }
+.card h3 { font-size: 20px; font-weight: 600; margin: 0; }
+.swap { display: grid; grid-template-columns: 62px 1fr; gap: 3px 10px; margin: 0; }
+.swap dt { color: var(--muted); font-size: 13px; padding-top: 1px; } .swap dd { margin: 0; }
+.why { color: var(--muted); font-size: 13px; margin: 0; }
+.heat td.cell { text-align: center; width: 62px; padding: 6px 3px; }
+.heat th.c { text-align: center; padding-right: 0; }
+.heat .cell span { display: block; border-radius: 4px; padding: 3px 0; font-family: var(--display); font-weight: 600; font-size: 16px; font-variant-numeric: tabular-nums; }
+.r1 span { background: color-mix(in srgb, var(--good) 34%, transparent); } .r2 span { background: color-mix(in srgb, var(--good) 15%, transparent); }
+.r4 span { background: color-mix(in srgb, var(--bad) 13%, transparent); } .r5 span { background: color-mix(in srgb, var(--bad) 32%, transparent); }
+.two { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 26px; }
+.list { list-style: none; margin: 0; padding: 0; }
+.list li { padding: 7px 0; border-top: 1px solid var(--line); }
+.list li:first-child { border-top: 0; padding-top: 0; }
+details summary { cursor: pointer; font-family: var(--display); font-size: 15px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase; color: var(--muted); }
+details[open] summary { margin-bottom: 10px; }
+.pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+.pills button { font: 600 15px var(--display); letter-spacing: .05em; padding: 4px 13px; border-radius: 14px; border: 1px solid var(--line); background: none; color: var(--muted); cursor: pointer; }
+.pills button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+@media (max-width: 640px) { .hide-s { display: none; } h1 { font-size: 28px; } .matchup .big { font-size: 34px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div><h1 id="team">Todds Front Office</h1><p class="sub" id="sub"></p></div>
+    <div class="fresh" id="fresh"></div>
+  </div>
+  <div class="tabs" role="tablist" id="tabs">
+    <button role="tab" data-tab="week">This week</button>
+    <button role="tab" data-tab="trades">Trades</button>
+    <button role="tab" data-tab="waivers">Waivers</button>
+    <button role="tab" data-tab="league">League</button>
+  </div>
+  <main id="app"></main>
+</div>
+<script src="data/league.js"></script>
+<script>
+(function () {
+  const L = window.LEAGUE, app = document.getElementById("app");
+  if (!L) { app.innerHTML = '<p class="empty">No league data found next to this page. Open it with “Open dashboard” so it fetches the latest pull first.</p>'; return; }
+
+  // ---------- helpers ----------
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const fmt = (n, d = 1) => (n == null || isNaN(n) ? "–" : Number(n).toFixed(d));
+  const signed = (n, d = 1) => (n >= 0 ? "+" : "−") + Math.abs(n).toFixed(d);
+  const ord = n => { const s = ["th", "st", "nd", "rd"], v = n % 100; return n + (s[(v - 20) % 10] || s[v] || s[0]); };
+  const sum = (xs, f) => xs.reduce((a, x) => a + f(x), 0);
+  const desc = f => (a, b) => f(b) - f(a);
+
+  const me = L.teams.find(t => t.id === L.my_team_id);
+  const SLOTS = L.settings.roster_slots;
+  const FLEX = { "RB/WR/TE": ["RB", "WR", "TE"], "RB/WR": ["RB", "WR"], "WR/TE": ["WR", "TE"], "OP": ["QB", "RB", "WR", "TE"] };
+  const SKILL = ["QB", "RB", "WR", "TE"];
+  const SLOT_ORDER = ["QB", "RB", "WR", "TE", "RB/WR/TE", "RB/WR", "WR/TE", "OP", "D/ST", "K", "BE", "IR"];
+  const START_SLOTS = Object.fromEntries(Object.entries(SLOTS).filter(([s]) => s !== "BE" && s !== "IR"));
+  const SKILL_SLOTS = Object.fromEntries(Object.entries(START_SLOTS).filter(([s]) => SKILL.includes(s) || FLEX[s]));
+  const STATUS = { QUESTIONABLE: ["Q", "warn", "questionable"], DOUBTFUL: ["D", "bad", "doubtful"], OUT: ["Out", "bad", "out"],
+                   INJURY_RESERVE: ["IR", "bad", "on injured reserve"], DAY_TO_DAY: ["DTD", "warn", "day to day"], SUSPENSION: ["Susp", "bad", "suspended"] };
+
+  const val = p => p.proj_avg ?? p.season_avg ?? 0;            // ESPN's current per-game projection
+  const wproj = p => p.week?.proj ?? 0;                         // this week's projection
+  const slotOf = p => p.week?.slot || p.slot || "BE";
+  const isIR = p => slotOf(p) === "IR" || p.status === "INJURY_RESERVE";
+  const isOut = p => p.status === "OUT" || p.status === "SUSPENSION" || isIR(p);
+  const kick = p => (p.week?.game ? Date.parse(p.week.game.replace(" ", "T") + "Z") : null);
+  const locked = p => { const k = kick(p); return k != null && k <= Date.now(); };
+  const when = ms => new Date(ms).toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" });
+  const chip = p => (STATUS[p.status] ? ` <span class="chip ${STATUS[p.status][1]}">${STATUS[p.status][0]}</span>` : "");
+  const who = p => `<strong>${esc(p.name)}</strong> <span class="meta">${esc(p.pos)} · ${esc(p.nfl)}</span>${chip(p)}`;
+  const short = p => `${esc(p.name)} <span class="meta">${esc(p.pos)}, ${fmt(val(p))}/gm</span>${chip(p)}`;
+  const owner = t => (t.owner ? ` <span class="meta">${esc(t.owner)}</span>` : "");
+
+  // Fill fixed positions with the best players first, then the flex slots with the best of what is left.
+  function bestLineup(players, value, slotCounts) {
+    const pool = players.slice().sort(desc(value)), used = new Set(), picks = [];
+    const fill = (slot, n, fits) => { for (const p of pool) { if (n <= 0) break; if (!used.has(p) && fits(p)) { used.add(p); picks.push({ slot, p }); n--; } } };
+    for (const [slot, n] of Object.entries(slotCounts)) if (!FLEX[slot]) fill(slot, n, p => p.pos === slot);
+    for (const [slot, n] of Object.entries(slotCounts)) if (FLEX[slot]) fill(slot, n, p => FLEX[slot].includes(p.pos));
+    return { picks, used, total: sum(picks, x => value(x.p)) };
+  }
+
+  // A roster's weekly strength: its best starting lineup plus a little credit for the top of the bench.
+  function strength(roster) {
+    const ps = roster.filter(p => SKILL.includes(p.pos) && !isIR(p));
+    const bl = bestLineup(ps, val, SKILL_SLOTS);
+    return bl.total + 0.2 * sum(ps.filter(p => !bl.used.has(p) && p.pos !== "QB").sort(desc(val)).slice(0, 3), val);
+  }
+
+  // ---------- position ranks across the league ----------
+  const COLS = ["QB", "RB", "WR", "TE", "Depth"];
+  const posScore = {}, posRank = {};
+  for (const t of L.teams) {
+    const ps = t.roster.filter(p => SKILL.includes(p.pos) && !isIR(p)), used = new Set(), s = {};
+    for (const pos of SKILL) { const top = ps.filter(p => p.pos === pos).sort(desc(val)).slice(0, SLOTS[pos] || 1); top.forEach(p => used.add(p)); s[pos] = sum(top, val); }
+    s.Depth = sum(ps.filter(p => !used.has(p) && p.pos !== "QB").sort(desc(val)).slice(0, 3), val);
+    posScore[t.id] = s;
+  }
+  for (const c of COLS) L.teams.slice().sort(desc(t => posScore[t.id][c])).forEach((t, i) => { (posRank[t.id] ||= {})[c] = i + 1; });
+
+  // ---------- trade offers ----------
+  const declinedIds = new Set(L.trades.filter(t => t.type === "TRADE_DECLINE").map(t => t.related_id));
+  const proposals = L.trades.filter(t => t.type === "TRADE_PROPOSAL").map(t => {
+    const other = [...new Set(t.items.flatMap(i => [i.from, i.to]))].find(n => n !== t.team) || "";
+    const state = declinedIds.has(t.id) ? "Declined" : t.status === "PENDING" ? (t.expired ? "Expired" : "Open") : t.status === "CANCELED" ? "Withdrawn" : t.status;
+    return { ...t, other, state, gives: t.items.filter(i => i.from === t.team).map(i => i.player), wants: t.items.filter(i => i.to === t.team).map(i => i.player) };
+  });
+  const openOffers = proposals.filter(p => p.state === "Open");
+  const completed = (L.completed_trades?.length ? L.completed_trades : L.activity.filter(a => a.actions.some(x => /TRADE/.test(x.action)))).map(a => {
+    const got = {};
+    a.actions.filter(x => !/SENT/.test(x.action)).forEach(x => (got[x.team] ||= []).push(x.player));
+    return { when: a.when, got };
+  }).filter(t => Object.keys(t.got).length);
+
+  // ---------- trade ideas ----------
+  // fair: what I give must be worth 90-130% of what I get. Gains are points per week added to each best lineup.
+  const TRADE = { fairLow: 0.9, fairHigh: 1.3, minMine: 0.5, minTheirs: 0.1 };
+  function tradeIdeas() {
+    const repl = {};
+    for (const pos of SKILL) { const fa = (L.free_agents[pos] || []).filter(p => !isOut(p)).map(val).sort((a, b) => b - a); repl[pos] = fa[2] ?? fa[0] ?? 0; }
+    const tv = p => Math.max(val(p) - repl[p.pos], 0) + 1;       // worth above what's free on waivers
+    const pkg = ps => { const s = ps.map(tv).sort((a, b) => b - a); return s[0] + (s[1] || 0) * 0.6; };  // two lesser players don't add up to one star
+    const combos = ps => { const out = ps.map(p => [p]); for (let i = 0; i < ps.length; i++) for (let j = i + 1; j < ps.length; j++) out.push([ps[i], ps[j]]); return out; };
+    const mine = combos(me.roster.filter(p => SKILL.includes(p.pos) && !isOut(p))), base = strength(me.roster), ideas = [];
+    for (const t of L.teams) {
+      if (t.id === me.id) continue;
+      const theirs = combos(t.roster.filter(p => SKILL.includes(p.pos) && !isOut(p))), tBase = strength(t.roster);
+      for (const g of mine) for (const r of theirs) {
+        const a = pkg(g), b = pkg(r);
+        if (a < TRADE.fairLow * b || a > TRADE.fairHigh * b) continue;
+        const myGain = strength(me.roster.filter(p => !g.includes(p)).concat(r)) - base;
+        if (myGain < TRADE.minMine) continue;
+        const theirGain = strength(t.roster.filter(p => !r.includes(p)).concat(g)) - tBase;
+        if (theirGain < TRADE.minTheirs) continue;
+        ideas.push({ t, g, r, myGain, theirGain });
+      }
+    }
+    ideas.sort(desc(i => i.myGain + 0.5 * i.theirGain));
+    const out = [], teams = new Set(), targets = new Set();
+    for (const i of ideas) {
+      const star = i.r.slice().sort(desc(val))[0];
+      if (teams.has(i.t.id) || targets.has(star.id)) continue;
+      teams.add(i.t.id); targets.add(star.id); out.push(i);
+      if (out.length === 5) break;
+    }
+    return out;
+  }
+
+  // ---------- pickups ----------
+  function pickups() {
+    const base = strength(me.roster), mine = me.roster.filter(p => SKILL.includes(p.pos) && !isIR(p)), out = [];
+    for (const pos of SKILL) for (const fa of L.free_agents[pos] || []) {
+      if (isOut(fa)) continue;
+      const withFa = me.roster.concat(fa), full = strength(withFa);
+      if (full - base < 0.2) continue;
+      // drop whoever costs the least to lose
+      const drop = mine.map(c => ({ c, loss: full - strength(withFa.filter(p => p !== c)) })).sort((a, b) => a.loss - b.loss || val(a.c) - val(b.c))[0];
+      const gain = full - drop.loss - base;
+      if (gain >= 0.2) out.push({ fa, drop: drop.c, gain });
+    }
+    return out.sort(desc(x => x.gain)).slice(0, 5);
+  }
+  function streamers() {
+    const out = [];
+    for (const pos of ["K", "D/ST"]) {
+      const mine = me.roster.filter(p => p.pos === pos).sort(desc(wproj))[0];
+      const fa = (L.free_agents[pos] || []).filter(p => !locked(p) && !isOut(p)).sort(desc(wproj))[0];
+      if (fa && (!mine || (!locked(mine) && wproj(fa) - wproj(mine) >= 1))) out.push({ fa, mine });
+    }
+    return out;
+  }
+  const avail = p => (p.waivers_until ? `Waivers until ${esc(p.waivers_until.replace(/, 0?/, " ").replace(" ET", ""))}` : "Free agent now");
+
+  // ---------- tab: this week ----------
+  function renderWeek() {
+    const roster = me.roster.slice().sort((a, b) => SLOT_ORDER.indexOf(slotOf(a)) - SLOT_ORDER.indexOf(slotOf(b)) || wproj(b) - wproj(a));
+    const starters = roster.filter(p => !["BE", "IR"].includes(slotOf(p)));
+    const todo = [];
+
+    // lineup check: best possible lineup from players whose games haven't started
+    const open = { ...START_SLOTS };
+    starters.filter(locked).forEach(p => { open[slotOf(p)] = Math.max(0, (open[slotOf(p)] || 0) - 1); });
+    const usable = roster.filter(p => !locked(p) && !isOut(p) && p.status !== "DOUBTFUL" && !p.week?.bye);
+    const best = bestLineup(usable, wproj, open), cur = starters.filter(p => !locked(p));
+    const ins = best.picks.map(x => x.p).filter(p => !cur.includes(p)).sort(desc(wproj));
+    const outs = cur.filter(p => !best.used.has(p)).sort((a, b) => wproj(a) - wproj(b));
+    for (const p of ins) {
+      const fits = o => o.pos === p.pos || Object.entries(FLEX).some(([s, e]) => slotOf(o) === s && e.includes(p.pos));
+      const i = Math.max(outs.findIndex(fits), 0), o = outs.splice(i, 1)[0];
+      if (!o) todo.push(["Lineup", "", `Start ${who(p)} in your open slot <span class="meta">proj ${fmt(wproj(p))}</span>`]);
+      else if (wproj(p) - wproj(o) >= 0.5 || isOut(o) || o.week?.bye)
+        todo.push(["Lineup", "", `Start ${who(p)} over ${who(o)} <span class="meta">${fmt(wproj(p))} vs ${fmt(wproj(o))}, ${signed(wproj(p) - wproj(o))}</span>`]);
+    }
+    for (const p of cur) if (best.used.has(p) && STATUS[p.status])
+      todo.push(["Injury", "warn", `${who(p)} is ${STATUS[p.status][2]}. Check again before kickoff${kick(p) ? " (" + when(kick(p)) + ")" : ""}.`]);
+    openOffers.filter(o => o.team === me.name || o.other === me.name).forEach(o =>
+      todo.push(["Trade", "", `Open offer with ${esc(o.team === me.name ? o.other : o.team)}. See the Trades tab.`]));
+    const pk = pickups()[0];
+    if (pk) todo.push(["Pickup", "", `Add ${short(pk.fa)} and drop ${short(pk.drop)}. <span class="meta">${avail(pk.fa)}</span>`]);
+    streamers().forEach(s => todo.push(["Stream", "", `${esc(s.fa.name)} projects ${fmt(wproj(s.fa))} this week${s.mine ? ` vs ${fmt(wproj(s.mine))} for ${esc(s.mine.name)}` : ""}. <span class="meta">${avail(s.fa)}</span>`]));
+    for (const wk of [L.week + 1, L.week + 2]) {
+      const off = bestLineup(me.roster.filter(p => !isIR(p)), val, START_SLOTS).picks.map(x => x.p).filter(p => p.bye_week === wk);
+      if (off.length) todo.push(["Bye", "warn", `Week ${wk}: ${off.map(p => esc(p.name)).join(", ")} ${off.length > 1 ? "are" : "is"} off. Line up cover now.`]);
+    }
+
+    // matchup
+    const m = L.matchups.find(x => x.some(s => s.id === me.id)) || [];
+    const mine = m.find(s => s.id === me.id), opp = m.find(s => s.id !== me.id), oppTeam = opp && L.teams.find(t => t.id === opp.id);
+    let matchup = "";
+    if (mine && opp) {
+      const a = mine.proj ?? 0, b = opp.proj ?? 0, live = mine.score > 0 || opp.score > 0;
+      matchup = `<section class="panel"><h2>Week ${L.week} matchup</h2><div class="matchup">
+        <div class="side"><div class="name">${esc(mine.name)}</div><div class="big">${fmt(a)}</div></div>
+        <div class="vs">vs</div>
+        <div class="side r"><div class="name">${esc(opp.name)}</div><div class="big">${fmt(b)}</div></div>
+        <div class="bar"><i style="width:${a + b ? (100 * a / (a + b)).toFixed(1) : 50}%"></i></div>
+        <p class="verdict">ESPN projects you to ${a >= b ? "win" : "lose"} by ${fmt(Math.abs(a - b))}.${live ? ` Live score ${fmt(mine.score)} to ${fmt(opp.score)}.` : ""}
+        ${oppTeam ? ` ${esc(oppTeam.owner || opp.name)} is ${oppTeam.wins}-${oppTeam.losses}, ${ord(oppTeam.seed)} seed.` : ""}</p></div></section>`;
+    }
+
+    const row = p => {
+      const wk = p.week || {}, bench = ["BE", "IR"].includes(slotOf(p)), r = wk.opp_rank_vs_pos;
+      const game = wk.bye ? "Bye" : wk.opp ? `${esc(wk.opp)}<span class="dot ${r >= 23 ? "good" : r && r <= 10 ? "bad" : ""}" title="${r ? esc(wk.opp) + " rank " + ord(r) + " against " + esc(p.pos) + " (32nd is the easiest matchup)" : ""}"></span>` : "–";
+      const time = locked(p) ? `${fmt(wk.pts)} pts` : kick(p) ? when(kick(p)) : "";
+      return `<tr class="${bench ? "bench" : ""}"><td class="slot">${esc(slotOf(p) === "RB/WR/TE" ? "FLEX" : slotOf(p))}</td><td>${who(p)}</td>
+        <td>${game} <span class="meta hide-s">${time}</span></td><td class="r num">${fmt(wk.proj)}</td>
+        <td class="r num hide-s">${p.expert_rank ? esc(p.pos) + Math.round(p.expert_rank) : "–"}</td><td class="r num hide-s">${fmt(p.season_avg)}</td></tr>`;
+    };
+    const benchStart = roster.findIndex(p => ["BE", "IR"].includes(slotOf(p)));
+    const rows = roster.map((p, i) => (i === benchStart ? `<tr class="divider"><td colspan="6">Bench</td></tr>` : "") + row(p)).join("");
+
+    return `<div class="stack">${matchup}
+      <section class="panel"><h2>To do</h2>${todo.length ? `<ul class="todo">${todo.map(([t, c, h]) => `<li><span class="tag ${c}">${t}</span><span>${h}</span></li>`).join("")}</ul>`
+        : `<p class="empty">Nothing to fix. Your lineup is the best ESPN projects from this roster.</p>`}</section>
+      <section class="panel"><h2>Lineup</h2><div class="scroll"><table>
+        <tr><th></th><th>Player</th><th>Matchup</th><th class="r">Proj</th><th class="r hide-s" title="ESPN analysts' average rank at the position this week">Experts</th><th class="r hide-s">Avg</th></tr>
+        ${rows}</table></div>
+        <p class="note" style="margin:12px 0 0">Green dot is a soft matchup, red is a tough one. Experts is where ESPN's analysts rank the player at his position this week.</p></section></div>`;
+  }
+
+  // ---------- tab: trades ----------
+  function renderTrades() {
+    const offerCard = o => `<article class="card"><header><h3>${esc(o.team)} → ${esc(o.other)}</h3><span class="chip good">Open</span></header>
+      <dl class="swap"><dt>Offers</dt><dd>${o.gives.map(esc).join(", ") || "–"}</dd><dt>Wants</dt><dd>${o.wants.map(esc).join(", ") || "–"}</dd></dl>
+      <p class="why">Sent ${esc(o.proposed)}${o.expires ? ". Expires " + esc(o.expires) : ""}</p></article>`;
+
+    const ideas = tradeIdeas();
+    const ideaCard = i => {
+      const gp = i.g.slice().sort(desc(val))[0].pos, rp = i.r.slice().sort(desc(val))[0].pos;
+      const why = gp === rp ? `You both come out ahead at ${gp} once lineups are reset.`
+        : `They rank ${ord(posRank[i.t.id][gp])} of ${L.teams.length} at ${gp}. You rank ${ord(posRank[me.id][rp])} at ${rp}.`;
+      return `<article class="card"><header><h3>${esc(i.t.name)}${owner(i.t)}</h3><span class="chip good">You ${signed(i.myGain)}/wk</span></header>
+        <dl class="swap"><dt>You give</dt><dd>${i.g.map(short).join("<br>")}</dd><dt>You get</dt><dd>${i.r.map(short).join("<br>")}</dd></dl>
+        <p class="why">${why} Their lineup gains ${fmt(i.theirGain)}/wk.${i.r.length > i.g.length ? " You would need to drop a player." : ""}</p></article>`;
+    };
+
+    const made = {}, got = {};
+    proposals.forEach(p => { made[p.team] = (made[p.team] || 0) + 1; got[p.other] = (got[p.other] || 0) + 1; });
+    const cls = r => (r <= 2 ? "r1" : r <= 4 ? "r2" : r <= 8 ? "r3" : r <= 10 ? "r4" : "r5");
+    const heat = L.teams.map(t => `<tr class="${t.id === me.id ? "mine" : ""}"><td><strong>${esc(t.name)}</strong>${owner(t)}</td>
+      ${COLS.map(c => `<td class="cell ${cls(posRank[t.id][c])}"><span>${posRank[t.id][c]}</span></td>`).join("")}
+      <td class="r num hide-s">${made[t.name] || 0}</td><td class="r num hide-s">${got[t.name] || 0}</td><td class="r num hide-s">${t.trades}</td></tr>`).join("");
+
+    const tally = key => {
+      const m = new Map();
+      proposals.forEach(p => p[key].forEach(n => { const e = m.get(n) || { n: 0, teams: new Set() }; e.n++; e.teams.add(p.team); m.set(n, e); }));
+      return [...m].sort((a, b) => b[1].n - a[1].n).slice(0, 6);
+    };
+    const tallyList = (key, verb) => tally(key).map(([n, e]) => `<li><strong>${esc(n)}</strong> <span class="meta">${e.n} offer${e.n > 1 ? "s" : ""} · ${verb} ${[...e.teams].map(esc).join(", ")}</span></li>`).join("");
+
+    const stateChip = s => `<span class="chip ${s === "Open" ? "good" : s === "Declined" ? "bad" : ""}">${esc(s)}</span>`;
+    const log = proposals.map(p => `<tr><td class="meta" style="white-space:nowrap">${esc(p.proposed.replace(/, \d.*/, ""))}</td><td><strong>${esc(p.team)}</strong> <span class="meta">to</span> ${esc(p.other)}</td>
+      <td>${p.gives.map(esc).join(", ")}</td><td>${p.wants.map(esc).join(", ")}</td><td class="r">${stateChip(p.state)}</td></tr>`).join("");
+
+    const done = completed.map(t => `<li><span class="meta">${esc(t.when.replace(/, \d.*/, ""))}</span> · ${Object.entries(t.got).map(([team, ps]) => `<strong>${esc(team)}</strong> got ${ps.map(esc).join(", ")}`).join(" · ")}</li>`).join("");
+
+    return `<div class="stack">
+      <section class="panel"><h2>Open offers</h2>${openOffers.length ? `<div class="cards">${openOffers.map(offerCard).join("")}</div>` : `<p class="empty">No open offers that ESPN shows you right now.</p>`}</section>
+      <section class="panel"><h2>Trade ideas for you</h2>
+        <p class="note">Deals of up to two players a side where ESPN's per-game projections say both starting lineups get better and the value is close to even. A starting point, not a verdict: check injuries and news first.</p>
+        ${ideas.length ? `<div class="cards">${ideas.map(ideaCard).join("")}</div>` : `<p class="empty">No deal right now helps both lineups at a fair price.</p>`}</section>
+      <section class="panel"><h2>Who needs what</h2>
+        <p class="note">Each team's rank in the league by position, from ESPN's per-game projections for its starters. Green is a strength to buy from, red is a hole you can sell into.</p>
+        <div class="scroll"><table class="heat"><tr><th>Team</th>${COLS.map(c => `<th class="c">${c}</th>`).join("")}<th class="r hide-s">Offers made</th><th class="r hide-s">Offers got</th><th class="r hide-s">Trades done</th></tr>${heat}</table></div></section>
+      <section class="panel"><div class="two">
+        <div><h2>Most wanted in offers</h2><ul class="list">${tallyList("wants", "asked for by") || '<li class="empty">Nothing yet.</li>'}</ul></div>
+        <div><h2>Most shopped in offers</h2><ul class="list">${tallyList("gives", "offered by") || '<li class="empty">Nothing yet.</li>'}</ul></div>
+      </div></section>
+      <section class="panel"><h2>Completed trades</h2>${done ? `<ul class="list">${done}</ul>` : `<p class="empty">None yet.</p>`}</section>
+      <section class="panel"><details><summary>Offer log (${proposals.length})</summary>
+        <p class="note">Every offer ESPN shows your login, yours and other teams'. ESPN hides the players on offers other teams accepted or declined.</p>
+        <div class="scroll"><table><tr><th>Sent</th><th>From</th><th>Offered</th><th>Wanted</th><th class="r">Status</th></tr>${log}</table></div></details></section>
+    </div>`;
+  }
+
+  // ---------- tab: waivers ----------
+  let faPos = "RB";
+  function renderWaivers() {
+    const picks = pickups(), st = streamers();
+    const best = picks.map(x => `<li><span class="tag">Add</span><span>${short(x.fa)} <span class="meta">${esc(x.fa.nfl)}</span> and drop ${short(x.drop)}. <span class="meta">${avail(x.fa)}</span></span></li>`)
+      .concat(st.map(s => `<li><span class="tag">Stream</span><span><strong>${esc(s.fa.name)}</strong> projects ${fmt(wproj(s.fa))} this week${s.mine ? ` vs ${fmt(wproj(s.mine))} for ${esc(s.mine.name)}` : ""}. <span class="meta">${avail(s.fa)}</span></span></li>`)).join("");
+    const trend = p => (p.pct_change >= 0.5 ? `<span class="up">▲ ${fmt(p.pct_change)}</span>` : p.pct_change <= -0.5 ? `<span class="down">▼ ${fmt(-p.pct_change)}</span>` : "");
+    const myWorst = Math.min(...me.roster.filter(p => p.pos === faPos && !isIR(p)).map(val));
+    const rows = (L.free_agents[faPos] || []).slice().sort(desc(SKILL.includes(faPos) ? val : wproj)).slice(0, 12).map(p => {
+      const wk = p.week || {};
+      return `<tr><td>${who(p)}${SKILL.includes(faPos) && !isOut(p) && val(p) > myWorst ? ' <span class="chip good">beats your bench</span>' : ""}</td>
+        <td class="hide-s">${wk.bye ? "Bye" : esc(wk.opp || "–")}</td><td class="r num">${fmt(wk.proj)}</td><td class="r num">${fmt(p.proj_avg)}</td><td class="r num hide-s">${fmt(p.season_avg)}</td>
+        <td class="r hide-s"><span class="num">${fmt(p.pct_owned, 0)}%</span> ${trend(p)}</td><td class="r meta">${avail(p)}</td></tr>`;
+    }).join("");
+    const pulled = (L.waiver_claims || []).filter(c => c.status === "CANCELED").slice(0, 10).map(c =>
+      `<li><span class="meta">${esc(c.when.replace(/, \d.*/, ""))}</span> · <strong>${esc(c.team)}</strong> wanted ${c.add.map(esc).join(", ")}${c.drop.length ? ` <span class="meta">for ${c.drop.map(esc).join(", ")}</span>` : ""}</li>`).join("");
+
+    return `<div class="stack">
+      <section class="panel"><h2>Best moves for you</h2>${best ? `<ul class="todo">${best}</ul>` : `<p class="empty">Nobody available beats what you already have.</p>`}
+        <p class="note" style="margin:10px 0 0">You are ${ord(me.waiver_rank)} in the waiver order. Numbers are ESPN's projected points per game.</p></section>
+      <section class="panel"><h2>Available players</h2>
+        <div class="pills" id="pos-pills">${Object.keys(L.free_agents).map(p => `<button aria-pressed="${p === faPos}" data-pos="${esc(p)}">${esc(p)}</button>`).join("")}</div>
+        <div class="scroll"><table><tr><th>Player</th><th class="hide-s">Opp</th><th class="r">This wk</th><th class="r">Proj/gm</th><th class="r hide-s">Avg</th><th class="r hide-s" title="Share of ESPN leagues that roster him, and the change this week">Rostered</th><th class="r">Status</th></tr>${rows}</table></div></section>
+      <section class="panel"><h2>Claims other teams cancelled</h2>
+        <p class="note">Waiver claims a manager put in and then pulled. The ESPN app never shows these, and they tell you who a team has its eye on.</p>
+        ${pulled ? `<ul class="list">${pulled}</ul>` : `<p class="empty">None so far.</p>`}</section>
+    </div>`;
+  }
+
+  // ---------- tab: league ----------
+  let rosterTeam = null;
+  function leagueStats() {
+    const s = Object.fromEntries(L.teams.map(t => [t.id, { w: 0, l: 0, xw: 0, left: 0, weeks: 0 }]));
+    for (const wk of L.history || []) {
+      const es = Object.entries(wk.teams).map(([id, t]) => ({ id: +id, t }));
+      for (const e of es) {
+        const x = s[e.id]; if (!x) continue;
+        const w = es.filter(o => o.id !== e.id && e.t.score > o.t.score).length, l = es.filter(o => o.id !== e.id && e.t.score < o.t.score).length;
+        x.w += w; x.l += l; x.xw += (w + (es.length - 1 - w - l) / 2) / (es.length - 1);
+        x.left += Math.max(0, bestLineup(e.t.players.filter(p => p.slot !== "IR"), p => p.pts ?? 0, START_SLOTS).total - e.t.score); x.weeks++;
+      }
+    }
+    return s;
+  }
+  function renderLeague() {
+    const st = leagueStats(), drafted = Object.fromEntries((L.draft || []).map(d => [d.player_id, d]));
+    const rows = L.teams.map(t => {
+      const x = st[t.id], luck = t.wins + t.ties / 2 - x.xw, move = (t.draft_day_rank || 0) - (t.espn_proj_rank || 0);
+      return `<tr class="pick ${t.id === me.id ? "mine" : ""}" data-team="${t.id}" tabindex="0"><td class="num">${t.seed}</td><td><strong>${esc(t.name)}</strong>${owner(t)}</td>
+        <td class="r num">${t.wins}-${t.losses}${t.ties ? "-" + t.ties : ""}</td><td class="r num hide-s">${fmt(t.points_for, 0)}</td>
+        <td class="r num">${x.w}-${x.l}</td><td class="r num ${luck >= 0.5 ? "up" : luck <= -0.5 ? "down" : ""}">${x.weeks ? signed(luck) : "–"}</td>
+        <td class="r num hide-s">${x.weeks ? fmt(x.left / x.weeks) : "–"}</td><td class="r num hide-s">${t.espn_playoff_pct != null ? fmt(t.espn_playoff_pct, 0) + "%" : "–"}</td>
+        <td class="r hide-s"><span class="num">${t.espn_proj_rank ? ord(t.espn_proj_rank) : "–"}</span> ${move > 0 ? `<span class="up">▲${move}</span>` : move < 0 ? `<span class="down">▼${-move}</span>` : ""}</td>
+        <td class="r num hide-s">${(t.adds || 0) + (t.lineup_moves || 0)}</td></tr>`;
+    }).join("");
+
+    let roster = `<p class="empty">Pick a team above to see its roster.</p>`;
+    const t = L.teams.find(x => x.id === rosterTeam);
+    if (t) {
+      const how = p => (p.acquired === "DRAFT" && drafted[p.id] ? `Round ${drafted[p.id].round}` : p.acquired === "TRADE" ? "Trade" : p.acquired === "ADD" ? "Pickup" : "");
+      const order = ["QB", "RB", "WR", "TE", "K", "D/ST"];
+      roster = `<div class="scroll"><table><tr><th>Player</th><th class="r">Proj/gm</th><th class="r">Avg</th><th class="r hide-s" title="Rank at the position by points so far">Pos rank</th><th class="r hide-s">Bye</th><th class="r hide-s">How acquired</th></tr>
+        ${t.roster.slice().sort((a, b) => order.indexOf(a.pos) - order.indexOf(b.pos) || val(b) - val(a)).map(p => `<tr><td>${who(p)}</td><td class="r num">${fmt(p.proj_avg)}</td><td class="r num">${fmt(p.season_avg)}</td>
+          <td class="r num hide-s">${p.pos_rank || "–"}</td><td class="r num hide-s">${p.bye_week || "–"}</td><td class="r meta hide-s">${how(p)}</td></tr>`).join("")}</table></div>`;
+    }
+    return `<div class="stack">
+      <section class="panel"><h2>Standings, with what the record hides</h2>
+        <p class="note">All-play is each team's record if it played every other team every week, a truer read of strength than the schedule gives. Luck is real wins minus the wins that scoring deserved. Left on bench is points per week a perfect lineup would have added, in hindsight.</p>
+        <div class="scroll"><table><tr><th></th><th>Team</th><th class="r">Record</th><th class="r hide-s">Points</th><th class="r">All-play</th><th class="r">Luck</th><th class="r hide-s">Left on bench</th>
+          <th class="r hide-s">Playoff odds</th><th class="r hide-s" title="ESPN's projected final rank, and the change since draft day">ESPN finish</th><th class="r hide-s" title="Adds plus lineup changes">Moves</th></tr>${rows}</table></div></section>
+      <section class="panel"><h2>${t ? esc(t.name) + " roster" : "Rosters"}</h2>${roster}</section></div>`;
+  }
+
+  // ---------- shell ----------
+  const TABS = { week: renderWeek, trades: renderTrades, waivers: renderWaivers, league: renderLeague };
+  let tab = TABS[location.hash.slice(1)] ? location.hash.slice(1) : "week";
+  function draw() {
+    document.querySelectorAll("#tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === tab));
+    app.innerHTML = TABS[tab]();
+  }
+  document.getElementById("tabs").addEventListener("click", e => { const b = e.target.closest("button"); if (b) { tab = b.dataset.tab; history.replaceState(null, "", "#" + tab); draw(); } });
+  app.addEventListener("click", e => {
+    const pill = e.target.closest("#pos-pills button"), row = e.target.closest("tr[data-team]");
+    if (pill) { faPos = pill.dataset.pos; draw(); }
+    if (row) { rosterTeam = +row.dataset.team; draw(); }
+  });
+  app.addEventListener("keydown", e => { const row = e.target.closest("tr[data-team]"); if (row && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); rosterTeam = +row.dataset.team; draw(); } });
+
+  document.title = me.name + " · Front Office";
+  document.getElementById("team").textContent = me.name;
+  document.getElementById("sub").textContent = `${L.settings.name} · Week ${L.week} · ${me.wins}-${me.losses}${me.ties ? "-" + me.ties : ""} · ${ord(me.seed)} seed`;
+  const age = (Date.now() - Date.parse(L.updated_utc)) / 36e5;
+  document.getElementById("fresh").innerHTML = `Updated ${esc(L.updated_et)}` + (age > 3 ? `<br><span class="chip warn">${Math.round(age)} hours old. Reopen with “Open dashboard” to refresh.</span>` : "")
+    + (L.warnings?.length ? `<br><span class="chip bad">Last pull had problems</span>` : "");
+  draw();
+})();
+</script>
+</body>
+</html>

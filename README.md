@@ -4,6 +4,7 @@ A self-updating snapshot of my ESPN fantasy football league, so any AI assistant
 
 - **Data:** the `data/` folder, refreshed about every hour by GitHub Actions.
 - **Instructions for AI assistants:** [AGENTS.md](AGENTS.md).
+- **Dashboard:** double-click `Open dashboard.cmd` in a copy of this repo on your computer. It fetches the latest pull and opens `dashboard.html` in your browser.
 - **Refresh now:** Actions tab → "Pull league data" → "Run workflow".
 
 ## If the data stops updating
