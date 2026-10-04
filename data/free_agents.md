@@ -1,6 +1,6 @@
 # Free agents
 
-Updated: Sun Oct 04 2026, 10:51 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:55 AM ET · NFL week 4 · The Re-Todds
 
 Unrostered players (free agents and players on waivers), most-rostered first.
 
@@ -12,7 +12,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Baker Mayfield | QB | TB | OUT | GB (#12 vs QB) | 0.0 | 0 | 11.7 | 35.1 | 13.9 |  | 10 | 35.72 | -0.89 |
 | Jaxson Dart | QB | NYG | INJURY_RESERVE | ARI (#29 vs QB) | 0.0 | 0 | 13.7 | 27.4 | 0.0 |  | 8 | 35.24 | -0.96 |
-| Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | -2.4 | 6.5 | 25.9 | 14.0 | 19.9 | 13 | 23.15 | -0.12 |
+| Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | -0.9 | 6.8 | 27.4 | 14.0 | 19.9 | 13 | 23.15 | -0.12 |
 | Marcus Mariota | QB | WSH | QUESTIONABLE | IND (#28 vs QB) | 18.6 | 5.3 | 11.5 | 34.5 | 9.3 | 13.0 | 7 | 20.79 | 1.23 |
 | Malik Willis | QB | MIA |  | MIN (#7 vs QB) | 11.8 | 0 | 13.1 | 39.2 | 14.2 |  | 6 | 11.05 | -0.25 |
 | Jacoby Brissett | QB | ARI |  | NYG (#17 vs QB) | 16.0 | 0 | 16.2 | 48.6 | 15.4 | 18.8 | 14 | 9.65 | 0.53 |
@@ -139,7 +139,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Lions D/ST | D/ST | DET |  | CAR (#7 vs D/ST) | 4.6 | 0 | 2.7 | 8.0 | 3.6 | 19.1 | 6 | 40.45 | -0.87 |
 | Chargers D/ST | D/ST | LAC |  | SEA (#14 vs D/ST) | 4.0 | 0 | 5.7 | 17.0 | 3.3 |  | 7 | 18.36 | -0.38 |
 | Cowboys D/ST | D/ST | DAL |  | HOU (#16 vs D/ST) | 4.3 | 0 | 0.3 | 1.0 | 3.2 | 19.2 | 14 | 6.4 | -0.01 |
-| Commanders D/ST | D/ST | WSH |  | IND (#17 vs D/ST) | 6.3 | 14.0 | 6.0 | 24.0 | 4.0 | 10.9 | 7 | 4.13 | 0.59 |
+| Commanders D/ST | D/ST | WSH |  | IND (#17 vs D/ST) | 6.3 | 12.0 | 5.5 | 22.0 | 4.0 | 10.9 | 7 | 4.13 | 0.59 |
 | Titans D/ST | D/ST | TEN |  | BAL (#3 vs D/ST) | 2.3 | 0 | 4.7 | 14.0 | 3.4 |  | 9 | 1.76 | -0.13 |
 | Colts D/ST | D/ST | IND |  | WSH (#10 vs D/ST) | 4.5 | 8.0 | 1.0 | 4.0 | 3.6 | 16.4 | 13 | 1.52 | 0.04 |
 | Dolphins D/ST | D/ST | MIA |  | MIN (#17 vs D/ST) | 3.4 | 0 | 1.3 | 4.0 | 2.1 |  | 6 | 0.56 | 0.0 |

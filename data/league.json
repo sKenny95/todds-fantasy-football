@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-04T14:51:45+00:00",
- "updated_et": "Sun Oct 04 2026, 10:51 AM ET",
+ "updated_utc": "2026-10-04T14:55:06+00:00",
+ "updated_et": "Sun Oct 04 2026, 10:55 AM ET",
  "league_id": 1241185,
  "season": 2026,
  "week": 4,
@@ -4329,8 +4329,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "TE",
-     "season_pts": 41.6,
-     "season_avg": 10.4,
+     "season_pts": 43.5,
+     "season_avg": 10.9,
      "proj_season_pts": 170.0,
      "proj_avg": 12.2,
      "bye_week": 13,
@@ -4339,7 +4339,7 @@
      "week": {
       "slot": "TE",
       "proj": 13.0,
-      "pts": 2.2,
+      "pts": 4.1,
       "opp": "WSH",
       "opp_rank_vs_pos": 31,
       "bye": false,
@@ -8034,8 +8034,8 @@
    {
     "id": 15,
     "name": "Thr Short Bus",
-    "score": 23.8,
-    "proj": 126.14
+    "score": 25.7,
+    "proj": 127.83
    }
   ],
   [
@@ -8057,7 +8057,7 @@
     "id": 14,
     "name": "The Ghee-talians",
     "score": 10.0,
-    "proj": 128.02
+    "proj": 127.69
    },
    {
     "id": 17,
@@ -8077,7 +8077,7 @@
     "id": 16,
     "name": "Cook'n brown rice",
     "score": 4.6,
-    "proj": 118.85
+    "proj": 118.63
    }
   ],
   [
@@ -8091,7 +8091,7 @@
     "id": 2,
     "name": "Brock Hard for TDs",
     "score": 7.5,
-    "proj": 127.14
+    "proj": 126.79
    }
   ],
   [
@@ -8178,8 +8178,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 25.9,
-    "season_avg": 6.5,
+    "season_pts": 27.4,
+    "season_avg": 6.8,
     "proj_season_pts": 196.5,
     "proj_avg": 14.0,
     "bye_week": 13,
@@ -8188,7 +8188,7 @@
     "week": {
      "slot": "FA",
      "proj": 15.2,
-     "pts": -2.4,
+     "pts": -0.9,
      "opp": "WSH",
      "opp_rank_vs_pos": 31,
      "bye": false,
@@ -11248,8 +11248,8 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 24.0,
-    "season_avg": 6.0,
+    "season_pts": 22.0,
+    "season_avg": 5.5,
     "proj_season_pts": 68.8,
     "proj_avg": 4.0,
     "bye_week": 7,
@@ -11258,7 +11258,7 @@
     "week": {
      "slot": "FA",
      "proj": 6.3,
-     "pts": 14.0,
+     "pts": 12.0,
      "opp": "IND",
      "opp_rank_vs_pos": 17,
      "bye": false,

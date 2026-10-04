@@ -1,6 +1,6 @@
 # All rosters
 
-Updated: Sun Oct 04 2026, 10:51 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:55 AM ET · NFL week 4 · The Re-Todds
 
 Proj and Opp are for this week. Avg/gm and Season pts are season to date.
 
@@ -8,7 +8,7 @@ Proj and Opp are for this week. Avg/gm and Season pts are season to date.
 
 Owner Alex · 3-0-0 · seed 1 · 415.2 PF · waiver rank 1
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -35,7 +35,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, 
 
 Owner Nick · 3-0-0 · seed 2 · 303.3 PF · waiver rank 11
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -62,7 +62,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, 
 
 Owner Christian · 3-0-0 · seed 3 · 380.5 PF · waiver rank 10
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -89,7 +89,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, 
 
 Owner Sina · 2-1-0 · seed 4 · 412.2 PF · waiver rank 6
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 5/5, TE 3/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -116,7 +116,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 5/5, TE 3/2, K 2/2, 
 
 Owner Toby · 2-1-0 · seed 5 · 364.1 PF · waiver rank 3
 
-Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -143,7 +143,7 @@ Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, 
 
 Owner Victor · 1-2-0 · seed 6 · 402.4 PF · waiver rank 7
 
-Players held against the position limit: QB 3/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -170,7 +170,7 @@ Players held against the position limit: QB 3/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, 
 
 Owner Dunbarr · 1-2-0 · seed 7 · 312.0 PF · waiver rank 4
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -179,7 +179,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, 
 | RB | Quinshon Judkins | RB | CLE |  | PIT (#21 vs RB) | 12.5 | 21.6 | 12.1 | 48.3 | 12.7 |  | 11 | 94.75 | -0.01 |
 | WR | Emeka Egbuka | WR | TB |  | GB (#22 vs WR) | 11.2 | 0 | 10.9 | 32.8 | 11.5 | 29.9 | 10 | 96.75 | -0.08 |
 | WR | Jordan Addison | WR | MIN |  | MIA (#5 vs WR) | 14.8 | 0 | 8.0 | 24.1 | 11.4 | 16.2 | 6 | 82.9 | 2.24 |
-| TE | Tyler Warren | TE | IND |  | WSH (#31 vs TE) | 13.0 | 2.2 | 10.4 | 41.6 | 12.2 | 3.9 | 13 | 98.88 | 0.01 |
+| TE | Tyler Warren | TE | IND |  | WSH (#31 vs TE) | 13.0 | 4.1 | 10.9 | 43.5 | 12.2 | 3.9 | 13 | 98.88 | 0.01 |
 | RB/WR/TE | Nico Collins | WR | HOU |  | DAL (#13 vs WR) | 15.3 | 0 | 21.2 | 21.2 | 15.0 | 10.9 | 8 | 99.0 | 0.06 |
 | D/ST | Bills D/ST | D/ST | BUF |  | NE (#30 vs D/ST) | 6.4 | 0 | 4.0 | 12.0 | 3.8 | 5.6 | 7 | 46.22 | 2.83 |
 | K | Will Reichard | K | MIN |  | MIA (#11 vs K) | 9.1 | 0 | 11.0 | 33.0 | 8.7 | 5.8 | 6 | 39.84 | 0.89 |
@@ -197,7 +197,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, 
 
 Owner Spencer · 1-2-0 · seed 8 · 302.3 PF · waiver rank 5
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -224,7 +224,7 @@ Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, 
 
 Owner devin · 1-2-0 · seed 9 · 288.4 PF · waiver rank 12
 
-Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -251,7 +251,7 @@ Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, 
 
 Owner Aziz · 1-2-0 · seed 10 · 283.9 PF · waiver rank 8
 
-Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -278,7 +278,7 @@ Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, 
 
 Owner Yovani · 0-3-0 · seed 11 · 335.0 PF · waiver rank 9
 
-Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -305,7 +305,7 @@ Players held against the position limit: QB 2/2, RB 5/4, WR 5/5, TE 2/2, K 2/2, 
 
 Owner Andy · 0-3-0 · seed 12 · 240.0 PF · waiver rank 2
 
-Players held against the position limit: QB 2/2, RB 4/4, WR 6/5, TE 2/2, K 2/2, D/ST 2/2
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

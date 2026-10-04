@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 10:51 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 10:55 AM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -27,11 +27,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 23.8 | 126.14 |
+| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 25.7 | 127.83 |
 | Christian McCracker | 16.5 | 118.03 | vs | The Slim Reapers | 0.0 | 115.94 |
-| The Ghee-talians | 10.0 | 128.02 | vs | Big Papa | 0.0 | 133.28 |
-| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 4.6 | 118.85 |
-| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 7.5 | 127.14 |
+| The Ghee-talians | 10.0 | 127.69 | vs | Big Papa | 0.0 | 133.28 |
+| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 4.6 | 118.63 |
+| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 7.5 | 126.79 |
 | the blind side | 0.0 | 116.74 | vs | GioDoesCokeOnKamara | 12.9 | 106.94 |
 
 ## My schedule
@@ -57,7 +57,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 - 12 teams, 14-week regular season, 6 playoff teams (seeding: H2H_RECORD).
 - Roster slots: QB×1, RB×2, WR×2, TE×1, D/ST×1, K×1, BE×8, IR×1, RB/WR/TE×1.
-- Position limits (the most a roster may hold, starters and bench together): QB 2, RB 4, WR 5, TE 2, K 2, D/ST 2.
+- Position limits (the most a roster may hold, starters and bench together; a player in the IR slot does not count): QB 2, RB 4, WR 5, TE 2, K 2, D/ST 2.
 - IR slot: only for a player ESPN marks Out or IR. A pickup cannot go straight to IR. He has to be added to a normal roster spot first, then moved.
 - Waivers: waiver priority order (no bidding). Process days: SATURDAY, MONDAY, THURSDAY, WEDNESDAY, SUNDAY, FRIDAY. Season add limit: none.
 - Trades: deadline Wed Nov 25, 01:00 PM ET, 48-hour review, 0 veto votes required.
