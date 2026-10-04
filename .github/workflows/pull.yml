@@ -53,3 +53,21 @@ jobs:
           mkdir -p site
           cp dashboard.html site/index.html
           openssl enc -aes-256-cbc -pbkdf2 -iter 600000 -md sha256 -salt -pass env:DASHBOARD_PASSWORD -in data/league.json -out site/league.enc
+      - name: Publish the locked copy
+        env:
+          SITE_DEPLOY_KEY: ${{ secrets.SITE_DEPLOY_KEY }}
+        run: |
+          # Goes to the separate todds-front-office repo as a single commit, so its history never grows.
+          if [ ! -d site ] || [ -z "$SITE_DEPLOY_KEY" ]; then exit 0; fi
+          mkdir -p ~/.ssh
+          echo "$SITE_DEPLOY_KEY" > ~/.ssh/site_key
+          chmod 600 ~/.ssh/site_key
+          ssh-keyscan -t ed25519 github.com >> ~/.ssh/known_hosts 2>/dev/null
+          cd site
+          touch .nojekyll
+          git init -q -b main
+          git config user.name "league-bot"
+          git config user.email "league-bot@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Update"
+          GIT_SSH_COMMAND="ssh -i ~/.ssh/site_key -o IdentitiesOnly=yes" git push -q -f git@github.com:sKenny95/todds-front-office.git main
