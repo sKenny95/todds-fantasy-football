@@ -1,6 +1,6 @@
 # Free agents
 
-Updated: Sun Oct 04 2026, 01:48 PM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 02:06 PM ET · NFL week 4 · The Re-Todds
 
 Unrostered players (free agents and players on waivers), most-rostered first.
 
@@ -15,13 +15,13 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | 7.9 | 9.1 | 36.3 | 14.0 | 19.9 | 13 | 23.15 | -0.1 |
 | Marcus Mariota | QB | WSH | DOUBTFUL | IND (#28 vs QB) | 18.6 | 5.3 | 11.5 | 34.5 | 9.3 | 13.0 | 7 | 20.79 | 1.03 |
 | Malik Willis | QB | MIA |  | MIN (#7 vs QB) | 11.8 | 0 | 13.1 | 39.2 | 14.2 |  | 6 | 10.97 | -0.3 |
-| Jacoby Brissett | QB | ARI |  | NYG (#17 vs QB) | 16.0 | 3.9 | 13.1 | 52.5 | 15.4 | 18.8 | 14 | 9.93 | 0.73 |
+| Jacoby Brissett | QB | ARI |  | NYG (#17 vs QB) | 16.0 | 4.1 | 13.2 | 52.7 | 15.4 | 18.8 | 14 | 9.93 | 0.73 |
 | Cam Ward | QB | TEN |  | BAL (#15 vs QB) | 12.8 | 1.2 | 10.6 | 42.4 | 13.6 |  | 9 | 6.1 | -0.12 |
 | Michael Penix Jr. | QB | ATL |  | NO (#20 vs QB) | 14.7 | 0 | 14.0 | 14.0 | 14.3 | 23.6 | 11 | 5.87 | 0.18 |
 | Fernando Mendoza | QB | LV |  | KC (#1 vs QB) | 0.0 | 0 | 0.0 | 0.0 | 15.6 |  | 13 | 4.38 | -0.08 |
-| Jameis Winston | QB | NYG |  | ARI (#29 vs QB) | 14.9 | 2.0 | 3.6 | 10.7 | 13.4 | 25.2 | 8 | 2.8 | 0.01 |
+| Jameis Winston | QB | NYG |  | ARI (#29 vs QB) | 14.9 | 2.2 | 3.6 | 10.9 | 13.4 | 25.2 | 8 | 2.8 | 0.01 |
 | Case Keenum | QB | CHI |  | NYJ (#10 vs QB) | 0.0 | 0.0 | 24.5 | 24.5 | 0.0 |  | 10 | 2.64 | -0.64 |
-| Jalon Daniels | QB | TB |  | GB (#12 vs QB) | 14.8 | 0.0 | -0.5 | -1.1 | 7.2 | 25.9 | 10 | 1.56 | 0.13 |
+| Jalon Daniels | QB | TB |  | GB (#12 vs QB) | 14.8 | 2.0 | 0.5 | 0.9 | 7.2 | 25.9 | 10 | 1.56 | 0.13 |
 | J.J. McCarthy | QB | NYG |  | ARI (#29 vs QB) | 0.0 | 0.0 | 0.0 | 0.0 | 13.4 |  | 8 | 1.48 | 0.01 |
 | Carson Wentz | QB | MIN |  | MIA (#24 vs QB) | 0.0 | 0 | 8.5 | 25.5 | 0.0 |  | 6 | 1.45 | -0.09 |
 | Shedeur Sanders | QB | CLE |  | PIT (#4 vs QB) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |  | 11 | 1.39 | 0.0 |
@@ -39,14 +39,14 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Isiah Pacheco | RB | DET | INJURY_RESERVE | CAR (#30 vs RB) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 6 | 22.65 | -0.44 |
 | Mike Washington Jr. | RB | LV |  | KC (#14 vs RB) | 3.2 | 0 | 5.4 | 16.2 | 3.2 | 49.6 | 13 | 21.33 | -0.26 |
 | Keaton Mitchell | RB | LAC |  | SEA (#5 vs RB) | 4.8 | 0 | 6.5 | 19.5 | 5.3 | 48.4 | 7 | 18.2 | -0.09 |
-| Chris Rodriguez Jr. | RB | JAX |  | CIN (#13 vs RB) | 5.0 | 0.0 | 4.4 | 13.3 | 5.0 | 50.5 | 7 | 17.29 | -0.28 |
-| Tank Bigsby | RB | PHI |  | LAR (#11 vs RB) | 2.9 | 1.0 | 3.1 | 12.6 | 3.1 |  | 10 | 15.65 | -0.52 |
+| Chris Rodriguez Jr. | RB | JAX |  | CIN (#13 vs RB) | 5.0 | 1.0 | 3.6 | 14.3 | 5.0 | 50.5 | 7 | 17.29 | -0.28 |
+| Tank Bigsby | RB | PHI |  | LAR (#11 vs RB) | 2.9 | 1.1 | 3.2 | 12.7 | 3.1 |  | 10 | 15.65 | -0.52 |
 | Justice Hill | RB | BAL |  | TEN (#19 vs RB) | 5.4 | 0.0 | 3.6 | 10.9 | 5.2 | 47.5 | 13 | 11.92 | -0.23 |
 | Dylan Sampson | RB | CLE | INJURY_RESERVE | PIT (#21 vs RB) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |  | 11 | 9.9 | -0.01 |
-| Chris Brooks | RB | GB |  | TB (#12 vs RB) | 3.9 | 4.5 | 3.1 | 12.4 | 3.1 |  | 11 | 8.56 | -0.53 |
+| Chris Brooks | RB | GB | QUESTIONABLE | TB (#12 vs RB) | 3.9 | 4.5 | 3.1 | 12.4 | 3.1 |  | 11 | 8.56 | -0.53 |
 | Isaiah Davis | RB | NYJ |  | CHI (#15 vs RB) | 9.3 | 0.0 | 0.0 | 0.0 | 9.3 | 35.1 | 13 | 8.44 | 0.47 |
 | Samaje Perine | RB | CIN |  | JAX (#10 vs RB) | 5.1 | 0.6 | 3.5 | 14.2 | 5.2 | 48.9 | 6 | 7.62 | -0.15 |
-| Kaleb Johnson | RB | GB |  | TB (#12 vs RB) | 7.2 | 0.4 | 1.6 | 6.2 | 4.1 | 41.0 | 11 | 6.2 | -0.06 |
+| Kaleb Johnson | RB | GB |  | TB (#12 vs RB) | 7.2 | 0.3 | 1.5 | 6.1 | 4.1 | 41.0 | 11 | 6.2 | -0.06 |
 | Ray Davis | RB | BUF |  | NE (#20 vs RB) | 1.4 | 1.7 | 0.5 | 2.0 | 1.5 |  | 7 | 5.23 | -0.15 |
 | Devin Singletary | RB | NYG | OUT | ARI (#6 vs RB) | 0.0 | 0.0 | 7.3 | 14.7 | 0.0 |  | 8 | 4.61 | -0.35 |
 | James Conner | RB | ARI | INJURY_RESERVE | NYG (#22 vs RB) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |  | 14 | 3.15 | 0.09 |
@@ -68,11 +68,11 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Michael Pittman Jr. | WR | PIT |  | CLE (#25 vs WR) | 9.7 | 3.5 | 5.3 | 15.9 | 10.1 |  | 9 | 78.25 | -0.03 |
 | Travis Hunter | WR | JAX |  | CIN (#14 vs WR) | 0.8 | 0.0 | 0.5 | 2.1 | 0.8 |  | 7 | 37.93 | -0.89 |
 | Jayden Reed | WR | GB | INJURY_RESERVE | TB (#8 vs WR) | 0.0 | 0.0 | 3.2 | 6.4 | 0.0 |  | 11 | 37.71 | -1.78 |
-| Rashod Bateman | WR | BAL |  | TEN (#18 vs WR) | 8.0 | 0.0 | 9.2 | 27.5 | 7.8 | 53.6 | 13 | 24.22 | -0.66 |
+| Rashod Bateman | WR | BAL |  | TEN (#18 vs WR) | 8.0 | 3.8 | 7.8 | 31.3 | 7.8 | 53.6 | 13 | 24.22 | -0.66 |
 | Caleb Douglas | WR | MIA | OUT | MIN (#23 vs WR) | 0.0 | 0 | 9.2 | 18.3 | 8.5 |  | 6 | 18.37 | -0.77 |
 | Jalen McMillan | WR | TB | INJURY_RESERVE | GB (#22 vs WR) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |  | 10 | 16.37 | -0.57 |
 | Jerry Jeudy | WR | CLE |  | PIT (#7 vs WR) | 4.6 | 6.6 | 2.8 | 11.2 | 4.7 |  | 11 | 15.14 | -0.02 |
-| Mack Hollins | WR | NE |  | BUF (#28 vs WR) | 9.7 | 1.8 | 7.3 | 29.4 | 6.2 | 43.1 | 11 | 13.65 | 1.33 |
+| Mack Hollins | WR | NE |  | BUF (#28 vs WR) | 9.7 | 5.4 | 8.2 | 33.0 | 6.2 | 43.1 | 11 | 13.65 | 1.33 |
 | Cooper Kupp | WR | SEA |  | LAC (#18 vs WR) | 6.8 | 0 | 8.0 | 24.1 | 6.7 | 60.8 | 11 | 12.79 | 0.32 |
 | Calvin Ridley | WR | TEN |  | BAL (#26 vs WR) | 2.4 | 0.0 | 1.8 | 5.5 | 2.4 |  | 9 | 11.8 | -0.36 |
 | Kayshon Boutte | WR | HOU |  | DAL (#13 vs WR) | 5.2 | 0.0 | 4.6 | 13.9 | 4.9 |  | 8 | 8.92 | -0.35 |
@@ -101,32 +101,32 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Hunter Henry | TE | NE |  | BUF (#10 vs TE) | 8.9 | 6.6 | 5.2 | 20.7 | 8.6 | 16.1 | 11 | 43.64 | -0.67 |
-| Brenton Strange | TE | JAX |  | CIN (#28 vs TE) | 8.0 | 5.7 | 6.5 | 25.9 | 8.0 | 19.4 | 7 | 16.7 | -0.09 |
+| Brenton Strange | TE | JAX |  | CIN (#28 vs TE) | 8.0 | 7.9 | 7.0 | 28.1 | 8.0 | 19.4 | 7 | 16.7 | -0.09 |
 | Michael Mayer | TE | LV |  | KC (#19 vs TE) | 6.5 | 0 | 8.9 | 26.7 | 6.2 | 25.5 | 13 | 12.09 | -0.38 |
 | Mike Gesicki | TE | CIN |  | JAX (#5 vs TE) | 7.4 | 0.0 | 10.5 | 31.5 | 7.4 | 23.2 | 6 | 9.62 | 0.07 |
 | Oronde Gadsden | TE | LAC |  | SEA (#12 vs TE) | 7.1 | 0 | 5.0 | 15.0 | 6.4 | 24.6 | 7 | 6.77 | -0.46 |
 | Evan Engram | TE | DEN |  | SF (#11 vs TE) | 5.3 | 0 | 5.7 | 17.0 | 5.3 |  | 10 | 3.67 | -0.1 |
 | Gunnar Helm | TE | TEN |  | BAL (#14 vs TE) | 7.1 | 0.0 | 4.5 | 13.5 | 7.2 | 25.2 | 9 | 3.42 | -0.06 |
-| Cade Otton | TE | TB |  | GB (#13 vs TE) | 7.9 | 2.3 | 6.3 | 25.3 | 8.0 | 20.6 | 10 | 3.14 | 0.01 |
+| Cade Otton | TE | TB |  | GB (#13 vs TE) | 7.9 | 3.9 | 6.7 | 26.9 | 8.0 | 20.6 | 10 | 3.14 | 0.01 |
 | David Njoku | TE | LAC | INJURY_RESERVE | SEA (#12 vs TE) | 0.0 | 0 | 6.3 | 12.7 | 0.0 |  | 7 | 2.45 | -0.07 |
 | Zach Ertz | TE | PHI |  | LAR (#4 vs TE) | 4.4 | 1.8 | 1.9 | 3.7 | 4.4 |  | 10 | 2.1 | -0.03 |
 | Greg Dulcich | TE | MIA |  | MIN (#9 vs TE) | 6.3 | 0 | 6.0 | 18.0 | 6.8 |  | 6 | 1.68 | -0.02 |
 | Noah Fant | TE | NO | QUESTIONABLE | ATL (#24 vs TE) | 4.5 | 0 | 10.9 | 32.6 | 4.4 |  | 8 | 1.61 | -0.05 |
 | Darnell Washington | TE | PIT |  | CLE (#20 vs TE) | 4.2 | 11.7 | 6.7 | 26.9 | 4.3 |  | 9 | 1.27 | 0.0 |
 | Cole Kmet | TE | CHI |  | NYJ (#6 vs TE) | 2.7 | 1.7 | 3.3 | 13.2 | 2.6 |  | 10 | 0.93 | -0.02 |
-| Dawson Knox | TE | BUF |  | NE (#1 vs TE) | 3.3 | 1.5 | 3.3 | 13.2 | 3.4 |  | 7 | 0.86 | -0.01 |
+| Dawson Knox | TE | BUF |  | NE (#1 vs TE) | 3.3 | 3.3 | 3.8 | 15.0 | 3.4 |  | 7 | 0.86 | -0.01 |
 
 ## K
 
 | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Dominic Zvada | K | NYG |  | ARI (#5 vs K) | 8.7 | 8.0 | 8.0 | 32.0 | 8.1 | 15.8 | 8 | 2.17 | 0.02 |
-| Andy Borregales | K | NE |  | BUF (#20 vs K) | 7.2 | 1.0 | 5.2 | 21.0 | 7.2 |  | 11 | 1.84 | -0.03 |
+| Andy Borregales | K | NE |  | BUF (#20 vs K) | 7.2 | 2.0 | 5.5 | 22.0 | 7.2 |  | 11 | 1.84 | -0.03 |
 | Drew Stevens | K | WSH |  | IND (#29 vs K) | 8.4 | 7.0 | 7.8 | 31.0 | 8.1 | 19.2 | 7 | 0.57 | 0.01 |
 | Chad Ryland | K | ARI |  | NYG (#1 vs K) | 8.0 | 2.0 | 8.0 | 32.0 | 8.0 | 20.8 | 14 | 0.49 | 0.01 |
 | Andre Szmyt | K | CLE |  | PIT (#21 vs K) | 7.4 | 12.0 | 9.5 | 38.0 | 7.5 |  | 11 | 0.49 | 0.0 |
 | Joey Slye | K | TEN |  | BAL (#24 vs K) | 7.0 | 1.0 | 3.5 | 14.0 | 7.3 |  | 9 | 0.47 | -0.01 |
-| Jason Sanders | K | NYJ |  | CHI (#7 vs K) | 7.7 | 0.0 | 6.0 | 24.0 | 7.9 |  | 13 | 0.37 | 0.0 |
+| Jason Sanders | K | NYJ |  | CHI (#7 vs K) | 7.7 | 3.0 | 6.8 | 27.0 | 7.9 |  | 13 | 0.37 | 0.0 |
 | Riley Patterson | K | MIA |  | MIN (#22 vs K) | 6.6 | 0 | 5.7 | 17.0 | 7.4 |  | 6 | 0.33 | 0.0 |
 | Justin Tucker | K | BAL |  | TEN (#28 vs K) | 0 | 0.0 | 0.0 | 0.0 | 0 |  | 13 | 0.23 | 0.0 |
 | Blake Grupe | K | None |  | BYE | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  |  | 0.19 | -0.01 |
@@ -140,7 +140,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Chargers D/ST | D/ST | LAC |  | SEA (#14 vs D/ST) | 4.0 | 0 | 5.7 | 17.0 | 3.3 |  | 7 | 18.19 | -0.51 |
 | Cowboys D/ST | D/ST | DAL |  | HOU (#16 vs D/ST) | 4.3 | 7.0 | 2.0 | 8.0 | 3.2 | 19.2 | 14 | 6.42 | 0.01 |
 | Commanders D/ST | D/ST | WSH |  | IND (#17 vs D/ST) | 6.3 | 7.0 | 4.2 | 17.0 | 4.0 | 10.9 | 7 | 4.13 | 0.52 |
-| Titans D/ST | D/ST | TEN |  | BAL (#3 vs D/ST) | 2.3 | 5.0 | 4.8 | 19.0 | 3.4 |  | 9 | 1.71 | -0.18 |
+| Titans D/ST | D/ST | TEN |  | BAL (#3 vs D/ST) | 2.3 | 3.0 | 4.2 | 17.0 | 3.4 |  | 9 | 1.71 | -0.18 |
 | Colts D/ST | D/ST | IND |  | WSH (#10 vs D/ST) | 4.5 | 7.0 | 0.8 | 3.0 | 3.6 | 16.4 | 13 | 1.52 | 0.03 |
 | Dolphins D/ST | D/ST | MIA |  | MIN (#17 vs D/ST) | 3.4 | 0 | 1.3 | 4.0 | 2.1 |  | 6 | 0.56 | 0.0 |
 
