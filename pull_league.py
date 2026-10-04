@@ -138,6 +138,9 @@ def trade_dict(t, team_names, player_map):
         "type": t.get("type"),
         "status": t.get("status"),
         "team": team_names.get(t.get("teamId"), t.get("teamId")),
+        "proposed_ms": t.get("proposedDate") or 0,
+        # ESPN leaves old offers marked PENDING after they lapse, so check the expiry ourselves
+        "expired": bool(t.get("expirationDate")) and t["expirationDate"] < datetime.now(timezone.utc).timestamp() * 1000,
         "proposed": et(t.get("proposedDate")),
         "processed": et(t.get("processDate")),
         "expires": et(t.get("expirationDate")),
@@ -165,7 +168,7 @@ def fetch_trades(league, week, team_names):
             continue
         seen.add(t.get("id"))
         trades.append(trade_dict(t, team_names, league.player_map))
-    return trades
+    return sorted(trades, key=lambda t: t["proposed_ms"], reverse=True)
 
 
 def fetch_activity(league):
@@ -350,8 +353,8 @@ def offer_text(t):
 def render_activity(snap):
     out = [header(snap, "Trades and recent moves")]
     proposals = [t for t in snap["trades"] if t["type"] == "TRADE_PROPOSAL"]
-    open_offers = [t for t in proposals if t["status"] == "PENDING"]
-    old_offers = [t for t in proposals if t["status"] != "PENDING"]
+    open_offers = [t for t in proposals if t["status"] == "PENDING" and not t["expired"]]
+    old_offers = [t for t in proposals if t not in open_offers]
     accepted = [t for t in snap["trades"] if t["type"] == "TRADE_ACCEPT"]
     upheld = {t["related_id"]: t for t in snap["trades"] if t["type"] == "TRADE_UPHOLD"}
     declined = [t for t in snap["trades"] if t["type"] == "TRADE_DECLINE"]
@@ -364,7 +367,7 @@ def render_activity(snap):
                      [[t["proposed"], t["team"], offer_text(t), t["expires"]] for t in open_offers]) if open_offers else "None visible.")
     out.append("\n### Offers that were withdrawn, replaced or expired\n")
     out.append(table(["Proposed", "Offered by", "Offer", "Status"],
-                     [[t["proposed"], t["team"], offer_text(t), t["status"]] for t in old_offers]) if old_offers else "None.")
+                     [[t["proposed"], t["team"], offer_text(t), "EXPIRED" if t["status"] == "PENDING" else t["status"]] for t in old_offers]) if old_offers else "None.")
     out.append("\n### Accepted trades\n")
     out.append("ESPN leaves the players off these records. Match them by date to the TRADE rows in the table below.\n")
     rows = []
