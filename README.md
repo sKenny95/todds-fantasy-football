@@ -5,6 +5,7 @@ A self-updating snapshot of my ESPN fantasy football league, so any AI assistant
 - **Data:** the `data/` folder, refreshed about every hour by GitHub Actions.
 - **Instructions for AI assistants:** [AGENTS.md](AGENTS.md).
 - **Dashboard:** double-click `Open dashboard.cmd` in a copy of this repo on your computer. It fetches the latest pull and opens `dashboard.html` in your browser.
+- **Dashboard on your phone:** https://skenny95.github.io/todds-front-office/ and enter the dashboard password once. To change the password, change the `DASHBOARD_PASSWORD` secret in this repo's settings; the next pull re-locks the data with it.
 - **Refresh now:** Actions tab → "Pull league data" → "Run workflow".
 
 ## If the data stops updating

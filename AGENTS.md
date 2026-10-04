@@ -42,4 +42,6 @@ Everything is in `data/`, rewritten on every pull:
 
 `dashboard.html` is Sina's own view of this data (lineup check, trade ideas, waiver picks, league table). It reads `data/league.js` and does its sums in the browser, so change it there if Sina asks for a dashboard change.
 
+The phone copy: after each pull the workflow copies `dashboard.html` and an encrypted copy of `data/league.json` (`league.enc`, locked with the `DASHBOARD_PASSWORD` secret) to the separate repo `sKenny95/todds-front-office`, served at https://skenny95.github.io/todds-front-office/. The page asks for the password once per device. That repo is rebuilt as a single commit on every pull, so never edit it by hand; change `dashboard.html` here. Never put readable league data in it.
+
 `pull_league.py` runs on GitHub Actions (`.github/workflows/pull.yml`), reads the league from ESPN using two login cookies stored as repo secrets (`ESPN_S2`, `ESPN_SWID`), and commits the files in `data/`. It is read-only. Never print, log or commit those cookie values.
