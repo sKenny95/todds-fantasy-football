@@ -1,13 +1,11 @@
 {
- "updated_utc": "2026-10-04T14:14:19+00:00",
- "updated_et": "Sun Oct 04 2026, 10:14 AM ET",
+ "updated_utc": "2026-10-04T14:15:34+00:00",
+ "updated_et": "Sun Oct 04 2026, 10:15 AM ET",
  "league_id": 1241185,
  "season": 2026,
  "week": 4,
  "my_team_id": 2,
- "warnings": [
-  "extras: ESPNUnknownError: ESPN returned an HTTP 400"
- ],
+ "warnings": [],
  "settings": {
   "name": "The Re-Todds",
   "teams": 12,
@@ -354,7 +352,13 @@
       "opp_rank_vs_pos": 1,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 2,
+     "expert_rank": 3.0,
+     "pct_change": 0.0,
+     "preseason_avg": 19.5,
+     "waivers_until": null
     },
     {
      "id": 4567048,
@@ -378,7 +382,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 2,
+     "expert_rank": 3.4,
+     "pct_change": 0.0,
+     "preseason_avg": 17.3,
+     "waivers_until": null
     },
     {
      "id": 4372016,
@@ -402,7 +412,13 @@
       "opp_rank_vs_pos": 11,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 38,
+     "expert_rank": 25.5,
+     "pct_change": -0.06,
+     "preseason_avg": 11.9,
+     "waivers_until": null
     },
     {
      "id": 4259545,
@@ -426,7 +442,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 8,
+     "expert_rank": 15.6,
+     "pct_change": 0.02,
+     "preseason_avg": 13.5,
+     "waivers_until": null
     },
     {
      "id": 4248528,
@@ -450,7 +472,13 @@
       "opp_rank_vs_pos": 8,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 5,
+     "expert_rank": 15.6,
+     "pct_change": 0.06,
+     "preseason_avg": 12.8,
+     "waivers_until": null
     },
     {
      "id": 3040151,
@@ -474,7 +502,13 @@
       "opp_rank_vs_pos": 21,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 5,
+     "expert_rank": 3.1,
+     "pct_change": 0.07,
+     "preseason_avg": 11.3,
+     "waivers_until": null
     },
     {
      "id": 3121023,
@@ -498,7 +532,13 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 21,
+     "expert_rank": null,
+     "pct_change": -0.4,
+     "preseason_avg": 10.8,
+     "waivers_until": null
     },
     {
      "id": 4429025,
@@ -522,7 +562,13 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 87,
+     "expert_rank": 49.5,
+     "pct_change": -0.75,
+     "preseason_avg": 9.4,
+     "waivers_until": null
     },
     {
      "id": 4426338,
@@ -546,7 +592,13 @@
       "opp_rank_vs_pos": 8,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 21,
+     "expert_rank": 17.4,
+     "pct_change": -0.3,
+     "preseason_avg": 18.2,
+     "waivers_until": null
     },
     {
      "id": 4241416,
@@ -570,7 +622,13 @@
       "opp_rank_vs_pos": 16,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 10,
+     "expert_rank": 9.5,
+     "pct_change": 0.13,
+     "preseason_avg": 13.4,
+     "waivers_until": null
     },
     {
      "id": 3917315,
@@ -594,7 +652,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 36,
+     "expert_rank": 9.0,
+     "pct_change": 0.45,
+     "preseason_avg": 18.4,
+     "waivers_until": null
     },
     {
      "id": 4880281,
@@ -618,7 +682,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 0,
+     "expert_rank": null,
+     "pct_change": -0.04,
+     "preseason_avg": 10.5,
+     "waivers_until": null
     },
     {
      "id": -16027,
@@ -642,7 +712,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 12,
+     "expert_rank": 11.9,
+     "pct_change": -0.38,
+     "preseason_avg": 5.6,
+     "waivers_until": null
     },
     {
      "id": 10621,
@@ -666,7 +742,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 22,
+     "expert_rank": 19.4,
+     "pct_change": -0.02,
+     "preseason_avg": 8.2,
+     "waivers_until": null
     },
     {
      "id": 4249087,
@@ -690,7 +772,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 8,
+     "expert_rank": 19.9,
+     "pct_change": 0.03,
+     "preseason_avg": 7.7,
+     "waivers_until": null
     },
     {
      "id": 4832955,
@@ -714,7 +802,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 44,
+     "expert_rank": 47.8,
+     "pct_change": -0.28,
+     "preseason_avg": 6.3,
+     "waivers_until": null
     },
     {
      "id": 4569559,
@@ -738,7 +832,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 24,
+     "expert_rank": 34.1,
+     "pct_change": 0.3,
+     "preseason_avg": 7.4,
+     "waivers_until": null
     },
     {
      "id": -16029,
@@ -762,9 +862,18 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 9,
+     "expert_rank": null,
+     "pct_change": -1.62,
+     "preseason_avg": 3.4,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 1,
+   "draft_day_rank": 12,
+   "lineup_moves": 14
   },
   {
    "id": 12,
@@ -892,7 +1001,13 @@
       "opp_rank_vs_pos": 16,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 9,
+     "expert_rank": 2.1,
+     "pct_change": 0.0,
+     "preseason_avg": 20.1,
+     "waivers_until": null
     },
     {
      "id": 4870808,
@@ -916,7 +1031,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 16,
+     "expert_rank": 11.6,
+     "pct_change": 0.01,
+     "preseason_avg": 13.7,
+     "waivers_until": null
     },
     {
      "id": 4361579,
@@ -940,7 +1061,13 @@
       "opp_rank_vs_pos": 1,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 12,
+     "expert_rank": 15.9,
+     "pct_change": -0.01,
+     "preseason_avg": 14.9,
+     "waivers_until": null
     },
     {
      "id": 4685472,
@@ -964,7 +1091,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 40,
+     "expert_rank": 11.6,
+     "pct_change": 0.02,
+     "preseason_avg": 13.2,
+     "waivers_until": null
     },
     {
      "id": 4035538,
@@ -988,7 +1121,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 19,
+     "expert_rank": 19.1,
+     "pct_change": -0.03,
+     "preseason_avg": 13.2,
+     "waivers_until": null
     },
     {
      "id": 3121422,
@@ -1012,7 +1151,13 @@
       "opp_rank_vs_pos": 20,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 37,
+     "expert_rank": null,
+     "pct_change": -0.35,
+     "preseason_avg": 12.4,
+     "waivers_until": null
     },
     {
      "id": 4360248,
@@ -1036,7 +1181,13 @@
       "opp_rank_vs_pos": 29,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 64,
+     "expert_rank": 21.0,
+     "pct_change": -0.71,
+     "preseason_avg": 10.9,
+     "waivers_until": null
     },
     {
      "id": -16034,
@@ -1060,7 +1211,13 @@
       "opp_rank_vs_pos": 5,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 21,
+     "expert_rank": 15.1,
+     "pct_change": -0.52,
+     "preseason_avg": 7.5,
+     "waivers_until": null
     },
     {
      "id": 2971573,
@@ -1084,7 +1241,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 25,
+     "expert_rank": 2.9,
+     "pct_change": -0.18,
+     "preseason_avg": 9.4,
+     "waivers_until": null
     },
     {
      "id": -16021,
@@ -1108,7 +1271,13 @@
       "opp_rank_vs_pos": 15,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 27,
+     "expert_rank": 20.5,
+     "pct_change": -1.71,
+     "preseason_avg": 6.7,
+     "waivers_until": null
     },
     {
      "id": 3150744,
@@ -1132,7 +1301,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 2,
+     "expert_rank": 14.5,
+     "pct_change": -0.03,
+     "preseason_avg": 8.6,
+     "waivers_until": null
     },
     {
      "id": 4036378,
@@ -1156,7 +1331,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 16,
+     "expert_rank": 21.9,
+     "pct_change": -0.42,
+     "preseason_avg": 16.6,
+     "waivers_until": null
     },
     {
      "id": 3116406,
@@ -1180,7 +1361,13 @@
       "opp_rank_vs_pos": null,
       "bye": true,
       "game": null
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 0,
+     "expert_rank": null,
+     "pct_change": 0.08,
+     "preseason_avg": null,
+     "waivers_until": null
     },
     {
      "id": 4373626,
@@ -1204,7 +1391,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 38,
+     "expert_rank": 38.8,
+     "pct_change": -0.37,
+     "preseason_avg": 7.6,
+     "waivers_until": null
     },
     {
      "id": 2973405,
@@ -1228,7 +1421,13 @@
       "opp_rank_vs_pos": 10,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 13,
+     "expert_rank": 41.5,
+     "pct_change": 1.12,
+     "preseason_avg": 5.8,
+     "waivers_until": null
     },
     {
      "id": 3915511,
@@ -1252,7 +1451,13 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 13,
+     "expert_rank": 7.6,
+     "pct_change": 0.0,
+     "preseason_avg": 18.8,
+     "waivers_until": null
     },
     {
      "id": 4242355,
@@ -1276,7 +1481,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 15,
+     "expert_rank": 18.5,
+     "pct_change": -0.27,
+     "preseason_avg": 9.1,
+     "waivers_until": null
     },
     {
      "id": 4569603,
@@ -1300,9 +1511,18 @@
       "opp_rank_vs_pos": 23,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 44,
+     "expert_rank": 38.2,
+     "pct_change": 2.19,
+     "preseason_avg": 7.7,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 2,
+   "draft_day_rank": 1,
+   "lineup_moves": 20
   },
   {
    "id": 14,
@@ -1430,7 +1650,13 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 5,
+     "expert_rank": 4.4,
+     "pct_change": 0.0,
+     "preseason_avg": 19.7,
+     "waivers_until": null
     },
     {
      "id": 4595348,
@@ -1454,7 +1680,13 @@
       "opp_rank_vs_pos": 29,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 59,
+     "expert_rank": 20.9,
+     "pct_change": -0.01,
+     "preseason_avg": 15.0,
+     "waivers_until": null
     },
     {
      "id": 4432620,
@@ -1478,7 +1710,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 11,
+     "expert_rank": 11.2,
+     "pct_change": 0.12,
+     "preseason_avg": 13.0,
+     "waivers_until": null
     },
     {
      "id": 4361050,
@@ -1502,7 +1740,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 8,
+     "expert_rank": 6.9,
+     "pct_change": -0.03,
+     "preseason_avg": 11.5,
+     "waivers_until": null
     },
     {
      "id": 4710714,
@@ -1526,7 +1770,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 151,
+     "expert_rank": null,
+     "pct_change": -0.59,
+     "preseason_avg": 0.0,
+     "waivers_until": null
     },
     {
      "id": -16026,
@@ -1550,7 +1800,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 4,
+     "expert_rank": 2.5,
+     "pct_change": 0.04,
+     "preseason_avg": 7.1,
+     "waivers_until": null
     },
     {
      "id": 3055899,
@@ -1574,7 +1830,13 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 10,
+     "expert_rank": 9.4,
+     "pct_change": -0.29,
+     "preseason_avg": 8.8,
+     "waivers_until": null
     },
     {
      "id": 2985659,
@@ -1598,7 +1860,13 @@
       "opp_rank_vs_pos": 13,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 30,
+     "expert_rank": null,
+     "pct_change": -0.06,
+     "preseason_avg": 8.3,
+     "waivers_until": null
     },
     {
      "id": 4685720,
@@ -1622,7 +1890,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 4,
+     "expert_rank": 5.5,
+     "pct_change": 0.78,
+     "preseason_avg": 15.4,
+     "waivers_until": null
     },
     {
      "id": -16013,
@@ -1646,7 +1920,13 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 2,
+     "expert_rank": null,
+     "pct_change": 0.38,
+     "preseason_avg": 3.8,
+     "waivers_until": null
     },
     {
      "id": 3912547,
@@ -1670,7 +1950,13 @@
       "opp_rank_vs_pos": 21,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 30,
+     "expert_rank": 16.8,
+     "pct_change": 0.97,
+     "preseason_avg": 14.6,
+     "waivers_until": null
     },
     {
      "id": 4568490,
@@ -1694,7 +1980,13 @@
       "opp_rank_vs_pos": 23,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 37,
+     "expert_rank": 28.9,
+     "pct_change": 0.01,
+     "preseason_avg": 9.9,
+     "waivers_until": null
     },
     {
      "id": 4685278,
@@ -1718,7 +2010,13 @@
       "opp_rank_vs_pos": 10,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 29,
+     "expert_rank": 26.5,
+     "pct_change": 0.03,
+     "preseason_avg": 12.7,
+     "waivers_until": null
     },
     {
      "id": 4032473,
@@ -1742,7 +2040,13 @@
       "opp_rank_vs_pos": 18,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 94,
+     "expert_rank": 52.4,
+     "pct_change": -0.49,
+     "preseason_avg": 8.9,
+     "waivers_until": null
     },
     {
      "id": 4379399,
@@ -1766,7 +2070,13 @@
       "opp_rank_vs_pos": 20,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 13,
+     "expert_rank": 7.9,
+     "pct_change": 0.0,
+     "preseason_avg": 16.8,
+     "waivers_until": null
     },
     {
      "id": 4682745,
@@ -1790,7 +2100,13 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 95,
+     "expert_rank": 43.0,
+     "pct_change": 0.66,
+     "preseason_avg": 2.1,
+     "waivers_until": null
     },
     {
      "id": 4360635,
@@ -1814,7 +2130,13 @@
       "opp_rank_vs_pos": 26,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 66,
+     "expert_rank": 25.4,
+     "pct_change": -0.01,
+     "preseason_avg": 7.5,
+     "waivers_until": null
     },
     {
      "id": 4683062,
@@ -1838,9 +2160,18 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 55,
+     "expert_rank": 41.2,
+     "pct_change": -0.35,
+     "preseason_avg": 10.8,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 3,
+   "draft_day_rank": 5,
+   "lineup_moves": 34
   },
   {
    "id": 2,
@@ -1968,7 +2299,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 1,
+     "expert_rank": 1.0,
+     "pct_change": 0.0,
+     "preseason_avg": 24.1,
+     "waivers_until": null
     },
     {
      "id": 4432665,
@@ -1992,7 +2329,13 @@
       "opp_rank_vs_pos": 19,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 17,
+     "expert_rank": 1.8,
+     "pct_change": 0.0,
+     "preseason_avg": 13.7,
+     "waivers_until": null
     },
     {
      "id": 4430737,
@@ -2016,7 +2359,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 11,
+     "expert_rank": 16.6,
+     "pct_change": 0.0,
+     "preseason_avg": 13.9,
+     "waivers_until": null
     },
     {
      "id": 4429615,
@@ -2040,7 +2389,13 @@
       "opp_rank_vs_pos": 18,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 21,
+     "expert_rank": 10.0,
+     "pct_change": -0.01,
+     "preseason_avg": 15.1,
+     "waivers_until": null
     },
     {
      "id": 4431299,
@@ -2064,7 +2419,13 @@
       "opp_rank_vs_pos": 10,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 57,
+     "expert_rank": 37.4,
+     "pct_change": -0.22,
+     "preseason_avg": 12.4,
+     "waivers_until": null
     },
     {
      "id": 4360310,
@@ -2088,7 +2449,13 @@
       "opp_rank_vs_pos": 18,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 14,
+     "expert_rank": 6.9,
+     "pct_change": 0.04,
+     "preseason_avg": 18.2,
+     "waivers_until": null
     },
     {
      "id": 3116165,
@@ -2112,7 +2479,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 54,
+     "expert_rank": 59.1,
+     "pct_change": -0.7,
+     "preseason_avg": 10.2,
+     "waivers_until": null
     },
     {
      "id": 4429096,
@@ -2136,7 +2509,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 36,
+     "expert_rank": 37.2,
+     "pct_change": -0.34,
+     "preseason_avg": 8.9,
+     "waivers_until": null
     },
     {
      "id": 3916148,
@@ -2160,7 +2539,13 @@
       "opp_rank_vs_pos": 18,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 27,
+     "expert_rank": 24.0,
+     "pct_change": 0.11,
+     "preseason_avg": 11.9,
+     "waivers_until": null
     },
     {
      "id": 2976212,
@@ -2169,8 +2554,8 @@
      "nfl": "WSH",
      "status": null,
      "slot": "WR",
-     "season_pts": 47.9,
-     "season_avg": 12.0,
+     "season_pts": 49.6,
+     "season_avg": 12.4,
      "proj_season_pts": 153.0,
      "proj_avg": 10.9,
      "bye_week": 7,
@@ -2179,12 +2564,18 @@
      "week": {
       "slot": "WR",
       "proj": 12.8,
-      "pts": 3.4,
+      "pts": 5.1,
       "opp": "IND",
       "opp_rank_vs_pos": 20,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 17,
+     "expert_rank": 27.6,
+     "pct_change": 0.28,
+     "preseason_avg": 10.2,
+     "waivers_until": null
     },
     {
      "id": 3126486,
@@ -2208,7 +2599,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 23,
+     "expert_rank": 33.5,
+     "pct_change": -0.06,
+     "preseason_avg": 11.3,
+     "waivers_until": null
     },
     {
      "id": -16030,
@@ -2232,7 +2629,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 4,
+     "expert_rank": 16.8,
+     "pct_change": 0.13,
+     "preseason_avg": 5.1,
+     "waivers_until": null
     },
     {
      "id": 4686361,
@@ -2256,7 +2659,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 18,
+     "expert_rank": 8.8,
+     "pct_change": -0.3,
+     "preseason_avg": 8.7,
+     "waivers_until": null
     },
     {
      "id": -16016,
@@ -2280,7 +2689,13 @@
       "opp_rank_vs_pos": 29,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 1,
+     "expert_rank": 1.1,
+     "pct_change": 1.05,
+     "preseason_avg": 5.9,
+     "waivers_until": null
     },
     {
      "id": 4571557,
@@ -2304,7 +2719,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 3,
+     "expert_rank": 7.1,
+     "pct_change": 1.31,
+     "preseason_avg": 8.4,
+     "waivers_until": null
     },
     {
      "id": 4570037,
@@ -2328,7 +2749,13 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 29,
+     "expert_rank": 25.9,
+     "pct_change": -1.42,
+     "preseason_avg": 6.0,
+     "waivers_until": null
     },
     {
      "id": 15864,
@@ -2352,7 +2779,13 @@
       "opp_rank_vs_pos": 16,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 17,
+     "expert_rank": 21.0,
+     "pct_change": -0.04,
+     "preseason_avg": 14.6,
+     "waivers_until": null
     },
     {
      "id": 2573401,
@@ -2376,9 +2809,18 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 25,
+     "expert_rank": 25.5,
+     "pct_change": 0.46,
+     "preseason_avg": 1.8,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 4,
+   "draft_day_rank": 7,
+   "lineup_moves": 10
   },
   {
    "id": 9,
@@ -2506,7 +2948,13 @@
       "opp_rank_vs_pos": 5,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 15,
+     "expert_rank": null,
+     "pct_change": -0.01,
+     "preseason_avg": 18.1,
+     "waivers_until": null
     },
     {
      "id": 3043078,
@@ -2530,7 +2978,13 @@
       "opp_rank_vs_pos": 19,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 4,
+     "expert_rank": 4.9,
+     "pct_change": 0.0,
+     "preseason_avg": 16.8,
+     "waivers_until": null
     },
     {
      "id": 3918298,
@@ -2554,7 +3008,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 1,
+     "expert_rank": 1.1,
+     "pct_change": 0.0,
+     "preseason_avg": 22.6,
+     "waivers_until": null
     },
     {
      "id": 4612826,
@@ -2578,7 +3038,13 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 27,
+     "expert_rank": 27.1,
+     "pct_change": -0.11,
+     "preseason_avg": 13.8,
+     "waivers_until": null
     },
     {
      "id": 4685512,
@@ -2602,7 +3068,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 48,
+     "expert_rank": null,
+     "pct_change": -3.15,
+     "preseason_avg": 10.8,
+     "waivers_until": null
     },
     {
      "id": 4432708,
@@ -2626,7 +3098,13 @@
       "opp_rank_vs_pos": 21,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 95,
+     "expert_rank": 60.9,
+     "pct_change": -0.58,
+     "preseason_avg": 9.8,
+     "waivers_until": null
     },
     {
      "id": 4241985,
@@ -2650,7 +3128,13 @@
       "opp_rank_vs_pos": 23,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 51,
+     "expert_rank": 28.2,
+     "pct_change": -0.17,
+     "preseason_avg": 11.5,
+     "waivers_until": null
     },
     {
      "id": 3953687,
@@ -2674,7 +3158,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 10,
+     "expert_rank": 2.0,
+     "pct_change": 0.0,
+     "preseason_avg": 10.0,
+     "waivers_until": null
     },
     {
      "id": 4385690,
@@ -2698,7 +3188,13 @@
       "opp_rank_vs_pos": 1,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 6,
+     "expert_rank": 7.9,
+     "pct_change": -0.01,
+     "preseason_avg": 10.4,
+     "waivers_until": null
     },
     {
      "id": 4432577,
@@ -2722,7 +3218,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 19,
+     "expert_rank": 15.8,
+     "pct_change": 0.09,
+     "preseason_avg": 15.6,
+     "waivers_until": null
     },
     {
      "id": 17427,
@@ -2746,7 +3248,13 @@
       "opp_rank_vs_pos": 11,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 13,
+     "expert_rank": 17.6,
+     "pct_change": -0.16,
+     "preseason_avg": 9.0,
+     "waivers_until": null
     },
     {
      "id": -16019,
@@ -2770,7 +3278,13 @@
       "opp_rank_vs_pos": 10,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 22,
+     "expert_rank": 11.4,
+     "pct_change": -0.31,
+     "preseason_avg": 5.2,
+     "waivers_until": null
     },
     {
      "id": 3929630,
@@ -2794,7 +3308,13 @@
       "opp_rank_vs_pos": 11,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 33,
+     "expert_rank": 15.5,
+     "pct_change": 0.0,
+     "preseason_avg": 17.0,
+     "waivers_until": null
     },
     {
      "id": 4036133,
@@ -2818,7 +3338,13 @@
       "opp_rank_vs_pos": 23,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 24,
+     "expert_rank": 17.5,
+     "pct_change": -0.25,
+     "preseason_avg": 9.4,
+     "waivers_until": null
     },
     {
      "id": 4597500,
@@ -2842,7 +3368,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 62,
+     "expert_rank": null,
+     "pct_change": -0.79,
+     "preseason_avg": 8.4,
+     "waivers_until": null
     },
     {
      "id": 3916433,
@@ -2866,7 +3398,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 30,
+     "expert_rank": 31.9,
+     "pct_change": 0.66,
+     "preseason_avg": 10.5,
+     "waivers_until": null
     },
     {
      "id": -16022,
@@ -2890,7 +3428,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 26,
+     "expert_rank": 12.8,
+     "pct_change": 0.28,
+     "preseason_avg": 3.0,
+     "waivers_until": null
     },
     {
      "id": 4429835,
@@ -2914,9 +3458,18 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 41,
+     "expert_rank": 31.0,
+     "pct_change": 7.87,
+     "preseason_avg": 2.4,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 5,
+   "draft_day_rank": 8,
+   "lineup_moves": 22
   },
   {
    "id": 8,
@@ -3044,7 +3597,13 @@
       "opp_rank_vs_pos": 18,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 1,
+     "expert_rank": 1.0,
+     "pct_change": 0.0,
+     "preseason_avg": 19.3,
+     "waivers_until": null
     },
     {
      "id": 4890973,
@@ -3068,7 +3627,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 9,
+     "expert_rank": 7.1,
+     "pct_change": 0.0,
+     "preseason_avg": 17.1,
+     "waivers_until": null
     },
     {
      "id": 4239993,
@@ -3092,7 +3657,13 @@
       "opp_rank_vs_pos": 16,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 18,
+     "expert_rank": 16.8,
+     "pct_change": 0.01,
+     "preseason_avg": 13.1,
+     "waivers_until": null
     },
     {
      "id": 4696981,
@@ -3116,7 +3687,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 21,
+     "expert_rank": 14.5,
+     "pct_change": 0.0,
+     "preseason_avg": 14.0,
+     "waivers_until": null
     },
     {
      "id": 4569618,
@@ -3140,7 +3717,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 7,
+     "expert_rank": 8.1,
+     "pct_change": 0.02,
+     "preseason_avg": 15.5,
+     "waivers_until": null
     },
     {
      "id": 4426348,
@@ -3164,7 +3747,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 27,
+     "expert_rank": null,
+     "pct_change": -0.26,
+     "preseason_avg": 19.9,
+     "waivers_until": null
     },
     {
      "id": 5083076,
@@ -3188,7 +3777,13 @@
       "opp_rank_vs_pos": 8,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 2,
+     "expert_rank": null,
+     "pct_change": -0.02,
+     "preseason_avg": 10.5,
+     "waivers_until": null
     },
     {
      "id": 16737,
@@ -3212,7 +3807,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 26,
+     "expert_rank": 24.8,
+     "pct_change": -0.09,
+     "preseason_avg": 12.4,
+     "waivers_until": null
     },
     {
      "id": 4575131,
@@ -3221,8 +3822,8 @@
      "nfl": "WSH",
      "status": null,
      "slot": "BE",
-     "season_pts": 28.9,
-     "season_avg": 7.2,
+     "season_pts": 29.1,
+     "season_avg": 7.3,
      "proj_season_pts": 120.0,
      "proj_avg": 8.6,
      "bye_week": 7,
@@ -3231,12 +3832,18 @@
      "week": {
       "slot": "BE",
       "proj": 11.1,
-      "pts": 5.2,
+      "pts": 5.4,
       "opp": "IND",
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 30,
+     "expert_rank": 25.2,
+     "pct_change": 0.9,
+     "preseason_avg": 10.6,
+     "waivers_until": null
     },
     {
      "id": 4428718,
@@ -3260,7 +3867,13 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 28,
+     "expert_rank": 45.0,
+     "pct_change": -0.31,
+     "preseason_avg": 8.2,
+     "waivers_until": null
     },
     {
      "id": 3139477,
@@ -3284,7 +3897,13 @@
       "opp_rank_vs_pos": 11,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 6,
+     "expert_rank": 4.2,
+     "pct_change": 0.02,
+     "preseason_avg": 17.5,
+     "waivers_until": null
     },
     {
      "id": 4034949,
@@ -3308,7 +3927,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 18,
+     "expert_rank": 7.0,
+     "pct_change": -0.19,
+     "preseason_avg": 9.2,
+     "waivers_until": null
     },
     {
      "id": -16012,
@@ -3332,7 +3957,13 @@
       "opp_rank_vs_pos": 12,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 9,
+     "expert_rank": 4.5,
+     "pct_change": 0.84,
+     "preseason_avg": 6.5,
+     "waivers_until": null
     },
     {
      "id": 4869461,
@@ -3356,7 +3987,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 21,
+     "expert_rank": 20.2,
+     "pct_change": -0.46,
+     "preseason_avg": 8.9,
+     "waivers_until": null
     },
     {
      "id": -16004,
@@ -3380,7 +4017,13 @@
       "opp_rank_vs_pos": 9,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 6,
+     "expert_rank": 19.9,
+     "pct_change": -0.72,
+     "preseason_avg": 4.6,
+     "waivers_until": null
     },
     {
      "id": 3117256,
@@ -3404,7 +4047,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 7,
+     "expert_rank": 13.9,
+     "pct_change": -0.67,
+     "preseason_avg": 7.7,
+     "waivers_until": null
     },
     {
      "id": 4239996,
@@ -3428,7 +4077,13 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 25,
+     "expert_rank": null,
+     "pct_change": -0.54,
+     "preseason_avg": 14.2,
+     "waivers_until": null
     },
     {
      "id": 4361741,
@@ -3452,9 +4107,18 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 2,
+     "expert_rank": 5.8,
+     "pct_change": 0.04,
+     "preseason_avg": 18.3,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 6,
+   "draft_day_rank": 2,
+   "lineup_moves": 8
   },
   {
    "id": 15,
@@ -3582,7 +4246,13 @@
       "opp_rank_vs_pos": 26,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 3,
+     "expert_rank": 2.0,
+     "pct_change": 0.0,
+     "preseason_avg": 20.8,
+     "waivers_until": null
     },
     {
      "id": 4258173,
@@ -3606,7 +4276,13 @@
       "opp_rank_vs_pos": 13,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 63,
+     "expert_rank": 10.9,
+     "pct_change": 0.06,
+     "preseason_avg": 15.5,
+     "waivers_until": null
     },
     {
      "id": 4567750,
@@ -3630,7 +4306,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 33,
+     "expert_rank": 29.9,
+     "pct_change": -0.08,
+     "preseason_avg": 14.1,
+     "waivers_until": null
     },
     {
      "id": 4431459,
@@ -3654,7 +4336,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 8,
+     "expert_rank": 3.9,
+     "pct_change": 0.01,
+     "preseason_avg": 11.6,
+     "waivers_until": null
     },
     {
      "id": 4685702,
@@ -3678,7 +4366,13 @@
       "opp_rank_vs_pos": 21,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 14,
+     "expert_rank": null,
+     "pct_change": -0.01,
+     "preseason_avg": 12.9,
+     "waivers_until": null
     },
     {
      "id": 4038941,
@@ -3702,7 +4396,13 @@
       "opp_rank_vs_pos": 5,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 26,
+     "expert_rank": 24.4,
+     "pct_change": -0.89,
+     "preseason_avg": 17.3,
+     "waivers_until": null
     },
     {
      "id": 4432710,
@@ -3726,7 +4426,13 @@
       "opp_rank_vs_pos": 29,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 39,
+     "expert_rank": 29.8,
+     "pct_change": -0.13,
+     "preseason_avg": 10.0,
+     "waivers_until": null
     },
     {
      "id": 4360078,
@@ -3750,7 +4456,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 91,
+     "expert_rank": null,
+     "pct_change": -0.52,
+     "preseason_avg": 11.3,
+     "waivers_until": null
     },
     {
      "id": 4429059,
@@ -3774,7 +4486,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 32,
+     "expert_rank": 34.2,
+     "pct_change": -0.08,
+     "preseason_avg": 6.8,
+     "waivers_until": null
     },
     {
      "id": 3116365,
@@ -3798,7 +4516,13 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 20,
+     "expert_rank": 11.1,
+     "pct_change": -0.19,
+     "preseason_avg": 10.2,
+     "waivers_until": null
     },
     {
      "id": 4362081,
@@ -3822,7 +4546,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 32,
+     "expert_rank": 20.1,
+     "pct_change": -0.65,
+     "preseason_avg": 9.2,
+     "waivers_until": null
     },
     {
      "id": 4429205,
@@ -3846,7 +4576,13 @@
       "opp_rank_vs_pos": 5,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 49,
+     "expert_rank": 16.2,
+     "pct_change": 2.12,
+     "preseason_avg": 9.9,
+     "waivers_until": null
     },
     {
      "id": 3046779,
@@ -3870,7 +4606,13 @@
       "opp_rank_vs_pos": 23,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 7,
+     "expert_rank": 10.4,
+     "pct_change": 0.15,
+     "preseason_avg": 16.5,
+     "waivers_until": null
     },
     {
      "id": 4428850,
@@ -3894,7 +4636,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 32,
+     "expert_rank": 32.0,
+     "pct_change": 4.61,
+     "preseason_avg": 8.6,
+     "waivers_until": null
     },
     {
      "id": 4567104,
@@ -3918,7 +4666,13 @@
       "opp_rank_vs_pos": 11,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 5,
+     "expert_rank": 5.8,
+     "pct_change": 0.8,
+     "preseason_avg": 8.6,
+     "waivers_until": null
     },
     {
      "id": -16018,
@@ -3942,7 +4696,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 24,
+     "expert_rank": 19.8,
+     "pct_change": -0.12,
+     "preseason_avg": 5.0,
+     "waivers_until": null
     },
     {
      "id": -16002,
@@ -3966,7 +4726,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 22,
+     "expert_rank": 5.6,
+     "pct_change": 2.52,
+     "preseason_avg": 3.7,
+     "waivers_until": null
     },
     {
      "id": 15818,
@@ -3990,9 +4756,18 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 41,
+     "expert_rank": null,
+     "pct_change": -2.61,
+     "preseason_avg": 8.9,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 7,
+   "draft_day_rank": 9,
+   "lineup_moves": 12
   },
   {
    "id": 6,
@@ -4120,7 +4895,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 89,
+     "expert_rank": 4.1,
+     "pct_change": 0.0,
+     "preseason_avg": 21.0,
+     "waivers_until": null
     },
     {
      "id": 4426502,
@@ -4144,7 +4925,13 @@
       "opp_rank_vs_pos": 12,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 20,
+     "expert_rank": 7.1,
+     "pct_change": 0.01,
+     "preseason_avg": 14.9,
+     "waivers_until": null
     },
     {
      "id": 4361307,
@@ -4168,7 +4955,13 @@
       "opp_rank_vs_pos": 16,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 1,
+     "expert_rank": 1.2,
+     "pct_change": 0.0,
+     "preseason_avg": 15.2,
+     "waivers_until": null
     },
     {
      "id": 4426388,
@@ -4192,7 +4985,13 @@
       "opp_rank_vs_pos": 1,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 53,
+     "expert_rank": 33.1,
+     "pct_change": -0.1,
+     "preseason_avg": 11.9,
+     "waivers_until": null
     },
     {
      "id": 4569987,
@@ -4216,7 +5015,13 @@
       "opp_rank_vs_pos": 8,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 7,
+     "expert_rank": null,
+     "pct_change": -0.04,
+     "preseason_avg": 12.0,
+     "waivers_until": null
     },
     {
      "id": 4047365,
@@ -4240,7 +5045,13 @@
       "opp_rank_vs_pos": 12,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 0,
+     "expert_rank": null,
+     "pct_change": -0.23,
+     "preseason_avg": 15.0,
+     "waivers_until": null
     },
     {
      "id": 4371733,
@@ -4264,7 +5075,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 63,
+     "expert_rank": 37.1,
+     "pct_change": -0.52,
+     "preseason_avg": 9.4,
+     "waivers_until": null
     },
     {
      "id": 4870795,
@@ -4288,7 +5105,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 101,
+     "expert_rank": 39.4,
+     "pct_change": 2.53,
+     "preseason_avg": 9.0,
+     "waivers_until": null
     },
     {
      "id": 12483,
@@ -4312,7 +5135,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 15,
+     "expert_rank": 15.4,
+     "pct_change": -0.04,
+     "preseason_avg": 17.7,
+     "waivers_until": null
     },
     {
      "id": -16023,
@@ -4336,7 +5165,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 3,
+     "expert_rank": null,
+     "pct_change": -0.02,
+     "preseason_avg": 7.4,
+     "waivers_until": null
     },
     {
      "id": 4373678,
@@ -4360,7 +5195,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 71,
+     "expert_rank": 42.4,
+     "pct_change": -0.29,
+     "preseason_avg": 10.3,
+     "waivers_until": null
     },
     {
      "id": 4689936,
@@ -4384,7 +5225,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 22,
+     "expert_rank": 11.1,
+     "pct_change": -0.35,
+     "preseason_avg": 8.6,
+     "waivers_until": null
     },
     {
      "id": 4361411,
@@ -4408,7 +5255,13 @@
       "opp_rank_vs_pos": 20,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 10,
+     "expert_rank": null,
+     "pct_change": -0.02,
+     "preseason_avg": 8.7,
+     "waivers_until": null
     },
     {
      "id": 17372,
@@ -4432,7 +5285,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 10,
+     "expert_rank": null,
+     "pct_change": -0.03,
+     "preseason_avg": 8.2,
+     "waivers_until": null
     },
     {
      "id": 8439,
@@ -4456,7 +5315,13 @@
       "opp_rank_vs_pos": 19,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 9,
+     "expert_rank": null,
+     "pct_change": 0.0,
+     "preseason_avg": 13.6,
+     "waivers_until": null
     },
     {
      "id": -16003,
@@ -4480,7 +5345,13 @@
       "opp_rank_vs_pos": 13,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 8,
+     "expert_rank": 6.6,
+     "pct_change": 3.57,
+     "preseason_avg": 4.0,
+     "waivers_until": null
     },
     {
      "id": 3149687,
@@ -4504,7 +5375,13 @@
       "opp_rank_vs_pos": 12,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 68,
+     "expert_rank": null,
+     "pct_change": -0.42,
+     "preseason_avg": 4.6,
+     "waivers_until": null
     },
     {
      "id": 4682648,
@@ -4528,9 +5405,18 @@
       "opp_rank_vs_pos": 29,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 86,
+     "expert_rank": 57.1,
+     "pct_change": -0.22,
+     "preseason_avg": 6.2,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 10,
+   "draft_day_rank": 4,
+   "lineup_moves": 9
   },
   {
    "id": 4,
@@ -4658,7 +5544,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 6,
+     "expert_rank": 5.5,
+     "pct_change": 0.0,
+     "preseason_avg": 19.4,
+     "waivers_until": null
     },
     {
      "id": 4426354,
@@ -4682,7 +5574,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 35,
+     "expert_rank": 16.2,
+     "pct_change": 0.0,
+     "preseason_avg": 14.0,
+     "waivers_until": null
     },
     {
      "id": 4427366,
@@ -4706,7 +5604,13 @@
       "opp_rank_vs_pos": 15,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 15,
+     "expert_rank": null,
+     "pct_change": -0.12,
+     "preseason_avg": 15.5,
+     "waivers_until": null
     },
     {
      "id": 3915416,
@@ -4730,7 +5634,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 31,
+     "expert_rank": 22.4,
+     "pct_change": 0.01,
+     "preseason_avg": 12.5,
+     "waivers_until": null
     },
     {
      "id": 4431452,
@@ -4754,7 +5664,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 34,
+     "expert_rank": 14.4,
+     "pct_change": -0.44,
+     "preseason_avg": 19.8,
+     "waivers_until": null
     },
     {
      "id": 4430027,
@@ -4778,7 +5694,13 @@
       "opp_rank_vs_pos": 18,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 12,
+     "expert_rank": 7.1,
+     "pct_change": -0.03,
+     "preseason_avg": 10.8,
+     "waivers_until": null
     },
     {
      "id": 4047650,
@@ -4802,7 +5724,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 19,
+     "expert_rank": null,
+     "pct_change": -0.03,
+     "preseason_avg": 11.5,
+     "waivers_until": null
     },
     {
      "id": 4432773,
@@ -4826,7 +5754,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 77,
+     "expert_rank": 51.8,
+     "pct_change": -0.73,
+     "preseason_avg": 10.4,
+     "waivers_until": null
     },
     {
      "id": 4361432,
@@ -4850,7 +5784,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 64,
+     "expert_rank": 42.8,
+     "pct_change": -0.49,
+     "preseason_avg": 8.8,
+     "waivers_until": null
     },
     {
      "id": 2577417,
@@ -4874,7 +5814,13 @@
       "opp_rank_vs_pos": 26,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 8,
+     "expert_rank": 12.5,
+     "pct_change": -0.04,
+     "preseason_avg": 17.8,
+     "waivers_until": null
     },
     {
      "id": -16017,
@@ -4898,7 +5844,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 6,
+     "expert_rank": null,
+     "pct_change": -1.36,
+     "preseason_avg": 6.2,
+     "waivers_until": null
     },
     {
      "id": 4697815,
@@ -4922,7 +5874,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 26,
+     "expert_rank": null,
+     "pct_change": -0.9,
+     "preseason_avg": 7.7,
+     "waivers_until": null
     },
     {
      "id": -16025,
@@ -4946,7 +5904,13 @@
       "opp_rank_vs_pos": 21,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 14,
+     "expert_rank": 11.9,
+     "pct_change": -1.24,
+     "preseason_avg": 5.8,
+     "waivers_until": null
     },
     {
      "id": 3050478,
@@ -4970,7 +5934,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 29,
+     "expert_rank": null,
+     "pct_change": -0.08,
+     "preseason_avg": 8.1,
+     "waivers_until": null
     },
     {
      "id": 2576925,
@@ -4994,7 +5964,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 13,
+     "expert_rank": 14.5,
+     "pct_change": 3.75,
+     "preseason_avg": 5.9,
+     "waivers_until": null
     },
     {
      "id": 4696044,
@@ -5018,7 +5994,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 55,
+     "expert_rank": 46.8,
+     "pct_change": -0.7,
+     "preseason_avg": 7.6,
+     "waivers_until": null
     },
     {
      "id": 4887558,
@@ -5042,7 +6024,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 58,
+     "expert_rank": 26.0,
+     "pct_change": 10.63,
+     "preseason_avg": 1.8,
+     "waivers_until": null
     },
     {
      "id": 4568263,
@@ -5066,9 +6054,18 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 5,
+     "expert_rank": 14.6,
+     "pct_change": 0.18,
+     "preseason_avg": 7.6,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 8,
+   "draft_day_rank": 6,
+   "lineup_moves": 30
   },
   {
    "id": 16,
@@ -5196,7 +6193,13 @@
       "opp_rank_vs_pos": 10,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 20,
+     "expert_rank": 10.4,
+     "pct_change": -0.01,
+     "preseason_avg": 17.0,
+     "waivers_until": null
     },
     {
      "id": 4428331,
@@ -5220,7 +6223,13 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 25,
+     "expert_rank": 13.0,
+     "pct_change": 0.0,
+     "preseason_avg": 14.8,
+     "waivers_until": null
     },
     {
      "id": 4882093,
@@ -5244,7 +6253,13 @@
       "opp_rank_vs_pos": 13,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 18,
+     "expert_rank": 20.2,
+     "pct_change": 0.02,
+     "preseason_avg": 11.3,
+     "waivers_until": null
     },
     {
      "id": -16014,
@@ -5268,7 +6283,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 15,
+     "expert_rank": 8.2,
+     "pct_change": 0.05,
+     "preseason_avg": 6.1,
+     "waivers_until": null
     },
     {
      "id": 4360761,
@@ -5292,7 +6313,13 @@
       "opp_rank_vs_pos": 21,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 22,
+     "expert_rank": 20.5,
+     "pct_change": 0.28,
+     "preseason_avg": 10.5,
+     "waivers_until": null
     },
     {
      "id": 2473037,
@@ -5316,7 +6343,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 18,
+     "expert_rank": 3.6,
+     "pct_change": -0.05,
+     "preseason_avg": 9.3,
+     "waivers_until": null
     },
     {
      "id": 4426385,
@@ -5340,7 +6373,13 @@
       "opp_rank_vs_pos": 17,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 0,
+     "expert_rank": null,
+     "pct_change": 1.68,
+     "preseason_avg": 12.1,
+     "waivers_until": null
     },
     {
      "id": 4360689,
@@ -5364,7 +6403,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 3,
+     "expert_rank": 4.8,
+     "pct_change": 0.26,
+     "preseason_avg": 17.2,
+     "waivers_until": null
     },
     {
      "id": 3917232,
@@ -5388,7 +6433,13 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 14,
+     "expert_rank": 13.6,
+     "pct_change": -0.12,
+     "preseason_avg": 8.5,
+     "waivers_until": null
     },
     {
      "id": -16020,
@@ -5412,7 +6463,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 12,
+     "expert_rank": 12.9,
+     "pct_change": -0.02,
+     "preseason_avg": 5.1,
+     "waivers_until": null
     },
     {
      "id": 16800,
@@ -5436,7 +6493,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 6,
+     "expert_rank": 13.4,
+     "pct_change": 0.02,
+     "preseason_avg": 13.6,
+     "waivers_until": null
     },
     {
      "id": 4688813,
@@ -5460,7 +6523,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 13:30:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 34,
+     "expert_rank": 19.4,
+     "pct_change": 0.59,
+     "preseason_avg": 9.6,
+     "waivers_until": null
     },
     {
      "id": 4596448,
@@ -5484,7 +6553,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 17,
+     "expert_rank": 13.4,
+     "pct_change": 0.01,
+     "preseason_avg": 14.2,
+     "waivers_until": null
     },
     {
      "id": 4576297,
@@ -5508,7 +6583,13 @@
       "opp_rank_vs_pos": 15,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 22,
+     "expert_rank": 18.6,
+     "pct_change": 0.27,
+     "preseason_avg": 6.6,
+     "waivers_until": null
     },
     {
      "id": 4431611,
@@ -5532,7 +6613,13 @@
       "opp_rank_vs_pos": 10,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 20,
+     "expert_rank": null,
+     "pct_change": -0.13,
+     "preseason_avg": 19.5,
+     "waivers_until": null
     },
     {
      "id": 5083315,
@@ -5556,7 +6643,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 11,
+     "expert_rank": 11.0,
+     "pct_change": 0.2,
+     "preseason_avg": 7.9,
+     "waivers_until": null
     },
     {
      "id": 4569587,
@@ -5580,7 +6673,13 @@
       "opp_rank_vs_pos": 26,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 38,
+     "expert_rank": 45.2,
+     "pct_change": -0.07,
+     "preseason_avg": 9.9,
+     "waivers_until": null
     },
     {
      "id": 4241474,
@@ -5604,9 +6703,18 @@
       "opp_rank_vs_pos": 26,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 31,
+     "expert_rank": 45.8,
+     "pct_change": 0.14,
+     "preseason_avg": 5.7,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 9,
+   "draft_day_rank": 11,
+   "lineup_moves": 13
   },
   {
    "id": 1,
@@ -5734,7 +6842,13 @@
       "opp_rank_vs_pos": 31,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 3,
+     "expert_rank": 6.4,
+     "pct_change": 0.0,
+     "preseason_avg": 17.0,
+     "waivers_until": null
     },
     {
      "id": 4685382,
@@ -5758,7 +6872,13 @@
       "opp_rank_vs_pos": 5,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 23,
+     "expert_rank": 22.5,
+     "pct_change": -0.07,
+     "preseason_avg": 14.0,
+     "waivers_until": null
     },
     {
      "id": 4241478,
@@ -5782,7 +6902,13 @@
       "opp_rank_vs_pos": 14,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 12,
+     "expert_rank": null,
+     "pct_change": -0.13,
+     "preseason_avg": 14.0,
+     "waivers_until": null
     },
     {
      "id": 3916387,
@@ -5806,7 +6932,13 @@
       "opp_rank_vs_pos": 2,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 10,
+     "expert_rank": 1.9,
+     "pct_change": 0.0,
+     "preseason_avg": 21.3,
+     "waivers_until": null
     },
     {
      "id": 4572680,
@@ -5830,7 +6962,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 28,
+     "expert_rank": 13.6,
+     "pct_change": -0.28,
+     "preseason_avg": 10.4,
+     "waivers_until": null
     },
     {
      "id": 4871023,
@@ -5854,7 +6992,13 @@
       "opp_rank_vs_pos": 26,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 45,
+     "expert_rank": 28.9,
+     "pct_change": 0.09,
+     "preseason_avg": 11.8,
+     "waivers_until": null
     },
     {
      "id": 4360569,
@@ -5878,7 +7022,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 56,
+     "expert_rank": null,
+     "pct_change": -0.36,
+     "preseason_avg": 9.9,
+     "waivers_until": null
     },
     {
      "id": 4701936,
@@ -5902,7 +7052,13 @@
       "opp_rank_vs_pos": 8,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 14,
+     "expert_rank": 22.6,
+     "pct_change": 0.13,
+     "preseason_avg": 11.1,
+     "waivers_until": null
     },
     {
      "id": -16007,
@@ -5926,7 +7082,13 @@
       "opp_rank_vs_pos": 1,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 11,
+     "expert_rank": null,
+     "pct_change": -0.54,
+     "preseason_avg": 7.4,
+     "waivers_until": null
     },
     {
      "id": 3929645,
@@ -5950,7 +7112,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 4,
+     "expert_rank": 8.2,
+     "pct_change": 0.92,
+     "preseason_avg": 8.9,
+     "waivers_until": null
     },
     {
      "id": -16009,
@@ -5974,7 +7142,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 29,
+     "expert_rank": 7.8,
+     "pct_change": 1.64,
+     "preseason_avg": 4.1,
+     "waivers_until": null
     },
     {
      "id": 4366031,
@@ -5998,7 +7172,13 @@
       "opp_rank_vs_pos": 13,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 0,
+     "expert_rank": null,
+     "pct_change": -0.17,
+     "preseason_avg": null,
+     "waivers_until": null
     },
     {
      "id": 4360234,
@@ -6022,7 +7202,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 1,
+     "expert_rank": 12.0,
+     "pct_change": 0.46,
+     "preseason_avg": 8.6,
+     "waivers_until": null
     },
     {
      "id": 3051909,
@@ -6046,7 +7232,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 22,
+     "expert_rank": 7.6,
+     "pct_change": -0.01,
+     "preseason_avg": 8.5,
+     "waivers_until": null
     },
     {
      "id": 3042519,
@@ -6070,7 +7262,13 @@
       "opp_rank_vs_pos": 32,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 22,
+     "expert_rank": 12.1,
+     "pct_change": 0.43,
+     "preseason_avg": 12.0,
+     "waivers_until": null
     },
     {
      "id": 4711533,
@@ -6094,7 +7292,13 @@
       "opp_rank_vs_pos": 3,
       "bye": false,
       "game": "2026-10-04 20:05:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 45,
+     "expert_rank": 30.8,
+     "pct_change": -0.29,
+     "preseason_avg": 2.0,
+     "waivers_until": null
     },
     {
      "id": 4685247,
@@ -6118,7 +7322,13 @@
       "opp_rank_vs_pos": 15,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 40,
+     "expert_rank": 20.6,
+     "pct_change": 1.4,
+     "preseason_avg": 7.7,
+     "waivers_until": null
     },
     {
      "id": 3122840,
@@ -6142,9 +7352,18 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 5,
+     "expert_rank": null,
+     "pct_change": 0.0,
+     "preseason_avg": 12.9,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 11,
+   "draft_day_rank": 3,
+   "lineup_moves": 38
   },
   {
    "id": 5,
@@ -6272,7 +7491,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 121,
+     "expert_rank": null,
+     "pct_change": -0.08,
+     "preseason_avg": 15.2,
+     "waivers_until": null
     },
     {
      "id": 4361370,
@@ -6296,7 +7521,13 @@
       "opp_rank_vs_pos": 27,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 4,
+     "expert_rank": 4.8,
+     "pct_change": 0.01,
+     "preseason_avg": 15.8,
+     "waivers_until": null
     },
     {
      "id": 4723086,
@@ -6320,7 +7551,13 @@
       "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 47,
+     "expert_rank": 12.5,
+     "pct_change": -0.18,
+     "preseason_avg": 11.6,
+     "waivers_until": null
     },
     {
      "id": 4569173,
@@ -6344,7 +7581,13 @@
       "opp_rank_vs_pos": 29,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 28,
+     "expert_rank": 24.2,
+     "pct_change": -0.07,
+     "preseason_avg": 13.8,
+     "waivers_until": null
     },
     {
      "id": 4040715,
@@ -6368,7 +7611,13 @@
       "opp_rank_vs_pos": 13,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 12,
+     "expert_rank": 10.6,
+     "pct_change": -0.02,
+     "preseason_avg": 19.7,
+     "waivers_until": null
     },
     {
      "id": 3128429,
@@ -6392,7 +7641,13 @@
       "opp_rank_vs_pos": 11,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 75,
+     "expert_rank": 35.2,
+     "pct_change": -0.15,
+     "preseason_avg": 11.7,
+     "waivers_until": null
     },
     {
      "id": 4870653,
@@ -6416,7 +7671,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 36,
+     "expert_rank": null,
+     "pct_change": -0.02,
+     "preseason_avg": 10.1,
+     "waivers_until": null
     },
     {
      "id": -16033,
@@ -6440,7 +7701,13 @@
       "opp_rank_vs_pos": 25,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 18,
+     "expert_rank": 2.4,
+     "pct_change": 0.54,
+     "preseason_avg": 7.2,
+     "waivers_until": null
     },
     {
      "id": 4608686,
@@ -6464,7 +7731,13 @@
       "opp_rank_vs_pos": 24,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 24,
+     "expert_rank": 33.5,
+     "pct_change": -0.21,
+     "preseason_avg": 9.8,
+     "waivers_until": null
     },
     {
      "id": 4574716,
@@ -6488,7 +7761,13 @@
       "opp_rank_vs_pos": 16,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 25,
+     "expert_rank": 16.9,
+     "pct_change": -0.3,
+     "preseason_avg": 9.2,
+     "waivers_until": null
     },
     {
      "id": 4697745,
@@ -6512,7 +7791,13 @@
       "opp_rank_vs_pos": 28,
       "bye": false,
       "game": "2026-10-04 17:00:00"
-     }
+     },
+     "acquired": "DRAFT",
+     "pos_rank": 7,
+     "expert_rank": 4.1,
+     "pct_change": 0.64,
+     "preseason_avg": 8.9,
+     "waivers_until": null
     },
     {
      "id": 4832800,
@@ -6536,7 +7821,13 @@
       "opp_rank_vs_pos": 7,
       "bye": false,
       "game": "2026-10-02 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 8,
+     "expert_rank": null,
+     "pct_change": -0.04,
+     "preseason_avg": 10.0,
+     "waivers_until": null
     },
     {
      "id": 14880,
@@ -6560,7 +7851,13 @@
       "opp_rank_vs_pos": 1,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 11,
+     "expert_rank": 25.2,
+     "pct_change": 0.2,
+     "preseason_avg": 12.4,
+     "waivers_until": null
     },
     {
      "id": 3054850,
@@ -6584,7 +7881,13 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 54,
+     "expert_rank": 27.0,
+     "pct_change": 0.75,
+     "preseason_avg": 7.2,
+     "waivers_until": null
     },
     {
      "id": 4695883,
@@ -6608,7 +7911,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-05 00:20:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 10,
+     "expert_rank": null,
+     "pct_change": -0.22,
+     "preseason_avg": 11.6,
+     "waivers_until": null
     },
     {
      "id": 15847,
@@ -6632,7 +7941,13 @@
       "opp_rank_vs_pos": 30,
       "bye": false,
       "game": "2026-10-04 20:25:00"
-     }
+     },
+     "acquired": "TRADE",
+     "pos_rank": 3,
+     "expert_rank": 5.0,
+     "pct_change": 0.04,
+     "preseason_avg": 10.4,
+     "waivers_until": null
     },
     {
      "id": -16001,
@@ -6656,7 +7971,13 @@
       "opp_rank_vs_pos": 22,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 18,
+     "expert_rank": 15.9,
+     "pct_change": 0.02,
+     "preseason_avg": 3.0,
+     "waivers_until": null
     },
     {
      "id": 4599739,
@@ -6680,9 +8001,18 @@
       "opp_rank_vs_pos": 4,
       "bye": false,
       "game": "2026-10-06 00:15:00"
-     }
+     },
+     "acquired": "ADD",
+     "pos_rank": 53,
+     "expert_rank": 36.9,
+     "pct_change": 0.62,
+     "preseason_avg": 0.0,
+     "waivers_until": null
     }
-   ]
+   ],
+   "espn_proj_rank": 12,
+   "draft_day_rank": 10,
+   "lineup_moves": 21
   }
  ],
  "matchups": [
@@ -6697,7 +8027,7 @@
     "id": 15,
     "name": "Thr Short Bus",
     "score": 21.6,
-    "proj": 126.91
+    "proj": 126.76
    }
   ],
   [
@@ -6719,7 +8049,7 @@
     "id": 14,
     "name": "The Ghee-talians",
     "score": 2.5,
-    "proj": 125.14
+    "proj": 124.91
    },
    {
     "id": 17,
@@ -6739,7 +8069,7 @@
     "id": 16,
     "name": "Cook'n brown rice",
     "score": 3.1,
-    "proj": 120.43
+    "proj": 120.28
    }
   ],
   [
@@ -6752,8 +8082,8 @@
    {
     "id": 2,
     "name": "Brock Hard for TDs",
-    "score": 3.4,
-    "proj": 127.98
+    "score": 5.1,
+    "proj": 129.44
    }
   ],
   [
@@ -6795,7 +8125,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 24,
+    "expert_rank": null,
+    "pct_change": -0.81,
+    "preseason_avg": 16.7,
+    "waivers_until": null
    },
    {
     "id": 4689114,
@@ -6819,7 +8155,13 @@
      "opp_rank_vs_pos": 29,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 31,
+    "expert_rank": null,
+    "pct_change": -0.87,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 3917792,
@@ -6843,7 +8185,13 @@
      "opp_rank_vs_pos": 31,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 29,
+    "expert_rank": 19.9,
+    "pct_change": -0.12,
+    "preseason_avg": 15.0,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 2576980,
@@ -6867,7 +8215,13 @@
      "opp_rank_vs_pos": 28,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 28,
+    "expert_rank": 13.0,
+    "pct_change": 1.27,
+    "preseason_avg": null,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4242512,
@@ -6891,7 +8245,13 @@
      "opp_rank_vs_pos": 7,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 23,
+    "expert_rank": null,
+    "pct_change": -0.23,
+    "preseason_avg": 14.8,
+    "waivers_until": null
    },
    {
     "id": 2578570,
@@ -6915,7 +8275,13 @@
      "opp_rank_vs_pos": 17,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 18,
+    "expert_rank": 18.8,
+    "pct_change": 0.47,
+    "preseason_avg": 14.3,
+    "waivers_until": null
    },
    {
     "id": 4688380,
@@ -6939,7 +8305,13 @@
      "opp_rank_vs_pos": 15,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 22,
+    "expert_rank": null,
+    "pct_change": -0.1,
+    "preseason_avg": 13.0,
+    "waivers_until": null
    },
    {
     "id": 4360423,
@@ -6963,7 +8335,13 @@
      "opp_rank_vs_pos": 20,
      "bye": false,
      "game": "2026-10-06 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 35,
+    "expert_rank": 23.6,
+    "pct_change": 0.1,
+    "preseason_avg": 14.3,
+    "waivers_until": null
    },
    {
     "id": 4837248,
@@ -6987,7 +8365,13 @@
      "opp_rank_vs_pos": 1,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 44,
+    "expert_rank": null,
+    "pct_change": -0.06,
+    "preseason_avg": 14.3,
+    "waivers_until": null
    },
    {
     "id": 15168,
@@ -7011,7 +8395,13 @@
      "opp_rank_vs_pos": 10,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 33,
+    "expert_rank": null,
+    "pct_change": -0.55,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 2969939,
@@ -7035,7 +8425,13 @@
      "opp_rank_vs_pos": 29,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 37,
+    "expert_rank": 25.2,
+    "pct_change": -0.01,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4596472,
@@ -7059,7 +8455,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 57,
+    "expert_rank": 25.9,
+    "pct_change": 0.07,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 2573079,
@@ -7083,7 +8485,13 @@
      "opp_rank_vs_pos": 24,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 32,
+    "expert_rank": null,
+    "pct_change": -0.07,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4433970,
@@ -7107,7 +8515,13 @@
      "opp_rank_vs_pos": 29,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": 0.01,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4432762,
@@ -7131,7 +8545,13 @@
      "opp_rank_vs_pos": 4,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 44,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 0.0,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    }
   ],
   "RB": [
@@ -7157,7 +8577,13 @@
      "opp_rank_vs_pos": 8,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 61,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": 10.7,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4429160,
@@ -7181,7 +8607,13 @@
      "opp_rank_vs_pos": 3,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 29,
+    "expert_rank": null,
+    "pct_change": -2.0,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4678008,
@@ -7205,7 +8637,13 @@
      "opp_rank_vs_pos": 16,
      "bye": false,
      "game": "2026-10-05 00:20:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 64,
+    "expert_rank": null,
+    "pct_change": -0.89,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4429023,
@@ -7229,7 +8667,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 43,
+    "expert_rank": 43.8,
+    "pct_change": -1.35,
+    "preseason_avg": 7.0,
+    "waivers_until": null
    },
    {
     "id": 4428557,
@@ -7253,7 +8697,13 @@
      "opp_rank_vs_pos": 18,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 49,
+    "expert_rank": 40.4,
+    "pct_change": -0.61,
+    "preseason_avg": 9.1,
+    "waivers_until": null
    },
    {
     "id": 4702555,
@@ -7277,7 +8727,13 @@
      "opp_rank_vs_pos": 23,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 46,
+    "expert_rank": null,
+    "pct_change": -0.64,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4361529,
@@ -7301,7 +8757,13 @@
      "opp_rank_vs_pos": 30,
      "bye": false,
      "game": "2026-10-05 00:20:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": -0.34,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4686658,
@@ -7325,7 +8787,13 @@
      "opp_rank_vs_pos": 14,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 41,
+    "expert_rank": 49.6,
+    "pct_change": -0.19,
+    "preseason_avg": 3.5,
+    "waivers_until": null
    },
    {
     "id": 4596334,
@@ -7349,7 +8817,13 @@
      "opp_rank_vs_pos": 5,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 35,
+    "expert_rank": 48.4,
+    "pct_change": -0.06,
+    "preseason_avg": 7.3,
+    "waivers_until": null
    },
    {
     "id": 4362619,
@@ -7373,7 +8847,13 @@
      "opp_rank_vs_pos": 13,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 52,
+    "expert_rank": 50.5,
+    "pct_change": -0.23,
+    "preseason_avg": 5.6,
+    "waivers_until": null
    },
    {
     "id": 4429013,
@@ -7397,7 +8877,13 @@
      "opp_rank_vs_pos": 11,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 57,
+    "expert_rank": null,
+    "pct_change": -0.44,
+    "preseason_avg": 3.2,
+    "waivers_until": null
    },
    {
     "id": 4038441,
@@ -7421,7 +8907,13 @@
      "opp_rank_vs_pos": 19,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 58,
+    "expert_rank": 47.5,
+    "pct_change": -0.19,
+    "preseason_avg": 7.5,
+    "waivers_until": null
    },
    {
     "id": 5081397,
@@ -7445,7 +8937,13 @@
      "opp_rank_vs_pos": 21,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 101,
+    "expert_rank": null,
+    "pct_change": -0.01,
+    "preseason_avg": 0.0,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4695404,
@@ -7469,7 +8967,13 @@
      "opp_rank_vs_pos": 15,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 101,
+    "expert_rank": 35.1,
+    "pct_change": 0.28,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4241457,
@@ -7493,7 +8997,13 @@
      "opp_rank_vs_pos": 6,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 73,
+    "expert_rank": 43.2,
+    "pct_change": 0.12,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 3116389,
@@ -7517,7 +9027,13 @@
      "opp_rank_vs_pos": 10,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 50,
+    "expert_rank": 48.9,
+    "pct_change": -0.12,
+    "preseason_avg": 6.0,
+    "waivers_until": null
    },
    {
     "id": 4819231,
@@ -7541,7 +9057,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 73,
+    "expert_rank": 41.0,
+    "pct_change": -0.07,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4429501,
@@ -7565,7 +9087,13 @@
      "opp_rank_vs_pos": 20,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 98,
+    "expert_rank": null,
+    "pct_change": -0.12,
+    "preseason_avg": 2.3,
+    "waivers_until": null
    },
    {
     "id": 4040761,
@@ -7589,7 +9117,13 @@
      "opp_rank_vs_pos": 6,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 47,
+    "expert_rank": null,
+    "pct_change": -0.27,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 3045147,
@@ -7613,7 +9147,13 @@
      "opp_rank_vs_pos": 22,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": 0.1,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4360516,
@@ -7637,7 +9177,13 @@
      "opp_rank_vs_pos": 6,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 122,
+    "expert_rank": null,
+    "pct_change": -0.04,
+    "preseason_avg": 0.4,
+    "waivers_until": null
    },
    {
     "id": 3068267,
@@ -7661,7 +9207,13 @@
      "opp_rank_vs_pos": 27,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": 49.8,
+    "pct_change": 0.22,
+    "preseason_avg": null,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 5081508,
@@ -7685,7 +9237,13 @@
      "opp_rank_vs_pos": 8,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 101,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 0.0,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 3915411,
@@ -7709,7 +9267,13 @@
      "opp_rank_vs_pos": 20,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 67,
+    "expert_rank": null,
+    "pct_change": 0.01,
+    "preseason_avg": 5.3,
+    "waivers_until": null
    },
    {
     "id": 4430968,
@@ -7733,7 +9297,13 @@
      "opp_rank_vs_pos": 5,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 80,
+    "expert_rank": null,
+    "pct_change": -0.03,
+    "preseason_avg": 1.4,
+    "waivers_until": null
    },
    {
     "id": 4601080,
@@ -7757,7 +9327,13 @@
      "opp_rank_vs_pos": 21,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 34,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 3.9,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4685397,
@@ -7781,7 +9357,13 @@
      "opp_rank_vs_pos": 28,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 88,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4239934,
@@ -7805,7 +9387,13 @@
      "opp_rank_vs_pos": 16,
      "bye": false,
      "game": "2026-10-05 00:20:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 75,
+    "expert_rank": null,
+    "pct_change": -0.03,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4686468,
@@ -7829,7 +9417,13 @@
      "opp_rank_vs_pos": 2,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 85,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 2.9,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4912274,
@@ -7853,7 +9447,13 @@
      "opp_rank_vs_pos": 30,
      "bye": false,
      "game": "2026-10-05 00:20:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 61,
+    "expert_rank": null,
+    "pct_change": 0.02,
+    "preseason_avg": 5.6,
+    "waivers_until": null
    }
   ],
   "WR": [
@@ -7879,7 +9479,13 @@
      "opp_rank_vs_pos": 25,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 76,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": 11.8,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4362249,
@@ -7903,7 +9509,13 @@
      "opp_rank_vs_pos": 8,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 115,
+    "expert_rank": null,
+    "pct_change": -1.37,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4685415,
@@ -7927,7 +9539,13 @@
      "opp_rank_vs_pos": 14,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 137,
+    "expert_rank": null,
+    "pct_change": -0.66,
+    "preseason_avg": 2.9,
+    "waivers_until": null
    },
    {
     "id": 4360939,
@@ -7951,7 +9569,13 @@
      "opp_rank_vs_pos": 18,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 43,
+    "expert_rank": 53.6,
+    "pct_change": -0.53,
+    "preseason_avg": 7.1,
+    "waivers_until": null
    },
    {
     "id": 4869645,
@@ -7975,7 +9599,13 @@
      "opp_rank_vs_pos": 23,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 67,
+    "expert_rank": null,
+    "pct_change": -0.65,
+    "preseason_avg": 9.5,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4430834,
@@ -7999,7 +9629,13 @@
      "opp_rank_vs_pos": 22,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 151,
+    "expert_rank": null,
+    "pct_change": -0.43,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4241463,
@@ -8023,7 +9659,13 @@
      "opp_rank_vs_pos": 7,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 96,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": 7.5,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 2991662,
@@ -8047,7 +9689,13 @@
      "opp_rank_vs_pos": 28,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 42,
+    "expert_rank": 43.1,
+    "pct_change": 1.1,
+    "preseason_avg": 6.1,
+    "waivers_until": null
    },
    {
     "id": 2977187,
@@ -8071,7 +9719,13 @@
      "opp_rank_vs_pos": 18,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 49,
+    "expert_rank": 60.8,
+    "pct_change": 0.27,
+    "preseason_avg": 7.3,
+    "waivers_until": null
    },
    {
     "id": 3925357,
@@ -8095,7 +9749,13 @@
      "opp_rank_vs_pos": 26,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 122,
+    "expert_rank": null,
+    "pct_change": -0.28,
+    "preseason_avg": 6.7,
+    "waivers_until": null
    },
    {
     "id": 4429022,
@@ -8119,7 +9779,13 @@
      "opp_rank_vs_pos": 13,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 84,
+    "expert_rank": null,
+    "pct_change": -0.29,
+    "preseason_avg": 7.4,
+    "waivers_until": null
    },
    {
     "id": 4870847,
@@ -8143,7 +9809,13 @@
      "opp_rank_vs_pos": 18,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 137,
+    "expert_rank": null,
+    "pct_change": -0.14,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 3886598,
@@ -8167,7 +9839,13 @@
      "opp_rank_vs_pos": 5,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 147,
+    "expert_rank": 50.2,
+    "pct_change": 1.44,
+    "preseason_avg": 6.9,
+    "waivers_until": null
    },
    {
     "id": 4382466,
@@ -8191,7 +9869,13 @@
      "opp_rank_vs_pos": 2,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 102,
+    "expert_rank": 58.9,
+    "pct_change": -0.12,
+    "preseason_avg": 7.0,
+    "waivers_until": null
    },
    {
     "id": 5081432,
@@ -8215,7 +9899,13 @@
      "opp_rank_vs_pos": 20,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 45,
+    "expert_rank": 57.5,
+    "pct_change": 0.62,
+    "preseason_avg": 5.5,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4686612,
@@ -8239,7 +9929,13 @@
      "opp_rank_vs_pos": 4,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 47,
+    "expert_rank": 54.0,
+    "pct_change": 0.39,
+    "preseason_avg": 6.0,
+    "waivers_until": null
    },
    {
     "id": 4869961,
@@ -8263,7 +9959,13 @@
      "opp_rank_vs_pos": 23,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 82,
+    "expert_rank": 53.4,
+    "pct_change": 0.42,
+    "preseason_avg": 7.0,
+    "waivers_until": null
    },
    {
     "id": 4586312,
@@ -8287,7 +9989,13 @@
      "opp_rank_vs_pos": 13,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 72,
+    "expert_rank": null,
+    "pct_change": -0.1,
+    "preseason_avg": 5.2,
+    "waivers_until": null
    },
    {
     "id": 4686422,
@@ -8311,7 +10019,13 @@
      "opp_rank_vs_pos": 13,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 61,
+    "expert_rank": 57.8,
+    "pct_change": -0.2,
+    "preseason_avg": 7.1,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 5083754,
@@ -8335,7 +10049,13 @@
      "opp_rank_vs_pos": 31,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 79,
+    "expert_rank": 47.5,
+    "pct_change": 0.17,
+    "preseason_avg": 6.9,
+    "waivers_until": null
    },
    {
     "id": 4635008,
@@ -8359,7 +10079,13 @@
      "opp_rank_vs_pos": 17,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 70,
+    "expert_rank": null,
+    "pct_change": -0.1,
+    "preseason_avg": 5.2,
+    "waivers_until": null
    },
    {
     "id": 4431492,
@@ -8383,7 +10109,13 @@
      "opp_rank_vs_pos": 25,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 16,
+    "expert_rank": 60.0,
+    "pct_change": 0.0,
+    "preseason_avg": 6.6,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4685261,
@@ -8407,7 +10139,13 @@
      "opp_rank_vs_pos": 25,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 88,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 0.8,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4723820,
@@ -8431,7 +10169,13 @@
      "opp_rank_vs_pos": 6,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 128,
+    "expert_rank": null,
+    "pct_change": -0.04,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 4600981,
@@ -8455,7 +10199,13 @@
      "opp_rank_vs_pos": 11,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 48,
+    "expert_rank": null,
+    "pct_change": -0.03,
+    "preseason_avg": 7.1,
+    "waivers_until": null
    },
    {
     "id": 4427095,
@@ -8479,7 +10229,13 @@
      "opp_rank_vs_pos": 28,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 85,
+    "expert_rank": 49.0,
+    "pct_change": 0.03,
+    "preseason_avg": 6.2,
+    "waivers_until": null
    },
    {
     "id": 4877706,
@@ -8503,7 +10259,13 @@
      "opp_rank_vs_pos": 13,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": -0.03,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4870612,
@@ -8527,7 +10289,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-06 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 124,
+    "expert_rank": null,
+    "pct_change": -0.04,
+    "preseason_avg": 3.8,
+    "waivers_until": null
    },
    {
     "id": 4428209,
@@ -8551,7 +10319,13 @@
      "opp_rank_vs_pos": 9,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 5123663,
@@ -8575,7 +10349,13 @@
      "opp_rank_vs_pos": 1,
      "bye": false,
      "game": "2026-10-05 00:20:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 82,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 4.8,
+    "waivers_until": null
    }
   ],
   "TE": [
@@ -8601,7 +10381,13 @@
      "opp_rank_vs_pos": 10,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 35,
+    "expert_rank": 16.1,
+    "pct_change": -0.54,
+    "preseason_avg": 9.1,
+    "waivers_until": null
    },
    {
     "id": 4430539,
@@ -8625,7 +10411,13 @@
      "opp_rank_vs_pos": 28,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 27,
+    "expert_rank": 19.4,
+    "pct_change": -0.06,
+    "preseason_avg": 8.5,
+    "waivers_until": null
    },
    {
     "id": 4429086,
@@ -8649,7 +10441,13 @@
      "opp_rank_vs_pos": 19,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 19,
+    "expert_rank": 25.5,
+    "pct_change": -0.34,
+    "preseason_avg": 6.0,
+    "waivers_until": null
    },
    {
     "id": 3116164,
@@ -8673,7 +10471,13 @@
      "opp_rank_vs_pos": 5,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 16,
+    "expert_rank": 23.2,
+    "pct_change": 0.05,
+    "preseason_avg": 6.9,
+    "waivers_until": null
    },
    {
     "id": 4595342,
@@ -8697,7 +10501,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 34,
+    "expert_rank": 24.6,
+    "pct_change": -0.39,
+    "preseason_avg": 3.9,
+    "waivers_until": null
    },
    {
     "id": 3051876,
@@ -8721,7 +10531,13 @@
      "opp_rank_vs_pos": 11,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 33,
+    "expert_rank": null,
+    "pct_change": -0.08,
+    "preseason_avg": 6.9,
+    "waivers_until": null
    },
    {
     "id": 4686728,
@@ -8745,7 +10561,13 @@
      "opp_rank_vs_pos": 14,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 37,
+    "expert_rank": 25.4,
+    "pct_change": -0.05,
+    "preseason_avg": 7.9,
+    "waivers_until": null
    },
    {
     "id": 4243331,
@@ -8769,7 +10591,13 @@
      "opp_rank_vs_pos": 13,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 23,
+    "expert_rank": 20.6,
+    "pct_change": 0.01,
+    "preseason_avg": 6.3,
+    "waivers_until": null
    },
    {
     "id": 3123076,
@@ -8793,7 +10621,13 @@
      "opp_rank_vs_pos": 12,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 39,
+    "expert_rank": null,
+    "pct_change": -0.05,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    },
    {
     "id": 15835,
@@ -8817,7 +10651,13 @@
      "opp_rank_vs_pos": 4,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 76,
+    "expert_rank": null,
+    "pct_change": -0.03,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4367209,
@@ -8841,7 +10681,13 @@
      "opp_rank_vs_pos": 9,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 31,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": 6.8,
+    "waivers_until": null
    },
    {
     "id": 4036131,
@@ -8865,7 +10711,13 @@
      "opp_rank_vs_pos": 24,
      "bye": false,
      "game": "2026-10-06 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 14,
+    "expert_rank": null,
+    "pct_change": -0.04,
+    "preseason_avg": 2.8,
+    "waivers_until": null
    },
    {
     "id": 4430802,
@@ -8889,7 +10741,13 @@
      "opp_rank_vs_pos": 20,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 18,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 4.8,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4258595,
@@ -8913,7 +10771,13 @@
      "opp_rank_vs_pos": 6,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 42,
+    "expert_rank": null,
+    "pct_change": -0.01,
+    "preseason_avg": 3.9,
+    "waivers_until": null
    },
    {
     "id": 3930086,
@@ -8937,7 +10801,13 @@
      "opp_rank_vs_pos": 1,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 41,
+    "expert_rank": null,
+    "pct_change": -0.01,
+    "preseason_avg": 4.0,
+    "waivers_until": null
    }
   ],
   "K": [
@@ -8963,7 +10833,13 @@
      "opp_rank_vs_pos": 5,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 14,
+    "expert_rank": 15.8,
+    "pct_change": 0.01,
+    "preseason_avg": 8.4,
+    "waivers_until": null
    },
    {
     "id": 4569923,
@@ -8987,7 +10863,13 @@
      "opp_rank_vs_pos": 20,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 25,
+    "expert_rank": null,
+    "pct_change": -0.02,
+    "preseason_avg": 7.9,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 5081335,
@@ -9011,7 +10893,13 @@
      "opp_rank_vs_pos": 29,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 14,
+    "expert_rank": 19.2,
+    "pct_change": 0.01,
+    "preseason_avg": 8.4,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 4363538,
@@ -9035,7 +10923,13 @@
      "opp_rank_vs_pos": 1,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 8,
+    "expert_rank": 20.8,
+    "pct_change": 0.01,
+    "preseason_avg": 7.7,
+    "waivers_until": null
    },
    {
     "id": 4258620,
@@ -9059,7 +10953,13 @@
      "opp_rank_vs_pos": 21,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 3,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 7.2,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": 3124084,
@@ -9083,7 +10983,13 @@
      "opp_rank_vs_pos": 24,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 31,
+    "expert_rank": null,
+    "pct_change": -0.01,
+    "preseason_avg": 7.3,
+    "waivers_until": null
    },
    {
     "id": 3124679,
@@ -9107,7 +11013,13 @@
      "opp_rank_vs_pos": 7,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 14,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 7.9,
+    "waivers_until": null
    },
    {
     "id": 4243371,
@@ -9131,7 +11043,13 @@
      "opp_rank_vs_pos": 22,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 28,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 7.5,
+    "waivers_until": null
    },
    {
     "id": 15683,
@@ -9155,7 +11073,13 @@
      "opp_rank_vs_pos": 28,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": null,
+    "waivers_until": null
    },
    {
     "id": 4259619,
@@ -9179,7 +11103,13 @@
      "opp_rank_vs_pos": null,
      "bye": true,
      "game": null
-    }
+    },
+    "acquired": null,
+    "pos_rank": 0,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 0.0,
+    "waivers_until": null
    }
   ],
   "D/ST": [
@@ -9205,7 +11135,13 @@
      "opp_rank_vs_pos": 27,
      "bye": false,
      "game": "2026-10-02 00:15:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 17,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 5.0,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": -16008,
@@ -9229,7 +11165,13 @@
      "opp_rank_vs_pos": 7,
      "bye": false,
      "game": "2026-10-05 00:20:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 27,
+    "expert_rank": 19.1,
+    "pct_change": -0.78,
+    "preseason_avg": 6.2,
+    "waivers_until": null
    },
    {
     "id": -16024,
@@ -9253,7 +11195,13 @@
      "opp_rank_vs_pos": 14,
      "bye": false,
      "game": "2026-10-04 20:25:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 15,
+    "expert_rank": null,
+    "pct_change": -0.35,
+    "preseason_avg": 5.2,
+    "waivers_until": null
    },
    {
     "id": -16006,
@@ -9277,7 +11225,13 @@
      "opp_rank_vs_pos": 16,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 31,
+    "expert_rank": 19.2,
+    "pct_change": -0.01,
+    "preseason_avg": 4.5,
+    "waivers_until": null
    },
    {
     "id": -16028,
@@ -9301,7 +11255,13 @@
      "opp_rank_vs_pos": 17,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 25,
+    "expert_rank": 10.9,
+    "pct_change": 0.61,
+    "preseason_avg": 3.9,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": -16010,
@@ -9325,7 +11285,13 @@
      "opp_rank_vs_pos": 3,
      "bye": false,
      "game": "2026-10-04 17:00:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 18,
+    "expert_rank": null,
+    "pct_change": -0.12,
+    "preseason_avg": 4.1,
+    "waivers_until": null
    },
    {
     "id": -16011,
@@ -9349,7 +11315,13 @@
      "opp_rank_vs_pos": 10,
      "bye": false,
      "game": "2026-10-04 13:30:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 32,
+    "expert_rank": 16.4,
+    "pct_change": 0.04,
+    "preseason_avg": 4.6,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
     "id": -16015,
@@ -9373,7 +11345,13 @@
      "opp_rank_vs_pos": 17,
      "bye": false,
      "game": "2026-10-04 20:05:00"
-    }
+    },
+    "acquired": null,
+    "pos_rank": 30,
+    "expert_rank": null,
+    "pct_change": 0.0,
+    "preseason_avg": 2.5,
+    "waivers_until": null
    }
   ]
  },
@@ -18587,5 +20565,5 @@
    "player": "Matt Gay"
   }
  ],
- "extras": false
+ "extras": true
 }

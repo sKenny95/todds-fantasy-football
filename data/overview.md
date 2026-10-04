@@ -1,9 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 10:14 AM ET · NFL week 4 · The Re-Todds
-
-**Problems in this pull (those sections may be empty or stale):**
-- extras: ESPNUnknownError: ESPN returned an HTTP 400
+Updated: Sun Oct 04 2026, 10:15 AM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -11,18 +8,18 @@ Updated: Sun Oct 04 2026, 10:14 AM ET · NFL week 4 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 3-0-0 | 415.2 | 343.9 | W3 | 1 | 84.7 |  | 4 | 0 |  |
-| 2 | the blind side | Nick | West | 3-0-0 | 303.3 | 259.1 | W3 | 11 | 82.3 |  | 5 | 2 |  |
-| 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 83.5 |  | 7 | 2 |  |
-| 4 | Brock Hard for TDs **(me)** | Sina | West | 2-1-0 | 412.2 | 282.0 | W1 | 6 | 69.3 |  | 4 | 0 |  |
-| 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 68.2 |  | 6 | 1 |  |
-| 6 | Swedes2xChamp2026 | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 50.4 |  | 1 | 1 |  |
-| 7 | Thr Short Bus | Dunbarr | East | 1-2-0 | 312.0 | 355.1 | L2 | 4 | 38.4 |  | 1 | 0 |  |
-| 8 | Frizztards | Spencer | West | 1-2-0 | 302.3 | 369.3 | L1 | 5 | 23.0 |  | 3 | 0 |  |
-| 9 | Christian McCracker | devin | East | 1-2-0 | 288.4 | 310.9 | L1 | 12 | 36.2 |  | 5 | 0 |  |
-| 10 | Cook'n brown rice | Aziz | West | 1-2-0 | 283.9 | 369.4 | W1 | 8 | 33.0 |  | 11 | 2 |  |
-| 11 | The Slim Reapers | Yovani | East | 0-3-0 | 335.0 | 395.7 | L3 | 9 | 19.1 |  | 9 | 1 |  |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-3-0 | 240.0 | 342.4 | L3 | 2 | 11.9 |  | 7 | 1 |  |
+| 1 | Big Papa | Alex | East | 3-0-0 | 415.2 | 343.9 | W3 | 1 | 84.7 | 1 | 4 | 0 | 14 |
+| 2 | the blind side | Nick | West | 3-0-0 | 303.3 | 259.1 | W3 | 11 | 82.3 | 2 | 5 | 2 | 20 |
+| 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 83.5 | 3 | 7 | 2 | 34 |
+| 4 | Brock Hard for TDs **(me)** | Sina | West | 2-1-0 | 412.2 | 282.0 | W1 | 6 | 69.3 | 4 | 4 | 0 | 10 |
+| 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 68.2 | 5 | 6 | 1 | 22 |
+| 6 | Swedes2xChamp2026 | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 50.4 | 6 | 1 | 1 | 8 |
+| 7 | Thr Short Bus | Dunbarr | East | 1-2-0 | 312.0 | 355.1 | L2 | 4 | 38.4 | 7 | 1 | 0 | 12 |
+| 8 | Frizztards | Spencer | West | 1-2-0 | 302.3 | 369.3 | L1 | 5 | 23.0 | 10 | 3 | 0 | 9 |
+| 9 | Christian McCracker | devin | East | 1-2-0 | 288.4 | 310.9 | L1 | 12 | 36.2 | 8 | 5 | 0 | 30 |
+| 10 | Cook'n brown rice | Aziz | West | 1-2-0 | 283.9 | 369.4 | W1 | 8 | 33.0 | 9 | 11 | 2 | 13 |
+| 11 | The Slim Reapers | Yovani | East | 0-3-0 | 335.0 | 395.7 | L3 | 9 | 19.1 | 11 | 9 | 1 | 38 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-3-0 | 240.0 | 342.4 | L3 | 2 | 11.9 | 12 | 7 | 1 | 21 |
 
 ## Week 4 matchups
 
@@ -30,11 +27,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 21.6 | 126.91 |
+| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 21.6 | 126.76 |
 | Christian McCracker | 16.5 | 118.03 | vs | The Slim Reapers | 0.0 | 115.94 |
-| The Ghee-talians | 2.5 | 125.14 | vs | Big Papa | 0.0 | 133.28 |
-| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 3.1 | 120.43 |
-| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 3.4 | 127.98 |
+| The Ghee-talians | 2.5 | 124.91 | vs | Big Papa | 0.0 | 133.28 |
+| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 3.1 | 120.28 |
+| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 5.1 | 129.44 |
 | the blind side | 0.0 | 116.74 | vs | GioDoesCokeOnKamara | 12.9 | 106.94 |
 
 ## My schedule
