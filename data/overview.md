@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 02:06 PM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 04:30 PM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -10,7 +10,7 @@ Updated: Sun Oct 04 2026, 02:06 PM ET · NFL week 4 · The Re-Todds
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 3-0-0 | 415.2 | 343.9 | W3 | 1 | 84.7 | 1 | 4 | 0 | 14 |
 | 2 | the blind side | Nick | West | 3-0-0 | 303.3 | 259.1 | W3 | 11 | 82.3 | 2 | 5 | 2 | 24 |
-| 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 83.5 | 3 | 7 | 2 | 34 |
+| 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 83.5 | 3 | 7 | 2 | 36 |
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 2-1-0 | 412.2 | 282.0 | W1 | 6 | 69.3 | 4 | 4 | 0 | 10 |
 | 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 68.2 | 5 | 6 | 1 | 22 |
 | 6 | Swedes2xChamp2026 | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 50.4 | 6 | 1 | 1 | 8 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 24.3 | 121.39 | vs | Thr Short Bus | 52.4 | 130.46 |
-| Christian McCracker | 22.28 | 105.95 | vs | The Slim Reapers | 52.12 | 125.59 |
-| The Ghee-talians | 51.9 | 128.99 | vs | Big Papa | 15.0 | 129.42 |
-| Frizztards | 33.08 | 95.21 | vs | Cook'n brown rice | 23.0 | 96.91 |
-| Saquan these nuts | 41.32 | 109.52 | vs | Brock Hard for TDs | 56.66 | 144.94 |
-| the blind side | 37.78 | 110.3 | vs | GioDoesCokeOnKamara | 51.02 | 117.34 |
+| Swedes2xChamp2026 | 68.7 | 123.15 | vs | Thr Short Bus | 69.8 | 128.58 |
+| Christian McCracker | 56.8 | 103.82 | vs | The Slim Reapers | 112.78 | 138.33 |
+| The Ghee-talians | 101.2 | 125.95 | vs | Big Papa | 24.26 | 118.48 |
+| Frizztards | 74.08 | 101.17 | vs | Cook'n brown rice | 44.0 | 86.62 |
+| Saquan these nuts | 63.42 | 84.92 | vs | Brock Hard for TDs | 110.08 | 161.06 |
+| the blind side | 94.62 | 110.47 | vs | GioDoesCokeOnKamara | 86.82 | 127.11 |
 
 ## My schedule
 
