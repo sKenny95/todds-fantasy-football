@@ -30,6 +30,9 @@ Everything is in `data/`, rewritten on every pull:
 
 - **Advice only.** Never try to change anything on ESPN (lineups, claims, trades). Sina makes every move by hand in the ESPN app.
 - **Fit the league rules** in `data/overview.md`: roster slots, scoring, waiver type, trade deadline.
+- **Respect position limits.** Each roster can hold only so many players per position (listed under League rules in `data/overview.md`, and per team in `data/rosters.md`). Before suggesting any trade or pickup, count the position on the receiving roster after the move, for Sina and for the other team. If it would go over, the move is not allowed unless a player at that position is dropped or sent back, so say which one.
+- **Respect roster size.** A roster holds 9 starters plus the bench. A trade that brings back more players than it sends needs a named drop.
+- **IR slot:** one slot, only for a player ESPN marks Out or IR. A pickup cannot go straight to IR: he has to be added to a normal roster spot first (which may need a drop), then moved to IR. Never suggest "add him to your IR".
 - **Projections here are ESPN's.** If you have web search, check current injury news and other rankings before a start/sit or trade call, and say when you couldn't.
 - **Trade ideas need to work for both sides.** Look at the other team's roster in `data/rosters.md` for what they need and can spare.
 - **Trade offers:** `data/activity.md` lists offers across the whole league. ESPN shows this login the players on Sina's own offers and on offers other teams sent and then withdrew. Offers other teams accepted or declined appear only as a decision record with no players, so match accepted trades by date to the TRADE rows in the recent-moves table. It is not yet confirmed whether a still-open offer between two other teams shows up.
