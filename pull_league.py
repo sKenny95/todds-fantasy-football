@@ -16,6 +16,8 @@ DATA_DIR = Path(__file__).parent / "data"
 ET = ZoneInfo("America/New_York")
 
 FREE_AGENT_COUNTS = {"QB": 15, "RB": 30, "WR": 30, "TE": 15, "K": 10, "D/ST": 10}
+WAIVER_TYPES = ["WAIVER", "WAIVER_ERROR"]
+BYES = {}  # NFL team -> bye week, filled in by gather()
 TRADE_TYPES = ["TRADE_PROPOSAL", "TRADE_ACCEPT", "TRADE_DECLINE", "TRADE_UPHOLD", "TRADE_VETO", "TRADE_ERROR"]
 SLOT_ORDER = ["QB", "RB", "WR", "TE", "RB/WR/TE", "RB/WR", "WR/TE", "OP", "D/ST", "K", "BE", "IR"]
 
@@ -45,6 +47,8 @@ def player_dict(p):
         "season_pts": num(getattr(p, "total_points", None)),
         "season_avg": num(getattr(p, "avg_points", None)),
         "proj_season_pts": num(getattr(p, "projected_total_points", None)),
+        "proj_avg": num(getattr(p, "projected_avg_points", None)),
+        "bye_week": BYES.get(p.proTeam),
         "pct_owned": getattr(p, "percent_owned", None),
         "pct_started": getattr(p, "percent_started", None),
     }
@@ -95,6 +99,7 @@ def team_dict(team, division_map):
         "waiver_rank": team.waiver_rank,
         "espn_playoff_pct": num(team.playoff_pct),
         "adds": team.acquisitions,
+        "drops": team.drops,
         "trades": team.trades,
         "schedule": schedule,
         "roster": [player_dict(p) for p in team.roster],
@@ -171,6 +176,87 @@ def fetch_trades(league, week, team_names):
     return sorted(trades, key=lambda t: t["proposed_ms"], reverse=True)
 
 
+def fetch_waivers(league, week, team_names):
+    """Waiver claims ESPN shows this login: ones that went through, and ones a manager placed and then cancelled."""
+    headers = {"x-fantasy-filter": json.dumps({"transactions": {"filterType": {"value": WAIVER_TYPES}}})}
+    seen, claims = set(), []
+    for wk in range(1, week + 1):
+        data = league.espn_request.league_get(params={"view": "mTransactions2", "scoringPeriodId": wk}, headers=headers)
+        for t in data.get("transactions", []):
+            if t.get("type") not in WAIVER_TYPES or t.get("id") in seen:
+                continue
+            seen.add(t.get("id"))
+            items = t.get("items") or []
+            claims.append({
+                "team": team_names.get(t.get("teamId"), t.get("teamId")),
+                "status": t.get("status"),
+                "when_ms": t.get("proposedDate") or 0,
+                "when": et(t.get("proposedDate")),
+                "week": wk,
+                "add": [league.player_map.get(i.get("playerId"), i.get("playerId")) for i in items if i.get("type") == "ADD"],
+                "drop": [league.player_map.get(i.get("playerId"), i.get("playerId")) for i in items if i.get("type") == "DROP"],
+            })
+    return sorted(claims, key=lambda c: c["when_ms"], reverse=True)
+
+
+def player_extra(entry, week, acquired=None):
+    """Details the library leaves out, from ESPN's raw player record."""
+    p = entry.get("player") or {}
+    own = p.get("ownership") or {}
+    expert = [r.get("averageRank") for r in (p.get("rankings") or {}).get(str(week), [])
+              if r.get("rankType") == "PPR" and r.get("averageRank")]
+    preseason = [s.get("appliedAverage") for s in p.get("stats") or []
+                 if (s.get("seasonId"), s.get("scoringPeriodId"), s.get("statSourceId"), s.get("statSplitTypeId")) == (SEASON, 0, 1, 2)]
+    return {
+        "acquired": acquired,
+        "pos_rank": ((entry.get("ratings") or {}).get("0") or {}).get("positionalRanking"),
+        "expert_rank": num(expert[0]) if expert else None,
+        "pct_change": num(own.get("percentChange"), 2),
+        "preseason_avg": num(preseason[0]) if preseason else None,
+        "waivers_until": et(entry.get("waiverProcessDate")) if entry.get("status") == "WAIVERS" else None,
+    }
+
+
+def fetch_extras(league, week, free_agent_ids):
+    """Per-player and per-team details from ESPN's raw views, keyed by id."""
+    req, players, teams = league.espn_request, {}, {}
+    for t in req.league_get(params={"view": "mRoster"}).get("teams", []):
+        for e in (t.get("roster") or {}).get("entries", []):
+            players[e.get("playerId")] = player_extra(e.get("playerPoolEntry") or {}, week, e.get("acquisitionType"))
+    if free_agent_ids:
+        filt = {"players": {"filterIds": {"value": free_agent_ids}, "limit": len(free_agent_ids)}}
+        data = req.league_get(params={"view": "kona_player_info", "scoringPeriodId": week}, headers={"x-fantasy-filter": json.dumps(filt)})
+        for x in data.get("players", []):
+            players[x.get("id")] = player_extra(x, week)
+    for t in req.league_get(params={"view": "mTeam"}).get("teams", []):
+        teams[t.get("id")] = {
+            "espn_proj_rank": t.get("currentProjectedRank"),
+            "draft_day_rank": t.get("draftDayProjectedRank"),
+            "lineup_moves": (t.get("transactionCounter") or {}).get("moveToActive"),
+        }
+    return players, teams
+
+
+def fetch_history(league, week):
+    """Every team's lineup and points for each finished week."""
+    out = []
+    for wk in range(1, week):
+        teams = {}
+        for box in league.box_scores(wk):
+            for team, score, lineup in ((box.home_team, box.home_score, box.home_lineup), (box.away_team, box.away_score, box.away_lineup)):
+                if hasattr(team, "team_id"):
+                    teams[team.team_id] = {"score": num(score, 2), "players": [
+                        {"id": bp.playerId, "name": bp.name, "pos": bp.position, "slot": bp.slot_position,
+                         "pts": num(bp.points), "proj": num(bp.projected_points)} for bp in lineup]}
+        out.append({"week": wk, "teams": teams})
+    return out
+
+
+def fetch_draft(league):
+    return [{"overall": i + 1, "round": p.round_num, "pick": p.round_pick, "team_id": p.team.team_id,
+             "player_id": p.playerId, "player": p.playerName} for i, p in enumerate(league.draft)]
+
+
 def fetch_activity(league):
     out = []
     for act in league.recent_activity(size=40):
@@ -206,6 +292,12 @@ def gather(league):
         except Exception as exc:  # noqa: BLE001
             snap[key] = default
             snap["warnings"].append(f"{key}: {type(exc).__name__}: {exc}")
+
+    try:
+        pro = league.espn_request.get_pro_schedule()
+        BYES.update({t.get("abbrev"): t.get("byeWeek") for t in pro.get("settings", {}).get("proTeams", []) if t.get("byeWeek")})
+    except Exception as exc:  # noqa: BLE001
+        snap["warnings"].append(f"bye weeks: {type(exc).__name__}: {exc}")
 
     snap["settings"] = settings_dict(league.settings)
     division_map = league.settings.division_map
@@ -243,6 +335,20 @@ def gather(league):
     attempt("free_agents", free_agents, {})
     attempt("trades", lambda: fetch_trades(league, week, team_names), [])
     attempt("activity", lambda: fetch_activity(league), [])
+    attempt("waiver_claims", lambda: fetch_waivers(league, week, team_names), [])
+    attempt("history", lambda: fetch_history(league, week), [])
+    attempt("draft", lambda: fetch_draft(league), [])
+
+    def extras():
+        free = [p for players in snap["free_agents"].values() for p in players]
+        players, teams = fetch_extras(league, week, [p["id"] for p in free])
+        for p in [p for t in snap["teams"] for p in t["roster"]] + free:
+            p.update(players.get(p["id"], {}))
+        for t in snap["teams"]:
+            t.update(teams.get(t["id"], {}))
+        return True
+
+    attempt("extras", extras, False)
     return snap
 
 
@@ -271,11 +377,12 @@ def player_row(p, with_slot=True):
     if opp and not wk.get("bye") and wk.get("opp_rank_vs_pos"):
         opp = f"{opp} (#{wk['opp_rank_vs_pos']} vs {p['pos']})"
     row = [f"{p['name']}", p["pos"], p["nfl"], p["status"], opp, wk.get("proj"), wk.get("pts"),
-           p["season_avg"], p["season_pts"], p["pct_owned"]]
+           p["season_avg"], p["season_pts"], p.get("proj_avg"), p.get("expert_rank"), p.get("bye_week"), p["pct_owned"], p.get("pct_change")]
     return ([wk.get("slot") or p.get("slot")] + row) if with_slot else row
 
 
-PLAYER_HEADERS = ["Player", "Pos", "NFL", "Injury", "Opp this week", "Proj", "Pts so far", "Avg/gm", "Season pts", "% rostered"]
+PLAYER_HEADERS = ["Player", "Pos", "NFL", "Injury", "Opp this week", "Proj", "Pts so far", "Avg/gm", "Season pts",
+                  "ESPN proj/gm", "Expert rank this wk", "Bye wk", "% rostered", "% change"]
 
 
 def render_overview(snap):
@@ -289,10 +396,11 @@ def render_overview(snap):
 
     out.append("## Standings\n")
     out.append(table(
-        ["Seed", "Team", "Owner", "Div", "W-L-T", "PF", "PA", "Streak", "Waiver rank", "ESPN playoff %", "Adds", "Trades"],
+        ["Seed", "Team", "Owner", "Div", "W-L-T", "PF", "PA", "Streak", "Waiver rank", "ESPN playoff %", "ESPN projected finish",
+         "Adds", "Trades", "Lineup moves"],
         [[t["seed"], t["name"] + (" **(me)**" if t["id"] == snap["my_team_id"] else ""), t["owner"], t["division"],
           f"{t['wins']}-{t['losses']}-{t['ties']}", t["points_for"], t["points_against"], t["streak"],
-          t["waiver_rank"], t["espn_playoff_pct"], t["adds"], t["trades"]] for t in snap["teams"]],
+          t["waiver_rank"], t["espn_playoff_pct"], t.get("espn_proj_rank"), t["adds"], t["trades"], t.get("lineup_moves")] for t in snap["teams"]],
     ))
 
     out.append(f"\n## Week {snap['week']} matchups\n")
@@ -335,6 +443,9 @@ def render_rosters(snap):
 
 def render_free_agents(snap):
     out = [header(snap, "Free agents"), "Unrostered players (free agents and players on waivers), most-rostered first.\n"]
+    on_waivers = [f"{p['name']} (until {p['waivers_until']})" for players in snap["free_agents"].values() for p in players if p.get("waivers_until")]
+    if on_waivers:
+        out.append("**On waivers, so they need a claim:** " + ", ".join(on_waivers) + ". Everyone else can be added right away.\n")
     for pos, players in snap["free_agents"].items():
         out.append(f"## {pos}\n")
         out.append(table(PLAYER_HEADERS, [player_row(p, with_slot=False) for p in players]))
@@ -383,6 +494,14 @@ def render_activity(snap):
         out.append(table(["When", "Team", "Type", "Offer"], [[t["proposed"], t["team"], t["type"], offer_text(t)] for t in other]))
     out.append("")
 
+    pulled = [c for c in snap.get("waiver_claims", []) if c["status"] == "CANCELED"]
+    if pulled:
+        out.append("## Waiver claims a manager placed and then cancelled\n")
+        out.append("These never show in the ESPN app. They hint at who a team wanted.\n")
+        out.append(table(["When", "Team", "Wanted", "Would have dropped"],
+                         [[c["when"], c["team"], ", ".join(map(str, c["add"])), ", ".join(map(str, c["drop"]))] for c in pulled]))
+        out.append("")
+
     out.append("## Recent adds, drops and completed trades\n")
     rows = [[a["when"], x["team"], x["action"], x["player"], x["pos"], x["nfl"]] for a in snap["activity"] for x in a["actions"]]
     out.append(table(["When", "Team", "Move", "Player", "Pos", "NFL"], rows))
@@ -409,6 +528,8 @@ def main():
         "free_agents.md": render_free_agents(snap),
         "activity.md": render_activity(snap),
         "league.json": json.dumps(snap, indent=1, default=str),
+        # same data as a script, so dashboard.html can load it straight from disk
+        "league.js": "window.LEAGUE = " + json.dumps(snap, default=str) + ";" + chr(10),
     }
     for name, text in files.items():
         (DATA_DIR / name).write_text(text, encoding="utf-8", newline="\n")
