@@ -149,6 +149,17 @@ details[open] summary { margin-bottom: 10px; }
   const slotOf = p => p.week?.slot || p.slot || "BE";
   const isIR = p => slotOf(p) === "IR" || p.status === "INJURY_RESERVE";
   const isOut = p => p.status === "OUT" || p.status === "SUSPENSION" || isIR(p);
+
+  // Roster rules. Each position has a cap on players held (the IR slot doesn't count), and the roster has a fixed size.
+  const LIMITS = L.settings.position_limits || {};
+  const ROSTER_MAX = sum(Object.entries(SLOTS).filter(([s]) => s !== "IR"), ([, n]) => n);
+  const inIRSlot = p => slotOf(p) === "IR";
+  const irEligible = p => p.status === "OUT" || p.status === "INJURY_RESERVE";
+  const active = roster => roster.filter(p => !inIRSlot(p));
+  const held = (roster, pos) => active(roster).filter(p => p.pos === pos).length;
+  const legal = roster => Object.entries(LIMITS).every(([pos, max]) => held(roster, pos) <= max);
+  const hasRoom = (roster, pos) => active(roster).length < ROSTER_MAX && held(roster, pos) < (LIMITS[pos] ?? Infinity);
+  const droppable = p => !(locked(p) && !["BE", "IR"].includes(slotOf(p)));   // a starter whose game has begun is locked in
   const kick = p => (p.week?.game ? Date.parse(p.week.game.replace(" ", "T") + "Z") : null);
   const locked = p => { const k = kick(p); return k != null && k <= Date.now(); };
   const when = ms => new Date(ms).toLocaleString(undefined, { weekday: "short", hour: "numeric", minute: "2-digit" });
@@ -214,11 +225,13 @@ details[open] summary { margin-bottom: 10px; }
       for (const g of mine) for (const r of theirs) {
         const a = pkg(g), b = pkg(r);
         if (a < TRADE.fairLow * b || a > TRADE.fairHigh * b) continue;
-        const myGain = strength(me.roster.filter(p => !g.includes(p)).concat(r)) - base;
+        const myNew = me.roster.filter(p => !g.includes(p)).concat(r), theirNew = t.roster.filter(p => !r.includes(p)).concat(g);
+        if (!legal(myNew) || !legal(theirNew)) continue;          // nobody may end up over a position limit
+        const myGain = strength(myNew) - base;
         if (myGain < TRADE.minMine) continue;
-        const theirGain = strength(t.roster.filter(p => !r.includes(p)).concat(g)) - tBase;
+        const theirGain = strength(theirNew) - tBase;
         if (theirGain < TRADE.minTheirs) continue;
-        ideas.push({ t, g, r, myGain, theirGain });
+        ideas.push({ t, g, r, myGain, theirGain, myDrop: active(myNew).length > ROSTER_MAX, theirDrop: active(theirNew).length > ROSTER_MAX });
       }
     }
     ideas.sort(desc(i => i.myGain + 0.5 * i.theirGain));
@@ -233,28 +246,34 @@ details[open] summary { margin-bottom: 10px; }
   }
 
   // ---------- pickups ----------
+  // An add has to fit the position limit, so unless there is room it is a swap for my weakest player at the same position.
   function pickups() {
-    const base = strength(me.roster), mine = me.roster.filter(p => SKILL.includes(p.pos) && !isIR(p)), out = [];
-    for (const pos of SKILL) for (const fa of L.free_agents[pos] || []) {
-      if (isOut(fa)) continue;
-      const withFa = me.roster.concat(fa), full = strength(withFa);
-      if (full - base < 0.2) continue;
-      // drop whoever costs the least to lose
-      const drop = mine.map(c => ({ c, loss: full - strength(withFa.filter(p => p !== c)) })).sort((a, b) => a.loss - b.loss || val(a.c) - val(b.c))[0];
-      const gain = full - drop.loss - base;
-      if (gain >= 0.2) out.push({ fa, drop: drop.c, gain });
+    const out = [];
+    for (const pos of SKILL) {
+      const fa = (L.free_agents[pos] || []).filter(p => !isOut(p)).sort(desc(val))[0];
+      if (!fa) continue;
+      const room = hasRoom(me.roster, pos), drop = room ? null : active(me.roster).filter(p => p.pos === pos && droppable(p)).sort((x, y) => val(x) - val(y))[0];
+      if (!room && !drop) continue;
+      const gain = val(fa) - (drop ? val(drop) : 0);
+      // a better backup QB or TE matters less than RB/WR depth, so it needs a bigger gap and ranks lower
+      const backup = pos === "QB" || pos === "TE";
+      if (gain >= (backup ? 3 : 1.5)) out.push({ fa, drop, gain, rank: gain * (backup ? 0.4 : 1) });
     }
-    return out.sort(desc(x => x.gain)).slice(0, 5);
+    return out.sort(desc(x => x.rank));
   }
   function streamers() {
     const out = [];
     for (const pos of ["K", "D/ST"]) {
-      const mine = me.roster.filter(p => p.pos === pos).sort(desc(wproj))[0];
+      const mine = active(me.roster).filter(p => p.pos === pos).sort(desc(wproj)), best = mine[0];
       const fa = (L.free_agents[pos] || []).filter(p => !locked(p) && !isOut(p)).sort(desc(wproj))[0];
-      if (fa && (!mine || (!locked(mine) && wproj(fa) - wproj(mine) >= 1))) out.push({ fa, mine });
+      if (!fa || (best && (locked(best) || wproj(fa) - wproj(best) < 1))) continue;
+      const room = hasRoom(me.roster, pos), drop = room ? null : mine.filter(droppable).pop();
+      if (room || drop) out.push({ fa, best, drop });
     }
     return out;
   }
+  const addText = x => `Add ${short(x.fa)} ${x.drop ? "and drop " + short(x.drop) : "into your open spot"}. <span class="meta">${avail(x.fa)}</span>`;
+  const streamText = s => `Add <strong>${esc(s.fa.name)}</strong>, projected ${fmt(wproj(s.fa))} this week${s.best ? ` against ${fmt(wproj(s.best))} for ${esc(s.best.name)}` : ""}${s.drop ? `, and drop ${esc(s.drop.name)}` : ""}. <span class="meta">${avail(s.fa)}</span>`;
   const avail = p => (p.waivers_until ? `Waivers until ${esc(p.waivers_until.replace(/, 0?/, " ").replace(" ET", ""))}` : "Free agent now");
 
   // ---------- tab: this week ----------
@@ -281,9 +300,13 @@ details[open] summary { margin-bottom: 10px; }
       todo.push(["Injury", "warn", `${who(p)} is ${STATUS[p.status][2]}. Check again before kickoff${kick(p) ? " (" + when(kick(p)) + ")" : ""}.`]);
     openOffers.filter(o => o.team === me.name || o.other === me.name).forEach(o =>
       todo.push(["Trade", "", `Open offer with ${esc(o.team === me.name ? o.other : o.team)}. See the Trades tab.`]));
+    const irSlot = me.roster.filter(inIRSlot);
+    irSlot.filter(p => !irEligible(p)).forEach(p => todo.push(["IR", "bad", `${who(p)} is in your IR slot but is no longer out. Move him back to your roster${hasRoom(me.roster, p.pos) ? "" : `, which means dropping another ${esc(p.pos)}`}.`]));
+    if (irSlot.length < (SLOTS.IR || 0)) active(me.roster).filter(irEligible).forEach(p =>
+      todo.push(["IR", "", `Move ${who(p)} to your empty IR slot. That opens a ${esc(p.pos)} spot for a pickup.`]));
     const pk = pickups()[0];
-    if (pk) todo.push(["Pickup", "", `Add ${short(pk.fa)} and drop ${short(pk.drop)}. <span class="meta">${avail(pk.fa)}</span>`]);
-    streamers().forEach(s => todo.push(["Stream", "", `${esc(s.fa.name)} projects ${fmt(wproj(s.fa))} this week${s.mine ? ` vs ${fmt(wproj(s.mine))} for ${esc(s.mine.name)}` : ""}. <span class="meta">${avail(s.fa)}</span>`]));
+    if (pk) todo.push(["Pickup", "", addText(pk)]);
+    streamers().forEach(s => todo.push(["Stream", "", streamText(s)]));
     for (const wk of [L.week + 1, L.week + 2]) {
       const off = bestLineup(me.roster.filter(p => !isIR(p)), val, START_SLOTS).picks.map(x => x.p).filter(p => p.bye_week === wk);
       if (off.length) todo.push(["Bye", "warn", `Week ${wk}: ${off.map(p => esc(p.name)).join(", ")} ${off.length > 1 ? "are" : "is"} off. Line up cover now.`]);
@@ -332,12 +355,15 @@ details[open] summary { margin-bottom: 10px; }
 
     const ideas = tradeIdeas();
     const ideaCard = i => {
-      const gp = i.g.slice().sort(desc(val))[0].pos, rp = i.r.slice().sort(desc(val))[0].pos;
-      const why = gp === rp ? `You both come out ahead at ${gp} once lineups are reset.`
-        : `They rank ${ord(posRank[i.t.id][gp])} of ${L.teams.length} at ${gp}. You rank ${ord(posRank[me.id][rp])} at ${rp}.`;
+      const delta = {};
+      i.r.forEach(p => { delta[p.pos] = (delta[p.pos] || 0) + val(p); });
+      i.g.forEach(p => { delta[p.pos] = (delta[p.pos] || 0) - val(p); });
+      const byGain = Object.entries(delta).sort((x, y) => y[1] - x[1]), up = byGain[0][0], down = byGain[byGain.length - 1][0];
+      const why = up === down ? `You both come out ahead at ${up} once lineups are reset.`
+        : `You get better at ${up}, where you rank ${ord(posRank[me.id][up])} of ${L.teams.length}. They get better at ${down}, where they rank ${ord(posRank[i.t.id][down])}.`;
       return `<article class="card"><header><h3>${esc(i.t.name)}${owner(i.t)}</h3><span class="chip good">You ${signed(i.myGain)}/wk</span></header>
         <dl class="swap"><dt>You give</dt><dd>${i.g.map(short).join("<br>")}</dd><dt>You get</dt><dd>${i.r.map(short).join("<br>")}</dd></dl>
-        <p class="why">${why} Their lineup gains ${fmt(i.theirGain)}/wk.${i.r.length > i.g.length ? " You would need to drop a player." : ""}</p></article>`;
+        <p class="why">${why} Their lineup gains ${fmt(i.theirGain)}/wk.${i.myDrop ? " You would need to drop a player." : ""}${i.theirDrop ? " They would need to drop a player." : ""}</p></article>`;
     };
 
     const made = {}, got = {};
@@ -363,8 +389,8 @@ details[open] summary { margin-bottom: 10px; }
     return `<div class="stack">
       <section class="panel"><h2>Open offers</h2>${openOffers.length ? `<div class="cards">${openOffers.map(offerCard).join("")}</div>` : `<p class="empty">No open offers that ESPN shows you right now.</p>`}</section>
       <section class="panel"><h2>Trade ideas for you</h2>
-        <p class="note">Deals of up to two players a side where ESPN's per-game projections say both starting lineups get better and the value is close to even. A starting point, not a verdict: check injuries and news first.</p>
-        ${ideas.length ? `<div class="cards">${ideas.map(ideaCard).join("")}</div>` : `<p class="empty">No deal right now helps both lineups at a fair price.</p>`}</section>
+        <p class="note">Deals of up to two players a side where ESPN's per-game projections say both starting lineups get better and the value is close to even. Every idea keeps both rosters inside the position limits${Object.keys(LIMITS).length ? " (" + Object.entries(LIMITS).map(([p, n]) => p + " " + n).join(", ") + ")" : ""}. A starting point, not a verdict: check injuries and news first.</p>
+        ${ideas.length ? `<div class="cards">${ideas.map(ideaCard).join("")}</div>` : `<p class="empty">No deal right now helps both lineups at a fair price while keeping both rosters inside the position limits.</p>`}</section>
       <section class="panel"><h2>Who needs what</h2>
         <p class="note">Each team's rank in the league by position, from ESPN's per-game projections for its starters. Green is a strength to buy from, red is a hole you can sell into.</p>
         <div class="scroll"><table class="heat"><tr><th>Team</th>${COLS.map(c => `<th class="c">${c}</th>`).join("")}<th class="r hide-s">Offers made</th><th class="r hide-s">Offers got</th><th class="r hide-s">Trades done</th></tr>${heat}</table></div></section>
@@ -383,8 +409,10 @@ details[open] summary { margin-bottom: 10px; }
   let faPos = "RB";
   function renderWaivers() {
     const picks = pickups(), st = streamers();
-    const best = picks.map(x => `<li><span class="tag">Add</span><span>${short(x.fa)} <span class="meta">${esc(x.fa.nfl)}</span> and drop ${short(x.drop)}. <span class="meta">${avail(x.fa)}</span></span></li>`)
-      .concat(st.map(s => `<li><span class="tag">Stream</span><span><strong>${esc(s.fa.name)}</strong> projects ${fmt(wproj(s.fa))} this week${s.mine ? ` vs ${fmt(wproj(s.mine))} for ${esc(s.mine.name)}` : ""}. <span class="meta">${avail(s.fa)}</span></span></li>`)).join("");
+    const best = picks.map(x => `<li><span class="tag">Add</span><span>${addText(x)}</span></li>`)
+      .concat(st.map(s => `<li><span class="tag">Stream</span><span>${streamText(s)}</span></li>`)).join("");
+    const room = Object.entries(LIMITS).map(([pos, max]) => `${pos} ${held(me.roster, pos)}/${max}`).concat(SLOTS.IR ? [`IR ${me.roster.filter(inIRSlot).length}/${SLOTS.IR}`] : []).join(" · ");
+    const full = Object.keys(LIMITS).length && Object.entries(LIMITS).every(([pos, max]) => held(me.roster, pos) >= max);
     const trend = p => (p.pct_change >= 0.5 ? `<span class="up">▲ ${fmt(p.pct_change)}</span>` : p.pct_change <= -0.5 ? `<span class="down">▼ ${fmt(-p.pct_change)}</span>` : "");
     const myWorst = Math.min(...me.roster.filter(p => p.pos === faPos && !isIR(p)).map(val));
     const rows = (L.free_agents[faPos] || []).slice().sort(desc(SKILL.includes(faPos) ? val : wproj)).slice(0, 12).map(p => {
@@ -398,10 +426,11 @@ details[open] summary { margin-bottom: 10px; }
 
     return `<div class="stack">
       <section class="panel"><h2>Best moves for you</h2>${best ? `<ul class="todo">${best}</ul>` : `<p class="empty">Nobody available beats what you already have.</p>`}
-        <p class="note" style="margin:10px 0 0">You are ${ord(me.waiver_rank)} in the waiver order. Numbers are ESPN's projected points per game.</p></section>
+        <p class="note" style="margin:10px 0 0">${room ? `Your roster against the position limits: ${room}. ` : ""}${full ? "Every position is full, so each add means dropping a player at the same position. " : ""}You are ${ord(me.waiver_rank)} in the waiver order. Numbers are ESPN's projected points per game.</p></section>
       <section class="panel"><h2>Available players</h2>
         <div class="pills" id="pos-pills">${Object.keys(L.free_agents).map(p => `<button aria-pressed="${p === faPos}" data-pos="${esc(p)}">${esc(p)}</button>`).join("")}</div>
-        <div class="scroll"><table><tr><th>Player</th><th class="hide-s">Opp</th><th class="r">This wk</th><th class="r">Proj/gm</th><th class="r hide-s">Avg</th><th class="r hide-s" title="Share of ESPN leagues that roster him, and the change this week">Rostered</th><th class="r">Status</th></tr>${rows}</table></div></section>
+        <div class="scroll"><table><tr><th>Player</th><th class="hide-s">Opp</th><th class="r">This wk</th><th class="r">Proj/gm</th><th class="r hide-s">Avg</th><th class="r hide-s" title="Share of ESPN leagues that roster him, and the change this week">Rostered</th><th class="r">Status</th></tr>${rows}</table></div>
+        <p class="note" style="margin:12px 0 0">An injured player can't be added straight to your IR slot. Add him to a normal roster spot first, then move him.</p></section>
       <section class="panel"><h2>Claims other teams cancelled</h2>
         <p class="note">Waiver claims a manager put in and then pulled. The ESPN app never shows these, and they tell you who a team has its eye on.</p>
         ${pulled ? `<ul class="list">${pulled}</ul>` : `<p class="empty">None so far.</p>`}</section>

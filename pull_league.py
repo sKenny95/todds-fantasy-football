@@ -440,7 +440,7 @@ def render_overview(snap):
     out.append("\n".join([
         f"- {s['teams']} teams, {s['regular_season_weeks']}-week regular season, {s['playoff_teams']} playoff teams (seeding: {s['playoff_seeding']}).",
         f"- Roster slots: {slots}.",
-        f"- Position limits (the most a roster may hold, starters and bench together): {limits or 'not available'}.",
+        f"- Position limits (the most a roster may hold, starters and bench together; a player in the IR slot does not count): {limits or 'not available'}.",
         "- IR slot: only for a player ESPN marks Out or IR. A pickup cannot go straight to IR. He has to be added to a normal roster spot first, then moved.",
         f"- Waivers: {waivers}. Process days: {', '.join(s['waiver_process_days']) or 'n/a'}. Season add limit: {s['season_add_limit'] if s['season_add_limit'] not in (None, -1) else 'none'}.",
         f"- Trades: deadline {s['trade_deadline'] or 'none'}, {s['trade_review_hours']}-hour review, {s['veto_votes_required']} veto votes required.",
@@ -455,10 +455,10 @@ def render_rosters(snap):
     for t in snap["teams"]:
         me = " (MY TEAM)" if t["id"] == snap["my_team_id"] else ""
         out.append(f"## {t['name']}{me}\n")
-        counts = ", ".join(f"{pos} {sum(1 for p in t['roster'] if p['pos'] == pos)}/{cap}" for pos, cap in snap["settings"].get("position_limits", {}).items())
+        counts = ", ".join(f"{pos} {sum(1 for p in t['roster'] if p['pos'] == pos and ((p.get('week') or {}).get('slot') or p.get('slot')) != 'IR')}/{cap}" for pos, cap in snap["settings"].get("position_limits", {}).items())
         out.append(f"Owner {t['owner'] or 'n/a'} · {t['wins']}-{t['losses']}-{t['ties']} · seed {t['seed']} · {t['points_for']} PF · waiver rank {t['waiver_rank']}\n")
         if counts:
-            out.append(f"Players held against the position limit: {counts}\n")
+            out.append(f"Players held against the position limit (IR slot not counted): {counts}\n")
         out.append(table(["Slot"] + PLAYER_HEADERS, [player_row(p) for p in sorted(t["roster"], key=slot_key)]))
         out.append("")
     return "\n".join(out) + "\n"
