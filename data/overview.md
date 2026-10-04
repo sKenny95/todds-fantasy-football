@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 12:34 PM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 01:48 PM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -9,7 +9,7 @@ Updated: Sun Oct 04 2026, 12:34 PM ET · NFL week 4 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 3-0-0 | 415.2 | 343.9 | W3 | 1 | 84.7 | 1 | 4 | 0 | 14 |
-| 2 | the blind side | Nick | West | 3-0-0 | 303.3 | 259.1 | W3 | 11 | 82.3 | 2 | 5 | 2 | 20 |
+| 2 | the blind side | Nick | West | 3-0-0 | 303.3 | 259.1 | W3 | 11 | 82.3 | 2 | 5 | 2 | 24 |
 | 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 83.5 | 3 | 7 | 2 | 34 |
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 2-1-0 | 412.2 | 282.0 | W1 | 6 | 69.3 | 4 | 4 | 0 | 10 |
 | 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 68.2 | 5 | 6 | 1 | 22 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 11.7 | 132.0 | vs | Thr Short Bus | 30.7 | 126.69 |
-| Christian McCracker | 16.5 | 118.03 | vs | The Slim Reapers | 0.0 | 115.94 |
-| The Ghee-talians | 22.7 | 130.8 | vs | Big Papa | 0.0 | 133.29 |
-| Frizztards | 23.6 | 109.2 | vs | Cook'n brown rice | 4.6 | 112.2 |
-| Saquan these nuts | 0.0 | 115.39 | vs | Brock Hard for TDs | 24.5 | 133.59 |
-| the blind side | 0.0 | 116.72 | vs | GioDoesCokeOnKamara | 12.9 | 106.95 |
+| Swedes2xChamp2026 | 21.0 | 125.15 | vs | Thr Short Bus | 54.4 | 133.27 |
+| Christian McCracker | 21.84 | 108.61 | vs | The Slim Reapers | 41.48 | 121.4 |
+| The Ghee-talians | 48.7 | 134.3 | vs | Big Papa | 11.9 | 129.1 |
+| Frizztards | 31.48 | 99.32 | vs | Cook'n brown rice | 23.1 | 102.69 |
+| Saquan these nuts | 38.5 | 115.34 | vs | Brock Hard for TDs | 46.02 | 139.64 |
+| the blind side | 36.78 | 117.65 | vs | GioDoesCokeOnKamara | 35.96 | 106.12 |
 
 ## My schedule
 
