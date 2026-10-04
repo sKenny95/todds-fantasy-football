@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 04 2026, 09:50 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 09:52 AM ET · NFL week 4 · The Re-Todds
 
 ## Trade offers
 
@@ -8,34 +8,33 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-| Proposed | Offered by | Offer | Expires |
-|---|---|---|---|
-| Wed Sep 09, 04:23 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | Fri Sep 11, 04:23 PM ET |
+None visible.
 
 ### Offers that were withdrawn, replaced or expired
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
-| Wed Sep 09, 04:24 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | CANCELED |
-| Wed Sep 09, 11:56 PM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; Big Papa gives Kenneth Walker III, George Kittle | CANCELED |
-| Thu Sep 10, 12:02 AM ET | The Ghee-talians | The Ghee-talians gives Bucky Irving, Isaiah Likely; The Slim Reapers gives Travis Etienne Jr., Tucker Kraft | CANCELED |
-| Thu Sep 10, 12:00 AM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; the blind side gives Kyle Pitts Sr., Jeremiyah Love | CANCELED |
-| Sat Sep 05, 04:10 PM ET | Big Papa | Big Papa gives Jordyn Tyson, Mike Washington Jr., George Kittle; The Ghee-talians gives De'Zhaun Stribling, Bucky Irving | CANCELED |
-| Wed Sep 16, 12:14 AM ET | The Ghee-talians | The Ghee-talians gives Hunter Henry, Davante Adams; Christian McCracker gives George Pickens, Sam LaPorta | CANCELED |
-| Wed Sep 16, 01:53 AM ET | Big Papa | Big Papa gives Chuba Hubbard, Christian Watson; Frizztards gives Josh Jacobs, Puka Nacua | CANCELED |
-| Thu Sep 17, 02:15 PM ET | Big Papa | Thr Short Bus gives Emeka Egbuka; Big Papa gives Chuba Hubbard, Jaylen Waddle | CANCELED |
-| Wed Sep 16, 12:11 AM ET | The Ghee-talians | The Ghee-talians gives Josh Downs, Hunter Henry; Saquan these nuts gives Dalton Kincaid, Jalen Coker | CANCELED |
-| Thu Sep 17, 05:08 PM ET | Big Papa | Big Papa gives Devaughn Vele, Chuba Hubbard, Jaylen Waddle; Thr Short Bus gives Emeka Egbuka, Quinshon Judkins | CANCELED |
-| Thu Sep 24, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Tank Bigsby; GioDoesCokeOnKamara gives Kyle Monangai | CANCELED |
-| Tue Sep 22, 06:47 PM ET | Cook'n brown rice | Cook'n brown rice gives Michael Wilson, Kaelon Black; Christian McCracker gives Rachaad White, Romeo Doubs | CANCELED |
-| Wed Sep 23, 11:30 AM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy, Travis Etienne Jr.; the blind side gives Jeremiyah Love | CANCELED |
-| Tue Sep 22, 09:21 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs; GioDoesCokeOnKamara gives A.J. Brown | CANCELED |
-| Thu Sep 24, 01:23 PM ET | The Slim Reapers | The Slim Reapers gives Tank Bigsby; GioDoesCokeOnKamara gives Kyle Monangai | CANCELED |
-| Wed Sep 30, 11:25 AM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs, Rachaad White; Cook'n brown rice gives Michael Wilson, Bucky Irving | CANCELED |
-| Tue Sep 29, 02:55 PM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy; Swedes2xChamp2026 gives Aaron Jones Sr. | CANCELED |
 | Thu Oct 01, 03:43 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
 | Wed Sep 30, 06:37 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
+| Wed Sep 30, 11:25 AM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
+| Tue Sep 29, 02:55 PM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy; Swedes2xChamp2026 gives Aaron Jones Sr. | CANCELED |
+| Thu Sep 24, 01:23 PM ET | The Slim Reapers | The Slim Reapers gives Tank Bigsby; GioDoesCokeOnKamara gives Kyle Monangai | CANCELED |
+| Thu Sep 24, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Tank Bigsby; GioDoesCokeOnKamara gives Kyle Monangai | CANCELED |
+| Wed Sep 23, 11:30 AM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy, Travis Etienne Jr.; the blind side gives Jeremiyah Love | CANCELED |
+| Tue Sep 22, 09:21 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs; GioDoesCokeOnKamara gives A.J. Brown | CANCELED |
+| Tue Sep 22, 06:47 PM ET | Cook'n brown rice | Cook'n brown rice gives Michael Wilson, Kaelon Black; Christian McCracker gives Rachaad White, Romeo Doubs | CANCELED |
+| Thu Sep 17, 05:08 PM ET | Big Papa | Big Papa gives Devaughn Vele, Chuba Hubbard, Jaylen Waddle; Thr Short Bus gives Emeka Egbuka, Quinshon Judkins | CANCELED |
+| Thu Sep 17, 02:15 PM ET | Big Papa | Thr Short Bus gives Emeka Egbuka; Big Papa gives Chuba Hubbard, Jaylen Waddle | CANCELED |
+| Wed Sep 16, 01:53 AM ET | Big Papa | Big Papa gives Chuba Hubbard, Christian Watson; Frizztards gives Josh Jacobs, Puka Nacua | CANCELED |
+| Wed Sep 16, 12:14 AM ET | The Ghee-talians | The Ghee-talians gives Hunter Henry, Davante Adams; Christian McCracker gives George Pickens, Sam LaPorta | CANCELED |
+| Wed Sep 16, 12:11 AM ET | The Ghee-talians | The Ghee-talians gives Josh Downs, Hunter Henry; Saquan these nuts gives Dalton Kincaid, Jalen Coker | CANCELED |
+| Thu Sep 10, 12:02 AM ET | The Ghee-talians | The Ghee-talians gives Bucky Irving, Isaiah Likely; The Slim Reapers gives Travis Etienne Jr., Tucker Kraft | CANCELED |
+| Thu Sep 10, 12:00 AM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; the blind side gives Kyle Pitts Sr., Jeremiyah Love | CANCELED |
+| Wed Sep 09, 11:56 PM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; Big Papa gives Kenneth Walker III, George Kittle | CANCELED |
+| Wed Sep 09, 04:24 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | CANCELED |
+| Wed Sep 09, 04:23 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Jeremiyah Love; Brock Hard for TDs gives Jahmyr Gibbs | EXPIRED |
+| Sat Sep 05, 04:10 PM ET | Big Papa | Big Papa gives Jordyn Tyson, Mike Washington Jr., George Kittle; The Ghee-talians gives De'Zhaun Stribling, Bucky Irving | CANCELED |
 
 ### Accepted trades
 
@@ -43,11 +42,11 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
-| Wed Sep 23, 05:06 PM ET | The Ghee-talians | the blind side | went through Thu Sep 24, 09:04 AM ET |
-| Tue Sep 29, 05:18 PM ET | The Ghee-talians | Cook'n brown rice | went through Tue Sep 29, 05:21 PM ET |
 | Wed Sep 30, 11:27 AM ET | Cook'n brown rice | the blind side | went through Wed Sep 30, 11:40 AM ET |
 | Wed Sep 30, 11:02 AM ET | Saquan these nuts | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
+| Tue Sep 29, 05:18 PM ET | The Ghee-talians | Cook'n brown rice | went through Tue Sep 29, 05:21 PM ET |
 | Tue Sep 29, 02:58 PM ET | The Slim Reapers | Swedes2xChamp2026 | went through Tue Sep 29, 03:35 PM ET |
+| Wed Sep 23, 05:06 PM ET | The Ghee-talians | the blind side | went through Thu Sep 24, 09:04 AM ET |
 
 ### Declined offers
 
@@ -55,22 +54,22 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
-| Mon Sep 07, 11:52 PM ET | GioDoesCokeOnKamara |
-| Wed Sep 09, 04:24 PM ET | Brock Hard for TDs |
-| Tue Sep 15, 10:29 PM ET | Christian McCracker |
-| Fri Sep 18, 04:52 PM ET | the blind side |
-| Wed Sep 23, 05:05 PM ET | The Ghee-talians |
-| Tue Sep 22, 07:38 PM ET | Christian McCracker |
 | Sat Oct 03, 01:26 AM ET | GioDoesCokeOnKamara |
+| Wed Sep 30, 10:18 PM ET | Cook'n brown rice |
+| Wed Sep 30, 10:12 PM ET | The Slim Reapers |
 | Wed Sep 30, 06:44 PM ET | Thr Short Bus |
-| Tue Sep 29, 07:23 PM ET | Christian McCracker |
-| Tue Sep 29, 05:19 PM ET | Cook'n brown rice |
-| Tue Sep 29, 05:41 PM ET | the blind side |
 | Wed Sep 30, 11:38 AM ET | GioDoesCokeOnKamara |
 | Wed Sep 30, 09:49 AM ET | Christian McCracker |
-| Wed Sep 30, 10:18 PM ET | Cook'n brown rice |
+| Tue Sep 29, 07:23 PM ET | Christian McCracker |
+| Tue Sep 29, 05:41 PM ET | the blind side |
+| Tue Sep 29, 05:19 PM ET | Cook'n brown rice |
 | Tue Sep 29, 08:54 AM ET | Cook'n brown rice |
-| Wed Sep 30, 10:12 PM ET | The Slim Reapers |
+| Wed Sep 23, 05:05 PM ET | The Ghee-talians |
+| Tue Sep 22, 07:38 PM ET | Christian McCracker |
+| Fri Sep 18, 04:52 PM ET | the blind side |
+| Tue Sep 15, 10:29 PM ET | Christian McCracker |
+| Wed Sep 09, 04:24 PM ET | Brock Hard for TDs |
+| Mon Sep 07, 11:52 PM ET | GioDoesCokeOnKamara |
 
 ## Recent adds, drops and completed trades
 

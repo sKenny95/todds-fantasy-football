@@ -1,6 +1,6 @@
 # All rosters
 
-Updated: Sun Oct 04 2026, 09:50 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 09:52 AM ET · NFL week 4 · The Re-Todds
 
 Proj and Opp are for this week. Avg/gm and Season pts are season to date.
 

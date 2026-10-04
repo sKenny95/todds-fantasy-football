@@ -1,6 +1,6 @@
 # Free agents
 
-Updated: Sun Oct 04 2026, 09:50 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 09:52 AM ET · NFL week 4 · The Re-Todds
 
 Unrostered players (free agents and players on waivers), most-rostered first.
 
@@ -120,7 +120,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 |---|---|---|---|---|---|---|---|---|---|
 | Dominic Zvada | K | NYG |  | ARI (#5 vs K) | 8.7 | 0 | 8.0 | 24.0 | 2.15 |
 | Andy Borregales | K | NE |  | BUF (#20 vs K) | 7.2 | 0 | 6.7 | 20.0 | 1.85 |
-| Drew Stevens | K | WSH |  | IND (#29 vs K) | 8.4 | 3.0 | 6.8 | 27.0 | 0.57 |
+| Drew Stevens | K | WSH |  | IND (#29 vs K) | 8.4 | 6.0 | 7.5 | 30.0 | 0.57 |
 | Chad Ryland | K | ARI |  | NYG (#1 vs K) | 8.0 | 0 | 10.0 | 30.0 | 0.49 |
 | Andre Szmyt | K | CLE |  | PIT (#21 vs K) | 7.4 | 12.0 | 9.5 | 38.0 | 0.49 |
 | Joey Slye | K | TEN |  | BAL (#24 vs K) | 7.0 | 0 | 4.3 | 13.0 | 0.48 |
