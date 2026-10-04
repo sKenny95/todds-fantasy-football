@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 10:55 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 11:37 AM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -27,11 +27,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 25.7 | 127.83 |
+| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 25.7 | 126.8 |
 | Christian McCracker | 16.5 | 118.03 | vs | The Slim Reapers | 0.0 | 115.94 |
-| The Ghee-talians | 10.0 | 127.69 | vs | Big Papa | 0.0 | 133.28 |
-| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 4.6 | 118.63 |
-| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 7.5 | 126.79 |
+| The Ghee-talians | 17.3 | 133.38 | vs | Big Papa | 0.0 | 133.28 |
+| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 4.6 | 117.55 |
+| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 12.5 | 130.07 |
 | the blind side | 0.0 | 116.74 | vs | GioDoesCokeOnKamara | 12.9 | 106.94 |
 
 ## My schedule
