@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-04T13:47:22+00:00",
- "updated_et": "Sun Oct 04 2026, 09:47 AM ET",
+ "updated_utc": "2026-10-04T13:50:00+00:00",
+ "updated_et": "Sun Oct 04 2026, 09:50 AM ET",
  "league_id": 1241185,
  "season": 2026,
  "week": 4,
@@ -2995,15 +2995,15 @@
      "nfl": "WSH",
      "status": null,
      "slot": "BE",
-     "season_pts": 23.8,
-     "season_avg": 6.0,
+     "season_pts": 28.3,
+     "season_avg": 7.1,
      "proj_season_pts": 120.0,
      "pct_owned": 72.26,
      "pct_started": 18.3,
      "week": {
       "slot": "BE",
       "proj": 11.1,
-      "pts": 0.1,
+      "pts": 4.6,
       "opp": "IND",
       "opp_rank_vs_pos": 27,
       "bye": false,
@@ -6229,7 +6229,7 @@
     "id": 15,
     "name": "Thr Short Bus",
     "score": 21.6,
-    "proj": 128.91
+    "proj": 128.45
    }
   ],
   [
@@ -6251,7 +6251,7 @@
     "id": 14,
     "name": "The Ghee-talians",
     "score": 1.5,
-    "proj": 127.26
+    "proj": 126.54
    },
    {
     "id": 17,
@@ -6271,7 +6271,7 @@
     "id": 16,
     "name": "Cook'n brown rice",
     "score": 1.2,
-    "proj": 120.62
+    "proj": 120.14
    }
   ],
   [
@@ -6285,7 +6285,7 @@
     "id": 2,
     "name": "Brock Hard for TDs",
     "score": 1.9,
-    "proj": 129.82
+    "proj": 129.05
    }
   ],
   [
@@ -6378,15 +6378,15 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 33.1,
-    "season_avg": 11.0,
+    "season_pts": 34.5,
+    "season_avg": 11.5,
     "proj_season_pts": 18.6,
     "pct_owned": 20.79,
     "pct_started": 14.76,
     "week": {
      "slot": "FA",
      "proj": 18.6,
-     "pts": 3.9,
+     "pts": 5.3,
      "opp": "IND",
      "opp_rank_vs_pos": 28,
      "bye": false,
@@ -8654,15 +8654,15 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 5.0,
-    "season_avg": 1.2,
+    "season_pts": 6.0,
+    "season_avg": 1.5,
     "proj_season_pts": 61.8,
     "pct_owned": 1.52,
     "pct_started": 0.79,
     "week": {
      "slot": "FA",
      "proj": 4.5,
-     "pts": 9.0,
+     "pts": 10.0,
      "opp": "WSH",
      "opp_rank_vs_pos": 10,
      "bye": false,
@@ -8694,6 +8694,470 @@
   ]
  },
  "trades": [
+  {
+   "id": "f2b60292-9e85-402c-938c-e3dc0c25f446",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "the blind side",
+   "proposed": "Wed Sep 09, 04:24 PM ET",
+   "processed": "",
+   "expires": "Fri Sep 11, 04:23 PM ET",
+   "week": 1,
+   "related_id": "feeb1e8d-3c90-4817-96fd-b85f89c7d05f",
+   "comment": null,
+   "items": [
+    {
+     "player": "Kyle Pitts Sr.",
+     "from": "the blind side",
+     "to": "Brock Hard for TDs",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jeremiyah Love",
+     "from": "the blind side",
+     "to": "Brock Hard for TDs",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jahmyr Gibbs",
+     "from": "Brock Hard for TDs",
+     "to": "the blind side",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "a391c985-1fb6-4207-a69a-5cf695636619",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "The Ghee-talians",
+   "proposed": "Wed Sep 09, 11:56 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 1,
+   "related_id": "3ad271d4-4870-4c1b-a75e-6c8163b029e9",
+   "comment": null,
+   "items": [
+    {
+     "player": "Isaiah Likely",
+     "from": "The Ghee-talians",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Bucky Irving",
+     "from": "The Ghee-talians",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Kenneth Walker III",
+     "from": "Big Papa",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "George Kittle",
+     "from": "Big Papa",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "feeb1e8d-3c90-4817-96fd-b85f89c7d05f",
+   "type": "TRADE_PROPOSAL",
+   "status": "PENDING",
+   "team": "the blind side",
+   "proposed": "Wed Sep 09, 04:23 PM ET",
+   "processed": "",
+   "expires": "Fri Sep 11, 04:23 PM ET",
+   "week": 1,
+   "related_id": null,
+   "comment": null,
+   "items": [
+    {
+     "player": "Kyle Pitts Sr.",
+     "from": "the blind side",
+     "to": "Brock Hard for TDs",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jeremiyah Love",
+     "from": "the blind side",
+     "to": "Brock Hard for TDs",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jahmyr Gibbs",
+     "from": "Brock Hard for TDs",
+     "to": "the blind side",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "d0186ffd-de2e-4be5-acc5-d94a8c8cd8e6",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "The Ghee-talians",
+   "proposed": "Thu Sep 10, 12:02 AM ET",
+   "processed": "",
+   "expires": "",
+   "week": 1,
+   "related_id": "4e6db47a-73e1-47c1-aac3-7a1c87f9ad3f",
+   "comment": null,
+   "items": [
+    {
+     "player": "Bucky Irving",
+     "from": "The Ghee-talians",
+     "to": "The Slim Reapers",
+     "type": "TRADE"
+    },
+    {
+     "player": "Isaiah Likely",
+     "from": "The Ghee-talians",
+     "to": "The Slim Reapers",
+     "type": "TRADE"
+    },
+    {
+     "player": "Travis Etienne Jr.",
+     "from": "The Slim Reapers",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "Tucker Kraft",
+     "from": "The Slim Reapers",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "4c497c88-b888-4c19-8788-039205b3fd1e",
+   "type": "TRADE_DECLINE",
+   "status": "EXECUTED",
+   "team": "GioDoesCokeOnKamara",
+   "proposed": "Mon Sep 07, 11:52 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 1,
+   "related_id": "fb7df0ac-8793-44b7-b020-0572bcef66b8",
+   "comment": null,
+   "items": []
+  },
+  {
+   "id": "015a9b3f-57e9-4e54-b0c4-0fcfba166ec1",
+   "type": "TRADE_DECLINE",
+   "status": "EXECUTED",
+   "team": "Brock Hard for TDs",
+   "proposed": "Wed Sep 09, 04:24 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 1,
+   "related_id": "feeb1e8d-3c90-4817-96fd-b85f89c7d05f",
+   "comment": null,
+   "items": []
+  },
+  {
+   "id": "32a75b72-2eb5-4db2-ab71-11c7208b7f5e",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "The Ghee-talians",
+   "proposed": "Thu Sep 10, 12:00 AM ET",
+   "processed": "",
+   "expires": "",
+   "week": 1,
+   "related_id": "688498a8-dfa1-4ae7-817d-938f8f9e644b",
+   "comment": null,
+   "items": [
+    {
+     "player": "Isaiah Likely",
+     "from": "The Ghee-talians",
+     "to": "the blind side",
+     "type": "TRADE"
+    },
+    {
+     "player": "Bucky Irving",
+     "from": "The Ghee-talians",
+     "to": "the blind side",
+     "type": "TRADE"
+    },
+    {
+     "player": "Kyle Pitts Sr.",
+     "from": "the blind side",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jeremiyah Love",
+     "from": "the blind side",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "561aa70d-7c1c-4440-ab86-c9bb6d3bbd76",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "Big Papa",
+   "proposed": "Sat Sep 05, 04:10 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 1,
+   "related_id": "3d085329-6d78-4b0c-9a75-a9a1d44f3ecc",
+   "comment": null,
+   "items": [
+    {
+     "player": "Jordyn Tyson",
+     "from": "Big Papa",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "Mike Washington Jr.",
+     "from": "Big Papa",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "George Kittle",
+     "from": "Big Papa",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "De'Zhaun Stribling",
+     "from": "The Ghee-talians",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Bucky Irving",
+     "from": "The Ghee-talians",
+     "to": "Big Papa",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "502e54f5-76c2-49e1-aa23-e126929c9532",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "The Ghee-talians",
+   "proposed": "Wed Sep 16, 12:14 AM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "84b8942e-c5ed-47eb-8f5c-0cbc07f35010",
+   "comment": null,
+   "items": [
+    {
+     "player": "Hunter Henry",
+     "from": "The Ghee-talians",
+     "to": "Christian McCracker",
+     "type": "TRADE"
+    },
+    {
+     "player": "Davante Adams",
+     "from": "The Ghee-talians",
+     "to": "Christian McCracker",
+     "type": "TRADE"
+    },
+    {
+     "player": "George Pickens",
+     "from": "Christian McCracker",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "Sam LaPorta",
+     "from": "Christian McCracker",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "da40a9f9-44f1-4a31-81e3-f8571fc355b4",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "Big Papa",
+   "proposed": "Wed Sep 16, 01:53 AM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "d316d66a-c3c2-41f7-9491-852bf9544aa3",
+   "comment": null,
+   "items": [
+    {
+     "player": "Chuba Hubbard",
+     "from": "Big Papa",
+     "to": "Frizztards",
+     "type": "TRADE"
+    },
+    {
+     "player": "Christian Watson",
+     "from": "Big Papa",
+     "to": "Frizztards",
+     "type": "TRADE"
+    },
+    {
+     "player": "Josh Jacobs",
+     "from": "Frizztards",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Puka Nacua",
+     "from": "Frizztards",
+     "to": "Big Papa",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "8984cfc6-9489-485c-b04b-09f06a4badb2",
+   "type": "TRADE_DECLINE",
+   "status": "EXECUTED",
+   "team": "Christian McCracker",
+   "proposed": "Tue Sep 15, 10:29 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "0fe352a2-707f-4192-9419-ee6b1d6770d9",
+   "comment": null,
+   "items": []
+  },
+  {
+   "id": "b6d35769-1109-4cd7-81f1-3952f246e684",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "Big Papa",
+   "proposed": "Thu Sep 17, 02:15 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "32dde8af-7517-44ea-8582-cfff0d576f96",
+   "comment": null,
+   "items": [
+    {
+     "player": "Emeka Egbuka",
+     "from": "Thr Short Bus",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Chuba Hubbard",
+     "from": "Big Papa",
+     "to": "Thr Short Bus",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jaylen Waddle",
+     "from": "Big Papa",
+     "to": "Thr Short Bus",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "f0508d75-41ec-458a-97c9-3997bc65e159",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "The Ghee-talians",
+   "proposed": "Wed Sep 16, 12:11 AM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "48f6ed45-3a0f-44ff-b596-c299336b45c8",
+   "comment": null,
+   "items": [
+    {
+     "player": "Josh Downs",
+     "from": "The Ghee-talians",
+     "to": "Saquan these nuts",
+     "type": "TRADE"
+    },
+    {
+     "player": "Hunter Henry",
+     "from": "The Ghee-talians",
+     "to": "Saquan these nuts",
+     "type": "TRADE"
+    },
+    {
+     "player": "Dalton Kincaid",
+     "from": "Saquan these nuts",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jalen Coker",
+     "from": "Saquan these nuts",
+     "to": "The Ghee-talians",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "4111d71b-f22b-4941-8a98-d8d33935bb25",
+   "type": "TRADE_PROPOSAL",
+   "status": "CANCELED",
+   "team": "Big Papa",
+   "proposed": "Thu Sep 17, 05:08 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "a6176f28-bcae-4e9c-9d85-e948025aa927",
+   "comment": null,
+   "items": [
+    {
+     "player": "Devaughn Vele",
+     "from": "Big Papa",
+     "to": "Thr Short Bus",
+     "type": "TRADE"
+    },
+    {
+     "player": "Emeka Egbuka",
+     "from": "Thr Short Bus",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Quinshon Judkins",
+     "from": "Thr Short Bus",
+     "to": "Big Papa",
+     "type": "TRADE"
+    },
+    {
+     "player": "Chuba Hubbard",
+     "from": "Big Papa",
+     "to": "Thr Short Bus",
+     "type": "TRADE"
+    },
+    {
+     "player": "Jaylen Waddle",
+     "from": "Big Papa",
+     "to": "Thr Short Bus",
+     "type": "TRADE"
+    }
+   ]
+  },
+  {
+   "id": "a105bfeb-fc03-4cee-8f2a-3068e417e615",
+   "type": "TRADE_DECLINE",
+   "status": "EXECUTED",
+   "team": "the blind side",
+   "proposed": "Fri Sep 18, 04:52 PM ET",
+   "processed": "",
+   "expires": "",
+   "week": 2,
+   "related_id": "3c5da2c0-cb20-4e74-b8f3-9053bac95700",
+   "comment": null,
+   "items": []
+  },
   {
    "id": "93435a0e-29fd-4d0e-adee-82e1dc2b6fe8",
    "type": "TRADE_PROPOSAL",

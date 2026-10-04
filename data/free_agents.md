@@ -1,6 +1,6 @@
 # Free agents
 
-Updated: Sun Oct 04 2026, 09:47 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 09:50 AM ET · NFL week 4 · The Re-Todds
 
 Unrostered players (free agents and players on waivers), most-rostered first.
 
@@ -11,7 +11,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Baker Mayfield | QB | TB | OUT | GB (#12 vs QB) | 0.0 | 0 | 11.7 | 35.1 | 35.82 |
 | Jaxson Dart | QB | NYG | INJURY_RESERVE | ARI (#29 vs QB) | 0.0 | 0 | 13.7 | 27.4 | 35.35 |
 | Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | -1.8 | 6.6 | 26.5 | 23.15 |
-| Marcus Mariota | QB | WSH |  | IND (#28 vs QB) | 18.6 | 3.9 | 11.0 | 33.1 | 20.79 |
+| Marcus Mariota | QB | WSH |  | IND (#28 vs QB) | 18.6 | 5.3 | 11.5 | 34.5 | 20.79 |
 | Malik Willis | QB | MIA |  | MIN (#7 vs QB) | 11.8 | 0 | 13.1 | 39.2 | 11.08 |
 | Jacoby Brissett | QB | ARI |  | NYG (#17 vs QB) | 16.0 | 0 | 16.2 | 48.6 | 9.57 |
 | Cam Ward | QB | TEN |  | BAL (#15 vs QB) | 12.8 | 0 | 13.7 | 41.2 | 6.14 |
@@ -139,6 +139,6 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Cowboys D/ST | D/ST | DAL |  | HOU (#16 vs D/ST) | 4.3 | 0 | 0.3 | 1.0 | 6.4 |
 | Commanders D/ST | D/ST | WSH |  | IND (#17 vs D/ST) | 6.3 | 13.0 | 5.8 | 23.0 | 4.13 |
 | Titans D/ST | D/ST | TEN |  | BAL (#3 vs D/ST) | 2.3 | 0 | 4.7 | 14.0 | 1.78 |
-| Colts D/ST | D/ST | IND |  | WSH (#10 vs D/ST) | 4.5 | 9.0 | 1.2 | 5.0 | 1.52 |
+| Colts D/ST | D/ST | IND |  | WSH (#10 vs D/ST) | 4.5 | 10.0 | 1.5 | 6.0 | 1.52 |
 | Dolphins D/ST | D/ST | MIA |  | MIN (#17 vs D/ST) | 3.4 | 0 | 1.3 | 4.0 | 0.56 |
 
