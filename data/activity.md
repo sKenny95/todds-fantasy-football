@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 04 2026, 11:37 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 12:28 PM ET · NFL week 4 · The Re-Todds
 
 ## Trade offers
 
@@ -91,6 +91,9 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Oct 04, 11:54 AM ET | Frizztards | FA ADDED | Najee Harris | RB | NYG |
+| Sun Oct 04, 11:54 AM ET | Frizztards | DROPPED | Chris Brooks | RB | GB |
+| Sun Oct 04, 11:52 AM ET | Frizztards | DROPPED | Malachi Fields | WR | NYG |
 | Sun Oct 04, 09:57 AM ET | Saquan these nuts | FA ADDED | George Holani | RB | SEA |
 | Sat Oct 03, 11:26 PM ET | The Ghee-talians | DROPPED | Xavier Hutchinson | WR | HOU |
 | Sat Oct 03, 11:26 PM ET | The Ghee-talians | FA ADDED | Xavier Worthy | WR | KC |
@@ -184,9 +187,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Sep 24, 12:27 PM ET | The Slim Reapers | FA ADDED | DeeJay Dallas | RB | MIN |
 | Thu Sep 24, 11:41 AM ET | Brock Hard for TDs | DROPPED | Brenton Strange | TE | JAX |
 | Thu Sep 24, 11:41 AM ET | Brock Hard for TDs | FA ADDED | Terrance Ferguson | TE | LAR |
-| Thu Sep 24, 09:04 AM ET | the blind side | TRADE_SENT | RJ Harvey | RB | DEN |
-| Thu Sep 24, 09:04 AM ET | The Ghee-talians | TRADE_RECEIVED | RJ Harvey | RB | DEN |
-| Thu Sep 24, 09:04 AM ET | The Ghee-talians | TRADE_SENT | Tyler Allgeier | RB | ARI |
-| Thu Sep 24, 09:04 AM ET | the blind side | TRADE_RECEIVED | Tyler Allgeier | RB | ARI |
-| Thu Sep 24, 03:24 AM ET | Christian McCracker | WAIVER ADDED | Kaelon Black | RB | SF |
-| Thu Sep 24, 03:24 AM ET | Christian McCracker | DROPPED | Rico Dowdle | RB | PIT |

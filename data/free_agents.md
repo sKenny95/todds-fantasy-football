@@ -1,10 +1,10 @@
 # Free agents
 
-Updated: Sun Oct 04 2026, 11:37 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 12:28 PM ET · NFL week 4 · The Re-Todds
 
 Unrostered players (free agents and players on waivers), most-rostered first.
 
-**On waivers, so they need a claim:** Daniel Jones (until Wed Oct 07, 03:00 AM ET), Marcus Mariota (until Wed Oct 07, 03:00 AM ET), Shedeur Sanders (until Wed Oct 07, 03:00 AM ET), Rico Dowdle (until Wed Oct 07, 03:00 AM ET), Dylan Sampson (until Wed Oct 07, 03:00 AM ET), Austin Ekeler (until Wed Oct 07, 03:00 AM ET), Eli Heidenreich (until Wed Oct 07, 03:00 AM ET), Raheim Sanders (until Wed Oct 07, 03:00 AM ET), Seth McGowan (until Wed Oct 07, 03:00 AM ET), Michael Pittman Jr. (until Wed Oct 07, 03:00 AM ET), Caleb Douglas (until Wed Oct 07, 03:00 AM ET), Jerry Jeudy (until Wed Oct 07, 03:00 AM ET), Antonio Williams (until Wed Oct 07, 03:00 AM ET), Xavier Hutchinson (until Wed Oct 07, 03:00 AM ET), Roman Wilson (until Wed Oct 07, 03:00 AM ET), Germie Bernard (until Wed Oct 07, 03:00 AM ET), Darnell Washington (until Wed Oct 07, 03:00 AM ET), Andy Borregales (until Wed Oct 07, 03:00 AM ET), Drew Stevens (until Wed Oct 07, 03:00 AM ET), Andre Szmyt (until Wed Oct 07, 03:00 AM ET), Browns D/ST (until Wed Oct 07, 03:00 AM ET), Commanders D/ST (until Wed Oct 07, 03:00 AM ET), Colts D/ST (until Wed Oct 07, 03:00 AM ET). Everyone else can be added right away.
+**On waivers, so they need a claim:** Daniel Jones (until Wed Oct 07, 03:00 AM ET), Marcus Mariota (until Wed Oct 07, 03:00 AM ET), Shedeur Sanders (until Wed Oct 07, 03:00 AM ET), Rico Dowdle (until Wed Oct 07, 03:00 AM ET), Dylan Sampson (until Wed Oct 07, 03:00 AM ET), Chris Brooks (until Wed Oct 07, 03:00 AM ET), Austin Ekeler (until Wed Oct 07, 03:00 AM ET), Eli Heidenreich (until Wed Oct 07, 03:00 AM ET), Raheim Sanders (until Wed Oct 07, 03:00 AM ET), Seth McGowan (until Wed Oct 07, 03:00 AM ET), Michael Pittman Jr. (until Wed Oct 07, 03:00 AM ET), Caleb Douglas (until Wed Oct 07, 03:00 AM ET), Jerry Jeudy (until Wed Oct 07, 03:00 AM ET), Malachi Fields (until Wed Oct 07, 03:00 AM ET), Antonio Williams (until Wed Oct 07, 03:00 AM ET), Xavier Hutchinson (until Wed Oct 07, 03:00 AM ET), Roman Wilson (until Wed Oct 07, 03:00 AM ET), Germie Bernard (until Wed Oct 07, 03:00 AM ET), Darnell Washington (until Wed Oct 07, 03:00 AM ET), Andy Borregales (until Wed Oct 07, 03:00 AM ET), Drew Stevens (until Wed Oct 07, 03:00 AM ET), Andre Szmyt (until Wed Oct 07, 03:00 AM ET), Browns D/ST (until Wed Oct 07, 03:00 AM ET), Commanders D/ST (until Wed Oct 07, 03:00 AM ET), Colts D/ST (until Wed Oct 07, 03:00 AM ET). Everyone else can be added right away.
 
 ## QB
 
@@ -12,7 +12,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Baker Mayfield | QB | TB | OUT | GB (#12 vs QB) | 0.0 | 0 | 11.7 | 35.1 | 13.9 |  | 10 | 35.6 | -0.95 |
 | Jaxson Dart | QB | NYG | INJURY_RESERVE | ARI (#29 vs QB) | 0.0 | 0 | 13.7 | 27.4 | 0.0 |  | 8 | 35.11 | -1.05 |
-| Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | -0.1 | 7.0 | 28.2 | 14.0 | 19.9 | 13 | 23.15 | -0.11 |
+| Daniel Jones | QB | IND |  | WSH (#31 vs QB) | 15.2 | 8.2 | 9.1 | 36.6 | 14.0 | 19.9 | 13 | 23.15 | -0.11 |
 | Marcus Mariota | QB | WSH | OUT | IND (#28 vs QB) | 18.6 | 5.3 | 11.5 | 34.5 | 9.3 | 13.0 | 7 | 20.79 | 1.16 |
 | Malik Willis | QB | MIA |  | MIN (#7 vs QB) | 11.8 | 0 | 13.1 | 39.2 | 14.2 |  | 6 | 11.03 | -0.26 |
 | Jacoby Brissett | QB | ARI |  | NYG (#17 vs QB) | 16.0 | 0 | 16.2 | 48.6 | 15.4 | 18.8 | 14 | 9.74 | 0.59 |
@@ -34,7 +34,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | De'Von Achane | RB | MIA | INJURY_RESERVE | MIN (#3 vs RB) | 0.0 | 0 | 8.2 | 24.6 | 0.0 |  | 6 | 50.39 | -2.38 |
 | Jonathon Brooks | RB | CAR | INJURY_RESERVE | DET (#16 vs RB) | 0.0 | 0 | 4.7 | 9.3 | 0.0 |  | 5 | 49.5 | -1.01 |
 | MarShawn Lloyd | RB | GB |  | TB (#12 vs RB) | 6.5 | 0 | 5.4 | 16.1 | 7.1 | 43.8 | 11 | 49.14 | -1.46 |
-| Tyjae Spears | RB | TEN |  | BAL (#18 vs RB) | 8.0 | 0 | 4.6 | 13.9 | 8.9 | 40.4 | 9 | 40.83 | -0.67 |
+| Tyjae Spears | RB | TEN |  | BAL (#18 vs RB) | 8.0 | 0 | 4.6 | 13.9 | 8.3 | 40.4 | 9 | 40.83 | -0.67 |
 | Jonah Coleman | RB | DEN | INJURY_RESERVE | SF (#23 vs RB) | 0.0 | 0 | 7.4 | 14.8 | 0.0 |  | 10 | 24.64 | -0.71 |
 | Isiah Pacheco | RB | DET | INJURY_RESERVE | CAR (#30 vs RB) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 6 | 22.73 | -0.39 |
 | Mike Washington Jr. | RB | LV |  | KC (#14 vs RB) | 3.2 | 0 | 5.4 | 16.2 | 3.2 | 49.6 | 13 | 21.38 | -0.22 |
@@ -43,12 +43,12 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Tank Bigsby | RB | PHI |  | LAR (#11 vs RB) | 2.9 | 0 | 3.9 | 11.6 | 3.1 |  | 10 | 15.73 | -0.48 |
 | Justice Hill | RB | BAL |  | TEN (#19 vs RB) | 5.4 | 0 | 3.6 | 10.9 | 5.2 | 47.5 | 13 | 11.96 | -0.21 |
 | Dylan Sampson | RB | CLE | INJURY_RESERVE | PIT (#21 vs RB) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |  | 11 | 9.9 | -0.01 |
+| Chris Brooks | RB | GB |  | TB (#12 vs RB) | 3.9 | 0 | 2.6 | 7.9 | 3.1 |  | 11 | 8.64 | -0.48 |
 | Isaiah Davis | RB | NYJ |  | CHI (#15 vs RB) | 9.3 | 0 | 0.0 | 0.0 | 9.3 | 35.1 | 13 | 8.33 | 0.39 |
-| Najee Harris | RB | NYG |  | ARI (#6 vs RB) | 6.6 | 0 | 2.9 | 5.8 | 5.7 | 43.2 | 8 | 7.97 | 0.15 |
 | Samaje Perine | RB | CIN |  | JAX (#10 vs RB) | 5.1 | 0 | 4.5 | 13.6 | 5.2 | 48.9 | 6 | 7.65 | -0.14 |
 | Kaleb Johnson | RB | GB |  | TB (#12 vs RB) | 7.2 | 0 | 1.9 | 5.8 | 4.1 | 41.0 | 11 | 6.2 | -0.06 |
-| Ray Davis | RB | BUF | QUESTIONABLE | NE (#20 vs RB) | 1.4 | 0 | 0.1 | 0.3 | 1.5 |  | 7 | 5.25 | -0.13 |
-| Devin Singletary | RB | NYG |  | ARI (#6 vs RB) | 0.0 | 0 | 7.3 | 14.7 | 0.0 |  | 8 | 4.68 | -0.31 |
+| Ray Davis | RB | BUF |  | NE (#20 vs RB) | 1.4 | 0 | 0.1 | 0.3 | 1.5 |  | 7 | 5.25 | -0.13 |
+| Devin Singletary | RB | NYG | OUT | ARI (#6 vs RB) | 0.0 | 0 | 7.3 | 14.7 | 0.0 |  | 8 | 4.68 | -0.31 |
 | James Conner | RB | ARI | INJURY_RESERVE | NYG (#22 vs RB) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 14 | 3.15 | 0.09 |
 | Tyrone Tracy Jr. | RB | NYG |  | ARI (#6 vs RB) | 0.8 | 0 | -0.1 | -0.3 | 0.7 |  | 8 | 2.26 | -0.05 |
 | Austin Ekeler | RB | WSH |  | IND (#27 vs RB) | 5.9 | 5.0 | 5.0 | 5.0 | 3.9 | 49.8 | 7 | 2.25 | 0.2 |
@@ -59,7 +59,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Joe Mixon | RB | None | OUT | BYE | 0 | 0 | 0.0 | 0.0 | 0 |  |  | 0.99 | 0.86 |
 | Jordan James | RB | SF |  | DEN (#28 vs RB) | 0.0 | 0 | 0.8 | 1.5 | 0.0 |  | 8 | 0.97 | -0.02 |
 | AJ Dillon | RB | CAR |  | DET (#16 vs RB) | 4.9 | 0 | 1.6 | 4.9 | 4.3 |  | 5 | 0.9 | -0.03 |
-| Seth McGowan | RB | IND |  | WSH (#2 vs RB) | 2.9 | 3.5 | 1.5 | 5.9 | 2.5 |  | 13 | 0.88 | 0.0 |
+| Seth McGowan | RB | IND |  | WSH (#2 vs RB) | 2.9 | 4.6 | 1.8 | 7.0 | 2.5 |  | 13 | 0.88 | 0.0 |
 
 ## WR
 
@@ -68,7 +68,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Michael Pittman Jr. | WR | PIT |  | CLE (#25 vs WR) | 9.7 | 3.5 | 5.3 | 15.9 | 10.1 |  | 9 | 78.26 | -0.02 |
 | Travis Hunter | WR | JAX |  | CIN (#14 vs WR) | 0.8 | 0 | 0.7 | 2.1 | 0.8 |  | 7 | 38.1 | -0.78 |
 | Jayden Reed | WR | GB | INJURY_RESERVE | TB (#8 vs WR) | 0.0 | 0 | 3.2 | 6.4 | 0.0 |  | 11 | 38.02 | -1.6 |
-| Rashod Bateman | WR | BAL |  | TEN (#18 vs WR) | 7.9 | 0 | 9.2 | 27.5 | 7.8 | 53.6 | 13 | 24.35 | -0.58 |
+| Rashod Bateman | WR | BAL |  | TEN (#18 vs WR) | 8.0 | 0 | 9.2 | 27.5 | 7.8 | 53.6 | 13 | 24.35 | -0.58 |
 | Caleb Douglas | WR | MIA | OUT | MIN (#23 vs WR) | 0.0 | 0 | 9.2 | 18.3 | 8.5 |  | 6 | 18.5 | -0.69 |
 | Jalen McMillan | WR | TB | INJURY_RESERVE | GB (#22 vs WR) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 10 | 16.47 | -0.5 |
 | Jerry Jeudy | WR | CLE |  | PIT (#7 vs WR) | 4.6 | 6.6 | 2.8 | 11.2 | 4.7 |  | 11 | 15.15 | -0.02 |
@@ -77,9 +77,10 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Calvin Ridley | WR | TEN |  | BAL (#26 vs WR) | 2.4 | 0 | 1.8 | 5.5 | 2.4 |  | 9 | 11.86 | -0.32 |
 | Kayshon Boutte | WR | HOU |  | DAL (#13 vs WR) | 5.2 | 0 | 4.6 | 13.9 | 4.9 |  | 8 | 8.97 | -0.32 |
 | Ja'Kobi Lane | WR | BAL | INJURY_RESERVE | TEN (#18 vs WR) | 0.0 | 0 | 2.1 | 2.1 | 0.0 |  | 13 | 8.77 | -0.15 |
+| Malachi Fields | WR | NYG |  | ARI (#29 vs WR) | 7.8 | 0 | 4.5 | 13.4 | 7.5 | 57.1 | 8 | 7.57 | -0.24 |
 | Jauan Jennings | WR | MIN |  | MIA (#5 vs WR) | 9.7 | 0 | 0.6 | 1.1 | 5.6 | 50.2 | 6 | 7.29 | 1.6 |
 | Jalen Nailor | WR | LV |  | KC (#2 vs WR) | 6.8 | 0 | 3.4 | 10.2 | 6.5 | 58.9 | 13 | 6.72 | -0.13 |
-| Antonio Williams | WR | WSH |  | IND (#20 vs WR) | 8.0 | 1.5 | 6.7 | 26.8 | 5.5 | 57.5 | 7 | 6.7 | 0.56 |
+| Antonio Williams | WR | WSH |  | IND (#20 vs WR) | 8.6 | 5.1 | 7.6 | 30.4 | 5.5 | 57.5 | 7 | 6.7 | 0.56 |
 | Tre' Harris | WR | LAC |  | SEA (#4 vs WR) | 7.8 | 0 | 8.3 | 24.9 | 8.1 | 54.0 | 7 | 5.71 | 0.35 |
 | Chris Bell | WR | MIA |  | MIN (#23 vs WR) | 8.7 | 0 | 4.7 | 14.2 | 7.1 | 53.4 | 6 | 5.31 | 0.42 |
 | Jaylin Noel | WR | HOU |  | DAL (#13 vs WR) | 3.6 | 0 | 5.7 | 17.2 | 3.4 |  | 8 | 4.8 | -0.12 |
@@ -94,7 +95,6 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Jayden Higgins | WR | HOU | INJURY_RESERVE | DAL (#13 vs WR) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 8 | 2.37 | -0.03 |
 | Zachariah Branch | WR | ATL |  | NO (#12 vs WR) | 2.7 | 0 | 1.7 | 5.1 | 2.6 |  | 11 | 2.36 | -0.04 |
 | Ricky Pearsall | WR | SF | INJURY_RESERVE | DEN (#9 vs WR) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 8 | 2.26 | -0.02 |
-| Isaac TeSlaa | WR | DET |  | CAR (#1 vs WR) | 6.3 | 0 | 4.7 | 14.2 | 6.4 |  | 6 | 1.96 | 0.0 |
 
 ## TE
 
@@ -103,7 +103,7 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Hunter Henry | TE | NE |  | BUF (#10 vs TE) | 8.9 | 0 | 4.7 | 14.1 | 8.6 | 16.1 | 11 | 43.76 | -0.6 |
 | Brenton Strange | TE | JAX |  | CIN (#28 vs TE) | 8.0 | 0 | 6.7 | 20.2 | 8.0 | 19.4 | 7 | 16.72 | -0.07 |
 | Michael Mayer | TE | LV |  | KC (#19 vs TE) | 6.5 | 0 | 8.9 | 26.7 | 6.2 | 25.5 | 13 | 12.11 | -0.39 |
-| Mike Gesicki | TE | CIN |  | JAX (#5 vs TE) | 7.5 | 0 | 10.5 | 31.5 | 7.4 | 23.2 | 6 | 9.61 | 0.06 |
+| Mike Gesicki | TE | CIN |  | JAX (#5 vs TE) | 7.4 | 0 | 10.5 | 31.5 | 7.4 | 23.2 | 6 | 9.61 | 0.06 |
 | Oronde Gadsden | TE | LAC |  | SEA (#12 vs TE) | 7.1 | 0 | 5.0 | 15.0 | 6.4 | 24.6 | 7 | 6.85 | -0.41 |
 | Evan Engram | TE | DEN |  | SF (#11 vs TE) | 5.3 | 0 | 5.7 | 17.0 | 5.3 |  | 10 | 3.69 | -0.09 |
 | Gunnar Helm | TE | TEN |  | BAL (#14 vs TE) | 7.1 | 0 | 4.5 | 13.5 | 7.2 | 25.2 | 9 | 3.43 | -0.05 |
@@ -139,8 +139,8 @@ Unrostered players (free agents and players on waivers), most-rostered first.
 | Lions D/ST | D/ST | DET |  | CAR (#7 vs D/ST) | 4.6 | 0 | 2.7 | 8.0 | 3.6 | 19.1 | 6 | 40.34 | -0.94 |
 | Chargers D/ST | D/ST | LAC |  | SEA (#14 vs D/ST) | 4.0 | 0 | 5.7 | 17.0 | 3.3 |  | 7 | 18.31 | -0.42 |
 | Cowboys D/ST | D/ST | DAL |  | HOU (#16 vs D/ST) | 4.3 | 0 | 0.3 | 1.0 | 3.2 | 19.2 | 14 | 6.41 | -0.01 |
-| Commanders D/ST | D/ST | WSH |  | IND (#17 vs D/ST) | 6.3 | 10.0 | 5.0 | 20.0 | 4.0 | 10.9 | 7 | 4.13 | 0.57 |
+| Commanders D/ST | D/ST | WSH |  | IND (#17 vs D/ST) | 6.3 | 7.0 | 4.2 | 17.0 | 4.0 | 10.9 | 7 | 4.13 | 0.57 |
 | Titans D/ST | D/ST | TEN |  | BAL (#3 vs D/ST) | 2.3 | 0 | 4.7 | 14.0 | 3.4 |  | 9 | 1.74 | -0.15 |
-| Colts D/ST | D/ST | IND |  | WSH (#10 vs D/ST) | 4.5 | 8.0 | 1.0 | 4.0 | 3.6 | 16.4 | 13 | 1.52 | 0.04 |
+| Colts D/ST | D/ST | IND |  | WSH (#10 vs D/ST) | 4.5 | 9.0 | 1.2 | 5.0 | 3.6 | 16.4 | 13 | 1.52 | 0.04 |
 | Dolphins D/ST | D/ST | MIA |  | MIN (#17 vs D/ST) | 3.4 | 0 | 1.3 | 4.0 | 2.1 |  | 6 | 0.56 | 0.0 |
 

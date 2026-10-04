@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-04T15:37:50+00:00",
- "updated_et": "Sun Oct 04 2026, 11:37 AM ET",
+ "updated_utc": "2026-10-04T16:28:30+00:00",
+ "updated_et": "Sun Oct 04 2026, 12:28 PM ET",
  "league_id": 1241185,
  "season": 2026,
  "week": 4,
@@ -1643,8 +1643,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "RB",
-     "season_pts": 80.8,
-     "season_avg": 20.2,
+     "season_pts": 86.2,
+     "season_avg": 21.6,
      "proj_season_pts": 275.1,
      "proj_avg": 19.6,
      "bye_week": 13,
@@ -1653,7 +1653,7 @@
      "week": {
       "slot": "RB",
       "proj": 20.3,
-      "pts": 17.3,
+      "pts": 22.7,
       "opp": "WSH",
       "opp_rank_vs_pos": 2,
       "bye": false,
@@ -2384,14 +2384,14 @@
      "slot": "WR",
      "season_pts": 41.4,
      "season_avg": 20.7,
-     "proj_season_pts": 213.8,
-     "proj_avg": 16.4,
+     "proj_season_pts": 213.9,
+     "proj_avg": 15.3,
      "bye_week": 13,
      "pct_owned": 98.76,
      "pct_started": 80.9,
      "week": {
       "slot": "WR",
-      "proj": 15.4,
+      "proj": 15.5,
       "pts": 0,
       "opp": "TEN",
       "opp_rank_vs_pos": 18,
@@ -2712,8 +2712,8 @@
      "nfl": "IND",
      "status": null,
      "slot": "K",
-     "season_pts": 44.0,
-     "season_avg": 11.0,
+     "season_pts": 54.0,
+     "season_avg": 13.5,
      "proj_season_pts": 119.8,
      "proj_avg": 8.6,
      "bye_week": 13,
@@ -2722,7 +2722,7 @@
      "week": {
       "slot": "K",
       "proj": 9.0,
-      "pts": 6.0,
+      "pts": 16.0,
       "opp": "WSH",
       "opp_rank_vs_pos": 27,
       "bye": false,
@@ -3273,7 +3273,7 @@
      "slot": "BE",
      "season_pts": 12.0,
      "season_avg": 4.0,
-     "proj_season_pts": 47.2,
+     "proj_season_pts": 46.7,
      "proj_avg": 2.8,
      "bye_week": 8,
      "pct_owned": 7.88,
@@ -3830,8 +3830,8 @@
      "nfl": "WSH",
      "status": null,
      "slot": "BE",
-     "season_pts": 29.6,
-     "season_avg": 7.4,
+     "season_pts": 30.7,
+     "season_avg": 7.7,
      "proj_season_pts": 120.0,
      "proj_avg": 8.6,
      "bye_week": 7,
@@ -3840,7 +3840,7 @@
      "week": {
       "slot": "BE",
       "proj": 11.1,
-      "pts": 5.9,
+      "pts": 7.0,
       "opp": "IND",
       "opp_rank_vs_pos": 27,
       "bye": false,
@@ -4019,7 +4019,7 @@
      "pct_started": 9.92,
      "week": {
       "slot": "BE",
-      "proj": 4.4,
+      "proj": 4.3,
       "pts": 0,
       "opp": "JAX",
       "opp_rank_vs_pos": 9,
@@ -4102,7 +4102,7 @@
      "slot": "BE",
      "season_pts": 80.9,
      "season_avg": 26.9,
-     "proj_season_pts": 273.2,
+     "proj_season_pts": 273.3,
      "proj_avg": 19.5,
      "bye_week": 8,
      "pct_owned": 96.65,
@@ -4301,7 +4301,7 @@
      "slot": "WR",
      "season_pts": 32.8,
      "season_avg": 10.9,
-     "proj_season_pts": 160.4,
+     "proj_season_pts": 160.5,
      "proj_avg": 11.5,
      "bye_week": 10,
      "pct_owned": 96.74,
@@ -4329,17 +4329,17 @@
      "nfl": "IND",
      "status": null,
      "slot": "TE",
-     "season_pts": 43.5,
-     "season_avg": 10.9,
-     "proj_season_pts": 170.0,
+     "season_pts": 48.5,
+     "season_avg": 12.1,
+     "proj_season_pts": 170.1,
      "proj_avg": 12.2,
      "bye_week": 13,
      "pct_owned": 98.88,
      "pct_started": 92.63,
      "week": {
       "slot": "TE",
-      "proj": 13.0,
-      "pts": 4.1,
+      "proj": 13.1,
+      "pts": 9.1,
       "opp": "WSH",
       "opp_rank_vs_pos": 31,
       "bye": false,
@@ -4518,7 +4518,7 @@
      "pct_started": 32.41,
      "week": {
       "slot": "BE",
-      "proj": 10.0,
+      "proj": 10.1,
       "pts": 0,
       "opp": "TEN",
       "opp_rank_vs_pos": 3,
@@ -4791,8 +4791,8 @@
    "streak": "L1",
    "waiver_rank": 5,
    "espn_playoff_pct": 23.0,
-   "adds": 3,
-   "drops": 2,
+   "adds": 4,
+   "drops": 4,
    "trades": 0,
    "schedule": [
     {
@@ -4887,7 +4887,7 @@
      "pos": "WR",
      "nfl": "LAR",
      "status": null,
-     "slot": "IR",
+     "slot": "WR",
      "season_pts": 12.4,
      "season_avg": 12.4,
      "proj_season_pts": 290.6,
@@ -4896,7 +4896,7 @@
      "pct_owned": 99.9,
      "pct_started": 85.4,
      "week": {
-      "slot": "IR",
+      "slot": "WR",
       "proj": 18.1,
       "pts": 0,
       "opp": "PHI",
@@ -5067,7 +5067,7 @@
      "pos": "RB",
      "nfl": "TB",
      "status": null,
-     "slot": "RB",
+     "slot": "BE",
      "season_pts": 10.3,
      "season_avg": 3.4,
      "proj_season_pts": 114.1,
@@ -5076,7 +5076,7 @@
      "pct_owned": 66.68,
      "pct_started": 7.58,
      "week": {
-      "slot": "RB",
+      "slot": "BE",
       "proj": 8.3,
       "pts": 0,
       "opp": "GB",
@@ -5160,7 +5160,7 @@
      "slot": "D/ST",
      "season_pts": 36.0,
      "season_avg": 9.0,
-     "proj_season_pts": 91.3,
+     "proj_season_pts": 91.2,
      "proj_avg": 5.4,
      "bye_week": 9,
      "pct_owned": 94.76,
@@ -5187,7 +5187,7 @@
      "pos": "WR",
      "nfl": "BUF",
      "status": null,
-     "slot": "WR",
+     "slot": "BE",
      "season_pts": 17.4,
      "season_avg": 5.8,
      "proj_season_pts": 139.5,
@@ -5196,7 +5196,7 @@
      "pct_owned": 62.0,
      "pct_started": 7.27,
      "week": {
-      "slot": "WR",
+      "slot": "BE",
       "proj": 9.8,
       "pts": 0,
       "opp": "NE",
@@ -5362,69 +5362,39 @@
      "waivers_until": null
     },
     {
-     "id": 3149687,
-     "name": "Chris Brooks",
+     "id": 4241457,
+     "name": "Najee Harris",
      "pos": "RB",
-     "nfl": "GB",
-     "status": null,
-     "slot": "BE",
-     "season_pts": 7.9,
-     "season_avg": 2.6,
-     "proj_season_pts": 43.3,
-     "proj_avg": 3.1,
-     "bye_week": 11,
-     "pct_owned": 8.64,
-     "pct_started": 0.67,
-     "week": {
-      "slot": "BE",
-      "proj": 3.9,
-      "pts": 0,
-      "opp": "TB",
-      "opp_rank_vs_pos": 12,
-      "bye": false,
-      "game": "2026-10-04 17:00:00"
-     },
-     "acquired": "ADD",
-     "pos_rank": 68,
-     "expert_rank": null,
-     "pct_change": -0.48,
-     "preseason_avg": 4.6,
-     "waivers_until": null
-    },
-    {
-     "id": 4682648,
-     "name": "Malachi Fields",
-     "pos": "WR",
      "nfl": "NYG",
      "status": null,
-     "slot": "BE",
-     "season_pts": 13.4,
-     "season_avg": 4.5,
-     "proj_season_pts": 104.3,
-     "proj_avg": 7.5,
+     "slot": "RB",
+     "season_pts": 5.8,
+     "season_avg": 2.9,
+     "proj_season_pts": 80.1,
+     "proj_avg": 5.7,
      "bye_week": 8,
-     "pct_owned": 7.57,
-     "pct_started": 0.56,
+     "pct_owned": 7.97,
+     "pct_started": 0.93,
      "week": {
-      "slot": "BE",
-      "proj": 7.8,
+      "slot": "RB",
+      "proj": 6.6,
       "pts": 0,
       "opp": "ARI",
-      "opp_rank_vs_pos": 29,
+      "opp_rank_vs_pos": 6,
       "bye": false,
       "game": "2026-10-04 17:00:00"
      },
      "acquired": "ADD",
-     "pos_rank": 86,
-     "expert_rank": 57.1,
-     "pct_change": -0.24,
-     "preseason_avg": 6.2,
+     "pos_rank": 73,
+     "expert_rank": 43.2,
+     "pct_change": 0.15,
+     "preseason_avg": null,
      "waivers_until": null
     }
    ],
    "espn_proj_rank": 10,
    "draft_day_rank": 4,
-   "lineup_moves": 9
+   "lineup_moves": 11
   },
   {
    "id": 4,
@@ -5659,7 +5629,7 @@
      "slot": "BE",
      "season_pts": 21.6,
      "season_avg": 7.2,
-     "proj_season_pts": 240.5,
+     "proj_season_pts": 240.4,
      "proj_avg": 17.2,
      "bye_week": 11,
      "pct_owned": 87.4,
@@ -5809,7 +5779,7 @@
      "slot": "QB",
      "season_pts": 63.1,
      "season_avg": 21.0,
-     "proj_season_pts": 262.2,
+     "proj_season_pts": 262.3,
      "proj_avg": 18.7,
      "bye_week": 14,
      "pct_owned": 93.9,
@@ -6458,14 +6428,14 @@
      "slot": "BE",
      "season_pts": 19.0,
      "season_avg": 6.3,
-     "proj_season_pts": 85.0,
+     "proj_season_pts": 84.9,
      "proj_avg": 5.0,
      "bye_week": 13,
      "pct_owned": 11.43,
      "pct_started": 9.78,
      "week": {
       "slot": "BE",
-      "proj": 6.0,
+      "proj": 5.9,
       "pts": 0,
       "opp": "CHI",
       "opp_rank_vs_pos": 7,
@@ -6639,7 +6609,7 @@
      "season_pts": 38.6,
      "season_avg": 12.9,
      "proj_season_pts": 131.2,
-     "proj_avg": 10.1,
+     "proj_avg": 9.4,
      "bye_week": 13,
      "pct_owned": 58.16,
      "pct_started": 16.62,
@@ -7733,7 +7703,7 @@
      "pct_started": 10.75,
      "week": {
       "slot": "RB/WR/TE",
-      "proj": 8.2,
+      "proj": 8.3,
       "pts": 0,
       "opp": "NYJ",
       "opp_rank_vs_pos": 24,
@@ -8029,13 +7999,13 @@
     "id": 8,
     "name": "Swedes2xChamp2026",
     "score": 11.7,
-    "proj": 132.01
+    "proj": 132.0
    },
    {
     "id": 15,
     "name": "Thr Short Bus",
-    "score": 25.7,
-    "proj": 126.8
+    "score": 30.7,
+    "proj": 127.51
    }
   ],
   [
@@ -8056,14 +8026,14 @@
    {
     "id": 14,
     "name": "The Ghee-talians",
-    "score": 17.3,
-    "proj": 133.38
+    "score": 22.7,
+    "proj": 132.08
    },
    {
     "id": 17,
     "name": "Big Papa",
     "score": 0.0,
-    "proj": 133.28
+    "proj": 133.29
    }
   ],
   [
@@ -8071,13 +8041,13 @@
     "id": 6,
     "name": "Frizztards",
     "score": 23.6,
-    "proj": 102.61
+    "proj": 109.2
    },
    {
     "id": 16,
     "name": "Cook'n brown rice",
     "score": 4.6,
-    "proj": 117.55
+    "proj": 113.05
    }
   ],
   [
@@ -8085,13 +8055,13 @@
     "id": 9,
     "name": "Saquan these nuts",
     "score": 0.0,
-    "proj": 115.38
+    "proj": 115.39
    },
    {
     "id": 2,
     "name": "Brock Hard for TDs",
-    "score": 12.5,
-    "proj": 130.07
+    "score": 22.5,
+    "proj": 132.96
    }
   ],
   [
@@ -8099,13 +8069,13 @@
     "id": 12,
     "name": "the blind side",
     "score": 0.0,
-    "proj": 116.74
+    "proj": 116.72
    },
    {
     "id": 5,
     "name": "GioDoesCokeOnKamara",
     "score": 12.9,
-    "proj": 106.94
+    "proj": 106.95
    }
   ]
  ],
@@ -8178,8 +8148,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 28.2,
-    "season_avg": 7.0,
+    "season_pts": 36.6,
+    "season_avg": 9.1,
     "proj_season_pts": 196.5,
     "proj_avg": 14.0,
     "bye_week": 13,
@@ -8188,7 +8158,7 @@
     "week": {
      "slot": "FA",
      "proj": 15.2,
-     "pts": -0.1,
+     "pts": 8.2,
      "opp": "WSH",
      "opp_rank_vs_pos": 31,
      "bye": false,
@@ -8693,7 +8663,7 @@
     "season_pts": 13.9,
     "season_avg": 4.6,
     "proj_season_pts": 115.8,
-    "proj_avg": 8.9,
+    "proj_avg": 8.3,
     "bye_week": 9,
     "pct_owned": 40.83,
     "pct_started": 1.92,
@@ -8902,7 +8872,7 @@
     "slot": "",
     "season_pts": 10.9,
     "season_avg": 3.6,
-    "proj_season_pts": 73.0,
+    "proj_season_pts": 73.1,
     "proj_avg": 5.2,
     "bye_week": 13,
     "pct_owned": 11.96,
@@ -8954,6 +8924,36 @@
     "waivers_until": "Wed Oct 07, 03:00 AM ET"
    },
    {
+    "id": 3149687,
+    "name": "Chris Brooks",
+    "pos": "RB",
+    "nfl": "GB",
+    "status": null,
+    "slot": "",
+    "season_pts": 7.9,
+    "season_avg": 2.6,
+    "proj_season_pts": 43.3,
+    "proj_avg": 3.1,
+    "bye_week": 11,
+    "pct_owned": 8.64,
+    "pct_started": 0.67,
+    "week": {
+     "slot": "FA",
+     "proj": 3.9,
+     "pts": 0,
+     "opp": "TB",
+     "opp_rank_vs_pos": 12,
+     "bye": false,
+     "game": "2026-10-04 17:00:00"
+    },
+    "acquired": null,
+    "pos_rank": 68,
+    "expert_rank": null,
+    "pct_change": -0.48,
+    "preseason_avg": 4.6,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
+   },
+   {
     "id": 4695404,
     "name": "Isaiah Davis",
     "pos": "RB",
@@ -8980,36 +8980,6 @@
     "pos_rank": 101,
     "expert_rank": 35.1,
     "pct_change": 0.39,
-    "preseason_avg": null,
-    "waivers_until": null
-   },
-   {
-    "id": 4241457,
-    "name": "Najee Harris",
-    "pos": "RB",
-    "nfl": "NYG",
-    "status": null,
-    "slot": "",
-    "season_pts": 5.8,
-    "season_avg": 2.9,
-    "proj_season_pts": 80.1,
-    "proj_avg": 5.7,
-    "bye_week": 8,
-    "pct_owned": 7.97,
-    "pct_started": 0.93,
-    "week": {
-     "slot": "FA",
-     "proj": 6.6,
-     "pts": 0,
-     "opp": "ARI",
-     "opp_rank_vs_pos": 6,
-     "bye": false,
-     "game": "2026-10-04 17:00:00"
-    },
-    "acquired": null,
-    "pos_rank": 73,
-    "expert_rank": 43.2,
-    "pct_change": 0.15,
     "preseason_avg": null,
     "waivers_until": null
    },
@@ -9078,7 +9048,7 @@
     "name": "Ray Davis",
     "pos": "RB",
     "nfl": "BUF",
-    "status": "QUESTIONABLE",
+    "status": null,
     "slot": "",
     "season_pts": 0.3,
     "season_avg": 0.1,
@@ -9108,7 +9078,7 @@
     "name": "Devin Singletary",
     "pos": "RB",
     "nfl": "NYG",
-    "status": null,
+    "status": "OUT",
     "slot": "",
     "season_pts": 14.7,
     "season_avg": 7.3,
@@ -9202,7 +9172,7 @@
     "slot": "",
     "season_pts": 5.0,
     "season_avg": 5.0,
-    "proj_season_pts": 54.9,
+    "proj_season_pts": 55.0,
     "proj_avg": 3.9,
     "bye_week": 7,
     "pct_owned": 2.25,
@@ -9440,8 +9410,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 5.9,
-    "season_avg": 1.5,
+    "season_pts": 7.0,
+    "season_avg": 1.8,
     "proj_season_pts": 34.7,
     "proj_avg": 2.5,
     "bye_week": 13,
@@ -9450,7 +9420,7 @@
     "week": {
      "slot": "FA",
      "proj": 2.9,
-     "pts": 3.5,
+     "pts": 4.6,
      "opp": "WSH",
      "opp_rank_vs_pos": 2,
      "bye": false,
@@ -9564,14 +9534,14 @@
     "slot": "",
     "season_pts": 27.5,
     "season_avg": 9.2,
-    "proj_season_pts": 109.8,
+    "proj_season_pts": 109.9,
     "proj_avg": 7.8,
     "bye_week": 13,
     "pct_owned": 24.35,
     "pct_started": 2.66,
     "week": {
      "slot": "FA",
-     "proj": 7.9,
+     "proj": 8.0,
      "pts": 0,
      "opp": "TEN",
      "opp_rank_vs_pos": 18,
@@ -9826,6 +9796,36 @@
     "waivers_until": null
    },
    {
+    "id": 4682648,
+    "name": "Malachi Fields",
+    "pos": "WR",
+    "nfl": "NYG",
+    "status": null,
+    "slot": "",
+    "season_pts": 13.4,
+    "season_avg": 4.5,
+    "proj_season_pts": 104.3,
+    "proj_avg": 7.5,
+    "bye_week": 8,
+    "pct_owned": 7.57,
+    "pct_started": 0.56,
+    "week": {
+     "slot": "FA",
+     "proj": 7.8,
+     "pts": 0,
+     "opp": "ARI",
+     "opp_rank_vs_pos": 29,
+     "bye": false,
+     "game": "2026-10-04 17:00:00"
+    },
+    "acquired": null,
+    "pos_rank": 86,
+    "expert_rank": 57.1,
+    "pct_change": -0.24,
+    "preseason_avg": 6.2,
+    "waivers_until": "Wed Oct 07, 03:00 AM ET"
+   },
+   {
     "id": 3886598,
     "name": "Jauan Jennings",
     "pos": "WR",
@@ -9892,17 +9892,17 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 26.8,
-    "season_avg": 6.7,
-    "proj_season_pts": 76.3,
+    "season_pts": 30.4,
+    "season_avg": 7.6,
+    "proj_season_pts": 76.9,
     "proj_avg": 5.5,
     "bye_week": 7,
     "pct_owned": 6.7,
     "pct_started": 0.84,
     "week": {
      "slot": "FA",
-     "proj": 8.0,
-     "pts": 1.5,
+     "proj": 8.6,
+     "pts": 5.1,
      "opp": "IND",
      "opp_rank_vs_pos": 20,
      "bye": false,
@@ -10334,36 +10334,6 @@
     "pct_change": -0.02,
     "preseason_avg": null,
     "waivers_until": null
-   },
-   {
-    "id": 5123663,
-    "name": "Isaac TeSlaa",
-    "pos": "WR",
-    "nfl": "DET",
-    "status": null,
-    "slot": "",
-    "season_pts": 14.2,
-    "season_avg": 4.7,
-    "proj_season_pts": 89.0,
-    "proj_avg": 6.4,
-    "bye_week": 6,
-    "pct_owned": 1.96,
-    "pct_started": 0.21,
-    "week": {
-     "slot": "FA",
-     "proj": 6.3,
-     "pts": 0,
-     "opp": "CAR",
-     "opp_rank_vs_pos": 1,
-     "bye": false,
-     "game": "2026-10-05 00:20:00"
-    },
-    "acquired": null,
-    "pos_rank": 82,
-    "expert_rank": null,
-    "pct_change": 0.0,
-    "preseason_avg": 4.8,
-    "waivers_until": null
    }
   ],
   "TE": [
@@ -10473,7 +10443,7 @@
     "pct_started": 2.11,
     "week": {
      "slot": "FA",
-     "proj": 7.5,
+     "proj": 7.4,
      "pts": 0,
      "opp": "JAX",
      "opp_rank_vs_pos": 5,
@@ -11248,8 +11218,8 @@
     "nfl": "WSH",
     "status": null,
     "slot": "",
-    "season_pts": 20.0,
-    "season_avg": 5.0,
+    "season_pts": 17.0,
+    "season_avg": 4.2,
     "proj_season_pts": 68.8,
     "proj_avg": 4.0,
     "bye_week": 7,
@@ -11258,7 +11228,7 @@
     "week": {
      "slot": "FA",
      "proj": 6.3,
-     "pts": 10.0,
+     "pts": 7.0,
      "opp": "IND",
      "opp_rank_vs_pos": 17,
      "bye": false,
@@ -11308,8 +11278,8 @@
     "nfl": "IND",
     "status": null,
     "slot": "",
-    "season_pts": 4.0,
-    "season_avg": 1.0,
+    "season_pts": 5.0,
+    "season_avg": 1.2,
     "proj_season_pts": 61.8,
     "proj_avg": 3.6,
     "bye_week": 13,
@@ -11318,7 +11288,7 @@
     "week": {
      "slot": "FA",
      "proj": 4.5,
-     "pts": 8.0,
+     "pts": 9.0,
      "opp": "WSH",
      "opp_rank_vs_pos": 10,
      "bye": false,
@@ -12567,6 +12537,37 @@
  ],
  "activity": [
   {
+   "when": "Sun Oct 04, 11:54 AM ET",
+   "actions": [
+    {
+     "team": "Frizztards",
+     "action": "FA ADDED",
+     "player": "Najee Harris",
+     "pos": "RB",
+     "nfl": "NYG"
+    },
+    {
+     "team": "Frizztards",
+     "action": "DROPPED",
+     "player": "Chris Brooks",
+     "pos": "RB",
+     "nfl": "GB"
+    }
+   ]
+  },
+  {
+   "when": "Sun Oct 04, 11:52 AM ET",
+   "actions": [
+    {
+     "team": "Frizztards",
+     "action": "DROPPED",
+     "player": "Malachi Fields",
+     "pos": "WR",
+     "nfl": "NYG"
+    }
+   ]
+  },
+  {
    "when": "Sun Oct 04, 09:57 AM ET",
    "actions": [
     {
@@ -13404,58 +13405,6 @@
      "player": "Terrance Ferguson",
      "pos": "TE",
      "nfl": "LAR"
-    }
-   ]
-  },
-  {
-   "when": "Thu Sep 24, 09:04 AM ET",
-   "actions": [
-    {
-     "team": "the blind side",
-     "action": "TRADE_SENT",
-     "player": "RJ Harvey",
-     "pos": "RB",
-     "nfl": "DEN"
-    },
-    {
-     "team": "The Ghee-talians",
-     "action": "TRADE_RECEIVED",
-     "player": "RJ Harvey",
-     "pos": "RB",
-     "nfl": "DEN"
-    },
-    {
-     "team": "The Ghee-talians",
-     "action": "TRADE_SENT",
-     "player": "Tyler Allgeier",
-     "pos": "RB",
-     "nfl": "ARI"
-    },
-    {
-     "team": "the blind side",
-     "action": "TRADE_RECEIVED",
-     "player": "Tyler Allgeier",
-     "pos": "RB",
-     "nfl": "ARI"
-    }
-   ]
-  },
-  {
-   "when": "Thu Sep 24, 03:24 AM ET",
-   "actions": [
-    {
-     "team": "Christian McCracker",
-     "action": "WAIVER ADDED",
-     "player": "Kaelon Black",
-     "pos": "RB",
-     "nfl": "SF"
-    },
-    {
-     "team": "Christian McCracker",
-     "action": "DROPPED",
-     "player": "Rico Dowdle",
-     "pos": "RB",
-     "nfl": "PIT"
     }
    ]
   }

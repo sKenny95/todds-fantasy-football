@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 11:37 AM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 12:28 PM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -15,7 +15,7 @@ Updated: Sun Oct 04 2026, 11:37 AM ET · NFL week 4 · The Re-Todds
 | 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 68.2 | 5 | 6 | 1 | 22 |
 | 6 | Swedes2xChamp2026 | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 50.4 | 6 | 1 | 1 | 8 |
 | 7 | Thr Short Bus | Dunbarr | East | 1-2-0 | 312.0 | 355.1 | L2 | 4 | 38.4 | 7 | 1 | 0 | 12 |
-| 8 | Frizztards | Spencer | West | 1-2-0 | 302.3 | 369.3 | L1 | 5 | 23.0 | 10 | 3 | 0 | 9 |
+| 8 | Frizztards | Spencer | West | 1-2-0 | 302.3 | 369.3 | L1 | 5 | 23.0 | 10 | 4 | 0 | 11 |
 | 9 | Christian McCracker | devin | East | 1-2-0 | 288.4 | 310.9 | L1 | 12 | 36.2 | 8 | 5 | 0 | 30 |
 | 10 | Cook'n brown rice | Aziz | West | 1-2-0 | 283.9 | 369.4 | W1 | 8 | 33.0 | 9 | 11 | 2 | 13 |
 | 11 | The Slim Reapers | Yovani | East | 0-3-0 | 335.0 | 395.7 | L3 | 9 | 19.1 | 11 | 9 | 1 | 38 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 11.7 | 132.01 | vs | Thr Short Bus | 25.7 | 126.8 |
+| Swedes2xChamp2026 | 11.7 | 132.0 | vs | Thr Short Bus | 30.7 | 127.51 |
 | Christian McCracker | 16.5 | 118.03 | vs | The Slim Reapers | 0.0 | 115.94 |
-| The Ghee-talians | 17.3 | 133.38 | vs | Big Papa | 0.0 | 133.28 |
-| Frizztards | 23.6 | 102.61 | vs | Cook'n brown rice | 4.6 | 117.55 |
-| Saquan these nuts | 0.0 | 115.38 | vs | Brock Hard for TDs | 12.5 | 130.07 |
-| the blind side | 0.0 | 116.74 | vs | GioDoesCokeOnKamara | 12.9 | 106.94 |
+| The Ghee-talians | 22.7 | 132.08 | vs | Big Papa | 0.0 | 133.29 |
+| Frizztards | 23.6 | 109.2 | vs | Cook'n brown rice | 4.6 | 113.05 |
+| Saquan these nuts | 0.0 | 115.39 | vs | Brock Hard for TDs | 22.5 | 132.96 |
+| the blind side | 0.0 | 116.72 | vs | GioDoesCokeOnKamara | 12.9 | 106.95 |
 
 ## My schedule
 
