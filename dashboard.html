@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Todds Front Office</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="apple-mobile-web-app-title" content="Front Office">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Barlow+Condensed:wght@500;600;700&display=swap">
 <style>
 /* Layout: one narrow column, four tabs, each tab opens with what to do and puts detail underneath. */
@@ -103,7 +105,10 @@ details[open] summary { margin-bottom: 10px; }
 .pills { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
 .pills button { font: 600 15px var(--display); letter-spacing: .05em; padding: 4px 13px; border-radius: 14px; border: 1px solid var(--line); background: none; color: var(--muted); cursor: pointer; }
 .pills button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
-@media (max-width: 640px) { .hide-s { display: none; } h1 { font-size: 28px; } .matchup .big { font-size: 34px; } }
+.lock { max-width: 340px; margin: 40px auto; display: grid; gap: 12px; }
+.lock input, .lock button { font: 500 17px var(--body); padding: 11px 13px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+.lock button { background: var(--accent); border-color: var(--accent); color: var(--surface); font-weight: 600; cursor: pointer; }
+@media (max-width: 640px) { .hide-s { display: none; } h1 { font-size: 28px; } .matchup .big { font-size: 34px; } .tabs { gap: 0; } .tabs button { flex: 1; font-size: 16px; padding: 8px 4px 9px; } }
 </style>
 </head>
 <body>
@@ -122,7 +127,7 @@ details[open] summary { margin-bottom: 10px; }
 </div>
 <script src="data/league.js"></script>
 <script>
-(function () {
+function boot() {
   const L = window.LEAGUE, app = document.getElementById("app");
   if (!L) { app.innerHTML = '<p class="empty">No league data found next to this page. Open it with “Open dashboard” so it fetches the latest pull first.</p>'; return; }
 
@@ -500,9 +505,53 @@ details[open] summary { margin-bottom: 10px; }
   document.getElementById("team").textContent = me.name;
   document.getElementById("sub").textContent = `${L.settings.name} · Week ${L.week} · ${me.wins}-${me.losses}${me.ties ? "-" + me.ties : ""} · ${ord(me.seed)} seed`;
   const age = (Date.now() - Date.parse(L.updated_utc)) / 36e5;
-  document.getElementById("fresh").innerHTML = `Updated ${esc(L.updated_et)}` + (age > 3 ? `<br><span class="chip warn">${Math.round(age)} hours old. Reopen with “Open dashboard” to refresh.</span>` : "")
+  document.getElementById("fresh").innerHTML = `Updated ${esc(L.updated_et)}` + (age > 3 ? `<br><span class="chip warn">${Math.round(age)} hours old. ${window.LEAGUE_HOSTED ? "The hourly pull may be stuck." : "Reopen with “Open dashboard” to refresh."}</span>` : "")
     + (L.warnings?.length ? `<br><span class="chip bad">Last pull had problems</span>` : "");
   draw();
+}
+
+// The copy on the web has no data/league.js. Its data arrives encrypted (league.enc, made by the pull workflow with openssl)
+// and is unlocked in the browser with a password that is then remembered on this device.
+async function unlock(password) {
+  const res = await fetch("league.enc", { cache: "no-store" });
+  if (!res.ok) throw new Error("missing");
+  const file = new Uint8Array(await res.arrayBuffer());                     // "Salted__", 8 bytes of salt, then the data
+  const pw = await crypto.subtle.importKey("raw", new TextEncoder().encode(password), "PBKDF2", false, ["deriveBits"]);
+  const bits = new Uint8Array(await crypto.subtle.deriveBits({ name: "PBKDF2", hash: "SHA-256", salt: file.slice(8, 16), iterations: 600000 }, pw, 384));
+  const key = await crypto.subtle.importKey("raw", bits.slice(0, 32), "AES-CBC", false, ["decrypt"]);
+  return JSON.parse(new TextDecoder().decode(await crypto.subtle.decrypt({ name: "AES-CBC", iv: bits.slice(32) }, key, file.slice(16))));
+}
+(async function () {
+  if (window.LEAGUE) return boot();
+  const app = document.getElementById("app"), tabs = document.getElementById("tabs"), KEY = "league-password";
+  const store = { get: () => { try { return localStorage.getItem(KEY); } catch { return null; } }, set: v => { try { v ? localStorage.setItem(KEY, v) : localStorage.removeItem(KEY); } catch {} } };
+  const open = async password => {
+    window.LEAGUE = await unlock(password);
+    window.LEAGUE_HOSTED = true;
+    store.set(password);
+    tabs.style.display = "";
+    boot();
+  };
+  const ask = note => {
+    app.innerHTML = `<form class="lock"><p class="note" style="margin:0">${note}</p>
+      <input type="password" autocomplete="current-password" placeholder="Password" aria-label="Password" required>
+      <button>Unlock</button></form>`;
+    app.querySelector("form").addEventListener("submit", e => {
+      e.preventDefault();
+      const password = e.target.querySelector("input").value;
+      app.innerHTML = '<p class="empty">Unlocking…</p>';
+      open(password).catch(fail);
+    });
+  };
+  const fail = err => {
+    if (err.message === "missing" || err instanceof TypeError) { tabs.style.display = ""; return boot(); }   // no data at all: boot shows the "no data" note
+    store.set(null);
+    ask("That password didn't work. Try again.");
+  };
+  tabs.style.display = "none";
+  const saved = store.get();
+  if (saved) { app.innerHTML = '<p class="empty">Unlocking…</p>'; open(saved).catch(fail); }
+  else ask("Enter your league password. This device will remember it.");
 })();
 </script>
 </body>

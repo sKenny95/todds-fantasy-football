@@ -44,3 +44,12 @@ jobs:
           git commit -q -m "Update league data"
           git pull -q --rebase
           git push -q
+      - name: Build the locked copy for the phone
+        env:
+          DASHBOARD_PASSWORD: ${{ secrets.DASHBOARD_PASSWORD }}
+        run: |
+          # Only the page and an encrypted copy of the data go in site/. Nothing readable without the password.
+          if [ -z "$DASHBOARD_PASSWORD" ] || [ ! -f data/league.json ]; then exit 0; fi
+          mkdir -p site
+          cp dashboard.html site/index.html
+          openssl enc -aes-256-cbc -pbkdf2 -iter 600000 -md sha256 -salt -pass env:DASHBOARD_PASSWORD -in data/league.json -out site/league.enc
