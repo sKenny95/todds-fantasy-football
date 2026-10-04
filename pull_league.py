@@ -149,11 +149,11 @@ def trade_dict(t, team_names, player_map):
 
 
 def fetch_trades(league, week, team_names):
-    """Trade proposals and decisions ESPN shows this login, for this week and last."""
+    """Trade proposals and decisions ESPN shows this login, season to date."""
     seen, trades = set(), []
     headers = {"x-fantasy-filter": json.dumps({"transactions": {"filterType": {"value": TRADE_TYPES}}})}
     raw = []
-    for wk in sorted({max(week - 1, 1), week}):
+    for wk in range(1, week + 1):
         data = league.espn_request.league_get(
             params={"view": "mTransactions2", "scoringPeriodId": wk}, headers=headers
         )
@@ -339,21 +339,46 @@ def render_free_agents(snap):
     return "\n".join(out) + "\n"
 
 
+def offer_text(t):
+    """'Team A gives X, Y; Team B gives Z'."""
+    gives = {}
+    for i in t["items"]:
+        gives.setdefault(i["from"], []).append(str(i["player"]))
+    return "; ".join(f"{team} gives {', '.join(players)}" for team, players in gives.items()) or "(players not shown by ESPN)"
+
+
 def render_activity(snap):
     out = [header(snap, "Trades and recent moves")]
-    out.append("## Trade offers and decisions\n")
-    out.append("What ESPN shows this login for this week and last week. ESPN may hide offers between two other teams until they are accepted.\n")
-    if not snap["trades"]:
-        out.append("None visible.\n")
-    for t in snap["trades"]:
-        out.append(f"### {t['type']} · {t['status']} · proposed by {t['team']}\n")
-        details = [f"Proposed {t['proposed']}" if t["proposed"] else "", f"processed {t['processed']}" if t["processed"] else "",
-                   f"expires {t['expires']}" if t["expires"] else "", f"note: {t['comment']}" if t["comment"] else ""]
-        out.append(" · ".join(d for d in details if d) + "\n")
-        if t["items"]:
-            out.append("\n".join(f"- {i['player']}: {i['from']} → {i['to']}" for i in t["items"]) + "\n")
-        else:
-            out.append("- (ESPN did not include the players for this one)\n")
+    proposals = [t for t in snap["trades"] if t["type"] == "TRADE_PROPOSAL"]
+    open_offers = [t for t in proposals if t["status"] == "PENDING"]
+    old_offers = [t for t in proposals if t["status"] != "PENDING"]
+    accepted = [t for t in snap["trades"] if t["type"] == "TRADE_ACCEPT"]
+    upheld = {t["related_id"]: t for t in snap["trades"] if t["type"] == "TRADE_UPHOLD"}
+    declined = [t for t in snap["trades"] if t["type"] == "TRADE_DECLINE"]
+    other = [t for t in snap["trades"] if t["type"] in ("TRADE_VETO", "TRADE_ERROR")]
+
+    out.append("## Trade offers\n")
+    out.append("Season to date, as ESPN shows them to this login. Offers between other teams are included.\n")
+    out.append("### Open offers right now\n")
+    out.append(table(["Proposed", "Offered by", "Offer", "Expires"],
+                     [[t["proposed"], t["team"], offer_text(t), t["expires"]] for t in open_offers]) if open_offers else "None visible.")
+    out.append("\n### Offers that were withdrawn, replaced or expired\n")
+    out.append(table(["Proposed", "Offered by", "Offer", "Status"],
+                     [[t["proposed"], t["team"], offer_text(t), t["status"]] for t in old_offers]) if old_offers else "None.")
+    out.append("\n### Accepted trades\n")
+    out.append("ESPN leaves the players off these records. Match them by date to the TRADE rows in the table below.\n")
+    rows = []
+    for t in accepted:
+        done = upheld.get(t["related_id"])
+        rows.append([t["proposed"], t["team"], done["team"] if done else "", f"went through {done['proposed']}" if done else "awaiting review"])
+    out.append(table(["Accepted", "Accepted by", "Other team", "Outcome"], rows) if rows else "None.")
+    out.append("\n### Declined offers\n")
+    out.append("ESPN shows who declined and when, but not the players.\n")
+    out.append(table(["Declined", "Declined by"], [[t["proposed"], t["team"]] for t in declined]) if declined else "None.")
+    if other:
+        out.append("\n### Vetoed or failed\n")
+        out.append(table(["When", "Team", "Type", "Offer"], [[t["proposed"], t["team"], t["type"], offer_text(t)] for t in other]))
+    out.append("")
 
     out.append("## Recent adds, drops and completed trades\n")
     rows = [[a["when"], x["team"], x["action"], x["player"], x["pos"], x["nfl"]] for a in snap["activity"] for x in a["actions"]]

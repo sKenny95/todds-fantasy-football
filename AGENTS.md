@@ -31,7 +31,7 @@ Everything is in `data/`, rewritten on every pull:
 - **Fit the league rules** in `data/overview.md`: roster slots, scoring, waiver type, trade deadline.
 - **Projections here are ESPN's.** If you have web search, check current injury news and other rankings before a start/sit or trade call, and say when you couldn't.
 - **Trade ideas need to work for both sides.** Look at the other team's roster in `data/rosters.md` for what they need and can spare.
-- **Trade offers:** `data/activity.md` only lists what ESPN shows Sina's login. Offers between two other teams may be hidden until accepted.
+- **Trade offers:** `data/activity.md` lists offers across the whole league, including ones between other teams. ESPN includes the players on proposals but leaves them off accept and decline records, so match accepted trades by date to the TRADE rows in the recent-moves table.
 
 ## How it works
 
