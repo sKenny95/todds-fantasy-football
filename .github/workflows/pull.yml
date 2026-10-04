@@ -52,6 +52,7 @@ jobs:
           if [ -z "$DASHBOARD_PASSWORD" ] || [ ! -f data/league.json ]; then exit 0; fi
           mkdir -p site
           cp dashboard.html site/index.html
+          cp icon.png site/
           openssl enc -aes-256-cbc -pbkdf2 -iter 600000 -md sha256 -salt -pass env:DASHBOARD_PASSWORD -in data/league.json -out site/league.enc
       - name: Publish the locked copy
         env:
