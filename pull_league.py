@@ -16,7 +16,8 @@ DATA_DIR = Path(__file__).parent / "data"
 ET = ZoneInfo("America/New_York")
 
 FREE_AGENT_COUNTS = {"QB": 15, "RB": 30, "WR": 30, "TE": 15, "K": 10, "D/ST": 10}
-WAIVER_TYPES = ["WAIVER", "WAIVER_ERROR"]
+FREE_AGENT_SLOT_IDS = {"QB": 0, "RB": 2, "WR": 4, "TE": 6, "D/ST": 16, "K": 17}
+WAIVER_TYPES =["WAIVER", "WAIVER_ERROR"]
 BYES = {}  # NFL team -> bye week, filled in by gather()
 TRADE_TYPES = ["TRADE_PROPOSAL", "TRADE_ACCEPT", "TRADE_DECLINE", "TRADE_UPHOLD", "TRADE_VETO", "TRADE_ERROR"]
 SLOT_ORDER = ["QB", "RB", "WR", "TE", "RB/WR/TE", "RB/WR", "WR/TE", "OP", "D/ST", "K", "BE", "IR"]
@@ -217,14 +218,16 @@ def player_extra(entry, week, acquired=None):
     }
 
 
-def fetch_extras(league, week, free_agent_ids):
+def fetch_extras(league, week):
     """Per-player and per-team details from ESPN's raw views, keyed by id."""
     req, players, teams = league.espn_request, {}, {}
     for t in req.league_get(params={"view": "mRoster"}).get("teams", []):
         for e in (t.get("roster") or {}).get("entries", []):
             players[e.get("playerId")] = player_extra(e.get("playerPoolEntry") or {}, week, e.get("acquisitionType"))
-    if free_agent_ids:
-        filt = {"players": {"filterIds": {"value": free_agent_ids}, "limit": len(free_agent_ids)}}
+    # same per-position lists the library's free_agents() asks for, so the ids line up
+    for pos, size in FREE_AGENT_COUNTS.items():
+        filt = {"players": {"filterStatus": {"value": ["FREEAGENT", "WAIVERS"]}, "filterSlotIds": {"value": [FREE_AGENT_SLOT_IDS[pos]]},
+                            "limit": size, "sortPercOwned": {"sortPriority": 1, "sortAsc": False}}}
         data = req.league_get(params={"view": "kona_player_info", "scoringPeriodId": week}, headers={"x-fantasy-filter": json.dumps(filt)})
         for x in data.get("players", []):
             players[x.get("id")] = player_extra(x, week)
@@ -341,7 +344,7 @@ def gather(league):
 
     def extras():
         free = [p for players in snap["free_agents"].values() for p in players]
-        players, teams = fetch_extras(league, week, [p["id"] for p in free])
+        players, teams = fetch_extras(league, week)
         for p in [p for t in snap["teams"] for p in t["roster"]] + free:
             p.update(players.get(p["id"], {}))
         for t in snap["teams"]:
