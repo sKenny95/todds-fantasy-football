@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 04 2026, 05:20 PM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 08:49 PM ET · NFL week 4 · The Re-Todds
 
 ## Trade offers
 
@@ -18,7 +18,7 @@ None visible.
 | Thu Oct 01, 03:43 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
 | Wed Sep 30, 06:37 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
 | Wed Sep 30, 11:25 AM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
-| Tue Sep 29, 02:55 PM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy; Swedes2xChamp2026 gives Aaron Jones Sr. | CANCELED |
+| Tue Sep 29, 02:55 PM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy; Baba Yaga Swede gives Aaron Jones Sr. | CANCELED |
 | Thu Sep 24, 01:23 PM ET | The Slim Reapers | The Slim Reapers gives Tank Bigsby; GioDoesCokeOnKamara gives Kyle Monangai | CANCELED |
 | Thu Sep 24, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Tank Bigsby; GioDoesCokeOnKamara gives Kyle Monangai | CANCELED |
 | Wed Sep 23, 11:30 AM ET | The Slim Reapers | The Slim Reapers gives Juwan Johnson, Brock Purdy, Travis Etienne Jr.; the blind side gives Jeremiyah Love | CANCELED |
@@ -45,7 +45,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 | Wed Sep 30, 11:27 AM ET | Cook'n brown rice | the blind side | went through Wed Sep 30, 11:40 AM ET |
 | Wed Sep 30, 11:02 AM ET | Saquan these nuts | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
 | Tue Sep 29, 05:18 PM ET | The Ghee-talians | Cook'n brown rice | went through Tue Sep 29, 05:21 PM ET |
-| Tue Sep 29, 02:58 PM ET | The Slim Reapers | Swedes2xChamp2026 | went through Tue Sep 29, 03:35 PM ET |
+| Tue Sep 29, 02:58 PM ET | The Slim Reapers | Baba Yaga Swede | went through Tue Sep 29, 03:35 PM ET |
 | Wed Sep 23, 05:06 PM ET | The Ghee-talians | the blind side | went through Thu Sep 24, 09:04 AM ET |
 
 ### Declined offers
@@ -169,10 +169,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_SENT | Luther Burden III | WR | CHI |
 | Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_RECEIVED | Luther Burden III | WR | CHI |
 | Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_SENT | Brock Purdy | QB | SF |
-| Tue Sep 29, 03:35 PM ET | Swedes2xChamp2026 | TRADE_RECEIVED | Brock Purdy | QB | SF |
+| Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Brock Purdy | QB | SF |
 | Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_SENT | Travis Etienne Jr. | RB | NO |
-| Tue Sep 29, 03:35 PM ET | Swedes2xChamp2026 | TRADE_RECEIVED | Travis Etienne Jr. | RB | NO |
-| Tue Sep 29, 03:35 PM ET | Swedes2xChamp2026 | TRADE_SENT | Aaron Jones Sr. | RB | MIN |
+| Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Travis Etienne Jr. | RB | NO |
+| Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_SENT | Aaron Jones Sr. | RB | MIN |
 | Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_RECEIVED | Aaron Jones Sr. | RB | MIN |
 | Tue Sep 29, 02:08 PM ET | The Slim Reapers | DROPPED | Tank Bigsby | RB | PHI |
 | Tue Sep 29, 02:07 PM ET | The Slim Reapers | DROPPED | Rashod Bateman | WR | BAL |

@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 04 2026, 05:20 PM ET · NFL week 4 · The Re-Todds
+Updated: Sun Oct 04 2026, 08:49 PM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -13,7 +13,7 @@ Updated: Sun Oct 04 2026, 05:20 PM ET · NFL week 4 · The Re-Todds
 | 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 83.5 | 3 | 7 | 2 | 36 |
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 2-1-0 | 412.2 | 282.0 | W1 | 6 | 69.3 | 4 | 4 | 0 | 10 |
 | 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 68.2 | 5 | 6 | 1 | 22 |
-| 6 | Swedes2xChamp2026 | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 50.4 | 6 | 1 | 1 | 8 |
+| 6 | Baba Yaga Swede | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 50.4 | 6 | 1 | 1 | 8 |
 | 7 | Thr Short Bus | Dunbarr | East | 1-2-0 | 312.0 | 355.1 | L2 | 4 | 38.4 | 7 | 1 | 0 | 12 |
 | 8 | Frizztards | Spencer | West | 1-2-0 | 302.3 | 369.3 | L1 | 5 | 23.0 | 10 | 4 | 0 | 11 |
 | 9 | Christian McCracker | devin | East | 1-2-0 | 288.4 | 310.9 | L1 | 12 | 36.2 | 8 | 5 | 0 | 30 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Swedes2xChamp2026 | 76.58 | 114.42 | vs | Thr Short Bus | 76.0 | 128.39 |
-| Christian McCracker | 68.6 | 108.01 | vs | The Slim Reapers | 121.78 | 139.79 |
-| The Ghee-talians | 104.2 | 125.1 | vs | Big Papa | 34.7 | 107.08 |
-| Frizztards | 74.08 | 101.17 | vs | Cook'n brown rice | 45.0 | 79.29 |
-| Saquan these nuts | 64.62 | 80.5 | vs | Brock Hard for TDs | 123.88 | 162.45 |
-| the blind side | 94.62 | 110.47 | vs | GioDoesCokeOnKamara | 88.32 | 123.98 |
+| Baba Yaga Swede | 107.9 | 107.9 | vs | Thr Short Bus | 95.22 | 131.24 |
+| Christian McCracker | 94.8 | 111.53 | vs | The Slim Reapers | 142.18 | 142.18 |
+| The Ghee-talians | 108.64 | 125.65 | vs | Big Papa | 101.78 | 132.72 |
+| Frizztards | 75.68 | 101.13 | vs | Cook'n brown rice | 50.0 | 68.6 |
+| Saquan these nuts | 66.42 | 66.42 | vs | Brock Hard for TDs | 151.08 | 173.1 |
+| the blind side | 100.72 | 114.06 | vs | GioDoesCokeOnKamara | 90.32 | 119.14 |
 
 ## My schedule
 
@@ -46,7 +46,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | 6 | The Slim Reapers |  |  |
 | 7 | Thr Short Bus |  |  |
 | 8 | Christian McCracker |  |  |
-| 9 | Swedes2xChamp2026 |  |  |
+| 9 | Baba Yaga Swede |  |  |
 | 10 | The Ghee-talians |  |  |
 | 11 | Big Papa |  |  |
 | 12 | The Slim Reapers |  |  |
