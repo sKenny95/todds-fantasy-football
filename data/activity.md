@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Mon Oct 05 2026, 11:55 AM ET · NFL week 4 · The Re-Todds
+Updated: Mon Oct 05 2026, 06:34 PM ET · NFL week 4 · The Re-Todds
 
 ## Trade offers
 
@@ -91,6 +91,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | NO |
+| Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | FA ADDED | Joe Mixon | RB | None |
 | Sun Oct 04, 11:54 AM ET | Frizztards | FA ADDED | Najee Harris | RB | NYG |
 | Sun Oct 04, 11:54 AM ET | Frizztards | DROPPED | Chris Brooks | RB | GB |
 | Sun Oct 04, 11:52 AM ET | Frizztards | DROPPED | Malachi Fields | WR | NYG |
@@ -185,5 +187,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Sep 24, 01:44 PM ET | Cook'n brown rice | DROPPED | Keon Coleman | WR | BUF |
 | Thu Sep 24, 12:27 PM ET | The Slim Reapers | DROPPED | Emanuel Wilson | RB | SEA |
 | Thu Sep 24, 12:27 PM ET | The Slim Reapers | FA ADDED | DeeJay Dallas | RB | MIN |
-| Thu Sep 24, 11:41 AM ET | Brock Hard for TDs | DROPPED | Brenton Strange | TE | JAX |
-| Thu Sep 24, 11:41 AM ET | Brock Hard for TDs | FA ADDED | Terrance Ferguson | TE | LAR |

@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Mon Oct 05 2026, 11:55 AM ET · NFL week 4 · The Re-Todds
+Updated: Mon Oct 05 2026, 06:34 PM ET · NFL week 4 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
 
@@ -19,7 +19,7 @@ Updated: Mon Oct 05 2026, 11:55 AM ET · NFL week 4 · The Re-Todds
 | 9 | Christian McCracker | devin | East | 1-2-0 | 288.4 | 310.9 | L1 | 12 | 34.1 | 9 | 5 | 0 | 30 |
 | 10 | Cook'n brown rice | Aziz | West | 1-2-0 | 283.9 | 369.4 | W1 | 8 | 25.1 | 10 | 11 | 2 | 13 |
 | 11 | The Slim Reapers | Yovani | East | 0-3-0 | 335.0 | 395.7 | L3 | 9 | 20.4 | 11 | 9 | 1 | 38 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-3-0 | 240.0 | 342.4 | L3 | 2 | 11.9 | 12 | 7 | 1 | 21 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-3-0 | 240.0 | 342.4 | L3 | 2 | 11.9 | 12 | 8 | 1 | 21 |
 
 ## Week 4 matchups
 
