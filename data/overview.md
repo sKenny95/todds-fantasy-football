@@ -1,38 +1,38 @@
 # League overview
 
-Updated: Mon Oct 05 2026, 10:54 PM ET · NFL week 4 · The Re-Todds
+Updated: Tue Oct 06 2026, 06:07 AM ET · NFL week 5 · The Re-Todds
 
-**My team:** Brock Hard for TDs (team id 2), 2-1-0, seed 4, waiver rank 6.
+**My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 6.
 
 ## Standings
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 3-0-0 | 415.2 | 343.9 | W3 | 1 | 83.2 | 2 | 4 | 0 | 14 |
-| 2 | the blind side | Nick | West | 3-0-0 | 303.3 | 259.1 | W3 | 11 | 83.7 | 1 | 5 | 2 | 24 |
-| 3 | The Ghee-talians | Christian | East | 3-0-0 | 380.5 | 356.3 | W3 | 10 | 80.4 | 3 | 7 | 2 | 36 |
-| 4 | Brock Hard for TDs **(me)** | Sina | West | 2-1-0 | 412.2 | 282.0 | W1 | 6 | 75.9 | 4 | 4 | 0 | 10 |
-| 5 | Saquan these nuts | Toby | West | 2-1-0 | 364.1 | 283.6 | L1 | 3 | 58.8 | 5 | 6 | 1 | 22 |
-| 6 | Baba Yaga Swede | Victor | East | 1-2-0 | 402.4 | 371.6 | W1 | 7 | 47.1 | 6 | 1 | 1 | 8 |
-| 7 | Thr Short Bus | Dunbarr | East | 1-2-0 | 312.0 | 355.1 | L2 | 4 | 40.2 | 7 | 1 | 0 | 12 |
-| 8 | Frizztards | Spencer | West | 1-2-0 | 302.3 | 369.3 | L1 | 5 | 39.2 | 8 | 4 | 0 | 11 |
-| 9 | Christian McCracker | devin | East | 1-2-0 | 288.4 | 310.9 | L1 | 12 | 34.1 | 9 | 5 | 0 | 30 |
-| 10 | Cook'n brown rice | Aziz | West | 1-2-0 | 283.9 | 369.4 | W1 | 8 | 25.1 | 10 | 11 | 2 | 13 |
-| 11 | The Slim Reapers | Yovani | East | 0-3-0 | 335.0 | 395.7 | L3 | 9 | 20.4 | 11 | 9 | 1 | 38 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-3-0 | 240.0 | 342.4 | L3 | 2 | 11.9 | 12 | 8 | 1 | 21 |
+| 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 88.5 | 2 | 4 | 0 | 14 |
+| 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 11 | 89.2 | 1 | 5 | 2 | 24 |
+| 3 | Brock Hard for TDs **(me)** | Sina | West | 3-1-0 | 578.6 | 348.4 | W2 | 6 | 80.9 | 3 | 4 | 0 | 10 |
+| 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 10 | 74.1 | 4 | 7 | 2 | 38 |
+| 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 4 | 48.9 | 6 | 1 | 0 | 12 |
+| 6 | Saquan these nuts | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 3 | 51.8 | 5 | 6 | 1 | 22 |
+| 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 5 | 48.4 | 7 | 4 | 0 | 11 |
+| 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 7 | 38.6 | 8 | 1 | 1 | 10 |
+| 9 | The Slim Reapers | Yovani | East | 1-3-0 | 477.2 | 521.9 | W1 | 9 | 25.9 | 9 | 9 | 1 | 40 |
+| 10 | Christian McCracker | devin | East | 1-3-0 | 414.6 | 453.1 | L2 | 12 | 26.2 | 10 | 5 | 0 | 34 |
+| 11 | Cook'n brown rice | Aziz | West | 1-3-0 | 349.9 | 474.3 | L1 | 8 | 21.5 | 11 | 11 | 2 | 15 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-4-0 | 372.7 | 482.3 | L4 | 2 | 6.0 | 12 | 8 | 1 | 23 |
 
-## Week 4 matchups
+## Week 5 matchups
 
 Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Baba Yaga Swede | 107.9 | 107.9 | vs | Thr Short Bus | 140.78 | 145.4 |
-| Christian McCracker | 126.2 | 126.2 | vs | The Slim Reapers | 142.18 | 142.18 |
-| The Ghee-talians | 128.66 | 128.66 | vs | Big Papa | 138.88 | 138.88 |
-| Frizztards | 104.88 | 108.48 | vs | Cook'n brown rice | 59.56 | 63.56 |
-| Saquan these nuts | 66.42 | 66.42 | vs | Brock Hard for TDs | 166.38 | 166.38 |
-| the blind side | 139.82 | 139.82 | vs | GioDoesCokeOnKamara | 126.42 | 132.63 |
+| Christian McCracker | 0.0 | 113.6 | vs | Baba Yaga Swede | 0.0 | 125.37 |
+| Thr Short Bus | 0.0 | 116.95 | vs | The Ghee-talians | 0.0 | 114.21 |
+| The Slim Reapers | 0.0 | 105.11 | vs | Big Papa | 0.0 |  |
+| Saquan these nuts | 0.0 | 89.1 | vs | Frizztards | 0.0 | 121.3 |
+| Cook'n brown rice | 0.0 | 117.08 | vs | the blind side | 0.0 | 108.93 |
+| Brock Hard for TDs | 0.0 | 134.06 | vs | GioDoesCokeOnKamara | 0.0 | 98.39 |
 
 ## My schedule
 
@@ -41,7 +41,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | 1 | Cook'n brown rice | 151.9 | W |
 | 2 | the blind side | 81.06 | L |
 | 3 | Frizztards | 179.28 | W |
-| 4 | Saquan these nuts |  |  |
+| 4 | Saquan these nuts | 166.38 | W |
 | 5 | GioDoesCokeOnKamara |  |  |
 | 6 | The Slim Reapers |  |  |
 | 7 | Thr Short Bus |  |  |
