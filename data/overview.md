@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Tue Oct 06 2026, 01:09 PM ET · NFL week 5 · The Re-Todds
+Updated: Tue Oct 06 2026, 06:36 PM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 6.
 
@@ -9,11 +9,11 @@ Updated: Tue Oct 06 2026, 01:09 PM ET · NFL week 5 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 88.5 | 2 | 4 | 0 | 15 |
-| 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 11 | 89.2 | 1 | 5 | 2 | 27 |
+| 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 11 | 89.2 | 1 | 5 | 2 | 28 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 3-1-0 | 578.6 | 348.4 | W2 | 6 | 80.9 | 3 | 4 | 0 | 10 |
 | 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 10 | 74.1 | 4 | 7 | 2 | 38 |
 | 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 4 | 48.9 | 6 | 1 | 0 | 12 |
-| 6 | Saquan these nuts | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 3 | 51.8 | 5 | 6 | 1 | 26 |
+| 6 | Saquan these nuts | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 3 | 51.8 | 5 | 6 | 1 | 31 |
 | 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 5 | 48.4 | 7 | 4 | 0 | 11 |
 | 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 7 | 38.6 | 8 | 1 | 1 | 10 |
 | 9 | The Slim Reapers | Yovani | East | 1-3-0 | 477.2 | 521.9 | W1 | 9 | 25.9 | 9 | 9 | 1 | 43 |
@@ -27,11 +27,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Christian McCracker | 0.0 | 102.52 | vs | Baba Yaga Swede | 0.0 | 125.34 |
+| Christian McCracker | 0.0 | 118.88 | vs | Baba Yaga Swede | 0.0 | 125.34 |
 | Thr Short Bus | 0.0 | 118.4 | vs | The Ghee-talians | 0.0 | 114.26 |
 | The Slim Reapers | 0.0 | 116.95 | vs | Big Papa | 0.0 | 7.96 |
-| Saquan these nuts | 0.0 | 65.38 | vs | Frizztards | 0.0 | 120.45 |
-| Cook'n brown rice | 0.0 | 120.52 | vs | the blind side | 0.0 | 99.26 |
+| Saquan these nuts | 0.0 | 111.89 | vs | Frizztards | 0.0 | 120.45 |
+| Cook'n brown rice | 0.0 | 120.52 | vs | the blind side | 0.0 | 99.5 |
 | Brock Hard for TDs | 0.0 | 131.45 | vs | GioDoesCokeOnKamara | 0.0 | 99.33 |
 
 ## My schedule
