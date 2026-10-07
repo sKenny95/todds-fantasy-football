@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Tue Oct 06 2026, 06:36 PM ET · NFL week 5 · The Re-Todds
+Updated: Tue Oct 06 2026, 10:17 PM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 6.
 
@@ -17,7 +17,7 @@ Updated: Tue Oct 06 2026, 06:36 PM ET · NFL week 5 · The Re-Todds
 | 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 5 | 48.4 | 7 | 4 | 0 | 11 |
 | 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 7 | 38.6 | 8 | 1 | 1 | 10 |
 | 9 | The Slim Reapers | Yovani | East | 1-3-0 | 477.2 | 521.9 | W1 | 9 | 25.9 | 9 | 9 | 1 | 43 |
-| 10 | Christian McCracker | devin | East | 1-3-0 | 414.6 | 453.1 | L2 | 12 | 26.2 | 10 | 5 | 0 | 36 |
+| 10 | Christian McCracker | devin | East | 1-3-0 | 414.6 | 453.1 | L2 | 12 | 26.2 | 10 | 5 | 0 | 37 |
 | 11 | Cook'n brown rice | Aziz | West | 1-3-0 | 349.9 | 474.3 | L1 | 8 | 21.5 | 11 | 11 | 2 | 16 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 0-4-0 | 372.7 | 482.3 | L4 | 2 | 6.0 | 12 | 8 | 1 | 24 |
 
@@ -27,7 +27,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Christian McCracker | 0.0 | 118.88 | vs | Baba Yaga Swede | 0.0 | 125.34 |
+| Christian McCracker | 0.0 | 113.45 | vs | Baba Yaga Swede | 0.0 | 125.34 |
 | Thr Short Bus | 0.0 | 118.4 | vs | The Ghee-talians | 0.0 | 114.26 |
 | The Slim Reapers | 0.0 | 116.95 | vs | Big Papa | 0.0 | 7.96 |
 | Saquan these nuts | 0.0 | 111.89 | vs | Frizztards | 0.0 | 120.45 |
