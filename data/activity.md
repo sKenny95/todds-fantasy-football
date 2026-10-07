@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 06 2026, 10:17 PM ET · NFL week 5 · The Re-Todds
+Updated: Wed Oct 07 2026, 06:09 AM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Oct 07, 01:26 AM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Cook'n brown rice gives Michael Wilson, Tyler Shough | CANCELED |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs, Rachaad White; Cook'n brown rice gives Michael Wilson, Bucky Irving | CANCELED |
 | Thu Oct 01, 03:43 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
 | Wed Sep 30, 06:37 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
@@ -91,6 +92,18 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 07, 04:56 AM ET | Big Papa | FA ADDED | Browns D/ST | D/ST | CLE |
+| Wed Oct 07, 04:56 AM ET | Big Papa | DROPPED | Panthers D/ST | D/ST | CAR |
+| Wed Oct 07, 04:55 AM ET | Big Papa | FA ADDED | Dohnte Meyers | WR | CIN |
+| Wed Oct 07, 04:55 AM ET | Big Papa | DROPPED | Quentin Johnston | WR | LAC |
+| Wed Oct 07, 04:54 AM ET | Big Papa | FA ADDED | Jacoby Brissett | QB | ARI |
+| Wed Oct 07, 04:54 AM ET | Big Papa | DROPPED | Kyler Murray | QB | MIN |
+| Wed Oct 07, 03:26 AM ET | Saquan these nuts | WAIVER ADDED | Cowboys D/ST | D/ST | DAL |
+| Wed Oct 07, 03:26 AM ET | Saquan these nuts | DROPPED | Cardinals D/ST | D/ST | ARI |
+| Wed Oct 07, 03:26 AM ET | Thr Short Bus | DROPPED | Keenan Allen | WR | IND |
+| Wed Oct 07, 03:26 AM ET | Thr Short Bus | WAIVER ADDED | Keon Coleman | WR | BUF |
+| Wed Oct 07, 03:26 AM ET | Saquan these nuts | WAIVER ADDED | Will Shipley | RB | PHI |
+| Wed Oct 07, 03:26 AM ET | Saquan these nuts | DROPPED | J.K. Dobbins | RB | DEN |
 | Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | NO |
 | Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | FA ADDED | Joe Mixon | RB | None |
 | Sun Oct 04, 11:54 AM ET | Frizztards | FA ADDED | Najee Harris | RB | NYG |
@@ -178,12 +191,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_RECEIVED | Aaron Jones Sr. | RB | MIN |
 | Tue Sep 29, 02:08 PM ET | The Slim Reapers | DROPPED | Tank Bigsby | RB | PHI |
 | Tue Sep 29, 02:07 PM ET | The Slim Reapers | DROPPED | Rashod Bateman | WR | BAL |
-| Sun Sep 27, 08:40 AM ET | Brock Hard for TDs | DROPPED | Michael Mayer | TE | LV |
-| Sat Sep 26, 03:54 PM ET | Cook'n brown rice | FA ADDED | Emanuel Wilson | RB | SEA |
-| Sat Sep 26, 03:54 PM ET | Cook'n brown rice | DROPPED | Jonah Coleman | RB | DEN |
-| Fri Sep 25, 09:06 PM ET | The Slim Reapers | FA ADDED | Rashod Bateman | WR | BAL |
-| Fri Sep 25, 09:03 PM ET | The Slim Reapers | DROPPED | DeeJay Dallas | RB | MIN |
-| Thu Sep 24, 01:44 PM ET | Cook'n brown rice | FA ADDED | Rashid Shaheed | WR | SEA |
-| Thu Sep 24, 01:44 PM ET | Cook'n brown rice | DROPPED | Keon Coleman | WR | BUF |
-| Thu Sep 24, 12:27 PM ET | The Slim Reapers | DROPPED | Emanuel Wilson | RB | SEA |
-| Thu Sep 24, 12:27 PM ET | The Slim Reapers | FA ADDED | DeeJay Dallas | RB | MIN |
