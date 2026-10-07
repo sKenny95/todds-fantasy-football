@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 07 2026, 01:46 PM ET · NFL week 5 · The Re-Todds
+Updated: Wed Oct 07 2026, 07:01 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -96,6 +96,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 07, 02:12 PM ET | the blind side | DROPPED | Kalif Raymond | WR | CHI |
+| Wed Oct 07, 02:12 PM ET | the blind side | FA ADDED | Roman Wilson | WR | PIT |
 | Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_SENT | Woody Marks | RB | HOU |
 | Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_RECEIVED | Woody Marks | RB | HOU |
 | Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_SENT | Braelon Allen | RB | NYJ |
@@ -193,9 +195,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_RECEIVED | Bucky Irving | RB | TB |
 | Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_SENT | Luther Burden III | WR | CHI |
 | Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_RECEIVED | Luther Burden III | WR | CHI |
-| Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_SENT | Brock Purdy | QB | SF |
-| Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Brock Purdy | QB | SF |
-| Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_SENT | Travis Etienne Jr. | RB | NO |
-| Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Travis Etienne Jr. | RB | NO |
-| Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_SENT | Aaron Jones Sr. | RB | MIN |
-| Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_RECEIVED | Aaron Jones Sr. | RB | MIN |
