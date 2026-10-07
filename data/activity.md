@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 07 2026, 06:09 AM ET · NFL week 5 · The Re-Todds
+Updated: Wed Oct 07 2026, 01:46 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,9 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Oct 07, 12:27 PM ET | Big Papa | Big Papa gives Devaughn Vele, Emmett Johnson; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
+| Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Devaughn Vele, Jaylen Waddle; Frizztards gives Drake London | CANCELED |
+| Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Saquan these nuts gives Josh Allen | CANCELED |
 | Wed Oct 07, 01:26 AM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Cook'n brown rice gives Michael Wilson, Tyler Shough | CANCELED |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs, Rachaad White; Cook'n brown rice gives Michael Wilson, Bucky Irving | CANCELED |
 | Thu Oct 01, 03:43 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
@@ -43,6 +46,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Wed Oct 07, 12:38 PM ET | Thr Short Bus | The Slim Reapers | went through Wed Oct 07, 12:45 PM ET |
 | Wed Sep 30, 11:27 AM ET | Cook'n brown rice | the blind side | went through Wed Sep 30, 11:40 AM ET |
 | Wed Sep 30, 11:02 AM ET | Saquan these nuts | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
 | Tue Sep 29, 05:18 PM ET | The Ghee-talians | Cook'n brown rice | went through Tue Sep 29, 05:21 PM ET |
@@ -92,6 +96,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_SENT | Woody Marks | RB | HOU |
+| Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_RECEIVED | Woody Marks | RB | HOU |
+| Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_SENT | Braelon Allen | RB | NYJ |
+| Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_RECEIVED | Braelon Allen | RB | NYJ |
+| Wed Oct 07, 10:08 AM ET | The Slim Reapers | DROPPED | Daniel Carlson | K | NO |
+| Wed Oct 07, 10:08 AM ET | The Slim Reapers | FA ADDED | Dominic Zvada | K | NYG |
 | Wed Oct 07, 04:56 AM ET | Big Papa | FA ADDED | Browns D/ST | D/ST | CLE |
 | Wed Oct 07, 04:56 AM ET | Big Papa | DROPPED | Panthers D/ST | D/ST | CAR |
 | Wed Oct 07, 04:55 AM ET | Big Papa | FA ADDED | Dohnte Meyers | WR | CIN |
@@ -189,5 +199,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Travis Etienne Jr. | RB | NO |
 | Tue Sep 29, 03:35 PM ET | Baba Yaga Swede | TRADE_SENT | Aaron Jones Sr. | RB | MIN |
 | Tue Sep 29, 03:35 PM ET | The Slim Reapers | TRADE_RECEIVED | Aaron Jones Sr. | RB | MIN |
-| Tue Sep 29, 02:08 PM ET | The Slim Reapers | DROPPED | Tank Bigsby | RB | PHI |
-| Tue Sep 29, 02:07 PM ET | The Slim Reapers | DROPPED | Rashod Bateman | WR | BAL |
