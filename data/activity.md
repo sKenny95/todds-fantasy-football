@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Oct 08 2026, 06:26 AM ET · NFL week 5 · The Re-Todds
+Updated: Thu Oct 08 2026, 01:50 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Thu Oct 08, 11:28 AM ET | Big Papa | Big Papa gives Emmett Johnson, Devaughn Vele, Browns D/ST; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 12:27 PM ET | Big Papa | Big Papa gives Devaughn Vele, Emmett Johnson; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Devaughn Vele, Jaylen Waddle; Frizztards gives Drake London | CANCELED |
 | Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Saquan these nuts gives Josh Allen | CANCELED |
@@ -97,6 +98,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Oct 08, 11:34 AM ET | Saquan these nuts | DROPPED | George Holani | RB | SEA |
+| Thu Oct 08, 11:34 AM ET | Saquan these nuts | FA ADDED | Austin Ekeler | RB | WSH |
+| Thu Oct 08, 11:30 AM ET | the blind side | DROPPED | Kyle Pitts Sr. | TE | ATL |
+| Thu Oct 08, 11:30 AM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
 | Thu Oct 08, 03:37 AM ET | The Slim Reapers | WAIVER ADDED | J.K. Dobbins | RB | DEN |
 | Thu Oct 08, 03:37 AM ET | The Slim Reapers | DROPPED | Woody Marks | RB | HOU |
 | Wed Oct 07, 09:14 PM ET | The Ghee-talians | DROPPED | Chig Okonkwo | TE | WSH |
@@ -185,5 +190,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Sep 30, 10:29 AM ET | GioDoesCokeOnKamara | FA ADDED | Kirk Cousins | QB | LV |
 | Wed Sep 30, 08:14 AM ET | Cook'n brown rice | DROPPED | Oronde Gadsden | TE | LAC |
 | Wed Sep 30, 08:14 AM ET | Cook'n brown rice | FA ADDED | AJ Barner | TE | SEA |
-| Wed Sep 30, 06:05 AM ET | The Slim Reapers | FA ADDED | Deshaun Watson | QB | CLE |
-| Wed Sep 30, 06:04 AM ET | The Slim Reapers | FA ADDED | Braelon Allen | RB | NYJ |
