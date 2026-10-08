@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 07 2026, 07:01 PM ET · NFL week 5 · The Re-Todds
+Updated: Wed Oct 07 2026, 10:40 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -59,6 +59,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Wed Oct 07, 07:57 PM ET | GioDoesCokeOnKamara |
 | Sat Oct 03, 01:26 AM ET | GioDoesCokeOnKamara |
 | Wed Sep 30, 10:18 PM ET | Cook'n brown rice |
 | Wed Sep 30, 10:12 PM ET | The Slim Reapers |
@@ -96,6 +97,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 07, 09:14 PM ET | The Ghee-talians | DROPPED | Chig Okonkwo | TE | WSH |
+| Wed Oct 07, 09:14 PM ET | The Ghee-talians | FA ADDED | Brenton Strange | TE | JAX |
+| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | FA ADDED | Commanders D/ST | D/ST | WSH |
+| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | DROPPED | Falcons D/ST | D/ST | ATL |
+| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | DROPPED | Joe Mixon | RB | None |
+| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | FA ADDED | Kendre Miller | RB | NO |
 | Wed Oct 07, 02:12 PM ET | the blind side | DROPPED | Kalif Raymond | WR | CHI |
 | Wed Oct 07, 02:12 PM ET | the blind side | FA ADDED | Roman Wilson | WR | PIT |
 | Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_SENT | Woody Marks | RB | HOU |
@@ -180,18 +187,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Sep 30, 06:04 AM ET | The Slim Reapers | FA ADDED | Braelon Allen | RB | NYJ |
 | Wed Sep 30, 03:51 AM ET | the blind side | DROPPED | Malik Washington | WR | MIA |
 | Wed Sep 30, 03:51 AM ET | the blind side | WAIVER ADDED | Kalif Raymond | WR | CHI |
-| Wed Sep 30, 03:51 AM ET | The Ghee-talians | DROPPED | De'Von Achane | RB | MIA |
-| Wed Sep 30, 03:51 AM ET | The Ghee-talians | WAIVER ADDED | Jaylen Wright | RB | MIA |
-| Wed Sep 30, 03:51 AM ET | The Slim Reapers | WAIVER ADDED | Ollie Gordon II | RB | MIA |
-| Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_SENT | Davante Adams | WR | LAR |
-| Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_RECEIVED | Davante Adams | WR | LAR |
-| Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_SENT | Rashid Shaheed | WR | SEA |
-| Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_RECEIVED | Rashid Shaheed | WR | SEA |
-| Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_SENT | James Cook III | RB | BUF |
-| Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_RECEIVED | James Cook III | RB | BUF |
-| Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_SENT | Josh Downs | WR | IND |
-| Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_RECEIVED | Josh Downs | WR | IND |
-| Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_SENT | Bucky Irving | RB | TB |
-| Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_RECEIVED | Bucky Irving | RB | TB |
-| Tue Sep 29, 05:21 PM ET | Cook'n brown rice | TRADE_SENT | Luther Burden III | WR | CHI |
-| Tue Sep 29, 05:21 PM ET | The Ghee-talians | TRADE_RECEIVED | Luther Burden III | WR | CHI |
