@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Oct 08 2026, 01:50 PM ET · NFL week 5 · The Re-Todds
+Updated: Thu Oct 08 2026, 07:16 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -98,6 +98,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Oct 08, 02:44 PM ET | Saquan these nuts | DROPPED | Jakobi Meyers | WR | JAX |
+| Thu Oct 08, 02:44 PM ET | Saquan these nuts | FA ADDED | Darius Cooper | WR | PHI |
+| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | FA ADDED | Keenan Allen | WR | IND |
+| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | DROPPED | Chris Godwin Jr. | WR | TB |
+| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | FA ADDED | Christian Kirk | WR | SF |
+| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | DROPPED | Tyler Higbee | TE | LAR |
 | Thu Oct 08, 11:34 AM ET | Saquan these nuts | DROPPED | George Holani | RB | SEA |
 | Thu Oct 08, 11:34 AM ET | Saquan these nuts | FA ADDED | Austin Ekeler | RB | WSH |
 | Thu Oct 08, 11:30 AM ET | the blind side | DROPPED | Kyle Pitts Sr. | TE | ATL |
@@ -172,21 +178,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Sep 30, 11:40 AM ET | Cook'n brown rice | TRADE_RECEIVED | Kenyon Sadiq | TE | NYJ |
 | Wed Sep 30, 11:12 AM ET | Saquan these nuts | DROPPED | Lions D/ST | D/ST | DET |
 | Wed Sep 30, 11:12 AM ET | Saquan these nuts | FA ADDED | Browns D/ST | D/ST | CLE |
-| Wed Sep 30, 11:10 AM ET | Saquan these nuts | DROPPED | Xavier Worthy | WR | KC |
-| Wed Sep 30, 11:10 AM ET | Saquan these nuts | FA ADDED | Jakobi Meyers | WR | JAX |
-| Wed Sep 30, 11:09 AM ET | Saquan these nuts | TRADE_SENT | Travis Kelce | TE | KC |
-| Wed Sep 30, 11:09 AM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Travis Kelce | TE | KC |
-| Wed Sep 30, 11:09 AM ET | Saquan these nuts | TRADE_SENT | Alvin Kamara | RB | NO |
-| Wed Sep 30, 11:09 AM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Alvin Kamara | RB | NO |
-| Wed Sep 30, 11:09 AM ET | GioDoesCokeOnKamara | TRADE_SENT | Adonai Mitchell | WR | NYJ |
-| Wed Sep 30, 11:09 AM ET | Saquan these nuts | TRADE_RECEIVED | Adonai Mitchell | WR | NYJ |
-| Wed Sep 30, 11:09 AM ET | GioDoesCokeOnKamara | TRADE_SENT | T.J. Hockenson | TE | MIN |
-| Wed Sep 30, 11:09 AM ET | Saquan these nuts | TRADE_RECEIVED | T.J. Hockenson | TE | MIN |
-| Wed Sep 30, 11:09 AM ET | GioDoesCokeOnKamara | TRADE_SENT | Saquon Barkley | RB | PHI |
-| Wed Sep 30, 11:09 AM ET | Saquan these nuts | TRADE_RECEIVED | Saquon Barkley | RB | PHI |
-| Wed Sep 30, 11:09 AM ET | Saquan these nuts | TRADE_SENT | Jalen Coker | WR | CAR |
-| Wed Sep 30, 11:09 AM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Jalen Coker | WR | CAR |
-| Wed Sep 30, 10:29 AM ET | GioDoesCokeOnKamara | DROPPED | Baker Mayfield | QB | TB |
-| Wed Sep 30, 10:29 AM ET | GioDoesCokeOnKamara | FA ADDED | Kirk Cousins | QB | LV |
-| Wed Sep 30, 08:14 AM ET | Cook'n brown rice | DROPPED | Oronde Gadsden | TE | LAC |
-| Wed Sep 30, 08:14 AM ET | Cook'n brown rice | FA ADDED | AJ Barner | TE | SEA |
