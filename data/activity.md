@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Oct 09 2026, 01:59 AM ET · NFL week 5 · The Re-Todds
+Updated: Fri Oct 09 2026, 09:07 AM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -99,6 +99,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Oct 09, 03:04 AM ET | Justin Her Tight End | DROPPED | Austin Ekeler | RB | WSH |
+| Fri Oct 09, 03:04 AM ET | Justin Her Tight End | WAIVER ADDED | Woody Marks | RB | HOU |
 | Thu Oct 08, 09:29 PM ET | Big Papa | DROPPED | Dohnte Meyers | WR | CIN |
 | Thu Oct 08, 09:29 PM ET | Big Papa | FA ADDED | Germie Bernard | WR | PIT |
 | Thu Oct 08, 09:18 PM ET | Justin Her Tight End | TRADE_SENT | Adonai Mitchell | WR | NYJ |
@@ -173,5 +175,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Sep 30, 07:39 PM ET | GioDoesCokeOnKamara | FA ADDED | Keaton Mitchell | RB | LAC |
 | Wed Sep 30, 02:19 PM ET | Cook'n brown rice | FA ADDED | Wan'Dale Robinson | WR | TEN |
 | Wed Sep 30, 02:19 PM ET | Cook'n brown rice | DROPPED | Michael Pittman Jr. | WR | PIT |
-| Wed Sep 30, 01:11 PM ET | Justin Her Tight End | FA ADDED | Cardinals D/ST | D/ST | ARI |
-| Wed Sep 30, 01:11 PM ET | Justin Her Tight End | DROPPED | Browns D/ST | D/ST | CLE |
