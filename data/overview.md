@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Oct 08 2026, 07:16 PM ET · NFL week 5 · The Re-Todds
+Updated: Fri Oct 09 2026, 01:59 AM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 4.
 
@@ -8,12 +8,12 @@ Updated: Thu Oct 08 2026, 07:16 PM ET · NFL week 5 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 89.2 | 1 | 7 | 0 | 26 |
+| 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 89.2 | 1 | 8 | 1 | 26 |
 | 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 8 | 89.0 | 2 | 7 | 2 | 35 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 3-1-0 | 578.6 | 348.4 | W2 | 4 | 80.8 | 3 | 6 | 0 | 13 |
-| 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 7 | 73.6 | 4 | 8 | 2 | 40 |
-| 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 10 | 48.6 | 6 | 2 | 1 | 14 |
-| 6 | Saquan these nuts | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 11 | 53.6 | 5 | 10 | 1 | 44 |
+| 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 7 | 73.6 | 4 | 8 | 2 | 41 |
+| 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 10 | 48.6 | 6 | 2 | 1 | 15 |
+| 6 | Justin Her Tight End | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 11 | 53.6 | 5 | 10 | 2 | 44 |
 | 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 3 | 47.1 | 7 | 4 | 0 | 12 |
 | 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 5 | 37.0 | 8 | 1 | 1 | 11 |
 | 9 | The Slim Reapers | Yovani | East | 1-3-0 | 477.2 | 521.9 | W1 | 12 | 27.6 | 9 | 11 | 2 | 43 |
@@ -27,11 +27,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Christian McCracker | 0.0 | 114.35 | vs | Baba Yaga Swede | 0.0 | 124.08 |
-| Thr Short Bus | 0.0 | 121.24 | vs | The Ghee-talians | 0.0 | 114.26 |
-| The Slim Reapers | 0.0 | 116.9 | vs | Big Papa | 0.0 | 106.25 |
-| Saquan these nuts | 0.0 | 112.0 | vs | Frizztards | 0.0 | 122.41 |
-| Cook'n brown rice | 0.0 | 121.21 | vs | the blind side | 0.0 | 110.27 |
+| Christian McCracker | 40.64 | 124.02 | vs | Baba Yaga Swede | 0.0 | 124.08 |
+| Thr Short Bus | 0.0 | 122.5 | vs | The Ghee-talians | 0.0 | 111.99 |
+| The Slim Reapers | 2.9 | 100.65 | vs | Big Papa | 0.0 | 106.25 |
+| Justin Her Tight End | 3.0 | 96.78 | vs | Frizztards | 5.8 | 120.92 |
+| Cook'n brown rice | 31.5 | 137.49 | vs | the blind side | 14.2 | 106.96 |
 | Brock Hard for TDs | 0.0 | 131.68 | vs | GioDoesCokeOnKamara | 0.0 | 104.04 |
 
 ## My schedule
@@ -41,7 +41,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | 1 | Cook'n brown rice | 151.9 | W |
 | 2 | the blind side | 81.06 | L |
 | 3 | Frizztards | 179.28 | W |
-| 4 | Saquan these nuts | 166.38 | W |
+| 4 | Justin Her Tight End | 166.38 | W |
 | 5 | GioDoesCokeOnKamara |  |  |
 | 6 | The Slim Reapers |  |  |
 | 7 | Thr Short Bus |  |  |

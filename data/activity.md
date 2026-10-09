@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Oct 08 2026, 07:16 PM ET · NFL week 5 · The Re-Todds
+Updated: Fri Oct 09 2026, 01:59 AM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -17,7 +17,7 @@ None visible.
 | Thu Oct 08, 11:28 AM ET | Big Papa | Big Papa gives Emmett Johnson, Devaughn Vele, Browns D/ST; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 12:27 PM ET | Big Papa | Big Papa gives Devaughn Vele, Emmett Johnson; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Devaughn Vele, Jaylen Waddle; Frizztards gives Drake London | CANCELED |
-| Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Saquan these nuts gives Josh Allen | CANCELED |
+| Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Justin Her Tight End gives Josh Allen | CANCELED |
 | Wed Oct 07, 01:26 AM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Cook'n brown rice gives Michael Wilson, Tyler Shough | CANCELED |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs, Rachaad White; Cook'n brown rice gives Michael Wilson, Bucky Irving | CANCELED |
 | Thu Oct 01, 03:43 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
@@ -33,7 +33,7 @@ None visible.
 | Thu Sep 17, 02:15 PM ET | Big Papa | Thr Short Bus gives Emeka Egbuka; Big Papa gives Chuba Hubbard, Jaylen Waddle | CANCELED |
 | Wed Sep 16, 01:53 AM ET | Big Papa | Big Papa gives Chuba Hubbard, Christian Watson; Frizztards gives Josh Jacobs, Puka Nacua | CANCELED |
 | Wed Sep 16, 12:14 AM ET | The Ghee-talians | The Ghee-talians gives Hunter Henry, Davante Adams; Christian McCracker gives George Pickens, Sam LaPorta | CANCELED |
-| Wed Sep 16, 12:11 AM ET | The Ghee-talians | The Ghee-talians gives Josh Downs, Hunter Henry; Saquan these nuts gives Dalton Kincaid, Jalen Coker | CANCELED |
+| Wed Sep 16, 12:11 AM ET | The Ghee-talians | The Ghee-talians gives Josh Downs, Hunter Henry; Justin Her Tight End gives Dalton Kincaid, Jalen Coker | CANCELED |
 | Thu Sep 10, 12:02 AM ET | The Ghee-talians | The Ghee-talians gives Bucky Irving, Isaiah Likely; The Slim Reapers gives Travis Etienne Jr., Tucker Kraft | CANCELED |
 | Thu Sep 10, 12:00 AM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; the blind side gives Kyle Pitts Sr., Jeremiyah Love | CANCELED |
 | Wed Sep 09, 11:56 PM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; Big Papa gives Kenneth Walker III, George Kittle | CANCELED |
@@ -47,9 +47,10 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Thu Oct 08, 07:33 PM ET | Justin Her Tight End | Big Papa | went through Thu Oct 08, 09:18 PM ET |
 | Wed Oct 07, 12:38 PM ET | Thr Short Bus | The Slim Reapers | went through Wed Oct 07, 12:45 PM ET |
 | Wed Sep 30, 11:27 AM ET | Cook'n brown rice | the blind side | went through Wed Sep 30, 11:40 AM ET |
-| Wed Sep 30, 11:02 AM ET | Saquan these nuts | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
+| Wed Sep 30, 11:02 AM ET | Justin Her Tight End | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
 | Tue Sep 29, 05:18 PM ET | The Ghee-talians | Cook'n brown rice | went through Tue Sep 29, 05:21 PM ET |
 | Tue Sep 29, 02:58 PM ET | The Slim Reapers | Baba Yaga Swede | went through Tue Sep 29, 03:35 PM ET |
 | Wed Sep 23, 05:06 PM ET | The Ghee-talians | the blind side | went through Thu Sep 24, 09:04 AM ET |
@@ -98,14 +99,20 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
-| Thu Oct 08, 02:44 PM ET | Saquan these nuts | DROPPED | Jakobi Meyers | WR | JAX |
-| Thu Oct 08, 02:44 PM ET | Saquan these nuts | FA ADDED | Darius Cooper | WR | PHI |
+| Thu Oct 08, 09:29 PM ET | Big Papa | DROPPED | Dohnte Meyers | WR | CIN |
+| Thu Oct 08, 09:29 PM ET | Big Papa | FA ADDED | Germie Bernard | WR | PIT |
+| Thu Oct 08, 09:18 PM ET | Justin Her Tight End | TRADE_SENT | Adonai Mitchell | WR | NYJ |
+| Thu Oct 08, 09:18 PM ET | Big Papa | TRADE_RECEIVED | Adonai Mitchell | WR | NYJ |
+| Thu Oct 08, 09:18 PM ET | Big Papa | TRADE_SENT | Devaughn Vele | WR | NO |
+| Thu Oct 08, 09:18 PM ET | Justin Her Tight End | TRADE_RECEIVED | Devaughn Vele | WR | NO |
+| Thu Oct 08, 02:44 PM ET | Justin Her Tight End | DROPPED | Jakobi Meyers | WR | JAX |
+| Thu Oct 08, 02:44 PM ET | Justin Her Tight End | FA ADDED | Darius Cooper | WR | PHI |
 | Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | FA ADDED | Keenan Allen | WR | IND |
 | Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | DROPPED | Chris Godwin Jr. | WR | TB |
 | Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | FA ADDED | Christian Kirk | WR | SF |
 | Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | DROPPED | Tyler Higbee | TE | LAR |
-| Thu Oct 08, 11:34 AM ET | Saquan these nuts | DROPPED | George Holani | RB | SEA |
-| Thu Oct 08, 11:34 AM ET | Saquan these nuts | FA ADDED | Austin Ekeler | RB | WSH |
+| Thu Oct 08, 11:34 AM ET | Justin Her Tight End | DROPPED | George Holani | RB | SEA |
+| Thu Oct 08, 11:34 AM ET | Justin Her Tight End | FA ADDED | Austin Ekeler | RB | WSH |
 | Thu Oct 08, 11:30 AM ET | the blind side | DROPPED | Kyle Pitts Sr. | TE | ATL |
 | Thu Oct 08, 11:30 AM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
 | Thu Oct 08, 03:37 AM ET | The Slim Reapers | WAIVER ADDED | J.K. Dobbins | RB | DEN |
@@ -130,18 +137,18 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 04:55 AM ET | Big Papa | DROPPED | Quentin Johnston | WR | LAC |
 | Wed Oct 07, 04:54 AM ET | Big Papa | FA ADDED | Jacoby Brissett | QB | ARI |
 | Wed Oct 07, 04:54 AM ET | Big Papa | DROPPED | Kyler Murray | QB | MIN |
-| Wed Oct 07, 03:26 AM ET | Saquan these nuts | WAIVER ADDED | Cowboys D/ST | D/ST | DAL |
-| Wed Oct 07, 03:26 AM ET | Saquan these nuts | DROPPED | Cardinals D/ST | D/ST | ARI |
+| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | WAIVER ADDED | Cowboys D/ST | D/ST | DAL |
+| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | DROPPED | Cardinals D/ST | D/ST | ARI |
 | Wed Oct 07, 03:26 AM ET | Thr Short Bus | DROPPED | Keenan Allen | WR | IND |
 | Wed Oct 07, 03:26 AM ET | Thr Short Bus | WAIVER ADDED | Keon Coleman | WR | BUF |
-| Wed Oct 07, 03:26 AM ET | Saquan these nuts | WAIVER ADDED | Will Shipley | RB | PHI |
-| Wed Oct 07, 03:26 AM ET | Saquan these nuts | DROPPED | J.K. Dobbins | RB | DEN |
+| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | WAIVER ADDED | Will Shipley | RB | PHI |
+| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | DROPPED | J.K. Dobbins | RB | DEN |
 | Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | NO |
 | Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | FA ADDED | Joe Mixon | RB | None |
 | Sun Oct 04, 11:54 AM ET | Frizztards | FA ADDED | Najee Harris | RB | NYG |
 | Sun Oct 04, 11:54 AM ET | Frizztards | DROPPED | Chris Brooks | RB | GB |
 | Sun Oct 04, 11:52 AM ET | Frizztards | DROPPED | Malachi Fields | WR | NYG |
-| Sun Oct 04, 09:57 AM ET | Saquan these nuts | FA ADDED | George Holani | RB | SEA |
+| Sun Oct 04, 09:57 AM ET | Justin Her Tight End | FA ADDED | George Holani | RB | SEA |
 | Sat Oct 03, 11:26 PM ET | The Ghee-talians | DROPPED | Xavier Hutchinson | WR | HOU |
 | Sat Oct 03, 11:26 PM ET | The Ghee-talians | FA ADDED | Xavier Worthy | WR | KC |
 | Sat Oct 03, 06:29 PM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
@@ -166,15 +173,5 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Sep 30, 07:39 PM ET | GioDoesCokeOnKamara | FA ADDED | Keaton Mitchell | RB | LAC |
 | Wed Sep 30, 02:19 PM ET | Cook'n brown rice | FA ADDED | Wan'Dale Robinson | WR | TEN |
 | Wed Sep 30, 02:19 PM ET | Cook'n brown rice | DROPPED | Michael Pittman Jr. | WR | PIT |
-| Wed Sep 30, 01:11 PM ET | Saquan these nuts | FA ADDED | Cardinals D/ST | D/ST | ARI |
-| Wed Sep 30, 01:11 PM ET | Saquan these nuts | DROPPED | Browns D/ST | D/ST | CLE |
-| Wed Sep 30, 11:40 AM ET | Cook'n brown rice | TRADE_SENT | Joe Burrow | QB | CIN |
-| Wed Sep 30, 11:40 AM ET | the blind side | TRADE_RECEIVED | Joe Burrow | QB | CIN |
-| Wed Sep 30, 11:40 AM ET | Cook'n brown rice | TRADE_SENT | Jake Ferguson | TE | DAL |
-| Wed Sep 30, 11:40 AM ET | the blind side | TRADE_RECEIVED | Jake Ferguson | TE | DAL |
-| Wed Sep 30, 11:40 AM ET | the blind side | TRADE_SENT | Caleb Williams | QB | CHI |
-| Wed Sep 30, 11:40 AM ET | Cook'n brown rice | TRADE_RECEIVED | Caleb Williams | QB | CHI |
-| Wed Sep 30, 11:40 AM ET | the blind side | TRADE_SENT | Kenyon Sadiq | TE | NYJ |
-| Wed Sep 30, 11:40 AM ET | Cook'n brown rice | TRADE_RECEIVED | Kenyon Sadiq | TE | NYJ |
-| Wed Sep 30, 11:12 AM ET | Saquan these nuts | DROPPED | Lions D/ST | D/ST | DET |
-| Wed Sep 30, 11:12 AM ET | Saquan these nuts | FA ADDED | Browns D/ST | D/ST | CLE |
+| Wed Sep 30, 01:11 PM ET | Justin Her Tight End | FA ADDED | Cardinals D/ST | D/ST | ARI |
+| Wed Sep 30, 01:11 PM ET | Justin Her Tight End | DROPPED | Browns D/ST | D/ST | CLE |
