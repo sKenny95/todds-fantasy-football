@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Fri Oct 09 2026, 09:07 AM ET · NFL week 5 · The Re-Todds
+Updated: Fri Oct 09 2026, 03:29 PM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 4.
 
@@ -9,7 +9,7 @@ Updated: Fri Oct 09 2026, 09:07 AM ET · NFL week 5 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 90.8 | 1 | 8 | 1 | 26 |
-| 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 8 | 87.7 | 2 | 7 | 2 | 35 |
+| 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 8 | 87.7 | 2 | 7 | 2 | 37 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 3-1-0 | 578.6 | 348.4 | W2 | 4 | 81.2 | 3 | 6 | 0 | 13 |
 | 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 7 | 73.3 | 4 | 8 | 2 | 41 |
 | 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 10 | 49.4 | 7 | 2 | 1 | 15 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Christian McCracker | 40.64 | 124.02 | vs | Baba Yaga Swede | 0.0 | 124.08 |
-| Thr Short Bus | 0.0 | 122.5 | vs | The Ghee-talians | 0.0 | 111.99 |
-| The Slim Reapers | 2.9 | 100.65 | vs | Big Papa | 0.0 | 106.25 |
-| Justin Her Tight End | 3.0 | 97.77 | vs | Frizztards | 5.8 | 120.92 |
-| Cook'n brown rice | 31.5 | 137.49 | vs | the blind side | 14.2 | 106.96 |
-| Brock Hard for TDs | 0.0 | 131.68 | vs | GioDoesCokeOnKamara | 0.0 | 104.04 |
+| Christian McCracker | 40.64 | 124.02 | vs | Baba Yaga Swede | 0.0 | 124.09 |
+| Thr Short Bus | 0.0 | 122.53 | vs | The Ghee-talians | 0.0 | 111.99 |
+| The Slim Reapers | 2.9 | 100.65 | vs | Big Papa | 0.0 | 108.59 |
+| Justin Her Tight End | 3.0 | 97.77 | vs | Frizztards | 5.8 | 120.97 |
+| Cook'n brown rice | 31.5 | 137.45 | vs | the blind side | 14.2 | 118.73 |
+| Brock Hard for TDs | 0.0 | 131.74 | vs | GioDoesCokeOnKamara | 0.0 | 93.47 |
 
 ## My schedule
 
