@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Fri Oct 09 2026, 07:59 PM ET · NFL week 5 · The Re-Todds
+Updated: Sat Oct 10 2026, 01:42 AM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 4.
 
@@ -11,7 +11,7 @@ Updated: Fri Oct 09 2026, 07:59 PM ET · NFL week 5 · The Re-Todds
 | 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 90.8 | 1 | 8 | 1 | 26 |
 | 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 8 | 87.7 | 2 | 7 | 2 | 38 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 3-1-0 | 578.6 | 348.4 | W2 | 4 | 81.2 | 3 | 6 | 0 | 13 |
-| 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 7 | 73.3 | 4 | 8 | 2 | 42 |
+| 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 7 | 73.3 | 4 | 9 | 2 | 42 |
 | 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 10 | 49.4 | 7 | 2 | 1 | 15 |
 | 6 | Justin Her Tight End | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 12 | 50.1 | 5 | 11 | 2 | 45 |
 | 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 3 | 49.1 | 6 | 4 | 0 | 12 |
