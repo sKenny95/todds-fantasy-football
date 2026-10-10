@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Oct 10 2026, 01:42 AM ET · NFL week 5 · The Re-Todds
+Updated: Sat Oct 10 2026, 08:23 AM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -99,6 +99,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sat Oct 10, 03:37 AM ET | Cook'n brown rice | WAIVER ADDED | Jakobi Meyers | WR | JAX |
+| Sat Oct 10, 03:37 AM ET | Cook'n brown rice | DROPPED | Wan'Dale Robinson | WR | TEN |
 | Sat Oct 10, 12:26 AM ET | The Ghee-talians | FA ADDED | Mike Washington Jr. | RB | LV |
 | Sat Oct 10, 12:26 AM ET | The Ghee-talians | DROPPED | Jaylen Wright | RB | MIA |
 | Fri Oct 09, 03:04 AM ET | Justin Her Tight End | DROPPED | Austin Ekeler | RB | WSH |
@@ -173,5 +175,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Oct 01, 02:57 AM ET | GioDoesCokeOnKamara | FA ADDED | Kendre Miller | RB | NO |
 | Wed Sep 30, 07:39 PM ET | GioDoesCokeOnKamara | DROPPED | Titans D/ST | D/ST | TEN |
 | Wed Sep 30, 07:39 PM ET | GioDoesCokeOnKamara | FA ADDED | Falcons D/ST | D/ST | ATL |
-| Wed Sep 30, 07:39 PM ET | GioDoesCokeOnKamara | DROPPED | Kaleb Johnson | RB | GB |
-| Wed Sep 30, 07:39 PM ET | GioDoesCokeOnKamara | FA ADDED | Keaton Mitchell | RB | LAC |
