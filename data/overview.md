@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Oct 10 2026, 08:23 AM ET · NFL week 5 · The Re-Todds
+Updated: Sat Oct 10 2026, 01:48 PM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 4.
 
@@ -15,7 +15,7 @@ Updated: Sat Oct 10 2026, 08:23 AM ET · NFL week 5 · The Re-Todds
 | 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 9 | 49.5 | 6 | 2 | 1 | 15 |
 | 6 | Justin Her Tight End | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 11 | 50.4 | 5 | 11 | 2 | 45 |
 | 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 3 | 48.5 | 7 | 4 | 0 | 12 |
-| 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 5 | 38.3 | 8 | 1 | 1 | 11 |
+| 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 5 | 38.3 | 8 | 1 | 1 | 13 |
 | 9 | The Slim Reapers | Yovani | East | 1-3-0 | 477.2 | 521.9 | W1 | 10 | 25.7 | 10 | 11 | 2 | 43 |
 | 10 | Christian McCracker | devin | East | 1-3-0 | 414.6 | 453.1 | L2 | 8 | 27.6 | 9 | 5 | 0 | 38 |
 | 11 | Cook'n brown rice | Aziz | West | 1-3-0 | 349.9 | 474.3 | L1 | 12 | 22.0 | 11 | 12 | 2 | 16 |
@@ -28,11 +28,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Christian McCracker | 40.64 | 124.0 | vs | Baba Yaga Swede | 0.0 | 124.14 |
-| Thr Short Bus | 0.0 | 122.57 | vs | The Ghee-talians | 0.0 | 114.27 |
-| The Slim Reapers | 2.9 | 100.33 | vs | Big Papa | 0.0 | 109.21 |
+| Thr Short Bus | 0.0 | 122.57 | vs | The Ghee-talians | 0.0 | 114.3 |
+| The Slim Reapers | 2.9 | 100.32 | vs | Big Papa | 0.0 | 109.21 |
 | Justin Her Tight End | 3.0 | 99.48 | vs | Frizztards | 5.8 | 120.97 |
-| Cook'n brown rice | 31.5 | 137.47 | vs | the blind side | 14.2 | 116.39 |
-| Brock Hard for TDs | 0.0 | 132.52 | vs | GioDoesCokeOnKamara | 0.0 | 93.44 |
+| Cook'n brown rice | 31.5 | 137.46 | vs | the blind side | 14.2 | 116.38 |
+| Brock Hard for TDs | 0.0 | 132.52 | vs | GioDoesCokeOnKamara | 0.0 | 93.4 |
 
 ## My schedule
 
