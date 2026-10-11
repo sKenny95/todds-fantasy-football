@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 11 2026, 02:48 PM ET · NFL week 5 · The Re-Todds
+Updated: Sun Oct 11 2026, 06:07 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -8,7 +8,9 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-None visible.
+| Proposed | Offered by | Offer | Expires |
+|---|---|---|---|
+| Sun Oct 11, 03:05 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Geno Smith, Deebo Samuel Sr.; Baba Yaga Swede gives Tre Tucker, Patrick Mahomes | Tue Oct 13, 03:05 PM ET |
 
 ### Offers that were withdrawn, replaced or expired
 
