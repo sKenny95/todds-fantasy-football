@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 11 2026, 09:58 AM ET · NFL week 5 · The Re-Todds
+Updated: Sun Oct 11 2026, 02:10 PM ET · NFL week 5 · The Re-Todds
 
 ## Trade offers
 
@@ -99,6 +99,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Oct 11, 01:34 PM ET | Big Papa | FA ADDED | Keaton Mitchell | RB | LAC |
+| Sun Oct 11, 01:34 PM ET | Big Papa | DROPPED | Emmett Johnson | RB | KC |
 | Sat Oct 10, 04:47 PM ET | Cook'n brown rice | FA ADDED | Antonio Williams | WR | WSH |
 | Sat Oct 10, 04:47 PM ET | Cook'n brown rice | DROPPED | Jakobi Meyers | WR | JAX |
 | Sat Oct 10, 03:37 AM ET | Cook'n brown rice | WAIVER ADDED | Jakobi Meyers | WR | JAX |
@@ -173,5 +175,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Oct 01, 11:44 AM ET | Cook'n brown rice | DROPPED | Emanuel Wilson | RB | SEA |
 | Thu Oct 01, 07:39 AM ET | Brock Hard for TDs | FA ADDED | Geno Smith | QB | NYJ |
 | Thu Oct 01, 07:39 AM ET | Brock Hard for TDs | DROPPED | Malik Willis | QB | MIA |
-| Thu Oct 01, 02:57 AM ET | GioDoesCokeOnKamara | DROPPED | Keaton Mitchell | RB | LAC |
-| Thu Oct 01, 02:57 AM ET | GioDoesCokeOnKamara | FA ADDED | Kendre Miller | RB | NO |
