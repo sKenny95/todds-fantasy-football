@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 11 2026, 02:10 PM ET · NFL week 5 · The Re-Todds
+Updated: Sun Oct 11 2026, 02:48 PM ET · NFL week 5 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 4.
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Christian McCracker | 59.64 | 118.3 | vs | Baba Yaga Swede | 29.8 | 117.28 |
-| Thr Short Bus | 42.7 | 127.87 | vs | The Ghee-talians | 47.2 | 121.41 |
-| The Slim Reapers | 19.22 | 82.39 | vs | Big Papa | 35.0 | 130.25 |
-| Justin Her Tight End | 20.8 | 82.11 | vs | Frizztards | 28.8 | 133.52 |
-| Cook'n brown rice | 62.56 | 126.76 | vs | the blind side | 61.22 | 121.65 |
-| Brock Hard for TDs | 51.64 | 136.88 | vs | GioDoesCokeOnKamara | 37.22 | 88.28 |
+| Christian McCracker | 62.54 | 118.04 | vs | Baba Yaga Swede | 34.6 | 114.72 |
+| Thr Short Bus | 58.0 | 134.75 | vs | The Ghee-talians | 52.6 | 122.09 |
+| The Slim Reapers | 21.3 | 73.87 | vs | Big Papa | 53.8 | 147.04 |
+| Justin Her Tight End | 34.5 | 91.15 | vs | Frizztards | 32.2 | 134.89 |
+| Cook'n brown rice | 62.08 | 119.9 | vs | the blind side | 79.04 | 129.07 |
+| Brock Hard for TDs | 54.34 | 136.71 | vs | GioDoesCokeOnKamara | 46.22 | 85.63 |
 
 ## My schedule
 
