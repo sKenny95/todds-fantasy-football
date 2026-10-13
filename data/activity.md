@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 13 2026, 02:10 PM ET · NFL week 6 · The Re-Todds
+Updated: Tue Oct 13 2026, 07:15 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -8,14 +8,21 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-| Proposed | Offered by | Offer | Expires |
-|---|---|---|---|
-| Sun Oct 11, 03:05 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Geno Smith, Deebo Samuel Sr.; Baba Yaga Swede gives Tre Tucker, Patrick Mahomes | Tue Oct 13, 03:05 PM ET |
+None visible.
 
 ### Offers that were withdrawn, replaced or expired
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Tue Oct 13, 05:17 PM ET | Big Papa | Big Papa gives Bo Nix, Dallas Goedert; Cook'n brown rice gives Kenyon Sadiq, Tyler Shough | CANCELED |
+| Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Dallas Goedert, D'Andre Swift; the blind side gives Ja'Marr Chase | CANCELED |
+| Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Bo Nix, Chuba Hubbard, Jaylen Waddle, Dallas Goedert; the blind side gives Jordan Love, Ja'Marr Chase | CANCELED |
+| Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Bo Nix, D'Andre Swift; Justin Her Tight End gives Josh Allen | CANCELED |
+| Tue Oct 13, 03:42 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Dallas Goedert, Bo Nix; Baba Yaga Swede gives Patrick Mahomes | CANCELED |
+| Tue Oct 13, 03:28 PM ET | Big Papa | Big Papa gives Bo Nix, Dallas Goedert, Jaylen Waddle; Baba Yaga Swede gives Patrick Mahomes, Harold Fannin Jr. | CANCELED |
+| Tue Oct 13, 03:05 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Geno Smith, Deebo Samuel Sr.; Baba Yaga Swede gives Tre Tucker, Patrick Mahomes | CANCELED |
+| Tue Oct 13, 02:59 PM ET | Thr Short Bus | Thr Short Bus gives Cameron Dicker, Quinshon Judkins, Justin Herbert; Baba Yaga Swede gives Eddy Pineiro, Cam Skattebo, Brock Purdy | CANCELED |
+| Sun Oct 11, 03:05 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Geno Smith, Deebo Samuel Sr.; Baba Yaga Swede gives Tre Tucker, Patrick Mahomes | EXPIRED |
 | Thu Oct 08, 11:28 AM ET | Big Papa | Big Papa gives Emmett Johnson, Devaughn Vele, Browns D/ST; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 12:27 PM ET | Big Papa | Big Papa gives Devaughn Vele, Emmett Johnson; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Devaughn Vele, Jaylen Waddle; Frizztards gives Drake London | CANCELED |
@@ -49,6 +56,9 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Tue Oct 13, 03:26 PM ET | Baba Yaga Swede |  | awaiting review |
+| Tue Oct 13, 03:24 PM ET | the blind side |  | awaiting review |
+| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede |  | awaiting review |
 | Thu Oct 08, 07:33 PM ET | Justin Her Tight End | Big Papa | went through Thu Oct 08, 09:18 PM ET |
 | Wed Oct 07, 12:38 PM ET | Thr Short Bus | The Slim Reapers | went through Wed Oct 07, 12:45 PM ET |
 | Wed Sep 30, 11:27 AM ET | Cook'n brown rice | the blind side | went through Wed Sep 30, 11:40 AM ET |
@@ -63,6 +73,9 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Tue Oct 13, 04:16 PM ET | Big Papa |
+| Tue Oct 13, 04:09 PM ET | the blind side |
+| Tue Oct 13, 02:56 PM ET | Baba Yaga Swede |
 | Wed Oct 07, 07:57 PM ET | GioDoesCokeOnKamara |
 | Sat Oct 03, 01:26 AM ET | GioDoesCokeOnKamara |
 | Wed Sep 30, 10:18 PM ET | Cook'n brown rice |
@@ -87,6 +100,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Oct 13, 04:48 PM ET | Justin Her Tight End | Colts D/ST | Cowboys D/ST |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Emanuel Wilson | Austin Ekeler |
 | Wed Sep 30, 12:18 AM ET | The Ghee-talians | Ollie Gordon II | De'Von Achane |
 | Wed Sep 30, 12:02 AM ET | The Ghee-talians | Braelon Allen | De'Von Achane |
@@ -101,6 +115,17 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_SENT | Eddy Pineiro | K | SF |
+| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Eddy Pineiro | K | SF |
+| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_SENT | Quinshon Judkins | RB | CLE |
+| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Quinshon Judkins | RB | CLE |
+| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_SENT | Cameron Dicker | K | LAC |
+| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Cameron Dicker | K | LAC |
+| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_SENT | Cam Skattebo | RB | NYG |
+| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Cam Skattebo | RB | NYG |
+| Tue Oct 13, 03:10 PM ET | Thr Short Bus | FA ADDED | Brock Purdy | QB | SF |
+| Tue Oct 13, 03:10 PM ET | Baba Yaga Swede | DROPPED | Brock Purdy | QB | SF |
+| Tue Oct 13, 03:01 PM ET | Thr Short Bus | DROPPED | Justin Herbert | QB | LAC |
 | Sun Oct 11, 01:34 PM ET | Big Papa | FA ADDED | Keaton Mitchell | RB | LAC |
 | Sun Oct 11, 01:34 PM ET | Big Papa | DROPPED | Emmett Johnson | RB | KC |
 | Sat Oct 10, 04:47 PM ET | Cook'n brown rice | FA ADDED | Antonio Williams | WR | WSH |
@@ -172,8 +197,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Sat Oct 03, 12:27 AM ET | The Ghee-talians | FA ADDED | Chig Okonkwo | TE | WSH |
 | Sat Oct 03, 12:27 AM ET | The Ghee-talians | DROPPED | Hunter Henry | TE | NE |
 | Fri Oct 02, 03:31 PM ET | Brock Hard for TDs | FA ADDED | Tyler Higbee | TE | LAR |
-| Fri Oct 02, 02:27 PM ET | Christian McCracker | FA ADDED | Austin Ekeler | RB | WSH |
-| Thu Oct 01, 11:45 AM ET | Cook'n brown rice | FA ADDED | Brian Robinson Jr. | RB | ATL |
-| Thu Oct 01, 11:44 AM ET | Cook'n brown rice | DROPPED | Emanuel Wilson | RB | SEA |
-| Thu Oct 01, 07:39 AM ET | Brock Hard for TDs | FA ADDED | Geno Smith | QB | NYJ |
-| Thu Oct 01, 07:39 AM ET | Brock Hard for TDs | DROPPED | Malik Willis | QB | MIA |
