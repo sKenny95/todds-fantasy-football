@@ -1,38 +1,38 @@
 # League overview
 
-Updated: Mon Oct 12 2026, 10:32 PM ET · NFL week 5 · The Re-Todds
+Updated: Tue Oct 13 2026, 06:26 AM ET · NFL week 6 · The Re-Todds
 
-**My team:** Brock Hard for TDs (team id 2), 3-1-0, seed 3, waiver rank 4.
+**My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
 ## Standings
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 4-0-0 | 554.0 | 472.6 | W4 | 1 | 92.3 | 1 | 9 | 1 | 27 |
-| 2 | the blind side | Nick | West | 4-0-0 | 443.1 | 391.8 | W4 | 7 | 87.8 | 2 | 7 | 2 | 39 |
-| 3 | Brock Hard for TDs **(me)** | Sina | West | 3-1-0 | 578.6 | 348.4 | W2 | 4 | 83.1 | 3 | 6 | 0 | 15 |
-| 4 | The Ghee-talians | Christian | East | 3-1-0 | 509.2 | 495.2 | L1 | 6 | 76.3 | 4 | 9 | 2 | 42 |
-| 5 | Thr Short Bus | Dunbarr | East | 2-2-0 | 454.1 | 463.0 | W1 | 9 | 47.9 | 6 | 2 | 1 | 17 |
-| 6 | Justin Her Tight End | Toby | West | 2-2-0 | 430.6 | 450.0 | L2 | 11 | 46.6 | 7 | 11 | 2 | 45 |
-| 7 | Frizztards | Spencer | West | 2-2-0 | 407.2 | 435.2 | W1 | 3 | 54.2 | 5 | 4 | 0 | 13 |
-| 8 | Baba Yaga Swede | Victor | East | 1-3-0 | 510.3 | 513.6 | L1 | 5 | 38.6 | 8 | 1 | 1 | 13 |
-| 9 | The Slim Reapers | Yovani | East | 1-3-0 | 477.2 | 521.9 | W1 | 10 | 23.5 | 10 | 11 | 2 | 43 |
-| 10 | Christian McCracker | devin | East | 1-3-0 | 414.6 | 453.1 | L2 | 8 | 26.1 | 9 | 5 | 0 | 38 |
-| 11 | Cook'n brown rice | Aziz | West | 1-3-0 | 349.9 | 474.3 | L1 | 12 | 19.2 | 11 | 13 | 2 | 16 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-4-0 | 372.7 | 482.3 | L4 | 2 | 4.4 | 12 | 10 | 1 | 25 |
+| 1 | Big Papa | Alex | East | 5-0-0 | 682.9 | 565.8 | W5 | 1 | 95.0 | 1 | 9 | 1 | 32 |
+| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 7 | 79.9 | 4 | 7 | 2 | 39 |
+| 3 | Brock Hard for TDs **(me)** | Sina | West | 4-1-0 | 715.8 | 413.3 | W3 | 4 | 87.0 | 2 | 6 | 0 | 16 |
+| 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 6 | 85.5 | 3 | 9 | 2 | 44 |
+| 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 58.4 | 5 | 4 | 0 | 13 |
+| 6 | Thr Short Bus | Dunbarr | East | 2-3-0 | 592.1 | 627.1 | L1 | 9 | 37.0 | 8 | 2 | 1 | 17 |
+| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 5 | 50.7 | 6 | 1 | 1 | 13 |
+| 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 11 | 38.7 | 7 | 11 | 2 | 45 |
+| 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 12 | 28.8 | 9 | 13 | 2 | 19 |
+| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 10 | 17.6 | 11 | 11 | 2 | 45 |
+| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 8 | 18.5 | 10 | 5 | 0 | 42 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 2.9 | 12 | 10 | 1 | 25 |
 
-## Week 5 matchups
+## Week 6 matchups
 
 Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Christian McCracker | 110.84 | 110.84 | vs | Baba Yaga Swede | 119.86 | 119.86 |
-| Thr Short Bus | 138.04 | 140.38 | vs | The Ghee-talians | 155.5 | 159.67 |
-| The Slim Reapers | 93.2 | 93.2 | vs | Big Papa | 128.88 | 128.88 |
-| Justin Her Tight End | 70.02 | 77.64 | vs | Frizztards | 143.4 | 153.97 |
-| Cook'n brown rice | 108.22 | 112.34 | vs | the blind side | 112.2 | 112.2 |
-| Brock Hard for TDs | 124.34 | 129.06 | vs | GioDoesCokeOnKamara | 63.92 | 66.42 |
+| Baba Yaga Swede | 0.0 | 123.07 | vs | Frizztards | 0.0 | 101.59 |
+| The Ghee-talians | 0.0 | 130.41 | vs | the blind side | 0.0 | 43.2 |
+| Big Papa | 0.0 | 122.0 | vs | GioDoesCokeOnKamara | 0.0 | 91.71 |
+| The Slim Reapers | 0.0 | 61.25 | vs | Brock Hard for TDs | 0.0 | 112.38 |
+| Thr Short Bus | 0.0 | 83.6 | vs | Cook'n brown rice | 0.0 | 112.79 |
+| Christian McCracker | 0.0 | 91.57 | vs | Justin Her Tight End | 0.0 | 78.8 |
 
 ## My schedule
 
@@ -42,7 +42,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | 2 | the blind side | 81.06 | L |
 | 3 | Frizztards | 179.28 | W |
 | 4 | Justin Her Tight End | 166.38 | W |
-| 5 | GioDoesCokeOnKamara |  |  |
+| 5 | GioDoesCokeOnKamara | 137.14 | W |
 | 6 | The Slim Reapers |  |  |
 | 7 | Thr Short Bus |  |  |
 | 8 | Christian McCracker |  |  |
