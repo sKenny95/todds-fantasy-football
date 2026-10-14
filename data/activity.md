@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 14 2026, 03:19 PM ET · NFL week 6 · The Re-Todds
+Updated: Wed Oct 14 2026, 07:09 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -59,8 +59,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
-| Tue Oct 13, 03:26 PM ET | Baba Yaga Swede |  | awaiting review |
-| Tue Oct 13, 03:24 PM ET | the blind side |  | awaiting review |
+| Tue Oct 13, 03:26 PM ET | Baba Yaga Swede | the blind side | went through Wed Oct 14, 03:21 PM ET |
 | Tue Oct 13, 03:12 PM ET | Baba Yaga Swede |  | awaiting review |
 | Thu Oct 08, 07:33 PM ET | Justin Her Tight End | Big Papa | went through Thu Oct 08, 09:18 PM ET |
 | Wed Oct 07, 12:38 PM ET | Thr Short Bus | The Slim Reapers | went through Wed Oct 07, 12:45 PM ET |
@@ -118,6 +117,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 14, 05:42 PM ET | GioDoesCokeOnKamara | DROPPED | Harrison Mevis | K | None |
+| Wed Oct 14, 05:42 PM ET | GioDoesCokeOnKamara | FA ADDED | Blake Grupe | K | LAR |
+| Wed Oct 14, 03:21 PM ET | the blind side | TRADE_SENT | David Montgomery | RB | HOU |
+| Wed Oct 14, 03:21 PM ET | Baba Yaga Swede | TRADE_RECEIVED | David Montgomery | RB | HOU |
+| Wed Oct 14, 03:21 PM ET | Baba Yaga Swede | TRADE_SENT | Jacory Croskey-Merritt | RB | WSH |
+| Wed Oct 14, 03:21 PM ET | the blind side | TRADE_RECEIVED | Jacory Croskey-Merritt | RB | WSH |
 | Wed Oct 14, 09:02 AM ET | Justin Her Tight End | DROPPED | Giants D/ST | D/ST | NYG |
 | Wed Oct 14, 09:02 AM ET | Justin Her Tight End | FA ADDED | Colts D/ST | D/ST | IND |
 | Wed Oct 14, 08:59 AM ET | the blind side | DROPPED | Roman Wilson | WR | PIT |
@@ -198,7 +203,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 03:26 AM ET | Thr Short Bus | WAIVER ADDED | Keon Coleman | WR | BUF |
 | Wed Oct 07, 03:26 AM ET | Justin Her Tight End | WAIVER ADDED | Will Shipley | RB | PHI |
 | Wed Oct 07, 03:26 AM ET | Justin Her Tight End | DROPPED | J.K. Dobbins | RB | DEN |
-| Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | NO |
-| Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | FA ADDED | Joe Mixon | RB | None |
-| Sun Oct 04, 11:54 AM ET | Frizztards | FA ADDED | Najee Harris | RB | NYG |
-| Sun Oct 04, 11:54 AM ET | Frizztards | DROPPED | Chris Brooks | RB | GB |
