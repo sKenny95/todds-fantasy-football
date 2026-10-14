@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Oct 14 2026, 11:05 AM ET · NFL week 6 · The Re-Todds
+Updated: Wed Oct 14 2026, 03:19 PM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -18,8 +18,8 @@ Updated: Wed Oct 14 2026, 11:05 AM ET · NFL week 6 · The Re-Todds
 | 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 38.5 | 8 | 13 | 2 | 51 |
 | 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 27.9 | 9 | 13 | 2 | 19 |
 | 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 16.7 | 11 | 11 | 2 | 47 |
-| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 18.9 | 10 | 5 | 0 | 42 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 3.2 | 12 | 10 | 1 | 25 |
+| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 18.9 | 10 | 5 | 0 | 43 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 3.2 | 12 | 10 | 1 | 30 |
 
 ## Week 6 matchups
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Baba Yaga Swede | 0.0 | 128.75 | vs | Frizztards | 0.0 | 123.54 |
+| Baba Yaga Swede | 0.0 | 129.39 | vs | Frizztards | 0.0 | 123.49 |
 | The Ghee-talians | 0.0 | 130.84 | vs | the blind side | 0.0 | 110.86 |
-| Big Papa | 0.0 | 124.71 | vs | GioDoesCokeOnKamara | 0.0 | 96.54 |
+| Big Papa | 0.0 | 124.68 | vs | GioDoesCokeOnKamara | 0.0 | 116.23 |
 | The Slim Reapers | 0.0 | 116.13 | vs | Brock Hard for TDs | 0.0 | 125.21 |
-| Thr Short Bus | 0.0 | 116.9 | vs | Cook'n brown rice | 0.0 | 113.36 |
-| Christian McCracker | 0.0 | 119.1 | vs | Justin Her Tight End | 0.0 | 115.31 |
+| Thr Short Bus | 0.0 | 124.61 | vs | Cook'n brown rice | 0.0 | 113.44 |
+| Christian McCracker | 0.0 | 116.7 | vs | Justin Her Tight End | 0.0 | 115.25 |
 
 ## My schedule
 
