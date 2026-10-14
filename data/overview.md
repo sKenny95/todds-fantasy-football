@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Oct 14 2026, 12:45 AM ET · NFL week 6 · The Re-Todds
+Updated: Wed Oct 14 2026, 06:05 AM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -8,18 +8,18 @@ Updated: Wed Oct 14 2026, 12:45 AM ET · NFL week 6 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 5-0-0 | 682.9 | 565.8 | W5 | 1 | 95.0 | 1 | 9 | 1 | 33 |
-| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 7 | 79.9 | 4 | 7 | 3 | 44 |
-| 3 | Brock Hard for TDs **(me)** | Sina | West | 4-1-0 | 715.8 | 413.3 | W3 | 4 | 87.0 | 2 | 6 | 0 | 18 |
-| 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 6 | 85.5 | 3 | 9 | 2 | 44 |
-| 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 58.4 | 5 | 4 | 0 | 15 |
-| 6 | Thr Short Bus | Dunbarr | East | 2-3-0 | 592.1 | 627.1 | L1 | 9 | 37.0 | 8 | 3 | 2 | 23 |
-| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 5 | 50.7 | 6 | 1 | 3 | 16 |
-| 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 11 | 38.7 | 7 | 11 | 2 | 49 |
-| 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 12 | 28.8 | 9 | 13 | 2 | 19 |
-| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 10 | 17.6 | 11 | 11 | 2 | 47 |
-| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 8 | 18.5 | 10 | 5 | 0 | 42 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 2.9 | 12 | 10 | 1 | 25 |
+| 1 | Big Papa | Alex | East | 5-0-0 | 682.9 | 565.8 | W5 | 1 | 95.2 | 1 | 11 | 1 | 34 |
+| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 11 | 82.0 | 3 | 8 | 3 | 44 |
+| 3 | Brock Hard for TDs **(me)** | Sina | West | 4-1-0 | 715.8 | 413.3 | W3 | 4 | 86.7 | 2 | 6 | 0 | 18 |
+| 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 10 | 85.8 | 4 | 10 | 2 | 44 |
+| 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 58.0 | 5 | 4 | 0 | 15 |
+| 6 | Thr Short Bus | Dunbarr | East | 2-3-0 | 592.1 | 627.1 | L1 | 6 | 40.1 | 7 | 3 | 2 | 23 |
+| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 47.1 | 6 | 2 | 3 | 16 |
+| 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 38.5 | 8 | 12 | 2 | 49 |
+| 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 27.9 | 9 | 13 | 2 | 19 |
+| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 16.7 | 11 | 11 | 2 | 47 |
+| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 18.9 | 10 | 5 | 0 | 42 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 3.2 | 12 | 10 | 1 | 25 |
 
 ## Week 6 matchups
 
@@ -29,7 +29,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 |---|---|---|---|---|---|---|
 | Baba Yaga Swede | 0.0 | 128.65 | vs | Frizztards | 0.0 | 123.53 |
 | The Ghee-talians | 0.0 | 130.84 | vs | the blind side | 0.0 | 106.74 |
-| Big Papa | 0.0 | 122.59 | vs | GioDoesCokeOnKamara | 0.0 | 96.45 |
+| Big Papa | 0.0 | 124.71 | vs | GioDoesCokeOnKamara | 0.0 | 96.45 |
 | The Slim Reapers | 0.0 | 116.13 | vs | Brock Hard for TDs | 0.0 | 125.16 |
 | Thr Short Bus | 0.0 | 116.91 | vs | Cook'n brown rice | 0.0 | 113.36 |
 | Christian McCracker | 0.0 | 119.1 | vs | Justin Her Tight End | 0.0 | 105.62 |

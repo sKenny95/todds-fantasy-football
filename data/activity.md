@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 14 2026, 12:45 AM ET · NFL week 6 · The Re-Todds
+Updated: Wed Oct 14 2026, 06:05 AM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -116,6 +116,17 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
+| Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Kyler Murray | QB | MIN |
+| Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Keaton Mitchell | RB | LAC |
+| Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
+| Wed Oct 14, 03:04 AM ET | Justin Her Tight End | DROPPED | Will Shipley | RB | PHI |
+| Wed Oct 14, 03:04 AM ET | Justin Her Tight End | WAIVER ADDED | Dameon Pierce | RB | PHI |
+| Wed Oct 14, 03:04 AM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
+| Wed Oct 14, 03:04 AM ET | the blind side | WAIVER ADDED | Kyle Pitts Sr. | TE | ATL |
+| Wed Oct 14, 03:04 AM ET | The Ghee-talians | WAIVER ADDED | Chris Godwin Jr. | WR | TB |
+| Wed Oct 14, 03:04 AM ET | The Ghee-talians | DROPPED | Rashid Shaheed | WR | SEA |
+| Wed Oct 14, 03:04 AM ET | Baba Yaga Swede | WAIVER ADDED | MarShawn Lloyd | RB | GB |
 | Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_SENT | Eddy Pineiro | K | SF |
 | Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Eddy Pineiro | K | SF |
 | Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_SENT | Quinshon Judkins | RB | CLE |
@@ -187,14 +198,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Sun Oct 04, 11:54 AM ET | Frizztards | DROPPED | Chris Brooks | RB | GB |
 | Sun Oct 04, 11:52 AM ET | Frizztards | DROPPED | Malachi Fields | WR | NYG |
 | Sun Oct 04, 09:57 AM ET | Justin Her Tight End | FA ADDED | George Holani | RB | SEA |
-| Sat Oct 03, 11:26 PM ET | The Ghee-talians | DROPPED | Xavier Hutchinson | WR | HOU |
-| Sat Oct 03, 11:26 PM ET | The Ghee-talians | FA ADDED | Xavier Worthy | WR | KC |
-| Sat Oct 03, 06:29 PM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
-| Sat Oct 03, 06:29 PM ET | the blind side | FA ADDED | Malik Washington | WR | MIA |
-| Sat Oct 03, 07:51 AM ET | Christian McCracker | FA ADDED | Ryan Fitzgerald | K | CAR |
-| Sat Oct 03, 07:51 AM ET | Christian McCracker | DROPPED | Andy Borregales | K | NE |
-| Sat Oct 03, 03:09 AM ET | Christian McCracker | WAIVER ADDED | Emanuel Wilson | RB | SEA |
-| Sat Oct 03, 03:09 AM ET | Christian McCracker | DROPPED | Austin Ekeler | RB | WSH |
-| Sat Oct 03, 12:27 AM ET | The Ghee-talians | FA ADDED | Chig Okonkwo | TE | WSH |
-| Sat Oct 03, 12:27 AM ET | The Ghee-talians | DROPPED | Hunter Henry | TE | NE |
-| Fri Oct 02, 03:31 PM ET | Brock Hard for TDs | FA ADDED | Tyler Higbee | TE | LAR |
