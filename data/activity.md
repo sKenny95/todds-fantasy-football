@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 14 2026, 06:05 AM ET · NFL week 6 · The Re-Todds
+Updated: Wed Oct 14 2026, 11:05 AM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -116,6 +116,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 14, 09:02 AM ET | Justin Her Tight End | DROPPED | Giants D/ST | D/ST | NYG |
+| Wed Oct 14, 09:02 AM ET | Justin Her Tight End | FA ADDED | Colts D/ST | D/ST | IND |
+| Wed Oct 14, 08:59 AM ET | the blind side | DROPPED | Roman Wilson | WR | PIT |
+| Wed Oct 14, 08:59 AM ET | the blind side | FA ADDED | Jakobi Meyers | WR | JAX |
 | Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
 | Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Kyler Murray | QB | MIN |
 | Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Keaton Mitchell | RB | LAC |
@@ -196,5 +200,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Mon Oct 05, 12:28 PM ET | GioDoesCokeOnKamara | FA ADDED | Joe Mixon | RB | None |
 | Sun Oct 04, 11:54 AM ET | Frizztards | FA ADDED | Najee Harris | RB | NYG |
 | Sun Oct 04, 11:54 AM ET | Frizztards | DROPPED | Chris Brooks | RB | GB |
-| Sun Oct 04, 11:52 AM ET | Frizztards | DROPPED | Malachi Fields | WR | NYG |
-| Sun Oct 04, 09:57 AM ET | Justin Her Tight End | FA ADDED | George Holani | RB | SEA |
