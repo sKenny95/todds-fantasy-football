@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Oct 15 2026, 03:04 PM ET · NFL week 6 · The Re-Todds
+Updated: Thu Oct 15 2026, 06:12 PM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -17,7 +17,7 @@ Updated: Thu Oct 15 2026, 03:04 PM ET · NFL week 6 · The Re-Todds
 | 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 48.4 | 6 | 2 | 3 | 16 |
 | 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 39.9 | 7 | 14 | 2 | 61 |
 | 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 27.7 | 9 | 13 | 2 | 19 |
-| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 16.7 | 10 | 11 | 2 | 47 |
+| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 16.7 | 10 | 11 | 2 | 48 |
 | 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 17.4 | 11 | 5 | 0 | 44 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 3.1 | 12 | 11 | 1 | 30 |
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Baba Yaga Swede | 0.0 | 129.36 | vs | Frizztards | 0.0 | 123.43 |
-| The Ghee-talians | 0.0 | 130.79 | vs | the blind side | 0.0 | 108.51 |
-| Big Papa | 0.0 | 127.25 | vs | GioDoesCokeOnKamara | 0.0 | 116.16 |
-| The Slim Reapers | 0.0 | 115.66 | vs | Brock Hard for TDs | 0.0 | 125.23 |
-| Thr Short Bus | 0.0 | 124.37 | vs | Cook'n brown rice | 0.0 | 113.44 |
-| Christian McCracker | 0.0 | 114.74 | vs | Justin Her Tight End | 0.0 | 114.93 |
+| Baba Yaga Swede | 0.0 | 128.33 | vs | Frizztards | 0.0 | 124.32 |
+| The Ghee-talians | 0.0 | 131.31 | vs | the blind side | 0.0 | 108.87 |
+| Big Papa | 0.0 | 128.34 | vs | GioDoesCokeOnKamara | 0.0 | 117.99 |
+| The Slim Reapers | 0.0 | 112.06 | vs | Brock Hard for TDs | 0.0 | 125.16 |
+| Thr Short Bus | 0.0 | 124.56 | vs | Cook'n brown rice | 0.0 | 99.14 |
+| Christian McCracker | 0.0 | 114.04 | vs | Justin Her Tight End | 0.0 | 100.49 |
 
 ## My schedule
 
