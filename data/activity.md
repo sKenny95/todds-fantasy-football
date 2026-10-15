@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Oct 15 2026, 10:55 AM ET · NFL week 6 · The Re-Todds
+Updated: Thu Oct 15 2026, 03:04 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Thu Oct 15, 11:57 AM ET | Big Papa | Big Papa gives Jaylen Waddle, D'Andre Swift; the blind side gives Tetairoa McMillan, Jeremiyah Love | CANCELED |
 | Wed Oct 14, 01:57 PM ET | Big Papa | Big Papa gives Jacoby Brissett, Dallas Goedert; Baba Yaga Swede gives Jayden Daniels | CANCELED |
 | Wed Oct 14, 12:59 PM ET | Big Papa | Frizztards gives Drake London, Josh Jacobs; Big Papa gives D'Andre Swift, Jaylen Waddle | CANCELED |
 | Tue Oct 13, 11:49 PM ET | Big Papa | Big Papa gives Jaylen Waddle, D'Andre Swift; GioDoesCokeOnKamara gives Chris Olave, Rhamondre Stevenson | CANCELED |
@@ -117,6 +118,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Oct 15, 12:15 PM ET | Big Papa | DROPPED | Jacoby Brissett | QB | ARI |
+| Thu Oct 15, 12:15 PM ET | Big Papa | FA ADDED | Jameis Winston | QB | NYG |
 | Wed Oct 14, 11:18 PM ET | Brock Hard for TDs | DROPPED | Christian Kirk | WR | SF |
 | Wed Oct 14, 11:18 PM ET | Brock Hard for TDs | FA ADDED | Kendrick Bourne | WR | ARI |
 | Wed Oct 14, 11:09 PM ET | Justin Her Tight End | FA ADDED | Wan'Dale Robinson | WR | TEN |
@@ -201,5 +204,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 04:55 AM ET | Big Papa | DROPPED | Quentin Johnston | WR | LAC |
 | Wed Oct 07, 04:54 AM ET | Big Papa | FA ADDED | Jacoby Brissett | QB | ARI |
 | Wed Oct 07, 04:54 AM ET | Big Papa | DROPPED | Kyler Murray | QB | MIN |
-| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | WAIVER ADDED | Cowboys D/ST | D/ST | DAL |
-| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | DROPPED | Cardinals D/ST | D/ST | ARI |
