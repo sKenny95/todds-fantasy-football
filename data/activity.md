@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 14 2026, 07:09 PM ET · NFL week 6 · The Re-Todds
+Updated: Thu Oct 15 2026, 12:27 AM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -117,6 +117,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 14, 11:18 PM ET | Brock Hard for TDs | DROPPED | Christian Kirk | WR | SF |
+| Wed Oct 14, 11:18 PM ET | Brock Hard for TDs | FA ADDED | Kendrick Bourne | WR | ARI |
+| Wed Oct 14, 11:09 PM ET | Justin Her Tight End | FA ADDED | Wan'Dale Robinson | WR | TEN |
+| Wed Oct 14, 11:09 PM ET | Justin Her Tight End | DROPPED | Darius Cooper | WR | PHI |
 | Wed Oct 14, 05:42 PM ET | GioDoesCokeOnKamara | DROPPED | Harrison Mevis | K | None |
 | Wed Oct 14, 05:42 PM ET | GioDoesCokeOnKamara | FA ADDED | Blake Grupe | K | LAR |
 | Wed Oct 14, 03:21 PM ET | the blind side | TRADE_SENT | David Montgomery | RB | HOU |
@@ -199,7 +203,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 04:54 AM ET | Big Papa | DROPPED | Kyler Murray | QB | MIN |
 | Wed Oct 07, 03:26 AM ET | Justin Her Tight End | WAIVER ADDED | Cowboys D/ST | D/ST | DAL |
 | Wed Oct 07, 03:26 AM ET | Justin Her Tight End | DROPPED | Cardinals D/ST | D/ST | ARI |
-| Wed Oct 07, 03:26 AM ET | Thr Short Bus | DROPPED | Keenan Allen | WR | IND |
-| Wed Oct 07, 03:26 AM ET | Thr Short Bus | WAIVER ADDED | Keon Coleman | WR | BUF |
-| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | WAIVER ADDED | Will Shipley | RB | PHI |
-| Wed Oct 07, 03:26 AM ET | Justin Her Tight End | DROPPED | J.K. Dobbins | RB | DEN |
