@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Fri Oct 16 2026, 04:59 PM ET · NFL week 6 · The Re-Todds
+Updated: Fri Oct 16 2026, 07:31 PM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -18,7 +18,7 @@ Updated: Fri Oct 16 2026, 04:59 PM ET · NFL week 6 · The Re-Todds
 | 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 40.5 | 8 | 15 | 2 | 63 |
 | 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 26.4 | 9 | 13 | 2 | 20 |
 | 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 18.3 | 10 | 11 | 2 | 54 |
-| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 17.4 | 11 | 5 | 0 | 44 |
+| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 17.4 | 11 | 5 | 0 | 45 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 2.6 | 12 | 11 | 1 | 30 |
 
 ## Week 6 matchups
@@ -32,7 +32,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Big Papa | 0.0 | 128.35 | vs | GioDoesCokeOnKamara | 0.0 | 114.41 |
 | The Slim Reapers | 24.6 | 120.76 | vs | Brock Hard for TDs | 0.0 | 122.95 |
 | Thr Short Bus | 0.0 | 123.88 | vs | Cook'n brown rice | 11.6 | 103.84 |
-| Christian McCracker | 5.2 | 102.0 | vs | Justin Her Tight End | 0.0 | 110.42 |
+| Christian McCracker | 5.2 | 103.14 | vs | Justin Her Tight End | 0.0 | 110.42 |
 
 ## My schedule
 
