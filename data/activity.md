@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Oct 16 2026, 08:20 AM ET · NFL week 6 · The Re-Todds
+Updated: Fri Oct 16 2026, 01:21 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -120,6 +120,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Oct 16, 10:48 AM ET | Big Papa | FA ADDED | Cyrus Allen | WR | KC |
+| Fri Oct 16, 10:48 AM ET | Big Papa | DROPPED | Adonai Mitchell | WR | NYJ |
 | Fri Oct 16, 03:39 AM ET | Justin Her Tight End | WAIVER ADDED | Giants D/ST | D/ST | NYG |
 | Fri Oct 16, 03:39 AM ET | Justin Her Tight End | DROPPED | Cowboys D/ST | D/ST | DAL |
 | Thu Oct 15, 12:15 PM ET | Big Papa | DROPPED | Jacoby Brissett | QB | ARI |
@@ -204,5 +206,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 10:08 AM ET | The Slim Reapers | FA ADDED | Dominic Zvada | K | NYG |
 | Wed Oct 07, 04:56 AM ET | Big Papa | FA ADDED | Browns D/ST | D/ST | CLE |
 | Wed Oct 07, 04:56 AM ET | Big Papa | DROPPED | Panthers D/ST | D/ST | CAR |
-| Wed Oct 07, 04:55 AM ET | Big Papa | FA ADDED | Dohnte Meyers | WR | CIN |
-| Wed Oct 07, 04:55 AM ET | Big Papa | DROPPED | Quentin Johnston | WR | LAC |
