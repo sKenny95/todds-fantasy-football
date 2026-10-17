@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Oct 17 2026, 09:40 AM ET · NFL week 6 · The Re-Todds
+Updated: Sat Oct 17 2026, 01:04 PM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -9,7 +9,7 @@ Updated: Sat Oct 17 2026, 09:40 AM ET · NFL week 6 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 5-0-0 | 682.9 | 565.8 | W5 | 1 | 94.9 | 1 | 13 | 1 | 35 |
-| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 11 | 81.6 | 3 | 9 | 3 | 49 |
+| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 11 | 81.6 | 3 | 9 | 3 | 50 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 4-1-0 | 715.8 | 413.3 | W3 | 4 | 86.6 | 2 | 7 | 0 | 18 |
 | 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 10 | 85.5 | 4 | 10 | 2 | 46 |
 | 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 58.7 | 5 | 4 | 0 | 15 |
@@ -28,7 +28,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Baba Yaga Swede | 25.4 | 133.55 | vs | Frizztards | 0.0 | 124.26 |
-| The Ghee-talians | 6.0 | 131.21 | vs | the blind side | 0.0 | 109.74 |
+| The Ghee-talians | 6.0 | 131.21 | vs | the blind side | 0.0 | 112.05 |
 | Big Papa | 0.0 | 128.39 | vs | GioDoesCokeOnKamara | 0.0 | 114.41 |
 | The Slim Reapers | 24.6 | 120.75 | vs | Brock Hard for TDs | 0.0 | 122.97 |
 | Thr Short Bus | 0.0 | 123.87 | vs | Cook'n brown rice | 11.6 | 103.84 |
