@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 18 2026, 12:36 PM ET · NFL week 6 · The Re-Todds
+Updated: Sun Oct 18 2026, 02:02 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -123,6 +123,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Oct 18, 12:43 PM ET | The Slim Reapers | DROPPED | Deshaun Watson | QB | CLE |
+| Sun Oct 18, 12:43 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
 | Sun Oct 18, 12:20 PM ET | GioDoesCokeOnKamara | DROPPED | KC Concepcion | WR | CLE |
 | Fri Oct 16, 10:48 AM ET | Big Papa | FA ADDED | Cyrus Allen | WR | KC |
 | Fri Oct 16, 10:48 AM ET | Big Papa | DROPPED | Adonai Mitchell | WR | NYJ |
@@ -206,5 +208,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_RECEIVED | Woody Marks | RB | HOU |
 | Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_SENT | Braelon Allen | RB | NYJ |
 | Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_RECEIVED | Braelon Allen | RB | NYJ |
-| Wed Oct 07, 10:08 AM ET | The Slim Reapers | DROPPED | Daniel Carlson | K | NO |
-| Wed Oct 07, 10:08 AM ET | The Slim Reapers | FA ADDED | Dominic Zvada | K | NYG |

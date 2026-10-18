@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 18 2026, 12:36 PM ET · NFL week 6 · The Re-Todds
+Updated: Sun Oct 18 2026, 02:02 PM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -17,7 +17,7 @@ Updated: Sun Oct 18 2026, 12:36 PM ET · NFL week 6 · The Re-Todds
 | 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 48.8 | 6 | 2 | 3 | 18 |
 | 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 38.9 | 8 | 15 | 2 | 63 |
 | 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 25.7 | 9 | 13 | 2 | 20 |
-| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 20.0 | 10 | 11 | 2 | 54 |
+| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 20.0 | 10 | 12 | 2 | 55 |
 | 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 17.1 | 11 | 5 | 0 | 45 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 0.8 | 12 | 11 | 1 | 32 |
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Baba Yaga Swede | 25.4 | 130.22 | vs | Frizztards | 0.0 | 125.85 |
-| The Ghee-talians | 16.4 | 128.06 | vs | the blind side | 18.3 | 106.3 |
-| Big Papa | 0.0 | 128.4 | vs | GioDoesCokeOnKamara | 0.0 | 113.24 |
-| The Slim Reapers | 24.6 | 120.78 | vs | Brock Hard for TDs | 27.34 | 127.95 |
-| Thr Short Bus | 10.9 | 112.08 | vs | Cook'n brown rice | 36.3 | 116.93 |
-| Christian McCracker | 5.2 | 103.24 | vs | Justin Her Tight End | 5.2 | 105.42 |
+| Baba Yaga Swede | 27.9 | 122.87 | vs | Frizztards | 20.3 | 115.4 |
+| The Ghee-talians | 45.66 | 124.58 | vs | the blind side | 31.1 | 109.72 |
+| Big Papa | 39.64 | 136.68 | vs | GioDoesCokeOnKamara | 27.4 | 101.06 |
+| The Slim Reapers | 25.6 | 108.1 | vs | Brock Hard for TDs | 43.74 | 119.41 |
+| Thr Short Bus | 47.4 | 115.06 | vs | Cook'n brown rice | 44.06 | 107.38 |
+| Christian McCracker | 36.98 | 106.5 | vs | Justin Her Tight End | 38.6 | 110.67 |
 
 ## My schedule
 
