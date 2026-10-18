@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 18 2026, 02:02 PM ET · NFL week 6 · The Re-Todds
+Updated: Sun Oct 18 2026, 02:54 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Sun Oct 18, 02:48 PM ET | Big Papa | Big Papa gives Jaylen Waddle, D'Andre Swift, Jameis Winston, Dallas Goedert; Baba Yaga Swede gives Patrick Mahomes, MarShawn Lloyd, Tee Higgins | CANCELED |
 | Fri Oct 16, 09:58 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Jameis Winston, Dallas Goedert, D'Andre Swift; Baba Yaga Swede gives Patrick Mahomes, Ashton Jeanty | CANCELED |
 | Fri Oct 16, 03:58 PM ET | Big Papa | Big Papa gives Germie Bernard, D'Andre Swift; Frizztards gives Josh Jacobs, Drake London | CANCELED |
 | Fri Oct 16, 02:12 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Jameis Winston, D'Andre Swift; the blind side gives Tetairoa McMillan, Jeremiyah Love, Jordan Love | CANCELED |
