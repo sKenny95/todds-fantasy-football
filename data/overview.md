@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 18 2026, 01:48 AM ET · NFL week 6 · The Re-Todds
+Updated: Sun Oct 18 2026, 06:55 AM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -8,18 +8,18 @@ Updated: Sun Oct 18 2026, 01:48 AM ET · NFL week 6 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 5-0-0 | 682.9 | 565.8 | W5 | 1 | 94.9 | 1 | 13 | 1 | 35 |
-| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 11 | 81.6 | 3 | 9 | 3 | 50 |
-| 3 | Brock Hard for TDs **(me)** | Sina | West | 4-1-0 | 715.8 | 413.3 | W3 | 4 | 86.6 | 2 | 7 | 0 | 18 |
-| 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 10 | 85.5 | 4 | 10 | 2 | 46 |
-| 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 58.7 | 5 | 4 | 0 | 15 |
-| 6 | Thr Short Bus | Dunbarr | East | 2-3-0 | 592.1 | 627.1 | L1 | 6 | 42.4 | 7 | 3 | 2 | 23 |
-| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 47.6 | 6 | 2 | 3 | 16 |
-| 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 40.1 | 8 | 15 | 2 | 63 |
-| 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 25.8 | 9 | 13 | 2 | 20 |
-| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 16.6 | 11 | 11 | 2 | 54 |
-| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 17.9 | 10 | 5 | 0 | 45 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 2.4 | 12 | 11 | 1 | 30 |
+| 1 | Big Papa | Alex | East | 5-0-0 | 682.9 | 565.8 | W5 | 1 | 95.0 | 1 | 13 | 1 | 35 |
+| 2 | the blind side | Nick | West | 4-1-0 | 555.3 | 512.5 | L1 | 11 | 81.5 | 3 | 9 | 3 | 50 |
+| 3 | Brock Hard for TDs **(me)** | Sina | West | 4-1-0 | 715.8 | 413.3 | W3 | 4 | 85.5 | 2 | 7 | 0 | 18 |
+| 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 10 | 85.8 | 4 | 10 | 2 | 46 |
+| 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 57.5 | 5 | 4 | 0 | 15 |
+| 6 | Thr Short Bus | Dunbarr | East | 2-3-0 | 592.1 | 627.1 | L1 | 6 | 43.6 | 7 | 3 | 2 | 23 |
+| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 48.8 | 6 | 2 | 3 | 16 |
+| 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 38.9 | 8 | 15 | 2 | 63 |
+| 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 25.7 | 9 | 13 | 2 | 20 |
+| 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 20.0 | 10 | 11 | 2 | 54 |
+| 11 | Christian McCracker | devin | East | 1-4-0 | 525.5 | 573.0 | L3 | 5 | 17.1 | 11 | 5 | 0 | 45 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 0-5-0 | 437.6 | 619.4 | L5 | 2 | 0.8 | 12 | 11 | 1 | 30 |
 
 ## Week 6 matchups
 
