@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 18 2026, 06:55 AM ET · NFL week 6 · The Re-Todds
+Updated: Sun Oct 18 2026, 10:31 AM ET · NFL week 6 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-1-0, seed 3, waiver rank 4.
 
@@ -14,7 +14,7 @@ Updated: Sun Oct 18 2026, 06:55 AM ET · NFL week 6 · The Re-Todds
 | 4 | The Ghee-talians | Christian | East | 4-1-0 | 673.3 | 633.2 | W1 | 10 | 85.8 | 4 | 10 | 2 | 46 |
 | 5 | Frizztards | Spencer | West | 3-2-0 | 584.9 | 528.8 | W2 | 3 | 57.5 | 5 | 4 | 0 | 15 |
 | 6 | Thr Short Bus | Dunbarr | East | 2-3-0 | 592.1 | 627.1 | L1 | 6 | 43.6 | 7 | 3 | 2 | 23 |
-| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 48.8 | 6 | 2 | 3 | 16 |
+| 7 | Baba Yaga Swede | Victor | East | 2-3-0 | 630.2 | 624.5 | W1 | 9 | 48.8 | 6 | 2 | 3 | 17 |
 | 8 | Justin Her Tight End | Toby | West | 2-3-0 | 524.2 | 627.7 | L3 | 12 | 38.9 | 8 | 15 | 2 | 63 |
 | 9 | Cook'n brown rice | Aziz | West | 2-3-0 | 470.5 | 586.5 | W1 | 8 | 25.7 | 9 | 13 | 2 | 20 |
 | 10 | The Slim Reapers | Yovani | East | 1-4-0 | 570.4 | 650.7 | L1 | 7 | 20.0 | 10 | 11 | 2 | 54 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Baba Yaga Swede | 25.4 | 133.63 | vs | Frizztards | 0.0 | 124.25 |
-| The Ghee-talians | 6.0 | 131.21 | vs | the blind side | 0.0 | 112.03 |
-| Big Papa | 0.0 | 128.39 | vs | GioDoesCokeOnKamara | 0.0 | 114.43 |
-| The Slim Reapers | 24.6 | 120.72 | vs | Brock Hard for TDs | 0.0 | 122.97 |
-| Thr Short Bus | 0.0 | 123.87 | vs | Cook'n brown rice | 11.6 | 103.84 |
-| Christian McCracker | 5.2 | 103.15 | vs | Justin Her Tight End | 0.0 | 110.41 |
+| Baba Yaga Swede | 25.4 | 132.69 | vs | Frizztards | 0.0 | 124.25 |
+| The Ghee-talians | 14.4 | 134.08 | vs | the blind side | 12.9 | 109.37 |
+| Big Papa | 0.0 | 128.4 | vs | GioDoesCokeOnKamara | 0.0 | 114.43 |
+| The Slim Reapers | 24.6 | 120.72 | vs | Brock Hard for TDs | 11.16 | 120.46 |
+| Thr Short Bus | 5.2 | 119.47 | vs | Cook'n brown rice | 13.7 | 101.08 |
+| Christian McCracker | 5.2 | 103.15 | vs | Justin Her Tight End | 2.0 | 108.45 |
 
 ## My schedule
 
