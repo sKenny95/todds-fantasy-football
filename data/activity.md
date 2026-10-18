@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 18 2026, 10:31 AM ET · NFL week 6 · The Re-Todds
+Updated: Sun Oct 18 2026, 12:36 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -123,6 +123,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Oct 18, 12:20 PM ET | GioDoesCokeOnKamara | DROPPED | KC Concepcion | WR | CLE |
 | Fri Oct 16, 10:48 AM ET | Big Papa | FA ADDED | Cyrus Allen | WR | KC |
 | Fri Oct 16, 10:48 AM ET | Big Papa | DROPPED | Adonai Mitchell | WR | NYJ |
 | Fri Oct 16, 03:39 AM ET | Justin Her Tight End | WAIVER ADDED | Giants D/ST | D/ST | NYG |
@@ -207,5 +208,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_RECEIVED | Braelon Allen | RB | NYJ |
 | Wed Oct 07, 10:08 AM ET | The Slim Reapers | DROPPED | Daniel Carlson | K | NO |
 | Wed Oct 07, 10:08 AM ET | The Slim Reapers | FA ADDED | Dominic Zvada | K | NYG |
-| Wed Oct 07, 04:56 AM ET | Big Papa | FA ADDED | Browns D/ST | D/ST | CLE |
-| Wed Oct 07, 04:56 AM ET | Big Papa | DROPPED | Panthers D/ST | D/ST | CAR |
