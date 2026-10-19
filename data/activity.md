@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Mon Oct 19 2026, 11:32 AM ET · NFL week 6 · The Re-Todds
+Updated: Mon Oct 19 2026, 05:00 PM ET · NFL week 6 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Mon Oct 19, 12:24 PM ET | The Slim Reapers | The Slim Reapers gives Omarion Hampton, Aaron Jones Sr.; Christian McCracker gives Breece Hall | CANCELED |
 | Sun Oct 18, 02:48 PM ET | Big Papa | Big Papa gives Jaylen Waddle, D'Andre Swift, Jameis Winston, Dallas Goedert; Baba Yaga Swede gives Patrick Mahomes, MarShawn Lloyd, Tee Higgins | CANCELED |
 | Fri Oct 16, 09:58 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Jameis Winston, Dallas Goedert, D'Andre Swift; Baba Yaga Swede gives Patrick Mahomes, Ashton Jeanty | CANCELED |
 | Fri Oct 16, 03:58 PM ET | Big Papa | Big Papa gives Germie Bernard, D'Andre Swift; Frizztards gives Josh Jacobs, Drake London | CANCELED |
