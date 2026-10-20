@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 20 2026, 12:53 PM ET · NFL week 7 · The Re-Todds
+Updated: Tue Oct 20 2026, 04:30 PM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -82,6 +82,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Tue Oct 20, 02:56 PM ET | Justin Her Tight End |
 | Thu Oct 15, 03:23 PM ET | Big Papa |
 | Tue Oct 13, 04:16 PM ET | Big Papa |
 | Tue Oct 13, 04:09 PM ET | the blind side |
@@ -110,6 +111,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Oct 20, 01:25 PM ET | GioDoesCokeOnKamara | Panthers D/ST | Commanders D/ST |
 | Tue Oct 13, 04:48 PM ET | Justin Her Tight End | Colts D/ST | Cowboys D/ST |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Emanuel Wilson | Austin Ekeler |
 | Wed Sep 30, 12:18 AM ET | The Ghee-talians | Ollie Gordon II | De'Von Achane |
@@ -125,6 +127,9 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 20, 01:36 PM ET | Frizztards | DROPPED | Najee Harris | RB | None |
+| Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Blake Grupe | K | LAR |
+| Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Jalen Hurts | QB | PHI |
 | Tue Oct 20, 08:29 AM ET | Christian McCracker | DROPPED | Kaelon Black | RB | SF |
 | Sun Oct 18, 12:43 PM ET | The Slim Reapers | DROPPED | Deshaun Watson | QB | CLE |
 | Sun Oct 18, 12:43 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
@@ -201,9 +206,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Oct 08, 03:37 AM ET | The Slim Reapers | DROPPED | Woody Marks | RB | HOU |
 | Wed Oct 07, 09:14 PM ET | The Ghee-talians | DROPPED | Chig Okonkwo | TE | WSH |
 | Wed Oct 07, 09:14 PM ET | The Ghee-talians | FA ADDED | Brenton Strange | TE | JAX |
-| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | FA ADDED | Commanders D/ST | D/ST | WSH |
-| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | DROPPED | Falcons D/ST | D/ST | ATL |
-| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | DROPPED | Joe Mixon | RB | None |
-| Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | FA ADDED | Kendre Miller | RB | NO |
-| Wed Oct 07, 02:12 PM ET | the blind side | DROPPED | Kalif Raymond | WR | CHI |
-| Wed Oct 07, 02:12 PM ET | the blind side | FA ADDED | Roman Wilson | WR | PIT |
