@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 20 2026, 07:26 AM ET · NFL week 7 · The Re-Todds
+Updated: Tue Oct 20 2026, 12:53 PM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -125,6 +125,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 20, 08:29 AM ET | Christian McCracker | DROPPED | Kaelon Black | RB | SF |
 | Sun Oct 18, 12:43 PM ET | The Slim Reapers | DROPPED | Deshaun Watson | QB | CLE |
 | Sun Oct 18, 12:43 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
 | Sun Oct 18, 12:20 PM ET | GioDoesCokeOnKamara | DROPPED | KC Concepcion | WR | CLE |
@@ -206,7 +207,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 07, 08:02 PM ET | GioDoesCokeOnKamara | FA ADDED | Kendre Miller | RB | NO |
 | Wed Oct 07, 02:12 PM ET | the blind side | DROPPED | Kalif Raymond | WR | CHI |
 | Wed Oct 07, 02:12 PM ET | the blind side | FA ADDED | Roman Wilson | WR | PIT |
-| Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_SENT | Woody Marks | RB | HOU |
-| Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_RECEIVED | Woody Marks | RB | HOU |
-| Wed Oct 07, 12:45 PM ET | The Slim Reapers | TRADE_SENT | Braelon Allen | RB | NYJ |
-| Wed Oct 07, 12:45 PM ET | Thr Short Bus | TRADE_RECEIVED | Braelon Allen | RB | NYJ |
