@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 21 2026, 11:09 AM ET · NFL week 7 · The Re-Todds
+Updated: Wed Oct 21 2026, 04:05 PM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -128,6 +128,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 21, 02:57 PM ET | GioDoesCokeOnKamara | FA ADDED | J.J. McCarthy | QB | NYG |
 | Wed Oct 21, 10:41 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
 | Wed Oct 21, 10:41 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
 | Wed Oct 21, 10:30 AM ET | Big Papa | FA ADDED | Bo Nix | QB | DEN |
@@ -202,4 +203,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_SENT | Cam Skattebo | RB | NYG |
 | Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Cam Skattebo | RB | NYG |
 | Tue Oct 13, 03:10 PM ET | Thr Short Bus | FA ADDED | Brock Purdy | QB | SF |
-| Tue Oct 13, 03:10 PM ET | Baba Yaga Swede | DROPPED | Brock Purdy | QB | SF |
