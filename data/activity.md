@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 21 2026, 12:34 AM ET · NFL week 7 · The Re-Todds
+Updated: Wed Oct 21 2026, 06:03 AM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -128,6 +128,16 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 21, 03:54 AM ET | Christian McCracker | DROPPED | Jake Elliott | K | PHI |
+| Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | Chad Ryland | K | ARI |
+| Wed Oct 21, 03:54 AM ET | Cook'n brown rice | WAIVER ADDED | Michael Mayer | TE | LV |
+| Wed Oct 21, 03:54 AM ET | Cook'n brown rice | DROPPED | AJ Barner | TE | SEA |
+| Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | Hunter Henry | TE | NE |
+| Wed Oct 21, 03:54 AM ET | Christian McCracker | DROPPED | Darren Waller | TE | CAR |
+| Wed Oct 21, 03:54 AM ET | the blind side | WAIVER ADDED | Titans D/ST | D/ST | TEN |
+| Wed Oct 21, 03:54 AM ET | the blind side | DROPPED | Eagles D/ST | D/ST | PHI |
+| Wed Oct 21, 03:54 AM ET | Cook'n brown rice | WAIVER ADDED | Ryan Flournoy | WR | DAL |
+| Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | DeMario Douglas | WR | NE |
 | Tue Oct 20, 08:52 PM ET | Cook'n brown rice | DROPPED | Brian Robinson Jr. | RB | ATL |
 | Tue Oct 20, 01:36 PM ET | Frizztards | DROPPED | Najee Harris | RB | None |
 | Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Blake Grupe | K | LAR |
@@ -196,13 +206,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Oct 08, 09:18 PM ET | Justin Her Tight End | TRADE_RECEIVED | Devaughn Vele | WR | NO |
 | Thu Oct 08, 02:44 PM ET | Justin Her Tight End | DROPPED | Jakobi Meyers | WR | JAX |
 | Thu Oct 08, 02:44 PM ET | Justin Her Tight End | FA ADDED | Darius Cooper | WR | PHI |
-| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | FA ADDED | Keenan Allen | WR | IND |
-| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | DROPPED | Chris Godwin Jr. | WR | TB |
-| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | FA ADDED | Christian Kirk | WR | SF |
-| Thu Oct 08, 02:19 PM ET | Brock Hard for TDs | DROPPED | Tyler Higbee | TE | LAR |
-| Thu Oct 08, 11:34 AM ET | Justin Her Tight End | DROPPED | George Holani | RB | SEA |
-| Thu Oct 08, 11:34 AM ET | Justin Her Tight End | FA ADDED | Austin Ekeler | RB | WSH |
-| Thu Oct 08, 11:30 AM ET | the blind side | DROPPED | Kyle Pitts Sr. | TE | ATL |
-| Thu Oct 08, 11:30 AM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
-| Thu Oct 08, 03:37 AM ET | The Slim Reapers | WAIVER ADDED | J.K. Dobbins | RB | DEN |
-| Thu Oct 08, 03:37 AM ET | The Slim Reapers | DROPPED | Woody Marks | RB | HOU |
