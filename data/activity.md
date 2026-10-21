@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 20 2026, 07:48 PM ET · NFL week 7 · The Re-Todds
+Updated: Wed Oct 21 2026, 12:34 AM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Tue Oct 20, 08:56 PM ET | Cook'n brown rice | Cook'n brown rice gives Jets D/ST; Frizztards gives Bears D/ST | CANCELED |
 | Mon Oct 19, 12:24 PM ET | The Slim Reapers | The Slim Reapers gives Omarion Hampton, Aaron Jones Sr.; Christian McCracker gives Breece Hall | CANCELED |
 | Sun Oct 18, 02:48 PM ET | Big Papa | Big Papa gives Jaylen Waddle, D'Andre Swift, Jameis Winston, Dallas Goedert; Baba Yaga Swede gives Patrick Mahomes, MarShawn Lloyd, Tee Higgins | CANCELED |
 | Fri Oct 16, 09:58 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Jameis Winston, Dallas Goedert, D'Andre Swift; Baba Yaga Swede gives Patrick Mahomes, Ashton Jeanty | CANCELED |
@@ -127,6 +128,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 20, 08:52 PM ET | Cook'n brown rice | DROPPED | Brian Robinson Jr. | RB | ATL |
 | Tue Oct 20, 01:36 PM ET | Frizztards | DROPPED | Najee Harris | RB | None |
 | Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Blake Grupe | K | LAR |
 | Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Jalen Hurts | QB | PHI |
@@ -204,5 +206,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Oct 08, 11:30 AM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
 | Thu Oct 08, 03:37 AM ET | The Slim Reapers | WAIVER ADDED | J.K. Dobbins | RB | DEN |
 | Thu Oct 08, 03:37 AM ET | The Slim Reapers | DROPPED | Woody Marks | RB | HOU |
-| Wed Oct 07, 09:14 PM ET | The Ghee-talians | DROPPED | Chig Okonkwo | TE | WSH |
-| Wed Oct 07, 09:14 PM ET | The Ghee-talians | FA ADDED | Brenton Strange | TE | JAX |

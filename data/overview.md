@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Tue Oct 20 2026, 07:48 PM ET · NFL week 7 · The Re-Todds
+Updated: Wed Oct 21 2026, 12:34 AM ET · NFL week 7 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-2-0, seed 4, waiver rank 4.
 
@@ -16,7 +16,7 @@ Updated: Tue Oct 20 2026, 07:48 PM ET · NFL week 7 · The Re-Todds
 | 6 | Frizztards | Spencer | West | 3-3-0 | 684.6 | 634.7 | L1 | 3 | 49.6 | 6 | 4 | 0 | 15 |
 | 7 | Cook'n brown rice | Aziz | West | 3-3-0 | 565.5 | 666.7 | W2 | 8 | 33.2 | 7 | 13 | 2 | 24 |
 | 8 | The Slim Reapers | Yovani | East | 2-4-0 | 687.2 | 749.2 | W1 | 7 | 26.9 | 11 | 12 | 2 | 72 |
-| 9 | Thr Short Bus | Dunbarr | East | 2-4-0 | 672.3 | 722.1 | L2 | 6 | 29.2 | 10 | 3 | 2 | 24 |
+| 9 | Thr Short Bus | Dunbarr | East | 2-4-0 | 672.3 | 722.1 | L2 | 6 | 29.2 | 10 | 3 | 2 | 27 |
 | 10 | Christian McCracker | devin | East | 2-4-0 | 645.0 | 650.6 | W1 | 5 | 29.3 | 8 | 5 | 0 | 47 |
 | 11 | Justin Her Tight End | Toby | West | 2-4-0 | 601.8 | 747.2 | L4 | 12 | 26.7 | 9 | 15 | 2 | 68 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 0-6-0 | 532.7 | 767.9 | L6 | 2 | 0.2 | 12 | 11 | 1 | 33 |
@@ -30,7 +30,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Frizztards | 0.0 | 128.5 | vs | The Ghee-talians | 0.0 | 112.39 |
 | the blind side | 0.0 | 124.33 | vs | Big Papa | 0.0 | 135.38 |
 | GioDoesCokeOnKamara | 0.0 | 109.35 | vs | The Slim Reapers | 0.0 | 125.41 |
-| Brock Hard for TDs | 0.0 | 134.48 | vs | Thr Short Bus | 0.0 | 104.94 |
+| Brock Hard for TDs | 0.0 | 134.48 | vs | Thr Short Bus | 0.0 | 114.52 |
 | Cook'n brown rice | 0.0 | 104.78 | vs | Christian McCracker | 0.0 | 119.92 |
 | Justin Her Tight End | 0.0 | 112.66 | vs | Baba Yaga Swede | 0.0 | 70.41 |
 
