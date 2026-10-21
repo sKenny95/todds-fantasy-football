@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 21 2026, 06:03 AM ET · NFL week 7 · The Re-Todds
+Updated: Wed Oct 21 2026, 11:09 AM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -128,6 +128,22 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 21, 10:41 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
+| Wed Oct 21, 10:41 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
+| Wed Oct 21, 10:30 AM ET | Big Papa | FA ADDED | Bo Nix | QB | DEN |
+| Wed Oct 21, 10:30 AM ET | Big Papa | DROPPED | Jameis Winston | QB | NYG |
+| Wed Oct 21, 10:29 AM ET | Big Papa | DROPPED | Cyrus Allen | WR | KC |
+| Wed Oct 21, 10:29 AM ET | Big Papa | FA ADDED | Christian Kirk | WR | SF |
+| Wed Oct 21, 10:18 AM ET | the blind side | FA ADDED | KC Concepcion | WR | CLE |
+| Wed Oct 21, 10:17 AM ET | the blind side | DROPPED | Terry McLaurin | WR | WSH |
+| Wed Oct 21, 10:15 AM ET | GioDoesCokeOnKamara | FA ADDED | Cowboys D/ST | D/ST | DAL |
+| Wed Oct 21, 10:15 AM ET | GioDoesCokeOnKamara | DROPPED | Commanders D/ST | D/ST | WSH |
+| Wed Oct 21, 09:31 AM ET | Justin Her Tight End | FA ADDED | Jaylin Noel | WR | HOU |
+| Wed Oct 21, 09:31 AM ET | Justin Her Tight End | DROPPED | Wan'Dale Robinson | WR | TEN |
+| Wed Oct 21, 09:30 AM ET | Justin Her Tight End | DROPPED | Colts D/ST | D/ST | IND |
+| Wed Oct 21, 09:30 AM ET | Justin Her Tight End | FA ADDED | Panthers D/ST | D/ST | CAR |
+| Wed Oct 21, 08:16 AM ET | Cook'n brown rice | DROPPED | Ryan Flournoy | WR | DAL |
+| Wed Oct 21, 08:16 AM ET | Cook'n brown rice | FA ADDED | Omar Cooper Jr. | WR | NYJ |
 | Wed Oct 21, 03:54 AM ET | Christian McCracker | DROPPED | Jake Elliott | K | PHI |
 | Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | Chad Ryland | K | ARI |
 | Wed Oct 21, 03:54 AM ET | Cook'n brown rice | WAIVER ADDED | Michael Mayer | TE | LV |
@@ -187,22 +203,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Cam Skattebo | RB | NYG |
 | Tue Oct 13, 03:10 PM ET | Thr Short Bus | FA ADDED | Brock Purdy | QB | SF |
 | Tue Oct 13, 03:10 PM ET | Baba Yaga Swede | DROPPED | Brock Purdy | QB | SF |
-| Tue Oct 13, 03:01 PM ET | Thr Short Bus | DROPPED | Justin Herbert | QB | LAC |
-| Sun Oct 11, 01:34 PM ET | Big Papa | FA ADDED | Keaton Mitchell | RB | LAC |
-| Sun Oct 11, 01:34 PM ET | Big Papa | DROPPED | Emmett Johnson | RB | KC |
-| Sat Oct 10, 04:47 PM ET | Cook'n brown rice | FA ADDED | Antonio Williams | WR | WSH |
-| Sat Oct 10, 04:47 PM ET | Cook'n brown rice | DROPPED | Jakobi Meyers | WR | JAX |
-| Sat Oct 10, 03:37 AM ET | Cook'n brown rice | WAIVER ADDED | Jakobi Meyers | WR | JAX |
-| Sat Oct 10, 03:37 AM ET | Cook'n brown rice | DROPPED | Wan'Dale Robinson | WR | TEN |
-| Sat Oct 10, 12:26 AM ET | The Ghee-talians | FA ADDED | Mike Washington Jr. | RB | LV |
-| Sat Oct 10, 12:26 AM ET | The Ghee-talians | DROPPED | Jaylen Wright | RB | MIA |
-| Fri Oct 09, 03:04 AM ET | Justin Her Tight End | DROPPED | Austin Ekeler | RB | WSH |
-| Fri Oct 09, 03:04 AM ET | Justin Her Tight End | WAIVER ADDED | Woody Marks | RB | HOU |
-| Thu Oct 08, 09:29 PM ET | Big Papa | DROPPED | Dohnte Meyers | WR | CIN |
-| Thu Oct 08, 09:29 PM ET | Big Papa | FA ADDED | Germie Bernard | WR | PIT |
-| Thu Oct 08, 09:18 PM ET | Justin Her Tight End | TRADE_SENT | Adonai Mitchell | WR | NYJ |
-| Thu Oct 08, 09:18 PM ET | Big Papa | TRADE_RECEIVED | Adonai Mitchell | WR | NYJ |
-| Thu Oct 08, 09:18 PM ET | Big Papa | TRADE_SENT | Devaughn Vele | WR | NO |
-| Thu Oct 08, 09:18 PM ET | Justin Her Tight End | TRADE_RECEIVED | Devaughn Vele | WR | NO |
-| Thu Oct 08, 02:44 PM ET | Justin Her Tight End | DROPPED | Jakobi Meyers | WR | JAX |
-| Thu Oct 08, 02:44 PM ET | Justin Her Tight End | FA ADDED | Darius Cooper | WR | PHI |
