@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 21 2026, 04:05 PM ET · NFL week 7 · The Re-Todds
+Updated: Wed Oct 21 2026, 07:14 PM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Oct 21, 04:39 PM ET | Big Papa | Big Papa gives Dallas Goedert, Jaylen Waddle, Kyler Murray, D'Andre Swift; Thr Short Bus gives Cam Skattebo, Emeka Egbuka, Brock Purdy | CANCELED |
 | Tue Oct 20, 08:56 PM ET | Cook'n brown rice | Cook'n brown rice gives Jets D/ST; Frizztards gives Bears D/ST | CANCELED |
 | Mon Oct 19, 12:24 PM ET | The Slim Reapers | The Slim Reapers gives Omarion Hampton, Aaron Jones Sr.; Christian McCracker gives Breece Hall | CANCELED |
 | Sun Oct 18, 02:48 PM ET | Big Papa | Big Papa gives Jaylen Waddle, D'Andre Swift, Jameis Winston, Dallas Goedert; Baba Yaga Swede gives Patrick Mahomes, MarShawn Lloyd, Tee Higgins | CANCELED |
