@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Oct 22 2026, 07:16 PM ET · NFL week 7 · The Re-Todds
+Updated: Fri Oct 23 2026, 12:38 AM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -84,6 +84,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Thu Oct 22, 08:02 PM ET | Christian McCracker |
 | Tue Oct 20, 02:56 PM ET | Justin Her Tight End |
 | Thu Oct 15, 03:23 PM ET | Big Papa |
 | Tue Oct 13, 04:16 PM ET | Big Papa |
@@ -129,6 +130,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Oct 22, 08:43 PM ET | the blind side | FA ADDED | Bam Knight | RB | ARI |
+| Thu Oct 22, 08:41 PM ET | the blind side | DROPPED | KC Concepcion | WR | CLE |
 | Thu Oct 22, 10:42 AM ET | The Slim Reapers | FA ADDED | Baker Mayfield | QB | TB |
 | Thu Oct 22, 10:42 AM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
 | Wed Oct 21, 02:57 PM ET | GioDoesCokeOnKamara | FA ADDED | J.J. McCarthy | QB | NYG |
@@ -196,12 +199,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 14, 03:04 AM ET | the blind side | WAIVER ADDED | Kyle Pitts Sr. | TE | ATL |
 | Wed Oct 14, 03:04 AM ET | The Ghee-talians | WAIVER ADDED | Chris Godwin Jr. | WR | TB |
 | Wed Oct 14, 03:04 AM ET | The Ghee-talians | DROPPED | Rashid Shaheed | WR | SEA |
-| Wed Oct 14, 03:04 AM ET | Baba Yaga Swede | WAIVER ADDED | MarShawn Lloyd | RB | GB |
-| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_SENT | Eddy Pineiro | K | SF |
-| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Eddy Pineiro | K | SF |
-| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_SENT | Quinshon Judkins | RB | CLE |
-| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Quinshon Judkins | RB | CLE |
-| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_SENT | Cameron Dicker | K | LAC |
-| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_RECEIVED | Cameron Dicker | K | LAC |
-| Tue Oct 13, 03:12 PM ET | Baba Yaga Swede | TRADE_SENT | Cam Skattebo | RB | NYG |
-| Tue Oct 13, 03:12 PM ET | Thr Short Bus | TRADE_RECEIVED | Cam Skattebo | RB | NYG |

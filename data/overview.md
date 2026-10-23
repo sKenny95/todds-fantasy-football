@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Oct 22 2026, 07:16 PM ET · NFL week 7 · The Re-Todds
+Updated: Fri Oct 23 2026, 12:38 AM ET · NFL week 7 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-2-0, seed 4, waiver rank 4.
 
@@ -9,7 +9,7 @@ Updated: Thu Oct 22 2026, 07:16 PM ET · NFL week 7 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 6-0-0 | 831.4 | 660.8 | W6 | 1 | 97.8 | 1 | 15 | 1 | 38 |
-| 2 | the blind side | Nick | West | 4-2-0 | 657.9 | 676.0 | L2 | 10 | 72.1 | 4 | 11 | 3 | 57 |
+| 2 | the blind side | Nick | West | 4-2-0 | 657.9 | 676.0 | L2 | 10 | 72.1 | 4 | 12 | 3 | 58 |
 | 3 | The Ghee-talians | Christian | East | 5-1-0 | 836.8 | 735.9 | W2 | 8 | 91.3 | 2 | 10 | 2 | 48 |
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 4-2-0 | 814.2 | 530.2 | L1 | 4 | 80.7 | 3 | 7 | 0 | 21 |
 | 5 | Baba Yaga Swede | Victor | East | 3-3-0 | 736.1 | 724.2 | W2 | 7 | 61.1 | 5 | 2 | 3 | 24 |
@@ -27,11 +27,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 0.0 | 135.2 | vs | The Ghee-talians | 0.0 | 112.74 |
-| the blind side | 0.0 | 124.37 | vs | Big Papa | 0.0 | 136.72 |
-| GioDoesCokeOnKamara | 0.0 | 109.95 | vs | The Slim Reapers | 0.0 | 125.43 |
-| Brock Hard for TDs | 0.0 | 133.37 | vs | Thr Short Bus | 0.0 | 113.87 |
-| Cook'n brown rice | 0.0 | 100.75 | vs | Christian McCracker | 0.0 | 121.52 |
+| Frizztards | 0.0 | 135.2 | vs | The Ghee-talians | 23.7 | 123.77 |
+| the blind side | 0.0 | 119.17 | vs | Big Papa | 19.0 | 139.44 |
+| GioDoesCokeOnKamara | 50.2 | 121.12 | vs | The Slim Reapers | 0.0 | 125.43 |
+| Brock Hard for TDs | 10.9 | 134.05 | vs | Thr Short Bus | 0.0 | 113.87 |
+| Cook'n brown rice | 22.12 | 105.27 | vs | Christian McCracker | 31.74 | 118.0 |
 | Justin Her Tight End | 0.0 | 119.79 | vs | Baba Yaga Swede | 0.0 | 119.67 |
 
 ## My schedule
