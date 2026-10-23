@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Oct 23 2026, 12:38 AM ET · NFL week 7 · The Re-Todds
+Updated: Fri Oct 23 2026, 05:58 AM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -130,6 +130,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Oct 23, 12:39 AM ET | The Ghee-talians | DROPPED | Raiders D/ST | D/ST | LV |
+| Fri Oct 23, 12:39 AM ET | The Ghee-talians | FA ADDED | Falcons D/ST | D/ST | ATL |
 | Thu Oct 22, 08:43 PM ET | the blind side | FA ADDED | Bam Knight | RB | ARI |
 | Thu Oct 22, 08:41 PM ET | the blind side | DROPPED | KC Concepcion | WR | CLE |
 | Thu Oct 22, 10:42 AM ET | The Slim Reapers | FA ADDED | Baker Mayfield | QB | TB |
@@ -197,5 +199,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 14, 03:04 AM ET | Justin Her Tight End | WAIVER ADDED | Dameon Pierce | RB | PHI |
 | Wed Oct 14, 03:04 AM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
 | Wed Oct 14, 03:04 AM ET | the blind side | WAIVER ADDED | Kyle Pitts Sr. | TE | ATL |
-| Wed Oct 14, 03:04 AM ET | The Ghee-talians | WAIVER ADDED | Chris Godwin Jr. | WR | TB |
-| Wed Oct 14, 03:04 AM ET | The Ghee-talians | DROPPED | Rashid Shaheed | WR | SEA |
