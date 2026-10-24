@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Oct 24 2026, 08:37 AM ET · NFL week 7 · The Re-Todds
+Updated: Sat Oct 24 2026, 12:32 PM ET · NFL week 7 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-2-0, seed 4, waiver rank 4.
 
@@ -14,7 +14,7 @@ Updated: Sat Oct 24 2026, 08:37 AM ET · NFL week 7 · The Re-Todds
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 4-2-0 | 814.2 | 530.2 | L1 | 4 | 81.5 | 3 | 7 | 0 | 21 |
 | 5 | Baba Yaga Swede | Victor | East | 3-3-0 | 736.1 | 724.2 | W2 | 7 | 61.1 | 5 | 2 | 3 | 24 |
 | 6 | Frizztards | Spencer | West | 3-3-0 | 684.6 | 634.7 | L1 | 3 | 48.8 | 6 | 4 | 0 | 17 |
-| 7 | Cook'n brown rice | Aziz | West | 3-3-0 | 565.5 | 666.7 | W2 | 11 | 32.7 | 7 | 16 | 2 | 30 |
+| 7 | Cook'n brown rice | Aziz | West | 3-3-0 | 565.5 | 666.7 | W2 | 11 | 32.7 | 7 | 16 | 2 | 31 |
 | 8 | The Slim Reapers | Yovani | East | 2-4-0 | 687.2 | 749.2 | W1 | 6 | 27.4 | 11 | 14 | 2 | 79 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-4-0 | 672.3 | 722.1 | L2 | 5 | 27.1 | 10 | 3 | 2 | 30 |
 | 10 | Christian McCracker | devin | East | 2-4-0 | 645.0 | 650.6 | W1 | 12 | 29.3 | 9 | 8 | 0 | 48 |
@@ -28,11 +28,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Frizztards | 0.0 | 110.4 | vs | The Ghee-talians | 23.7 | 124.47 |
-| the blind side | 0.0 | 120.48 | vs | Big Papa | 19.0 | 139.39 |
+| the blind side | 0.0 | 120.51 | vs | Big Papa | 19.0 | 139.39 |
 | GioDoesCokeOnKamara | 50.2 | 121.32 | vs | The Slim Reapers | 0.0 | 119.74 |
-| Brock Hard for TDs | 10.9 | 134.84 | vs | Thr Short Bus | 0.0 | 108.72 |
-| Cook'n brown rice | 22.12 | 104.16 | vs | Christian McCracker | 31.74 | 117.91 |
-| Justin Her Tight End | 0.0 | 120.19 | vs | Baba Yaga Swede | 0.0 | 119.67 |
+| Brock Hard for TDs | 10.9 | 134.85 | vs | Thr Short Bus | 0.0 | 108.72 |
+| Cook'n brown rice | 22.12 | 101.01 | vs | Christian McCracker | 31.74 | 117.91 |
+| Justin Her Tight End | 0.0 | 120.21 | vs | Baba Yaga Swede | 0.0 | 119.66 |
 
 ## My schedule
 
