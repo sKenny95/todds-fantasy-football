@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 25 2026, 12:04 PM ET · NFL week 7 · The Re-Todds
+Updated: Sun Oct 25 2026, 01:05 PM ET · NFL week 7 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-2-0, seed 4, waiver rank 4.
 
@@ -15,7 +15,7 @@ Updated: Sun Oct 25 2026, 12:04 PM ET · NFL week 7 · The Re-Todds
 | 5 | Baba Yaga Swede | Victor | East | 3-3-0 | 736.1 | 724.2 | W2 | 7 | 62.3 | 5 | 2 | 3 | 24 |
 | 6 | Frizztards | Spencer | West | 3-3-0 | 684.6 | 634.7 | L1 | 3 | 47.0 | 6 | 4 | 0 | 17 |
 | 7 | Cook'n brown rice | Aziz | West | 3-3-0 | 565.5 | 666.7 | W2 | 11 | 34.5 | 7 | 16 | 2 | 31 |
-| 8 | The Slim Reapers | Yovani | East | 2-4-0 | 687.2 | 749.2 | W1 | 6 | 26.7 | 11 | 14 | 2 | 86 |
+| 8 | The Slim Reapers | Yovani | East | 2-4-0 | 687.2 | 749.2 | W1 | 6 | 26.7 | 11 | 14 | 2 | 87 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-4-0 | 672.3 | 722.1 | L2 | 5 | 28.2 | 9 | 3 | 2 | 30 |
 | 10 | Christian McCracker | devin | East | 2-4-0 | 645.0 | 650.6 | W1 | 12 | 28.8 | 10 | 8 | 0 | 49 |
 | 11 | Justin Her Tight End | Toby | West | 2-4-0 | 601.8 | 747.2 | L4 | 9 | 27.0 | 8 | 17 | 2 | 73 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 34.9 | 136.36 | vs | The Ghee-talians | 23.7 | 124.45 |
-| the blind side | 0.0 | 120.18 | vs | Big Papa | 19.0 | 139.39 |
-| GioDoesCokeOnKamara | 72.6 | 122.8 | vs | The Slim Reapers | 0.0 | 112.83 |
-| Brock Hard for TDs | 10.9 | 133.03 | vs | Thr Short Bus | 6.0 | 116.87 |
-| Cook'n brown rice | 22.12 | 101.76 | vs | Christian McCracker | 39.34 | 109.44 |
-| Justin Her Tight End | 0.0 | 117.4 | vs | Baba Yaga Swede | 0.0 | 119.49 |
+| Frizztards | 36.7 | 133.95 | vs | The Ghee-talians | 23.7 | 122.79 |
+| the blind side | 12.2 | 120.88 | vs | Big Papa | 29.0 | 138.77 |
+| GioDoesCokeOnKamara | 75.0 | 121.36 | vs | The Slim Reapers | 3.6 | 114.01 |
+| Brock Hard for TDs | 20.9 | 131.78 | vs | Thr Short Bus | 4.0 | 112.89 |
+| Cook'n brown rice | 33.92 | 102.86 | vs | Christian McCracker | 40.74 | 108.29 |
+| Justin Her Tight End | 11.56 | 116.67 | vs | Baba Yaga Swede | 0.0 | 118.55 |
 
 ## My schedule
 
