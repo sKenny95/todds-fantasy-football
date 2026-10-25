@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Oct 25 2026, 07:16 AM ET · NFL week 7 · The Re-Todds
+Updated: Sun Oct 25 2026, 12:04 PM ET · NFL week 7 · The Re-Todds
 
 ## Trade offers
 
@@ -131,6 +131,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Oct 25, 11:22 AM ET | Big Papa | FA ADDED | Brandon McManus | K | LAR |
+| Sun Oct 25, 11:22 AM ET | Big Papa | DROPPED | Nick Folk | K | ATL |
 | Fri Oct 23, 12:39 AM ET | The Ghee-talians | DROPPED | Raiders D/ST | D/ST | LV |
 | Fri Oct 23, 12:39 AM ET | The Ghee-talians | FA ADDED | Falcons D/ST | D/ST | ATL |
 | Thu Oct 22, 08:43 PM ET | the blind side | FA ADDED | Bam Knight | RB | ARI |
@@ -198,5 +200,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
 | Wed Oct 14, 03:04 AM ET | Justin Her Tight End | DROPPED | Will Shipley | RB | PHI |
 | Wed Oct 14, 03:04 AM ET | Justin Her Tight End | WAIVER ADDED | Dameon Pierce | RB | PHI |
-| Wed Oct 14, 03:04 AM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
-| Wed Oct 14, 03:04 AM ET | the blind side | WAIVER ADDED | Kyle Pitts Sr. | TE | ATL |
