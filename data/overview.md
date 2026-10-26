@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 25 2026, 08:12 PM ET · NFL week 7 · The Re-Todds
+Updated: Mon Oct 26 2026, 02:03 AM ET · NFL week 7 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-2-0, seed 4, waiver rank 4.
 
@@ -14,7 +14,7 @@ Updated: Sun Oct 25 2026, 08:12 PM ET · NFL week 7 · The Re-Todds
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 4-2-0 | 814.2 | 530.2 | L1 | 4 | 82.9 | 3 | 7 | 0 | 21 |
 | 5 | Baba Yaga Swede | Victor | East | 3-3-0 | 736.1 | 724.2 | W2 | 7 | 62.3 | 5 | 2 | 3 | 24 |
 | 6 | Frizztards | Spencer | West | 3-3-0 | 684.6 | 634.7 | L1 | 3 | 47.0 | 6 | 4 | 0 | 17 |
-| 7 | Cook'n brown rice | Aziz | West | 3-3-0 | 565.5 | 666.7 | W2 | 11 | 34.5 | 7 | 16 | 2 | 31 |
+| 7 | Tuten the train | Aziz | West | 3-3-0 | 565.5 | 666.7 | W2 | 11 | 34.5 | 7 | 16 | 2 | 31 |
 | 8 | The Slim Reapers | Yovani | East | 2-4-0 | 687.2 | 749.2 | W1 | 6 | 26.7 | 11 | 14 | 2 | 87 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-4-0 | 672.3 | 722.1 | L2 | 5 | 28.2 | 9 | 3 | 2 | 30 |
 | 10 | Christian McCracker | devin | East | 2-4-0 | 645.0 | 650.6 | W1 | 12 | 28.8 | 10 | 8 | 0 | 49 |
@@ -27,18 +27,18 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 168.9 | 168.9 | vs | The Ghee-talians | 104.12 | 108.88 |
-| the blind side | 94.08 | 110.91 | vs | Big Papa | 105.6 | 124.7 |
+| Frizztards | 168.9 | 168.9 | vs | The Ghee-talians | 113.12 | 113.12 |
+| the blind side | 94.08 | 110.91 | vs | Big Papa | 115.3 | 115.3 |
 | GioDoesCokeOnKamara | 104.3 | 110.66 | vs | The Slim Reapers | 70.16 | 88.69 |
 | Brock Hard for TDs | 130.88 | 130.88 | vs | Thr Short Bus | 95.92 | 95.92 |
-| Cook'n brown rice | 96.82 | 106.29 | vs | Christian McCracker | 65.14 | 89.02 |
-| Justin Her Tight End | 58.02 | 81.37 | vs | Baba Yaga Swede | 93.5 | 135.95 |
+| Tuten the train | 104.82 | 104.82 | vs | Christian McCracker | 83.64 | 96.84 |
+| Justin Her Tight End | 58.02 | 81.37 | vs | Baba Yaga Swede | 129.8 | 129.8 |
 
 ## My schedule
 
 | Week | Opponent | My score | Result |
 |---|---|---|---|
-| 1 | Cook'n brown rice | 151.9 | W |
+| 1 | Tuten the train | 151.9 | W |
 | 2 | the blind side | 81.06 | L |
 | 3 | Frizztards | 179.28 | W |
 | 4 | Justin Her Tight End | 166.38 | W |
