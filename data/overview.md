@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Oct 25 2026, 05:41 PM ET · NFL week 7 · The Re-Todds
+Updated: Sun Oct 25 2026, 08:12 PM ET · NFL week 7 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 4-2-0, seed 4, waiver rank 4.
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 117.94 | 159.93 | vs | The Ghee-talians | 86.82 | 101.61 |
-| the blind side | 90.38 | 111.24 | vs | Big Papa | 87.6 | 130.8 |
-| GioDoesCokeOnKamara | 86.06 | 101.11 | vs | The Slim Reapers | 69.46 | 102.36 |
-| Brock Hard for TDs | 97.58 | 131.41 | vs | Thr Short Bus | 95.92 | 95.92 |
-| Cook'n brown rice | 83.12 | 103.22 | vs | Christian McCracker | 62.34 | 92.84 |
-| Justin Her Tight End | 58.02 | 81.37 | vs | Baba Yaga Swede | 72.5 | 128.81 |
+| Frizztards | 168.9 | 168.9 | vs | The Ghee-talians | 104.12 | 108.88 |
+| the blind side | 94.08 | 110.91 | vs | Big Papa | 105.6 | 124.7 |
+| GioDoesCokeOnKamara | 104.3 | 110.66 | vs | The Slim Reapers | 70.16 | 88.69 |
+| Brock Hard for TDs | 130.88 | 130.88 | vs | Thr Short Bus | 95.92 | 95.92 |
+| Cook'n brown rice | 96.82 | 106.29 | vs | Christian McCracker | 65.14 | 89.02 |
+| Justin Her Tight End | 58.02 | 81.37 | vs | Baba Yaga Swede | 93.5 | 135.95 |
 
 ## My schedule
 
