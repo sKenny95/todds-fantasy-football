@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Tue Oct 27 2026, 12:29 PM ET · NFL week 8 · The Re-Todds
+Updated: Tue Oct 27 2026, 05:15 PM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 4.
 
@@ -8,18 +8,18 @@ Updated: Tue Oct 27 2026, 12:29 PM ET · NFL week 8 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 6-1-0 | 946.7 | 776.4 | L1 | 1 | 96.4 | 1 | 16 | 1 | 41 |
-| 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 10 | 83.4 | 4 | 12 | 3 | 58 |
+| 1 | Big Papa | Alex | East | 6-1-0 | 946.7 | 776.4 | L1 | 1 | 96.4 | 1 | 16 | 1 | 42 |
+| 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 10 | 83.4 | 4 | 12 | 3 | 60 |
 | 3 | The Ghee-talians | Christian | East | 5-2-0 | 950.0 | 904.8 | L1 | 8 | 88.4 | 3 | 11 | 2 | 54 |
-| 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 4 | 90.8 | 2 | 7 | 0 | 23 |
+| 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 4 | 90.8 | 2 | 7 | 0 | 25 |
 | 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 7 | 73.4 | 5 | 2 | 3 | 27 |
 | 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 3 | 61.7 | 6 | 4 | 0 | 17 |
-| 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 11 | 44.9 | 7 | 16 | 2 | 35 |
+| 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 11 | 44.9 | 7 | 16 | 3 | 35 |
 | 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 6 | 15.9 | 10 | 14 | 2 | 93 |
-| 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 5 | 16.2 | 9 | 3 | 2 | 30 |
-| 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 12 | 12.9 | 11 | 8 | 0 | 56 |
-| 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 9 | 15.5 | 8 | 17 | 2 | 73 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 1-6-0 | 641.0 | 862.4 | W1 | 2 | 0.5 | 12 | 13 | 1 | 37 |
+| 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 5 | 16.2 | 9 | 3 | 2 | 32 |
+| 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 12 | 12.9 | 11 | 8 | 1 | 61 |
+| 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 9 | 15.5 | 8 | 17 | 2 | 75 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 1-6-0 | 641.0 | 862.4 | W1 | 2 | 0.5 | 12 | 13 | 3 | 38 |
 
 ## Week 8 matchups
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Big Papa | 0.0 | 119.78 | vs | Frizztards | 0.0 | 135.66 |
-| The Slim Reapers | 0.0 | 119.19 | vs | the blind side | 0.0 | 99.86 |
-| Thr Short Bus | 0.0 | 59.82 | vs | GioDoesCokeOnKamara | 0.0 | 104.31 |
-| Christian McCracker | 0.0 | 95.09 | vs | Brock Hard for TDs | 0.0 | 136.05 |
+| Big Papa | 0.0 | 122.0 | vs | Frizztards | 0.0 | 135.66 |
+| The Slim Reapers | 0.0 | 119.19 | vs | the blind side | 0.0 | 121.08 |
+| Thr Short Bus | 0.0 | 84.17 | vs | GioDoesCokeOnKamara | 0.0 | 102.25 |
+| Christian McCracker | 0.0 | 119.14 | vs | Brock Hard for TDs | 0.0 | 143.62 |
 | Baba Yaga Swede | 0.0 | 124.38 | vs | Tuten the train | 0.0 | 114.96 |
-| The Ghee-talians | 0.0 | 114.46 | vs | Justin Her Tight End | 0.0 | 74.31 |
+| The Ghee-talians | 0.0 | 114.46 | vs | Justin Her Tight End | 0.0 | 108.4 |
 
 ## My schedule
 

@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 27 2026, 12:29 PM ET · NFL week 8 · The Re-Todds
+Updated: Tue Oct 27 2026, 05:15 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Tue Oct 27, 02:52 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Nico Collins, Brock Purdy | CANCELED |
 | Tue Oct 27, 11:39 AM ET | The Slim Reapers | The Slim Reapers gives Jordan Mason, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
 | Sun Oct 25, 12:51 PM ET | Big Papa | Big Papa gives Dallas Goedert, Bo Nix, Jaylen Waddle; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Fri Oct 23, 12:53 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
@@ -71,6 +72,9 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Tue Oct 27, 05:05 PM ET | GioDoesCokeOnKamara |  | awaiting review |
+| Tue Oct 27, 04:48 PM ET | Tuten the train |  | awaiting review |
+| Tue Oct 27, 01:54 PM ET | GioDoesCokeOnKamara | Christian McCracker | went through Tue Oct 27, 02:04 PM ET |
 | Tue Oct 13, 03:26 PM ET | Baba Yaga Swede | the blind side | went through Wed Oct 14, 03:21 PM ET |
 | Tue Oct 13, 03:12 PM ET | Baba Yaga Swede |  | awaiting review |
 | Thu Oct 08, 07:33 PM ET | Justin Her Tight End | Big Papa | went through Thu Oct 08, 09:18 PM ET |
@@ -87,6 +91,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Tue Oct 27, 01:50 PM ET | Christian McCracker |
 | Sun Oct 25, 11:08 PM ET | The Slim Reapers |
 | Sun Oct 25, 10:39 PM ET | The Ghee-talians |
 | Thu Oct 22, 08:02 PM ET | Christian McCracker |
@@ -135,6 +140,11 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 27, 02:09 PM ET | Christian McCracker | DROPPED | DeMario Douglas | WR | NE |
+| Tue Oct 27, 02:04 PM ET | GioDoesCokeOnKamara | TRADE_SENT | A.J. Brown | WR | NE |
+| Tue Oct 27, 02:04 PM ET | Christian McCracker | TRADE_RECEIVED | A.J. Brown | WR | NE |
+| Tue Oct 27, 02:04 PM ET | Christian McCracker | TRADE_SENT | George Pickens | WR | DAL |
+| Tue Oct 27, 02:04 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | George Pickens | WR | DAL |
 | Tue Oct 27, 11:26 AM ET | The Slim Reapers | DROPPED | Baker Mayfield | QB | TB |
 | Tue Oct 27, 11:26 AM ET | The Slim Reapers | DROPPED | J.K. Dobbins | RB | DEN |
 | Sun Oct 25, 11:22 AM ET | Big Papa | FA ADDED | Brandon McManus | K | LAR |
@@ -198,7 +208,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 14, 03:21 PM ET | the blind side | TRADE_RECEIVED | Jacory Croskey-Merritt | RB | WSH |
 | Wed Oct 14, 09:02 AM ET | Justin Her Tight End | DROPPED | Giants D/ST | D/ST | NYG |
 | Wed Oct 14, 09:02 AM ET | Justin Her Tight End | FA ADDED | Colts D/ST | D/ST | IND |
-| Wed Oct 14, 08:59 AM ET | the blind side | DROPPED | Roman Wilson | WR | PIT |
-| Wed Oct 14, 08:59 AM ET | the blind side | FA ADDED | Jakobi Meyers | WR | JAX |
-| Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
-| Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Kyler Murray | QB | MIN |
