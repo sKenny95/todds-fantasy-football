@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 27 2026, 06:26 AM ET · NFL week 8 · The Re-Todds
+Updated: Tue Oct 27 2026, 12:29 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Tue Oct 27, 11:39 AM ET | The Slim Reapers | The Slim Reapers gives Jordan Mason, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
 | Sun Oct 25, 12:51 PM ET | Big Papa | Big Papa gives Dallas Goedert, Bo Nix, Jaylen Waddle; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Fri Oct 23, 12:53 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Wed Oct 21, 04:39 PM ET | Big Papa | Big Papa gives Dallas Goedert, Jaylen Waddle, Kyler Murray, D'Andre Swift; Thr Short Bus gives Cam Skattebo, Emeka Egbuka, Brock Purdy | CANCELED |
@@ -134,6 +135,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 27, 11:26 AM ET | The Slim Reapers | DROPPED | Baker Mayfield | QB | TB |
+| Tue Oct 27, 11:26 AM ET | The Slim Reapers | DROPPED | J.K. Dobbins | RB | DEN |
 | Sun Oct 25, 11:22 AM ET | Big Papa | FA ADDED | Brandon McManus | K | LAR |
 | Sun Oct 25, 11:22 AM ET | Big Papa | DROPPED | Nick Folk | K | ATL |
 | Fri Oct 23, 12:39 AM ET | The Ghee-talians | DROPPED | Raiders D/ST | D/ST | LV |
@@ -199,7 +202,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 14, 08:59 AM ET | the blind side | FA ADDED | Jakobi Meyers | WR | JAX |
 | Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
 | Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Kyler Murray | QB | MIN |
-| Wed Oct 14, 03:45 AM ET | Big Papa | DROPPED | Keaton Mitchell | RB | LAC |
-| Wed Oct 14, 03:45 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
-| Wed Oct 14, 03:04 AM ET | Justin Her Tight End | DROPPED | Will Shipley | RB | PHI |
-| Wed Oct 14, 03:04 AM ET | Justin Her Tight End | WAIVER ADDED | Dameon Pierce | RB | PHI |
