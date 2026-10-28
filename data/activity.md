@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 28 2026, 11:57 AM ET · NFL week 8 · The Re-Todds
+Updated: Wed Oct 28 2026, 04:59 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -16,6 +16,8 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Oct 28, 04:23 PM ET | The Ghee-talians | Tuten the train gives Tyler Bass; The Ghee-talians gives Harrison Butker | CANCELED |
+| Wed Oct 28, 04:21 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Thr Short Bus gives Brock Purdy, Emeka Egbuka | CANCELED |
 | Tue Oct 27, 10:44 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr.; Justin Her Tight End gives Jadarian Price | CANCELED |
 | Tue Oct 27, 10:13 PM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Tue Oct 27, 02:52 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Nico Collins, Brock Purdy | CANCELED |
@@ -96,6 +98,8 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Wed Oct 28, 04:48 PM ET | Tuten the train |
+| Wed Oct 28, 04:48 PM ET | Tuten the train |
 | Tue Oct 27, 01:50 PM ET | Christian McCracker |
 | Sun Oct 25, 11:08 PM ET | The Slim Reapers |
 | Sun Oct 25, 10:39 PM ET | The Ghee-talians |
@@ -145,6 +149,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 28, 12:17 PM ET | the blind side | FA ADDED | Caleb Douglas | WR | MIA |
+| Wed Oct 28, 12:17 PM ET | the blind side | DROPPED | Jakobi Meyers | WR | JAX |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Stefon Diggs | WR | WSH |
 | Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_RECEIVED | Stefon Diggs | WR | WSH |
 | Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_SENT | TreVeyon Henderson | RB | NE |
@@ -227,4 +233,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Oct 20, 08:52 PM ET | Tuten the train | DROPPED | Brian Robinson Jr. | RB | ATL |
 | Tue Oct 20, 01:36 PM ET | Frizztards | DROPPED | Najee Harris | RB | None |
 | Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Blake Grupe | K | LAR |
-| Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Jalen Hurts | QB | PHI |

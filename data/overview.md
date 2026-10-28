@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Oct 28 2026, 11:57 AM ET · NFL week 8 · The Re-Todds
+Updated: Wed Oct 28 2026, 04:59 PM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -9,7 +9,7 @@ Updated: Wed Oct 28 2026, 11:57 AM ET · NFL week 8 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 6-1-0 | 946.7 | 776.4 | L1 | 1 | 95.8 | 1 | 18 | 1 | 42 |
-| 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 12 | 84.3 | 3 | 13 | 3 | 67 |
+| 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 12 | 84.3 | 3 | 14 | 3 | 67 |
 | 3 | The Ghee-talians | Christian | East | 5-2-0 | 950.0 | 904.8 | L1 | 11 | 88.2 | 4 | 12 | 2 | 54 |
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 3 | 89.6 | 2 | 7 | 1 | 33 |
 | 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 73.2 | 5 | 2 | 3 | 27 |
@@ -28,11 +28,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Big Papa | 0.0 | 122.0 | vs | Frizztards | 0.0 | 135.66 |
-| The Slim Reapers | 0.0 | 119.19 | vs | the blind side | 0.0 | 128.15 |
-| Thr Short Bus | 0.0 | 110.45 | vs | GioDoesCokeOnKamara | 0.0 | 108.9 |
-| Christian McCracker | 0.0 | 119.14 | vs | Brock Hard for TDs | 0.0 | 137.85 |
-| Baba Yaga Swede | 0.0 | 124.38 | vs | Tuten the train | 0.0 | 109.65 |
-| The Ghee-talians | 0.0 | 114.46 | vs | Justin Her Tight End | 0.0 | 117.04 |
+| The Slim Reapers | 0.0 | 119.19 | vs | the blind side | 0.0 | 127.9 |
+| Thr Short Bus | 0.0 | 110.45 | vs | GioDoesCokeOnKamara | 0.0 | 108.91 |
+| Christian McCracker | 0.0 | 119.17 | vs | Brock Hard for TDs | 0.0 | 137.86 |
+| Baba Yaga Swede | 0.0 | 124.3 | vs | Tuten the train | 0.0 | 109.66 |
+| The Ghee-talians | 0.0 | 114.49 | vs | Justin Her Tight End | 0.0 | 117.04 |
 
 ## My schedule
 
