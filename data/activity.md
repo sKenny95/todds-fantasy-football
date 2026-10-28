@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 27 2026, 09:14 PM ET · NFL week 8 · The Re-Todds
+Updated: Wed Oct 28 2026, 04:20 AM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,8 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Tue Oct 27, 10:44 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr.; Justin Her Tight End gives Jadarian Price | CANCELED |
+| Tue Oct 27, 10:13 PM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Tue Oct 27, 02:52 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Nico Collins, Brock Purdy | CANCELED |
 | Tue Oct 27, 11:39 AM ET | The Slim Reapers | The Slim Reapers gives Jordan Mason, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
 | Sun Oct 25, 12:51 PM ET | Big Papa | Big Papa gives Dallas Goedert, Bo Nix, Jaylen Waddle; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
@@ -139,6 +141,16 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 28, 03:44 AM ET | Big Papa | FA ADDED | Seth McGowan | RB | IND |
+| Wed Oct 28, 03:44 AM ET | Big Papa | DROPPED | Emmett Johnson | RB | KC |
+| Wed Oct 28, 03:43 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
+| Wed Oct 28, 03:43 AM ET | Big Papa | FA ADDED | Malik Willis | QB | MIA |
+| Wed Oct 28, 03:06 AM ET | the blind side | DROPPED | Titans D/ST | D/ST | TEN |
+| Wed Oct 28, 03:06 AM ET | the blind side | WAIVER ADDED | Commanders D/ST | D/ST | WSH |
+| Wed Oct 28, 03:06 AM ET | The Ghee-talians | DROPPED | Mike Washington Jr. | RB | LV |
+| Wed Oct 28, 03:06 AM ET | The Ghee-talians | WAIVER ADDED | Jonah Coleman | RB | DEN |
+| Wed Oct 28, 03:06 AM ET | GioDoesCokeOnKamara | DROPPED | Courtland Sutton | WR | DEN |
+| Wed Oct 28, 03:06 AM ET | GioDoesCokeOnKamara | WAIVER ADDED | KC Concepcion | WR | CLE |
 | Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Michael Mayer | TE | LV |
 | Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Michael Mayer | TE | LV |
 | Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Chase Brown | RB | CIN |
@@ -205,15 +217,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Oct 16, 10:48 AM ET | Big Papa | DROPPED | Adonai Mitchell | WR | NYJ |
 | Fri Oct 16, 03:39 AM ET | Justin Her Tight End | WAIVER ADDED | Giants D/ST | D/ST | NYG |
 | Fri Oct 16, 03:39 AM ET | Justin Her Tight End | DROPPED | Cowboys D/ST | D/ST | DAL |
-| Thu Oct 15, 12:15 PM ET | Big Papa | DROPPED | Jacoby Brissett | QB | ARI |
-| Thu Oct 15, 12:15 PM ET | Big Papa | FA ADDED | Jameis Winston | QB | NYG |
-| Wed Oct 14, 11:18 PM ET | Brock Hard for TDs | DROPPED | Christian Kirk | WR | SF |
-| Wed Oct 14, 11:18 PM ET | Brock Hard for TDs | FA ADDED | Kendrick Bourne | WR | ARI |
-| Wed Oct 14, 11:09 PM ET | Justin Her Tight End | FA ADDED | Wan'Dale Robinson | WR | TEN |
-| Wed Oct 14, 11:09 PM ET | Justin Her Tight End | DROPPED | Darius Cooper | WR | PHI |
-| Wed Oct 14, 05:42 PM ET | GioDoesCokeOnKamara | DROPPED | Harrison Mevis | K | None |
-| Wed Oct 14, 05:42 PM ET | GioDoesCokeOnKamara | FA ADDED | Blake Grupe | K | LAR |
-| Wed Oct 14, 03:21 PM ET | the blind side | TRADE_SENT | David Montgomery | RB | HOU |
-| Wed Oct 14, 03:21 PM ET | Baba Yaga Swede | TRADE_RECEIVED | David Montgomery | RB | HOU |
-| Wed Oct 14, 03:21 PM ET | Baba Yaga Swede | TRADE_SENT | Jacory Croskey-Merritt | RB | WSH |
-| Wed Oct 14, 03:21 PM ET | the blind side | TRADE_RECEIVED | Jacory Croskey-Merritt | RB | WSH |
