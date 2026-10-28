@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 28 2026, 04:20 AM ET · NFL week 8 · The Re-Todds
+Updated: Wed Oct 28 2026, 11:57 AM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -8,7 +8,9 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-None visible.
+| Proposed | Offered by | Offer | Expires |
+|---|---|---|---|
+| Wed Oct 28, 08:45 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Tony Pollard, Stefon Diggs; Thr Short Bus gives TreVeyon Henderson, Nico Collins | Fri Oct 30, 08:45 AM ET |
 
 ### Offers that were withdrawn, replaced or expired
 
@@ -74,6 +76,8 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
+| Wed Oct 28, 10:39 AM ET | Thr Short Bus | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
 | Tue Oct 27, 05:05 PM ET | GioDoesCokeOnKamara | Tuten the train | went through Tue Oct 27, 05:55 PM ET |
 | Tue Oct 27, 01:54 PM ET | GioDoesCokeOnKamara | Christian McCracker | went through Tue Oct 27, 02:04 PM ET |
 | Tue Oct 13, 03:26 PM ET | Baba Yaga Swede | the blind side | went through Wed Oct 14, 03:21 PM ET |
@@ -141,6 +145,21 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Stefon Diggs | WR | WSH |
+| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_RECEIVED | Stefon Diggs | WR | WSH |
+| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_SENT | TreVeyon Henderson | RB | NE |
+| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_RECEIVED | TreVeyon Henderson | RB | NE |
+| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_SENT | Nico Collins | WR | HOU |
+| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_RECEIVED | Nico Collins | WR | HOU |
+| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Tony Pollard | RB | TEN |
+| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_RECEIVED | Tony Pollard | RB | TEN |
+| Wed Oct 28, 10:42 AM ET | Justin Her Tight End | DROPPED | Panthers D/ST | D/ST | CAR |
+| Wed Oct 28, 10:42 AM ET | Justin Her Tight End | FA ADDED | Raiders D/ST | D/ST | LV |
+| Wed Oct 28, 10:41 AM ET | Justin Her Tight End | DROPPED | Jaylin Noel | WR | HOU |
+| Wed Oct 28, 10:41 AM ET | Justin Her Tight End | FA ADDED | Treylon Burks | WR | WSH |
+| Wed Oct 28, 10:05 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
+| Wed Oct 28, 09:09 AM ET | Tuten the train | DROPPED | Kenyon Sadiq | TE | NYJ |
+| Wed Oct 28, 09:09 AM ET | Tuten the train | FA ADDED | Mason Taylor | TE | NYJ |
 | Wed Oct 28, 03:44 AM ET | Big Papa | FA ADDED | Seth McGowan | RB | IND |
 | Wed Oct 28, 03:44 AM ET | Big Papa | DROPPED | Emmett Johnson | RB | KC |
 | Wed Oct 28, 03:43 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
@@ -209,11 +228,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Oct 20, 01:36 PM ET | Frizztards | DROPPED | Najee Harris | RB | None |
 | Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Blake Grupe | K | LAR |
 | Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Jalen Hurts | QB | PHI |
-| Tue Oct 20, 08:29 AM ET | Christian McCracker | DROPPED | Kaelon Black | RB | SF |
-| Sun Oct 18, 12:43 PM ET | The Slim Reapers | DROPPED | Deshaun Watson | QB | CLE |
-| Sun Oct 18, 12:43 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
-| Sun Oct 18, 12:20 PM ET | GioDoesCokeOnKamara | DROPPED | KC Concepcion | WR | CLE |
-| Fri Oct 16, 10:48 AM ET | Big Papa | FA ADDED | Cyrus Allen | WR | KC |
-| Fri Oct 16, 10:48 AM ET | Big Papa | DROPPED | Adonai Mitchell | WR | NYJ |
-| Fri Oct 16, 03:39 AM ET | Justin Her Tight End | WAIVER ADDED | Giants D/ST | D/ST | NYG |
-| Fri Oct 16, 03:39 AM ET | Justin Her Tight End | DROPPED | Cowboys D/ST | D/ST | DAL |
