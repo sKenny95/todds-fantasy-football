@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Oct 27 2026, 05:15 PM ET · NFL week 8 · The Re-Todds
+Updated: Tue Oct 27 2026, 09:14 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -72,8 +72,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
-| Tue Oct 27, 05:05 PM ET | GioDoesCokeOnKamara |  | awaiting review |
-| Tue Oct 27, 04:48 PM ET | Tuten the train |  | awaiting review |
+| Tue Oct 27, 05:05 PM ET | GioDoesCokeOnKamara | Tuten the train | went through Tue Oct 27, 05:55 PM ET |
 | Tue Oct 27, 01:54 PM ET | GioDoesCokeOnKamara | Christian McCracker | went through Tue Oct 27, 02:04 PM ET |
 | Tue Oct 13, 03:26 PM ET | Baba Yaga Swede | the blind side | went through Wed Oct 14, 03:21 PM ET |
 | Tue Oct 13, 03:12 PM ET | Baba Yaga Swede |  | awaiting review |
@@ -140,6 +139,18 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Michael Mayer | TE | LV |
+| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Michael Mayer | TE | LV |
+| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Chase Brown | RB | CIN |
+| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Chase Brown | RB | CIN |
+| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Denzel Boston | WR | CLE |
+| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Denzel Boston | WR | CLE |
+| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Josh Downs | WR | IND |
+| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Josh Downs | WR | IND |
+| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Kyle Monangai | RB | CHI |
+| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Kyle Monangai | RB | CHI |
+| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Colston Loveland | TE | CHI |
+| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Colston Loveland | TE | CHI |
 | Tue Oct 27, 02:09 PM ET | Christian McCracker | DROPPED | DeMario Douglas | WR | NE |
 | Tue Oct 27, 02:04 PM ET | GioDoesCokeOnKamara | TRADE_SENT | A.J. Brown | WR | NE |
 | Tue Oct 27, 02:04 PM ET | Christian McCracker | TRADE_RECEIVED | A.J. Brown | WR | NE |
@@ -206,5 +217,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 14, 03:21 PM ET | Baba Yaga Swede | TRADE_RECEIVED | David Montgomery | RB | HOU |
 | Wed Oct 14, 03:21 PM ET | Baba Yaga Swede | TRADE_SENT | Jacory Croskey-Merritt | RB | WSH |
 | Wed Oct 14, 03:21 PM ET | the blind side | TRADE_RECEIVED | Jacory Croskey-Merritt | RB | WSH |
-| Wed Oct 14, 09:02 AM ET | Justin Her Tight End | DROPPED | Giants D/ST | D/ST | NYG |
-| Wed Oct 14, 09:02 AM ET | Justin Her Tight End | FA ADDED | Colts D/ST | D/ST | IND |
