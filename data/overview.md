@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Oct 29 2026, 10:10 AM ET · NFL week 8 · The Re-Todds
+Updated: Thu Oct 29 2026, 04:14 PM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -8,10 +8,10 @@ Updated: Thu Oct 29 2026, 10:10 AM ET · NFL week 8 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 6-1-0 | 946.7 | 776.4 | L1 | 1 | 96.6 | 1 | 18 | 1 | 42 |
+| 1 | Big Papa | Alex | East | 6-1-0 | 946.7 | 776.4 | L1 | 1 | 96.6 | 1 | 18 | 1 | 43 |
 | 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 12 | 83.0 | 3 | 14 | 3 | 67 |
 | 3 | The Ghee-talians | Christian | East | 5-2-0 | 950.0 | 904.8 | L1 | 11 | 86.0 | 4 | 13 | 2 | 57 |
-| 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 3 | 90.0 | 2 | 7 | 1 | 33 |
+| 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 3 | 90.0 | 2 | 7 | 1 | 34 |
 | 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 72.9 | 5 | 2 | 3 | 27 |
 | 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 2 | 64.8 | 6 | 4 | 0 | 17 |
 | 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 45.6 | 7 | 17 | 3 | 41 |
@@ -27,10 +27,10 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Big Papa | 0.0 | 121.96 | vs | Frizztards | 0.0 | 135.67 |
+| Big Papa | 0.0 | 119.74 | vs | Frizztards | 0.0 | 135.67 |
 | The Slim Reapers | 0.0 | 119.12 | vs | the blind side | 0.0 | 127.9 |
 | Thr Short Bus | 0.0 | 110.45 | vs | GioDoesCokeOnKamara | 0.0 | 108.91 |
-| Christian McCracker | 0.0 | 119.17 | vs | Brock Hard for TDs | 0.0 | 137.86 |
+| Christian McCracker | 0.0 | 119.17 | vs | Brock Hard for TDs | 0.0 | 136.75 |
 | Baba Yaga Swede | 0.0 | 124.29 | vs | Tuten the train | 0.0 | 113.27 |
 | The Ghee-talians | 0.0 | 114.34 | vs | Justin Her Tight End | 0.0 | 119.38 |
 
