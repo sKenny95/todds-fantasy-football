@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 28 2026, 04:59 PM ET · NFL week 8 · The Re-Todds
+Updated: Wed Oct 28 2026, 08:49 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -10,12 +10,14 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 | Proposed | Offered by | Offer | Expires |
 |---|---|---|---|
+| Wed Oct 28, 06:08 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | Fri Oct 30, 06:08 PM ET |
 | Wed Oct 28, 08:45 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Tony Pollard, Stefon Diggs; Thr Short Bus gives TreVeyon Henderson, Nico Collins | Fri Oct 30, 08:45 AM ET |
 
 ### Offers that were withdrawn, replaced or expired
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Oct 28, 06:38 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | CANCELED |
 | Wed Oct 28, 04:23 PM ET | The Ghee-talians | Tuten the train gives Tyler Bass; The Ghee-talians gives Harrison Butker | CANCELED |
 | Wed Oct 28, 04:21 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Thr Short Bus gives Brock Purdy, Emeka Egbuka | CANCELED |
 | Tue Oct 27, 10:44 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr.; Justin Her Tight End gives Jadarian Price | CANCELED |

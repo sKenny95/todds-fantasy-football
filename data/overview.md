@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Oct 28 2026, 04:59 PM ET · NFL week 8 · The Re-Todds
+Updated: Wed Oct 28 2026, 08:49 PM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -14,7 +14,7 @@ Updated: Wed Oct 28 2026, 04:59 PM ET · NFL week 8 · The Re-Todds
 | 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 3 | 89.6 | 2 | 7 | 1 | 33 |
 | 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 73.2 | 5 | 2 | 3 | 27 |
 | 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 2 | 63.6 | 6 | 4 | 0 | 17 |
-| 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 45.6 | 7 | 17 | 3 | 39 |
+| 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 45.6 | 7 | 17 | 3 | 41 |
 | 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 15.0 | 10 | 15 | 2 | 93 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 4 | 16.2 | 9 | 3 | 3 | 36 |
 | 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 9 | 12.3 | 11 | 8 | 1 | 61 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Big Papa | 0.0 | 122.0 | vs | Frizztards | 0.0 | 135.66 |
-| The Slim Reapers | 0.0 | 119.19 | vs | the blind side | 0.0 | 127.9 |
+| Big Papa | 0.0 | 121.96 | vs | Frizztards | 0.0 | 135.67 |
+| The Slim Reapers | 0.0 | 119.12 | vs | the blind side | 0.0 | 127.9 |
 | Thr Short Bus | 0.0 | 110.45 | vs | GioDoesCokeOnKamara | 0.0 | 108.91 |
 | Christian McCracker | 0.0 | 119.17 | vs | Brock Hard for TDs | 0.0 | 137.86 |
-| Baba Yaga Swede | 0.0 | 124.3 | vs | Tuten the train | 0.0 | 109.66 |
-| The Ghee-talians | 0.0 | 114.49 | vs | Justin Her Tight End | 0.0 | 117.04 |
+| Baba Yaga Swede | 0.0 | 124.29 | vs | Tuten the train | 0.0 | 113.27 |
+| The Ghee-talians | 0.0 | 114.49 | vs | Justin Her Tight End | 0.0 | 119.38 |
 
 ## My schedule
 
