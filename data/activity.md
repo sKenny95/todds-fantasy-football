@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Oct 28 2026, 08:49 PM ET · NFL week 8 · The Re-Todds
+Updated: Thu Oct 29 2026, 02:59 AM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -151,6 +151,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | DROPPED | Michael Mayer | TE | LV |
+| Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | FA ADDED | Chig Okonkwo | TE | WSH |
+| Wed Oct 28, 10:36 PM ET | The Ghee-talians | DROPPED | Harrison Butker | K | KC |
+| Wed Oct 28, 10:36 PM ET | The Ghee-talians | FA ADDED | Andre Szmyt | K | CLE |
+| Wed Oct 28, 09:03 PM ET | Justin Her Tight End | FA ADDED | Dylan Sampson | RB | CLE |
+| Wed Oct 28, 09:03 PM ET | Justin Her Tight End | DROPPED | Dameon Pierce | RB | PHI |
 | Wed Oct 28, 12:17 PM ET | the blind side | FA ADDED | Caleb Douglas | WR | MIA |
 | Wed Oct 28, 12:17 PM ET | the blind side | DROPPED | Jakobi Meyers | WR | JAX |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Stefon Diggs | WR | WSH |
@@ -232,6 +238,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 03:54 AM ET | the blind side | DROPPED | Eagles D/ST | D/ST | PHI |
 | Wed Oct 21, 03:54 AM ET | Tuten the train | WAIVER ADDED | Ryan Flournoy | WR | DAL |
 | Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | DeMario Douglas | WR | NE |
-| Tue Oct 20, 08:52 PM ET | Tuten the train | DROPPED | Brian Robinson Jr. | RB | ATL |
-| Tue Oct 20, 01:36 PM ET | Frizztards | DROPPED | Najee Harris | RB | None |
-| Tue Oct 20, 01:19 PM ET | GioDoesCokeOnKamara | DROPPED | Blake Grupe | K | LAR |
