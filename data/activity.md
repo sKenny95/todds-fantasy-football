@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Oct 30 2026, 03:01 AM ET · NFL week 8 · The Re-Todds
+Updated: Fri Oct 30 2026, 10:02 AM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -11,7 +11,6 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 | Proposed | Offered by | Offer | Expires |
 |---|---|---|---|
 | Wed Oct 28, 06:08 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | Fri Oct 30, 06:08 PM ET |
-| Wed Oct 28, 08:45 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Tony Pollard, Stefon Diggs; Thr Short Bus gives TreVeyon Henderson, Nico Collins | Fri Oct 30, 08:45 AM ET |
 
 ### Offers that were withdrawn, replaced or expired
 
@@ -20,6 +19,7 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 | Wed Oct 28, 06:38 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | CANCELED |
 | Wed Oct 28, 04:23 PM ET | The Ghee-talians | Tuten the train gives Tyler Bass; The Ghee-talians gives Harrison Butker | CANCELED |
 | Wed Oct 28, 04:21 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Thr Short Bus gives Brock Purdy, Emeka Egbuka | CANCELED |
+| Wed Oct 28, 08:45 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Tony Pollard, Stefon Diggs; Thr Short Bus gives TreVeyon Henderson, Nico Collins | EXPIRED |
 | Tue Oct 27, 10:44 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr.; Justin Her Tight End gives Jadarian Price | CANCELED |
 | Tue Oct 27, 10:13 PM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Tue Oct 27, 02:52 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Nico Collins, Brock Purdy | CANCELED |
@@ -152,6 +152,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Oct 30, 03:37 AM ET | Christian McCracker | WAIVER ADDED | Jakobi Meyers | WR | JAX |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | DROPPED | Dylan Sampson | RB | CLE |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | FA ADDED | Jaydon Blue | RB | None |
 | Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | DROPPED | Michael Mayer | TE | LV |
@@ -239,4 +240,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 03:54 AM ET | Christian McCracker | DROPPED | Darren Waller | TE | CAR |
 | Wed Oct 21, 03:54 AM ET | the blind side | WAIVER ADDED | Titans D/ST | D/ST | TEN |
 | Wed Oct 21, 03:54 AM ET | the blind side | DROPPED | Eagles D/ST | D/ST | PHI |
-| Wed Oct 21, 03:54 AM ET | Tuten the train | WAIVER ADDED | Ryan Flournoy | WR | DAL |
