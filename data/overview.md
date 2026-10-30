@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Oct 29 2026, 08:51 PM ET · NFL week 8 · The Re-Todds
+Updated: Fri Oct 30 2026, 03:01 AM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -18,7 +18,7 @@ Updated: Thu Oct 29 2026, 08:51 PM ET · NFL week 8 · The Re-Todds
 | 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 15.4 | 9 | 15 | 2 | 93 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 4 | 15.5 | 10 | 3 | 3 | 36 |
 | 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 9 | 12.2 | 11 | 8 | 1 | 61 |
-| 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 7 | 17.0 | 8 | 20 | 2 | 80 |
+| 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 7 | 17.0 | 8 | 21 | 2 | 80 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 1-6-0 | 641.0 | 862.4 | W1 | 10 | 0.9 | 12 | 15 | 3 | 44 |
 
 ## Week 8 matchups
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Big Papa | 12.2 | 124.48 | vs | Frizztards | 3.1 | 135.04 |
-| The Slim Reapers | 18.2 | 122.18 | vs | the blind side | 2.0 | 127.07 |
-| Thr Short Bus | 0.0 | 111.51 | vs | GioDoesCokeOnKamara | 0.0 | 105.58 |
+| Big Papa | 42.2 | 132.09 | vs | Frizztards | 23.2 | 143.82 |
+| The Slim Reapers | 50.2 | 138.19 | vs | the blind side | 11.8 | 125.14 |
+| Thr Short Bus | 0.0 | 111.51 | vs | GioDoesCokeOnKamara | 9.6 | 104.29 |
 | Christian McCracker | 0.0 | 119.17 | vs | Brock Hard for TDs | 0.0 | 136.74 |
 | Baba Yaga Swede | 0.0 | 124.39 | vs | Tuten the train | 0.0 | 113.21 |
-| The Ghee-talians | 2.12 | 112.18 | vs | Justin Her Tight End | 0.0 | 119.08 |
+| The Ghee-talians | 10.36 | 107.73 | vs | Justin Her Tight End | 0.0 | 119.08 |
 
 ## My schedule
 
