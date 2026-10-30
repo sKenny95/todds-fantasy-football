@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Oct 30 2026, 10:02 AM ET · NFL week 8 · The Re-Todds
+Updated: Fri Oct 30 2026, 03:15 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -152,6 +152,16 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Oct 30, 02:01 PM ET | the blind side | FA ADDED | Kenyon Sadiq | TE | NYJ |
+| Fri Oct 30, 02:01 PM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
+| Fri Oct 30, 02:00 PM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
+| Fri Oct 30, 02:00 PM ET | the blind side | DROPPED | Jake Ferguson | TE | DAL |
+| Fri Oct 30, 01:52 PM ET | Big Papa | DROPPED | Christian Kirk | WR | SF |
+| Fri Oct 30, 01:52 PM ET | Big Papa | FA ADDED | Ryan Flournoy | WR | DAL |
+| Fri Oct 30, 01:38 PM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
+| Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
+| Fri Oct 30, 01:38 PM ET | The Slim Reapers | DROPPED | Tank Dell | WR | HOU |
+| Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | DeMario Douglas | WR | NE |
 | Fri Oct 30, 03:37 AM ET | Christian McCracker | WAIVER ADDED | Jakobi Meyers | WR | JAX |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | DROPPED | Dylan Sampson | RB | CLE |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | FA ADDED | Jaydon Blue | RB | None |
@@ -230,13 +240,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 09:31 AM ET | Justin Her Tight End | DROPPED | Wan'Dale Robinson | WR | TEN |
 | Wed Oct 21, 09:30 AM ET | Justin Her Tight End | DROPPED | Colts D/ST | D/ST | IND |
 | Wed Oct 21, 09:30 AM ET | Justin Her Tight End | FA ADDED | Panthers D/ST | D/ST | CAR |
-| Wed Oct 21, 08:16 AM ET | Tuten the train | DROPPED | Ryan Flournoy | WR | DAL |
-| Wed Oct 21, 08:16 AM ET | Tuten the train | FA ADDED | Omar Cooper Jr. | WR | NYJ |
-| Wed Oct 21, 03:54 AM ET | Christian McCracker | DROPPED | Jake Elliott | K | PHI |
-| Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | Chad Ryland | K | ARI |
-| Wed Oct 21, 03:54 AM ET | Tuten the train | WAIVER ADDED | Michael Mayer | TE | LV |
-| Wed Oct 21, 03:54 AM ET | Tuten the train | DROPPED | AJ Barner | TE | SEA |
-| Wed Oct 21, 03:54 AM ET | Christian McCracker | WAIVER ADDED | Hunter Henry | TE | NE |
-| Wed Oct 21, 03:54 AM ET | Christian McCracker | DROPPED | Darren Waller | TE | CAR |
-| Wed Oct 21, 03:54 AM ET | the blind side | WAIVER ADDED | Titans D/ST | D/ST | TEN |
-| Wed Oct 21, 03:54 AM ET | the blind side | DROPPED | Eagles D/ST | D/ST | PHI |
