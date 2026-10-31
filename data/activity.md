@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Oct 31 2026, 01:40 PM ET · NFL week 8 · The Re-Todds
+Updated: Sat Oct 31 2026, 05:27 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -101,6 +101,8 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Sat Oct 31, 02:47 PM ET | Christian McCracker |
+| Sat Oct 31, 02:47 PM ET | Christian McCracker |
 | Sat Oct 31, 07:32 AM ET | The Ghee-talians |
 | Thu Oct 29, 10:18 PM ET | Justin Her Tight End |
 | Wed Oct 28, 04:48 PM ET | Tuten the train |
