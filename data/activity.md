@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Oct 31 2026, 08:14 AM ET · NFL week 8 · The Re-Todds
+Updated: Sat Oct 31 2026, 01:40 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Sat Oct 31, 01:34 PM ET | The Slim Reapers | The Slim Reapers gives DeMario Douglas, Aaron Jones Sr.; Christian McCracker gives Rachaad White | CANCELED |
 | Fri Oct 30, 04:00 PM ET | Big Papa | Big Papa gives Germie Bernard, Malik Willis; Tuten the train gives Tyler Shough | CANCELED |
 | Wed Oct 28, 06:38 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | CANCELED |
 | Wed Oct 28, 06:08 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | EXPIRED |
@@ -153,6 +154,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sat Oct 31, 09:31 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
+| Sat Oct 31, 09:31 AM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
 | Fri Oct 30, 06:22 PM ET | Justin Her Tight End | DROPPED | Jaydon Blue | RB | None |
 | Fri Oct 30, 06:22 PM ET | Justin Her Tight End | FA ADDED | J.K. Dobbins | RB | DEN |
 | Fri Oct 30, 02:01 PM ET | the blind side | FA ADDED | Kenyon Sadiq | TE | NYJ |
@@ -239,5 +242,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 10:17 AM ET | the blind side | DROPPED | Terry McLaurin | WR | WSH |
 | Wed Oct 21, 10:15 AM ET | GioDoesCokeOnKamara | FA ADDED | Cowboys D/ST | D/ST | DAL |
 | Wed Oct 21, 10:15 AM ET | GioDoesCokeOnKamara | DROPPED | Commanders D/ST | D/ST | WSH |
-| Wed Oct 21, 09:31 AM ET | Justin Her Tight End | FA ADDED | Jaylin Noel | WR | HOU |
-| Wed Oct 21, 09:31 AM ET | Justin Her Tight End | DROPPED | Wan'Dale Robinson | WR | TEN |
