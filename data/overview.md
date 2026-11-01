@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Oct 31 2026, 09:02 PM ET · NFL week 8 · The Re-Todds
+Updated: Sun Nov 01 2026, 02:26 AM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -15,7 +15,7 @@ Updated: Sat Oct 31 2026, 09:02 PM ET · NFL week 8 · The Re-Todds
 | 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 72.1 | 5 | 2 | 3 | 27 |
 | 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 2 | 63.5 | 6 | 4 | 0 | 17 |
 | 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 43.5 | 7 | 17 | 3 | 43 |
-| 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 17.4 | 9 | 17 | 2 | 101 |
+| 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 17.4 | 9 | 17 | 2 | 102 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 4 | 15.4 | 10 | 3 | 3 | 37 |
 | 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 12 | 12.4 | 11 | 9 | 1 | 61 |
 | 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 7 | 18.5 | 8 | 22 | 2 | 81 |
@@ -28,7 +28,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Big Papa | 42.2 | 133.02 | vs | Frizztards | 23.2 | 144.2 |
-| The Slim Reapers | 50.2 | 134.45 | vs | the blind side | 11.8 | 125.22 |
+| The Slim Reapers | 50.2 | 135.8 | vs | the blind side | 11.8 | 125.22 |
 | Thr Short Bus | 0.0 | 110.44 | vs | GioDoesCokeOnKamara | 9.6 | 107.03 |
 | Christian McCracker | 0.0 | 101.01 | vs | Brock Hard for TDs | 0.0 | 137.0 |
 | Baba Yaga Swede | 0.0 | 124.11 | vs | Tuten the train | 0.0 | 113.04 |
