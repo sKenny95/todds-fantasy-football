@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 01 2026, 02:26 AM ET · NFL week 8 · The Re-Todds
+Updated: Sun Nov 01 2026, 09:59 AM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -156,6 +156,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | DROPPED | TreVeyon Henderson | RB | NE |
+| Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | FA ADDED | Rico Dowdle | RB | PIT |
 | Sat Oct 31, 09:31 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
 | Sat Oct 31, 09:31 AM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
 | Fri Oct 30, 06:22 PM ET | Justin Her Tight End | DROPPED | Jaydon Blue | RB | None |
@@ -242,5 +244,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 10:29 AM ET | Big Papa | FA ADDED | Christian Kirk | WR | SF |
 | Wed Oct 21, 10:18 AM ET | the blind side | FA ADDED | KC Concepcion | WR | CLE |
 | Wed Oct 21, 10:17 AM ET | the blind side | DROPPED | Terry McLaurin | WR | WSH |
-| Wed Oct 21, 10:15 AM ET | GioDoesCokeOnKamara | FA ADDED | Cowboys D/ST | D/ST | DAL |
-| Wed Oct 21, 10:15 AM ET | GioDoesCokeOnKamara | DROPPED | Commanders D/ST | D/ST | WSH |
