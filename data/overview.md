@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Nov 01 2026, 02:34 PM ET · NFL week 8 · The Re-Todds
+Updated: Sun Nov 01 2026, 05:20 PM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -15,7 +15,7 @@ Updated: Sun Nov 01 2026, 02:34 PM ET · NFL week 8 · The Re-Todds
 | 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 72.0 | 5 | 2 | 3 | 27 |
 | 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 2 | 63.6 | 6 | 4 | 0 | 17 |
 | 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 44.0 | 7 | 17 | 3 | 44 |
-| 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 17.9 | 9 | 19 | 2 | 104 |
+| 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 17.9 | 9 | 20 | 2 | 105 |
 | 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 4 | 15.5 | 10 | 3 | 3 | 37 |
 | 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 12 | 12.3 | 11 | 9 | 1 | 65 |
 | 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 7 | 17.8 | 8 | 22 | 2 | 81 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Big Papa | 77.64 | 139.79 | vs | Frizztards | 67.4 | 140.2 |
-| The Slim Reapers | 61.7 | 105.94 | vs | the blind side | 61.12 | 126.46 |
-| Thr Short Bus | 52.6 | 110.03 | vs | GioDoesCokeOnKamara | 40.36 | 95.36 |
-| Christian McCracker | 10.0 | 90.99 | vs | Brock Hard for TDs | 63.82 | 136.29 |
-| Baba Yaga Swede | 41.7 | 126.77 | vs | Tuten the train | 42.3 | 115.78 |
-| The Ghee-talians | 30.96 | 98.55 | vs | Justin Her Tight End | 46.98 | 120.06 |
+| Big Papa | 100.6 | 140.23 | vs | Frizztards | 117.08 | 137.44 |
+| The Slim Reapers | 75.1 | 87.92 | vs | the blind side | 112.38 | 125.43 |
+| Thr Short Bus | 102.04 | 114.6 | vs | GioDoesCokeOnKamara | 79.58 | 95.71 |
+| Christian McCracker | 53.36 | 88.08 | vs | Brock Hard for TDs | 115.8 | 130.92 |
+| Baba Yaga Swede | 105.4 | 154.03 | vs | Tuten the train | 111.4 | 138.44 |
+| The Ghee-talians | 56.96 | 88.73 | vs | Justin Her Tight End | 95.86 | 121.56 |
 
 ## My schedule
 

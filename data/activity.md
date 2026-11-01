@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 01 2026, 02:34 PM ET · NFL week 8 · The Re-Todds
+Updated: Sun Nov 01 2026, 05:20 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -158,6 +158,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Nov 01, 03:37 PM ET | The Slim Reapers | FA ADDED | Quentin Johnston | WR | LAC |
+| Sun Nov 01, 03:37 PM ET | The Slim Reapers | DROPPED | DeMario Douglas | WR | NE |
 | Sun Nov 01, 12:33 PM ET | The Slim Reapers | FA ADDED | Tre' Harris | WR | LAC |
 | Sun Nov 01, 12:33 PM ET | The Slim Reapers | DROPPED | Tank Dell | WR | HOU |
 | Sun Nov 01, 11:13 AM ET | The Slim Reapers | FA ADDED | Tank Dell | WR | HOU |
@@ -245,5 +247,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 10:41 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
 | Wed Oct 21, 10:30 AM ET | Big Papa | FA ADDED | Bo Nix | QB | DEN |
 | Wed Oct 21, 10:30 AM ET | Big Papa | DROPPED | Jameis Winston | QB | NYG |
-| Wed Oct 21, 10:29 AM ET | Big Papa | DROPPED | Cyrus Allen | WR | KC |
-| Wed Oct 21, 10:29 AM ET | Big Papa | FA ADDED | Christian Kirk | WR | SF |
