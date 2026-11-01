@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 01 2026, 09:59 AM ET · NFL week 8 · The Re-Todds
+Updated: Sun Nov 01 2026, 01:27 PM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,8 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Sun Nov 01, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Carnell Tate, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
+| Sun Nov 01, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr., DeMario Douglas; Christian McCracker gives Breece Hall | CANCELED |
 | Sat Oct 31, 01:34 PM ET | The Slim Reapers | The Slim Reapers gives DeMario Douglas, Aaron Jones Sr.; Christian McCracker gives Rachaad White | CANCELED |
 | Fri Oct 30, 04:00 PM ET | Big Papa | Big Papa gives Germie Bernard, Malik Willis; Tuten the train gives Tyler Shough | CANCELED |
 | Wed Oct 28, 06:38 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Nico Collins; The Ghee-talians gives Parker Washington | CANCELED |
@@ -156,6 +158,9 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Nov 01, 12:33 PM ET | The Slim Reapers | FA ADDED | Tre' Harris | WR | LAC |
+| Sun Nov 01, 12:33 PM ET | The Slim Reapers | DROPPED | Tank Dell | WR | HOU |
+| Sun Nov 01, 11:13 AM ET | The Slim Reapers | FA ADDED | Tank Dell | WR | HOU |
 | Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | DROPPED | TreVeyon Henderson | RB | NE |
 | Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | FA ADDED | Rico Dowdle | RB | PIT |
 | Sat Oct 31, 09:31 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
@@ -242,5 +247,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 21, 10:30 AM ET | Big Papa | DROPPED | Jameis Winston | QB | NYG |
 | Wed Oct 21, 10:29 AM ET | Big Papa | DROPPED | Cyrus Allen | WR | KC |
 | Wed Oct 21, 10:29 AM ET | Big Papa | FA ADDED | Christian Kirk | WR | SF |
-| Wed Oct 21, 10:18 AM ET | the blind side | FA ADDED | KC Concepcion | WR | CLE |
-| Wed Oct 21, 10:17 AM ET | the blind side | DROPPED | Terry McLaurin | WR | WSH |
