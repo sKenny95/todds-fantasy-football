@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 01 2026, 06:31 PM ET · NFL week 8 · The Re-Todds
+Updated: Mon Nov 02 2026, 12:52 AM ET · NFL week 8 · The Re-Todds
 
 ## Trade offers
 
@@ -167,7 +167,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | FA ADDED | Rico Dowdle | RB | PIT |
 | Sat Oct 31, 09:31 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
 | Sat Oct 31, 09:31 AM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
-| Fri Oct 30, 06:22 PM ET | Justin Her Tight End | DROPPED | Jaydon Blue | RB | None |
+| Fri Oct 30, 06:22 PM ET | Justin Her Tight End | DROPPED | Jaydon Blue | RB | PHI |
 | Fri Oct 30, 06:22 PM ET | Justin Her Tight End | FA ADDED | J.K. Dobbins | RB | DEN |
 | Fri Oct 30, 02:01 PM ET | the blind side | FA ADDED | Kenyon Sadiq | TE | NYJ |
 | Fri Oct 30, 02:01 PM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
@@ -181,7 +181,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | DeMario Douglas | WR | NE |
 | Fri Oct 30, 03:37 AM ET | Christian McCracker | WAIVER ADDED | Jakobi Meyers | WR | JAX |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | DROPPED | Dylan Sampson | RB | CLE |
-| Thu Oct 29, 10:54 PM ET | Justin Her Tight End | FA ADDED | Jaydon Blue | RB | None |
+| Thu Oct 29, 10:54 PM ET | Justin Her Tight End | FA ADDED | Jaydon Blue | RB | PHI |
 | Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | DROPPED | Michael Mayer | TE | LV |
 | Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | FA ADDED | Chig Okonkwo | TE | WSH |
 | Wed Oct 28, 10:36 PM ET | The Ghee-talians | DROPPED | Harrison Butker | K | KC |
