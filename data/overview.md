@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Mon Nov 02 2026, 12:52 AM ET · NFL week 8 · The Re-Todds
+Updated: Mon Nov 02 2026, 10:38 AM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -9,17 +9,17 @@ Updated: Mon Nov 02 2026, 12:52 AM ET · NFL week 8 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 6-1-0 | 946.7 | 776.4 | L1 | 1 | 96.0 | 1 | 19 | 1 | 44 |
-| 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 11 | 81.9 | 3 | 17 | 3 | 67 |
-| 3 | The Ghee-talians | Christian | East | 5-2-0 | 950.0 | 904.8 | L1 | 10 | 86.6 | 4 | 13 | 2 | 58 |
-| 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 3 | 91.5 | 2 | 8 | 1 | 34 |
-| 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 72.0 | 5 | 2 | 3 | 27 |
-| 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 2 | 63.6 | 6 | 4 | 0 | 17 |
-| 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 44.0 | 7 | 17 | 3 | 44 |
-| 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 17.9 | 9 | 20 | 2 | 105 |
-| 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 4 | 15.5 | 10 | 3 | 3 | 37 |
-| 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 12 | 12.3 | 11 | 9 | 1 | 65 |
-| 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 7 | 17.8 | 8 | 22 | 2 | 81 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 1-6-0 | 641.0 | 862.4 | W1 | 9 | 1.0 | 12 | 15 | 3 | 44 |
+| 2 | the blind side | Nick | West | 5-2-0 | 773.5 | 791.3 | W1 | 11 | 88.6 | 3 | 17 | 3 | 67 |
+| 3 | The Ghee-talians | Christian | East | 5-2-0 | 950.0 | 904.8 | L1 | 10 | 84.8 | 4 | 13 | 2 | 58 |
+| 4 | Brock Hard for TDs **(me)** | Sina | West | 5-2-0 | 945.1 | 626.1 | W1 | 3 | 91.6 | 2 | 8 | 1 | 34 |
+| 5 | Baba Yaga Swede | Victor | East | 4-3-0 | 865.9 | 811.3 | W3 | 6 | 71.7 | 5 | 2 | 3 | 27 |
+| 6 | Frizztards | Spencer | West | 4-3-0 | 853.5 | 747.9 | W1 | 2 | 65.9 | 6 | 4 | 0 | 17 |
+| 7 | Tuten the train | Aziz | West | 4-3-0 | 670.3 | 766.0 | W3 | 8 | 45.2 | 7 | 17 | 3 | 44 |
+| 8 | The Slim Reapers | Yovani | East | 2-5-0 | 781.8 | 857.5 | L1 | 5 | 9.6 | 10 | 20 | 2 | 105 |
+| 9 | Thr Short Bus | Dunbarr | East | 2-5-0 | 768.2 | 853.0 | L3 | 4 | 17.6 | 9 | 3 | 3 | 37 |
+| 10 | Christian McCracker | devin | East | 2-5-0 | 744.3 | 755.4 | L1 | 12 | 9.4 | 11 | 9 | 1 | 65 |
+| 11 | Justin Her Tight End | Toby | West | 2-5-0 | 688.9 | 877.0 | L5 | 7 | 18.9 | 8 | 22 | 2 | 81 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 1-6-0 | 641.0 | 862.4 | W1 | 9 | 0.8 | 12 | 15 | 3 | 44 |
 
 ## Week 8 matchups
 
