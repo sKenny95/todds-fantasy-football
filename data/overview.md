@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Mon Nov 02 2026, 06:26 PM ET · NFL week 8 · The Re-Todds
+Updated: Tue Nov 03 2026, 01:37 AM ET · NFL week 8 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 5-2-0, seed 4, waiver rank 3.
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Big Papa | 119.3 | 133.97 | vs | Frizztards | 140.78 | 140.78 |
+| Big Papa | 147.2 | 147.2 | vs | Frizztards | 140.78 | 140.78 |
 | The Slim Reapers | 81.6 | 81.6 | vs | the blind side | 134.98 | 134.98 |
 | Thr Short Bus | 114.84 | 114.84 | vs | GioDoesCokeOnKamara | 97.08 | 97.08 |
-| Christian McCracker | 83.86 | 90.8 | vs | Brock Hard for TDs | 139.3 | 139.3 |
-| Baba Yaga Swede | 120.38 | 142.44 | vs | Tuten the train | 114.4 | 141.63 |
-| The Ghee-talians | 75.66 | 94.87 | vs | Justin Her Tight End | 114.96 | 114.96 |
+| Christian McCracker | 83.86 | 83.86 | vs | Brock Hard for TDs | 139.3 | 139.3 |
+| Baba Yaga Swede | 144.18 | 144.18 | vs | Tuten the train | 139.88 | 139.88 |
+| The Ghee-talians | 95.26 | 95.26 | vs | Justin Her Tight End | 114.96 | 114.96 |
 
 ## My schedule
 
