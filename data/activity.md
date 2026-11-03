@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 03 2026, 10:01 AM ET · NFL week 9 · The Re-Todds
+Updated: Tue Nov 03 2026, 03:56 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -158,6 +158,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Nov 03, 02:49 PM ET | The Slim Reapers | DROPPED | Tre' Harris | WR | LAC |
+| Tue Nov 03, 02:49 PM ET | The Slim Reapers | DROPPED | Quentin Johnston | WR | LAC |
 | Sun Nov 01, 03:37 PM ET | The Slim Reapers | FA ADDED | Quentin Johnston | WR | LAC |
 | Sun Nov 01, 03:37 PM ET | The Slim Reapers | DROPPED | DeMario Douglas | WR | NE |
 | Sun Nov 01, 12:33 PM ET | The Slim Reapers | FA ADDED | Tre' Harris | WR | LAC |
@@ -243,7 +245,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Oct 22, 10:42 AM ET | The Slim Reapers | FA ADDED | Baker Mayfield | QB | TB |
 | Thu Oct 22, 10:42 AM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
 | Wed Oct 21, 02:57 PM ET | GioDoesCokeOnKamara | FA ADDED | J.J. McCarthy | QB | NYG |
-| Wed Oct 21, 10:41 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
-| Wed Oct 21, 10:41 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
-| Wed Oct 21, 10:30 AM ET | Big Papa | FA ADDED | Bo Nix | QB | DEN |
-| Wed Oct 21, 10:30 AM ET | Big Papa | DROPPED | Jameis Winston | QB | NYG |
