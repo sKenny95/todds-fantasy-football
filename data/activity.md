@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 03 2026, 01:37 AM ET · NFL week 8 · The Re-Todds
+Updated: Tue Nov 03 2026, 10:01 AM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
