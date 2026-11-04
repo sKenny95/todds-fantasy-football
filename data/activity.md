@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 03 2026, 08:16 PM ET · NFL week 9 · The Re-Todds
+Updated: Wed Nov 04 2026, 04:01 AM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -162,6 +162,11 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 04, 04:01 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
+| Wed Nov 04, 04:01 AM ET | Big Papa | DROPPED | Seth McGowan | RB | IND |
+| Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Michael Penix Jr. | QB | ATL |
+| Wed Nov 04, 04:00 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
+| Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Bo Nix | QB | DEN |
 | Tue Nov 03, 02:49 PM ET | The Slim Reapers | DROPPED | Tre' Harris | WR | LAC |
 | Tue Nov 03, 02:49 PM ET | The Slim Reapers | DROPPED | Quentin Johnston | WR | LAC |
 | Sun Nov 01, 03:37 PM ET | The Slim Reapers | FA ADDED | Quentin Johnston | WR | LAC |
@@ -245,7 +250,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Oct 23, 12:39 AM ET | The Ghee-talians | DROPPED | Raiders D/ST | D/ST | LV |
 | Fri Oct 23, 12:39 AM ET | The Ghee-talians | FA ADDED | Falcons D/ST | D/ST | ATL |
 | Thu Oct 22, 08:43 PM ET | the blind side | FA ADDED | Bam Knight | RB | ARI |
-| Thu Oct 22, 08:41 PM ET | the blind side | DROPPED | KC Concepcion | WR | CLE |
-| Thu Oct 22, 10:42 AM ET | The Slim Reapers | FA ADDED | Baker Mayfield | QB | TB |
-| Thu Oct 22, 10:42 AM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
-| Wed Oct 21, 02:57 PM ET | GioDoesCokeOnKamara | FA ADDED | J.J. McCarthy | QB | NYG |
