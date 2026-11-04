@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 04 2026, 12:08 PM ET · NFL week 9 · The Re-Todds
+Updated: Wed Nov 04 2026, 06:35 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Nov 04, 04:02 PM ET | Big Papa | Big Papa gives Christian Watson, D'Andre Swift; Frizztards gives Puka Nacua | CANCELED |
 | Sun Nov 01, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Carnell Tate, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
 | Sun Nov 01, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr., DeMario Douglas; Christian McCracker gives Breece Hall | CANCELED |
 | Sat Oct 31, 01:34 PM ET | The Slim Reapers | The Slim Reapers gives DeMario Douglas, Aaron Jones Sr.; Christian McCracker gives Rachaad White | CANCELED |
@@ -103,6 +104,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Wed Nov 04, 01:06 PM ET | Christian McCracker |
 | Tue Nov 03, 05:04 PM ET | Thr Short Bus |
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
@@ -162,6 +164,17 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 04, 05:00 PM ET | Justin Her Tight End | DROPPED | Woody Marks | RB | HOU |
+| Wed Nov 04, 05:00 PM ET | Justin Her Tight End | FA ADDED | Mike Washington Jr. | RB | LV |
+| Wed Nov 04, 04:18 PM ET | The Ghee-talians | FA ADDED | Joe Milton | QB | PHI |
+| Wed Nov 04, 04:18 PM ET | The Ghee-talians | DROPPED | Sam Darnold | QB | SEA |
+| Wed Nov 04, 03:38 PM ET | GioDoesCokeOnKamara | FA ADDED | Drew Stevens | K | WSH |
+| Wed Nov 04, 12:40 PM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
+| Wed Nov 04, 12:40 PM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
+| Wed Nov 04, 12:38 PM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
+| Wed Nov 04, 12:38 PM ET | the blind side | DROPPED | Greg Dulcich | TE | MIA |
+| Wed Nov 04, 12:31 PM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
+| Wed Nov 04, 12:31 PM ET | The Slim Reapers | FA ADDED | Cam Ward | QB | TEN |
 | Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | FA ADDED | Adonai Mitchell | WR | NYJ |
 | Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | DROPPED | Kendrick Bourne | WR | ARI |
 | Wed Nov 04, 11:15 AM ET | The Slim Reapers | FA ADDED | Caleb Douglas | WR | MIA |
@@ -228,25 +241,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 28, 10:05 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
 | Wed Oct 28, 09:09 AM ET | Tuten the train | DROPPED | Kenyon Sadiq | TE | NYJ |
 | Wed Oct 28, 09:09 AM ET | Tuten the train | FA ADDED | Mason Taylor | TE | NYJ |
-| Wed Oct 28, 03:44 AM ET | Big Papa | FA ADDED | Seth McGowan | RB | IND |
-| Wed Oct 28, 03:44 AM ET | Big Papa | DROPPED | Emmett Johnson | RB | KC |
-| Wed Oct 28, 03:43 AM ET | Big Papa | DROPPED | Bo Nix | QB | DEN |
-| Wed Oct 28, 03:43 AM ET | Big Papa | FA ADDED | Malik Willis | QB | MIA |
-| Wed Oct 28, 03:06 AM ET | the blind side | DROPPED | Titans D/ST | D/ST | TEN |
-| Wed Oct 28, 03:06 AM ET | the blind side | WAIVER ADDED | Commanders D/ST | D/ST | WSH |
-| Wed Oct 28, 03:06 AM ET | The Ghee-talians | DROPPED | Mike Washington Jr. | RB | LV |
-| Wed Oct 28, 03:06 AM ET | The Ghee-talians | WAIVER ADDED | Jonah Coleman | RB | DEN |
-| Wed Oct 28, 03:06 AM ET | GioDoesCokeOnKamara | DROPPED | Courtland Sutton | WR | DEN |
-| Wed Oct 28, 03:06 AM ET | GioDoesCokeOnKamara | WAIVER ADDED | KC Concepcion | WR | CLE |
-| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Michael Mayer | TE | LV |
-| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Michael Mayer | TE | LV |
-| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Chase Brown | RB | CIN |
-| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Chase Brown | RB | CIN |
-| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Denzel Boston | WR | CLE |
-| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Denzel Boston | WR | CLE |
-| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_SENT | Josh Downs | WR | IND |
-| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | Josh Downs | WR | IND |
-| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Kyle Monangai | RB | CHI |
-| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Kyle Monangai | RB | CHI |
-| Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Colston Loveland | TE | CHI |
-| Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Colston Loveland | TE | CHI |
