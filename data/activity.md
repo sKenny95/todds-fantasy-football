@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 04 2026, 04:01 AM ET · NFL week 9 · The Re-Todds
+Updated: Wed Nov 04 2026, 12:08 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -162,6 +162,18 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | FA ADDED | Adonai Mitchell | WR | NYJ |
+| Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | DROPPED | Kendrick Bourne | WR | ARI |
+| Wed Nov 04, 11:15 AM ET | The Slim Reapers | FA ADDED | Caleb Douglas | WR | MIA |
+| Wed Nov 04, 11:13 AM ET | The Slim Reapers | FA ADDED | TreVeyon Henderson | RB | NE |
+| Wed Nov 04, 11:13 AM ET | The Slim Reapers | DROPPED | Aaron Jones Sr. | RB | MIN |
+| Wed Nov 04, 10:04 AM ET | Justin Her Tight End | FA ADDED | Lions D/ST | D/ST | DET |
+| Wed Nov 04, 10:04 AM ET | Justin Her Tight End | DROPPED | Giants D/ST | D/ST | NYG |
+| Wed Nov 04, 09:32 AM ET | the blind side | DROPPED | Kenyon Sadiq | TE | NYJ |
+| Wed Nov 04, 09:32 AM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
+| Wed Nov 04, 09:31 AM ET | the blind side | DROPPED | Bam Knight | RB | ARI |
+| Wed Nov 04, 09:31 AM ET | the blind side | FA ADDED | Kaelon Black | RB | SF |
+| Wed Nov 04, 09:28 AM ET | Justin Her Tight End | DROPPED | J.K. Dobbins | RB | DEN |
 | Wed Nov 04, 04:01 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
 | Wed Nov 04, 04:01 AM ET | Big Papa | DROPPED | Seth McGowan | RB | IND |
 | Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Michael Penix Jr. | QB | ATL |
@@ -238,15 +250,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Kyle Monangai | RB | CHI |
 | Tue Oct 27, 05:55 PM ET | GioDoesCokeOnKamara | TRADE_SENT | Colston Loveland | TE | CHI |
 | Tue Oct 27, 05:55 PM ET | Tuten the train | TRADE_RECEIVED | Colston Loveland | TE | CHI |
-| Tue Oct 27, 02:09 PM ET | Christian McCracker | DROPPED | DeMario Douglas | WR | NE |
-| Tue Oct 27, 02:04 PM ET | GioDoesCokeOnKamara | TRADE_SENT | A.J. Brown | WR | NE |
-| Tue Oct 27, 02:04 PM ET | Christian McCracker | TRADE_RECEIVED | A.J. Brown | WR | NE |
-| Tue Oct 27, 02:04 PM ET | Christian McCracker | TRADE_SENT | George Pickens | WR | DAL |
-| Tue Oct 27, 02:04 PM ET | GioDoesCokeOnKamara | TRADE_RECEIVED | George Pickens | WR | DAL |
-| Tue Oct 27, 11:26 AM ET | The Slim Reapers | DROPPED | Baker Mayfield | QB | TB |
-| Tue Oct 27, 11:26 AM ET | The Slim Reapers | DROPPED | J.K. Dobbins | RB | DEN |
-| Sun Oct 25, 11:22 AM ET | Big Papa | FA ADDED | Brandon McManus | K | LAR |
-| Sun Oct 25, 11:22 AM ET | Big Papa | DROPPED | Nick Folk | K | ATL |
-| Fri Oct 23, 12:39 AM ET | The Ghee-talians | DROPPED | Raiders D/ST | D/ST | LV |
-| Fri Oct 23, 12:39 AM ET | The Ghee-talians | FA ADDED | Falcons D/ST | D/ST | ATL |
-| Thu Oct 22, 08:43 PM ET | the blind side | FA ADDED | Bam Knight | RB | ARI |
