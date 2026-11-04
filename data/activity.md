@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 03 2026, 03:56 PM ET · NFL week 9 · The Re-Todds
+Updated: Tue Nov 03 2026, 08:16 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -103,6 +103,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Tue Nov 03, 05:04 PM ET | Thr Short Bus |
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
 | Sat Oct 31, 07:32 AM ET | The Ghee-talians |
@@ -142,6 +143,9 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. |  |
+| Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. | Justin Herbert |
+| Tue Nov 03, 05:38 PM ET | The Ghee-talians | TreVeyon Henderson | RJ Harvey |
 | Tue Oct 20, 01:25 PM ET | GioDoesCokeOnKamara | Panthers D/ST | Commanders D/ST |
 | Tue Oct 13, 04:48 PM ET | Justin Her Tight End | Colts D/ST | Cowboys D/ST |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Emanuel Wilson | Austin Ekeler |
