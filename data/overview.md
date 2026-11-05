@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Nov 04 2026, 06:35 PM ET · NFL week 9 · The Re-Todds
+Updated: Thu Nov 05 2026, 01:33 AM ET · NFL week 9 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 6-2-0, seed 3, waiver rank 3.
 
@@ -9,9 +9,9 @@ Updated: Wed Nov 04 2026, 06:35 PM ET · NFL week 9 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 7-1-0 | 1093.9 | 917.2 | W1 | 1 | 99.1 | 1 | 20 | 1 | 46 |
-| 2 | the blind side | Nick | West | 6-2-0 | 908.5 | 872.9 | W2 | 10 | 93.0 | 3 | 21 | 3 | 76 |
+| 2 | the blind side | Nick | West | 6-2-0 | 908.5 | 872.9 | W2 | 10 | 93.0 | 3 | 21 | 3 | 78 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 6-2-0 | 1084.4 | 710.0 | W2 | 3 | 96.9 | 2 | 9 | 1 | 39 |
-| 4 | The Ghee-talians | Christian | East | 5-3-0 | 1045.2 | 1019.7 | L2 | 9 | 81.9 | 4 | 14 | 2 | 63 |
+| 4 | The Ghee-talians | Christian | East | 5-3-0 | 1045.2 | 1019.7 | L2 | 9 | 81.9 | 4 | 14 | 2 | 67 |
 | 5 | Baba Yaga Swede | Victor | East | 5-3-0 | 1010.0 | 951.2 | W4 | 5 | 82.8 | 5 | 2 | 3 | 27 |
 | 6 | Frizztards | Spencer | West | 4-4-0 | 994.2 | 895.1 | L1 | 2 | 54.9 | 6 | 4 | 0 | 17 |
 | 7 | Tuten the train | Aziz | West | 4-4-0 | 810.2 | 910.2 | L1 | 7 | 31.4 | 7 | 17 | 3 | 47 |
@@ -28,10 +28,10 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Frizztards | 0.0 | 102.31 | vs | The Slim Reapers | 0.0 | 115.66 |
-| the blind side | 0.0 | 120.93 | vs | Thr Short Bus | 0.0 | 115.06 |
+| the blind side | 0.0 | 120.67 | vs | Thr Short Bus | 0.0 | 115.06 |
 | GioDoesCokeOnKamara | 0.0 | 107.77 | vs | Christian McCracker | 0.0 | 116.89 |
 | Brock Hard for TDs | 0.0 | 136.18 | vs | Baba Yaga Swede | 0.0 | 125.11 |
-| Tuten the train | 0.0 | 112.51 | vs | The Ghee-talians | 0.0 | 127.43 |
+| Tuten the train | 0.0 | 112.51 | vs | The Ghee-talians | 0.0 | 126.98 |
 | Justin Her Tight End | 0.0 | 52.33 | vs | Big Papa | 0.0 | 142.2 |
 
 ## My schedule

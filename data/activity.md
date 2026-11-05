@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 04 2026, 06:35 PM ET · NFL week 9 · The Re-Todds
+Updated: Thu Nov 05 2026, 01:33 AM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -104,6 +104,8 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Wed Nov 04, 09:43 PM ET | Big Papa |
+| Wed Nov 04, 09:43 PM ET | Big Papa |
 | Wed Nov 04, 01:06 PM ET | Christian McCracker |
 | Tue Nov 03, 05:04 PM ET | Thr Short Bus |
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
@@ -164,6 +166,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 04, 07:30 PM ET | Christian McCracker | DROPPED | Emanuel Wilson | RB | SEA |
 | Wed Nov 04, 05:00 PM ET | Justin Her Tight End | DROPPED | Woody Marks | RB | HOU |
 | Wed Nov 04, 05:00 PM ET | Justin Her Tight End | FA ADDED | Mike Washington Jr. | RB | LV |
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | FA ADDED | Joe Milton | QB | PHI |
@@ -239,5 +242,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 28, 10:41 AM ET | Justin Her Tight End | DROPPED | Jaylin Noel | WR | HOU |
 | Wed Oct 28, 10:41 AM ET | Justin Her Tight End | FA ADDED | Treylon Burks | WR | WSH |
 | Wed Oct 28, 10:05 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
-| Wed Oct 28, 09:09 AM ET | Tuten the train | DROPPED | Kenyon Sadiq | TE | NYJ |
-| Wed Oct 28, 09:09 AM ET | Tuten the train | FA ADDED | Mason Taylor | TE | NYJ |
