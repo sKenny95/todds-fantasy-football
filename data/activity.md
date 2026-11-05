@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Nov 05 2026, 10:23 AM ET · NFL week 9 · The Re-Todds
+Updated: Thu Nov 05 2026, 04:56 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,10 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Thu Nov 05, 04:25 PM ET | Big Papa | Big Papa gives D'Andre Swift, Christian Watson; Frizztards gives Puka Nacua | CANCELED |
+| Thu Nov 05, 04:25 PM ET | Big Papa | Frizztards gives Puka Nacua; Big Papa gives Christian Watson, Chuba Hubbard | CANCELED |
+| Thu Nov 05, 04:25 PM ET | Big Papa | Big Papa gives Malik Willis, D'Andre Swift; Baba Yaga Swede gives Jayden Daniels, Ashton Jeanty | CANCELED |
+| Thu Nov 05, 04:25 PM ET | Big Papa | Baba Yaga Swede gives Ashton Jeanty, Patrick Mahomes; Big Papa gives D'Andre Swift, Malik Willis | CANCELED |
 | Wed Nov 04, 04:02 PM ET | Big Papa | Big Papa gives Christian Watson, D'Andre Swift; Frizztards gives Puka Nacua | CANCELED |
 | Sun Nov 01, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Carnell Tate, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
 | Sun Nov 01, 12:31 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr., DeMario Douglas; Christian McCracker gives Breece Hall | CANCELED |
@@ -166,6 +170,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 05, 12:25 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
+| Thu Nov 05, 12:25 PM ET | The Slim Reapers | DROPPED | TreVeyon Henderson | RB | NE |
 | Wed Nov 04, 07:30 PM ET | Christian McCracker | DROPPED | Emanuel Wilson | RB | SEA |
 | Wed Nov 04, 05:00 PM ET | Justin Her Tight End | DROPPED | Woody Marks | RB | HOU |
 | Wed Nov 04, 05:00 PM ET | Justin Her Tight End | FA ADDED | Mike Washington Jr. | RB | LV |
@@ -241,4 +247,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 28, 10:42 AM ET | Justin Her Tight End | FA ADDED | Raiders D/ST | D/ST | LV |
 | Wed Oct 28, 10:41 AM ET | Justin Her Tight End | DROPPED | Jaylin Noel | WR | HOU |
 | Wed Oct 28, 10:41 AM ET | Justin Her Tight End | FA ADDED | Treylon Burks | WR | WSH |
-| Wed Oct 28, 10:05 AM ET | The Slim Reapers | FA ADDED | Michael Penix Jr. | QB | ATL |
