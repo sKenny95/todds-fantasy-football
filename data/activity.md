@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 06 2026, 05:43 AM ET · NFL week 9 · The Re-Todds
+Updated: Fri Nov 06 2026, 12:54 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -16,6 +16,7 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Fri Nov 06, 12:45 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | CANCELED |
 | Thu Nov 05, 04:25 PM ET | Big Papa | Big Papa gives D'Andre Swift, Christian Watson; Frizztards gives Puka Nacua | CANCELED |
 | Thu Nov 05, 04:25 PM ET | Big Papa | Frizztards gives Puka Nacua; Big Papa gives Christian Watson, Chuba Hubbard | CANCELED |
 | Thu Nov 05, 04:25 PM ET | Big Papa | Big Papa gives Malik Willis, D'Andre Swift; Baba Yaga Swede gives Jayden Daniels, Ashton Jeanty | CANCELED |
@@ -110,6 +111,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Fri Nov 06, 12:48 PM ET | Christian McCracker |
 | Wed Nov 04, 09:43 PM ET | Big Papa |
 | Wed Nov 04, 09:43 PM ET | Big Papa |
 | Wed Nov 04, 01:06 PM ET | Christian McCracker |
@@ -173,6 +175,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 06, 07:58 AM ET | Christian McCracker | FA ADDED | Aaron Jones Sr. | RB | MIN |
 | Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | WAIVER ADDED | Woody Marks | RB | HOU |
 | Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | DROPPED | Rico Dowdle | RB | PIT |
 | Thu Nov 05, 07:33 PM ET | The Slim Reapers | FA ADDED | Devin Singletary | RB | NYG |
@@ -240,5 +243,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 28, 10:36 PM ET | The Ghee-talians | FA ADDED | Andre Szmyt | K | CLE |
 | Wed Oct 28, 09:03 PM ET | Justin Her Tight End | FA ADDED | Dylan Sampson | RB | CLE |
 | Wed Oct 28, 09:03 PM ET | Justin Her Tight End | DROPPED | Dameon Pierce | RB | PHI |
-| Wed Oct 28, 12:17 PM ET | the blind side | FA ADDED | Caleb Douglas | WR | MIA |
-| Wed Oct 28, 12:17 PM ET | the blind side | DROPPED | Jakobi Meyers | WR | JAX |
