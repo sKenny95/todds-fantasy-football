@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Nov 05 2026, 09:18 PM ET · NFL week 9 · The Re-Todds
+Updated: Fri Nov 06 2026, 05:43 AM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -173,6 +173,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | WAIVER ADDED | Woody Marks | RB | HOU |
+| Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | DROPPED | Rico Dowdle | RB | PIT |
 | Thu Nov 05, 07:33 PM ET | The Slim Reapers | FA ADDED | Devin Singletary | RB | NYG |
 | Thu Nov 05, 07:32 PM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
@@ -240,11 +242,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 28, 09:03 PM ET | Justin Her Tight End | DROPPED | Dameon Pierce | RB | PHI |
 | Wed Oct 28, 12:17 PM ET | the blind side | FA ADDED | Caleb Douglas | WR | MIA |
 | Wed Oct 28, 12:17 PM ET | the blind side | DROPPED | Jakobi Meyers | WR | JAX |
-| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Stefon Diggs | WR | WSH |
-| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_RECEIVED | Stefon Diggs | WR | WSH |
-| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_SENT | TreVeyon Henderson | RB | NE |
-| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_RECEIVED | TreVeyon Henderson | RB | NE |
-| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_SENT | Nico Collins | WR | HOU |
-| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_RECEIVED | Nico Collins | WR | HOU |
-| Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Tony Pollard | RB | TEN |
-| Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_RECEIVED | Tony Pollard | RB | TEN |
