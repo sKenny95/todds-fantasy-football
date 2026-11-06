@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Nov 05 2026, 04:56 PM ET · NFL week 9 · The Re-Todds
+Updated: Thu Nov 05 2026, 09:18 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -8,7 +8,9 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-None visible.
+| Proposed | Offered by | Offer | Expires |
+|---|---|---|---|
+| Thu Nov 05, 05:23 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | Sat Nov 07, 05:23 PM ET |
 
 ### Offers that were withdrawn, replaced or expired
 
@@ -151,6 +153,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Thu Nov 05, 07:34 PM ET | The Slim Reapers | Woody Marks |  |
 | Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. |  |
 | Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. | Justin Herbert |
 | Tue Nov 03, 05:38 PM ET | The Ghee-talians | TreVeyon Henderson | RJ Harvey |
@@ -170,6 +173,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 05, 07:33 PM ET | The Slim Reapers | FA ADDED | Devin Singletary | RB | NYG |
+| Thu Nov 05, 07:32 PM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | DROPPED | TreVeyon Henderson | RB | NE |
 | Wed Nov 04, 07:30 PM ET | Christian McCracker | DROPPED | Emanuel Wilson | RB | SEA |
@@ -243,7 +248,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_RECEIVED | Nico Collins | WR | HOU |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | TRADE_SENT | Tony Pollard | RB | TEN |
 | Wed Oct 28, 10:46 AM ET | Thr Short Bus | TRADE_RECEIVED | Tony Pollard | RB | TEN |
-| Wed Oct 28, 10:42 AM ET | Justin Her Tight End | DROPPED | Panthers D/ST | D/ST | CAR |
-| Wed Oct 28, 10:42 AM ET | Justin Her Tight End | FA ADDED | Raiders D/ST | D/ST | LV |
-| Wed Oct 28, 10:41 AM ET | Justin Her Tight End | DROPPED | Jaylin Noel | WR | HOU |
-| Wed Oct 28, 10:41 AM ET | Justin Her Tight End | FA ADDED | Treylon Burks | WR | WSH |
