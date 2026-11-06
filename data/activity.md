@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 06 2026, 12:54 PM ET · NFL week 9 · The Re-Todds
+Updated: Fri Nov 06 2026, 06:01 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -91,6 +91,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Fri Nov 06, 03:22 PM ET | the blind side | Big Papa | went through Fri Nov 06, 04:00 PM ET |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
 | Wed Oct 28, 10:39 AM ET | Thr Short Bus | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
 | Tue Oct 27, 05:05 PM ET | GioDoesCokeOnKamara | Tuten the train | went through Tue Oct 27, 05:55 PM ET |
@@ -175,6 +176,20 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 06, 04:10 PM ET | The Slim Reapers | FA ADDED | Shedeur Sanders | QB | CLE |
+| Fri Nov 06, 04:10 PM ET | The Slim Reapers | DROPPED | Cam Ward | QB | TEN |
+| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_SENT | Germie Bernard | WR | PIT |
+| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_RECEIVED | Germie Bernard | WR | PIT |
+| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_SENT | D'Andre Swift | RB | CHI |
+| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_RECEIVED | D'Andre Swift | RB | CHI |
+| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Jeremiyah Love | RB | ARI |
+| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Jeremiyah Love | RB | ARI |
+| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Tetairoa McMillan | WR | CAR |
+| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Tetairoa McMillan | WR | CAR |
+| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Jordan Love | QB | GB |
+| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Jordan Love | QB | GB |
+| Fri Nov 06, 02:43 PM ET | The Slim Reapers | DROPPED | Caleb Douglas | WR | MIA |
+| Fri Nov 06, 02:43 PM ET | The Slim Reapers | FA ADDED | DeMario Douglas | WR | NE |
 | Fri Nov 06, 07:58 AM ET | Christian McCracker | FA ADDED | Aaron Jones Sr. | RB | MIN |
 | Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | WAIVER ADDED | Woody Marks | RB | HOU |
 | Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | DROPPED | Rico Dowdle | RB | PIT |
@@ -237,9 +252,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Oct 30, 03:37 AM ET | Christian McCracker | WAIVER ADDED | Jakobi Meyers | WR | JAX |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | DROPPED | Dylan Sampson | RB | CLE |
 | Thu Oct 29, 10:54 PM ET | Justin Her Tight End | FA ADDED | Jaydon Blue | RB | PHI |
-| Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | DROPPED | Michael Mayer | TE | LV |
-| Thu Oct 29, 01:30 AM ET | GioDoesCokeOnKamara | FA ADDED | Chig Okonkwo | TE | WSH |
-| Wed Oct 28, 10:36 PM ET | The Ghee-talians | DROPPED | Harrison Butker | K | KC |
-| Wed Oct 28, 10:36 PM ET | The Ghee-talians | FA ADDED | Andre Szmyt | K | CLE |
-| Wed Oct 28, 09:03 PM ET | Justin Her Tight End | FA ADDED | Dylan Sampson | RB | CLE |
-| Wed Oct 28, 09:03 PM ET | Justin Her Tight End | DROPPED | Dameon Pierce | RB | PHI |
