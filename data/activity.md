@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 08 2026, 02:14 AM ET · NFL week 9 · The Re-Todds
+Updated: Sun Nov 08 2026, 10:03 AM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -175,6 +175,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Nov 08, 03:34 AM ET | the blind side | WAIVER ADDED | Caleb Douglas | WR | MIA |
+| Sun Nov 08, 03:34 AM ET | the blind side | DROPPED | Courtland Sutton | WR | DEN |
+| Sun Nov 08, 03:05 AM ET | Baba Yaga Swede | FA ADDED | Audric Estime | RB | NO |
+| Sun Nov 08, 03:05 AM ET | Baba Yaga Swede | DROPPED | MarShawn Lloyd | RB | GB |
 | Fri Nov 06, 04:10 PM ET | The Slim Reapers | FA ADDED | Shedeur Sanders | QB | CLE |
 | Fri Nov 06, 04:10 PM ET | The Slim Reapers | DROPPED | Cam Ward | QB | TEN |
 | Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_SENT | Germie Bernard | WR | PIT |
@@ -248,6 +252,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
 | Fri Oct 30, 01:38 PM ET | The Slim Reapers | DROPPED | Tank Dell | WR | HOU |
 | Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | DeMario Douglas | WR | NE |
-| Fri Oct 30, 03:37 AM ET | Christian McCracker | WAIVER ADDED | Jakobi Meyers | WR | JAX |
-| Thu Oct 29, 10:54 PM ET | Justin Her Tight End | DROPPED | Dylan Sampson | RB | CLE |
-| Thu Oct 29, 10:54 PM ET | Justin Her Tight End | FA ADDED | Jaydon Blue | RB | PHI |
