@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Nov 08 2026, 01:24 PM ET · NFL week 9 · The Re-Todds
+Updated: Sun Nov 08 2026, 02:36 PM ET · NFL week 9 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 6-2-0, seed 3, waiver rank 11.
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 20.42 | 119.71 | vs | The Slim Reapers | 24.92 | 117.77 |
-| the blind side | 62.94 | 142.74 | vs | Thr Short Bus | 29.8 | 120.38 |
-| GioDoesCokeOnKamara | 24.6 | 99.57 | vs | Christian McCracker | 15.6 | 115.07 |
-| Brock Hard for TDs | 53.68 | 136.4 | vs | Baba Yaga Swede | 33.04 | 122.39 |
-| Tuten the train | 19.7 | 100.51 | vs | The Ghee-talians | 29.1 | 131.3 |
-| Justin Her Tight End | 19.58 | 100.17 | vs | Big Papa | 18.4 | 134.19 |
+| Frizztards | 39.28 | 116.71 | vs | The Slim Reapers | 52.4 | 124.81 |
+| the blind side | 73.84 | 140.98 | vs | Thr Short Bus | 30.6 | 109.97 |
+| GioDoesCokeOnKamara | 42.6 | 99.06 | vs | Christian McCracker | 28.0 | 115.67 |
+| Brock Hard for TDs | 55.58 | 123.31 | vs | Baba Yaga Swede | 48.0 | 120.31 |
+| Tuten the train | 32.7 | 103.11 | vs | The Ghee-talians | 55.18 | 125.79 |
+| Justin Her Tight End | 17.58 | 97.4 | vs | Big Papa | 56.96 | 140.34 |
 
 ## My schedule
 
