@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Nov 07 2026, 03:49 PM ET · NFL week 9 · The Re-Todds
+Updated: Sat Nov 07 2026, 07:28 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -8,15 +8,14 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-| Proposed | Offered by | Offer | Expires |
-|---|---|---|---|
-| Thu Nov 05, 05:23 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | Sat Nov 07, 05:23 PM ET |
+None visible.
 
 ### Offers that were withdrawn, replaced or expired
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
 | Fri Nov 06, 12:45 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | CANCELED |
+| Thu Nov 05, 05:23 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | EXPIRED |
 | Thu Nov 05, 04:25 PM ET | Big Papa | Big Papa gives D'Andre Swift, Christian Watson; Frizztards gives Puka Nacua | CANCELED |
 | Thu Nov 05, 04:25 PM ET | Big Papa | Frizztards gives Puka Nacua; Big Papa gives Christian Watson, Chuba Hubbard | CANCELED |
 | Thu Nov 05, 04:25 PM ET | Big Papa | Big Papa gives Malik Willis, D'Andre Swift; Baba Yaga Swede gives Jayden Daniels, Ashton Jeanty | CANCELED |
