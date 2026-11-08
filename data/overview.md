@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Nov 08 2026, 10:03 AM ET · NFL week 9 · The Re-Todds
+Updated: Sun Nov 08 2026, 01:24 PM ET · NFL week 9 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 6-2-0, seed 3, waiver rank 11.
 
@@ -14,12 +14,12 @@ Updated: Sun Nov 08 2026, 10:03 AM ET · NFL week 9 · The Re-Todds
 | 4 | The Ghee-talians | Christian | East | 5-3-0 | 1045.2 | 1019.7 | L2 | 8 | 82.5 | 4 | 14 | 2 | 68 |
 | 5 | Baba Yaga Swede | Victor | East | 5-3-0 | 1010.0 | 951.2 | W4 | 4 | 84.0 | 5 | 3 | 3 | 33 |
 | 6 | Frizztards | Spencer | West | 4-4-0 | 994.2 | 895.1 | L1 | 2 | 54.9 | 6 | 4 | 0 | 20 |
-| 7 | Tuten the train | Aziz | West | 4-4-0 | 810.2 | 910.2 | L1 | 6 | 31.6 | 7 | 17 | 3 | 48 |
+| 7 | Tuten the train | Aziz | West | 4-4-0 | 810.2 | 910.2 | L1 | 6 | 31.6 | 7 | 17 | 3 | 49 |
 | 8 | Thr Short Bus | Dunbarr | East | 3-5-0 | 883.0 | 950.1 | W1 | 3 | 21.6 | 9 | 3 | 3 | 40 |
 | 9 | Justin Her Tight End | Toby | West | 3-5-0 | 803.8 | 972.2 | W1 | 5 | 23.4 | 8 | 24 | 2 | 94 |
-| 10 | The Slim Reapers | Yovani | East | 2-6-0 | 863.4 | 992.5 | L2 | 10 | 6.0 | 11 | 29 | 2 | 124 |
+| 10 | The Slim Reapers | Yovani | East | 2-6-0 | 863.4 | 992.5 | L2 | 10 | 6.0 | 11 | 30 | 2 | 124 |
 | 11 | Christian McCracker | devin | East | 2-6-0 | 828.2 | 894.7 | L2 | 9 | 7.5 | 10 | 10 | 1 | 73 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 1-7-0 | 738.0 | 977.3 | L1 | 7 | 0.3 | 12 | 16 | 3 | 46 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 1-7-0 | 738.0 | 977.3 | L1 | 7 | 0.3 | 12 | 16 | 3 | 47 |
 
 ## Week 9 matchups
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 2.5 | 125.98 | vs | The Slim Reapers | 1.0 | 118.85 |
-| the blind side | 18.06 | 138.88 | vs | Thr Short Bus | 6.9 | 118.69 |
-| GioDoesCokeOnKamara | 0.0 | 107.56 | vs | Christian McCracker | 10.5 | 115.88 |
-| Brock Hard for TDs | 47.88 | 137.94 | vs | Baba Yaga Swede | 0.0 | 120.95 |
-| Tuten the train | 8.9 | 106.51 | vs | The Ghee-talians | 14.1 | 128.81 |
-| Justin Her Tight End | 5.58 | 97.03 | vs | Big Papa | 0.0 | 140.03 |
+| Frizztards | 20.42 | 119.71 | vs | The Slim Reapers | 24.92 | 117.77 |
+| the blind side | 62.94 | 142.74 | vs | Thr Short Bus | 29.8 | 120.38 |
+| GioDoesCokeOnKamara | 24.6 | 99.57 | vs | Christian McCracker | 15.6 | 115.07 |
+| Brock Hard for TDs | 53.68 | 136.4 | vs | Baba Yaga Swede | 33.04 | 122.39 |
+| Tuten the train | 19.7 | 100.51 | vs | The Ghee-talians | 29.1 | 131.3 |
+| Justin Her Tight End | 19.58 | 100.17 | vs | Big Papa | 18.4 | 134.19 |
 
 ## My schedule
 

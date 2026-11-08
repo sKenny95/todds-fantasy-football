@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 08 2026, 10:03 AM ET · NFL week 9 · The Re-Todds
+Updated: Sun Nov 08 2026, 01:24 PM ET · NFL week 9 · The Re-Todds
 
 ## Trade offers
 
@@ -175,6 +175,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Nov 08, 12:36 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
+| Sun Nov 08, 12:36 PM ET | The Slim Reapers | DROPPED | Shedeur Sanders | QB | CLE |
 | Sun Nov 08, 03:34 AM ET | the blind side | WAIVER ADDED | Caleb Douglas | WR | MIA |
 | Sun Nov 08, 03:34 AM ET | the blind side | DROPPED | Courtland Sutton | WR | DEN |
 | Sun Nov 08, 03:05 AM ET | Baba Yaga Swede | FA ADDED | Audric Estime | RB | NO |
@@ -250,5 +252,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Oct 30, 01:52 PM ET | Big Papa | FA ADDED | Ryan Flournoy | WR | DAL |
 | Fri Oct 30, 01:38 PM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
 | Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
-| Fri Oct 30, 01:38 PM ET | The Slim Reapers | DROPPED | Tank Dell | WR | HOU |
-| Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | DeMario Douglas | WR | NE |
