@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Tue Nov 10 2026, 04:39 AM ET · NFL week 10 · The Re-Todds
+Updated: Tue Nov 10 2026, 12:42 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 11.
 
@@ -16,8 +16,8 @@ Updated: Tue Nov 10 2026, 04:39 AM ET · NFL week 10 · The Re-Todds
 | 6 | Frizztards | Spencer | West | 4-5-0 | 1108.8 | 1026.0 | L2 | 2 | 37.4 | 6 | 4 | 0 | 20 |
 | 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 6 | 25.8 | 7 | 17 | 3 | 54 |
 | 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 10 | 15.5 | 10 | 30 | 2 | 127 |
-| 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 3 | 19.3 | 9 | 3 | 3 | 40 |
-| 10 | Justin Her Tight End | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 5 | 20.3 | 8 | 24 | 2 | 95 |
+| 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 3 | 19.3 | 9 | 3 | 3 | 41 |
+| 10 | Justin Her Tight End | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 5 | 20.3 | 8 | 24 | 2 | 96 |
 | 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 7 | 1.2 | 12 | 16 | 3 | 47 |
 | 12 | Christian McCracker | devin | East | 2-7-0 | 934.0 | 1008.1 | L3 | 9 | 4.8 | 11 | 10 | 1 | 75 |
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 0.0 | 94.07 | vs | Frizztards | 0.0 | 67.17 |
-| Christian McCracker | 0.0 | 105.5 | vs | the blind side | 0.0 | 99.54 |
-| Baba Yaga Swede | 0.0 | 116.06 | vs | GioDoesCokeOnKamara | 0.0 | 88.08 |
-| The Ghee-talians | 0.0 | 126.48 | vs | Brock Hard for TDs | 0.0 | 138.43 |
-| Big Papa | 0.0 | 140.5 | vs | Tuten the train | 0.0 | 112.65 |
-| The Slim Reapers | 0.0 | 85.7 | vs | Justin Her Tight End | 0.0 | 113.19 |
+| Thr Short Bus | 0.0 | 106.97 | vs | Frizztards | 0.0 | 67.26 |
+| Christian McCracker | 0.0 | 103.99 | vs | the blind side | 0.0 | 99.68 |
+| Baba Yaga Swede | 0.0 | 116.16 | vs | GioDoesCokeOnKamara | 0.0 | 88.14 |
+| The Ghee-talians | 0.0 | 125.72 | vs | Brock Hard for TDs | 0.0 | 138.49 |
+| Big Papa | 0.0 | 140.96 | vs | Tuten the train | 0.0 | 111.87 |
+| The Slim Reapers | 0.0 | 86.49 | vs | Justin Her Tight End | 0.0 | 110.18 |
 
 ## My schedule
 
