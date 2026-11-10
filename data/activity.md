@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 10 2026, 12:42 PM ET · NFL week 10 · The Re-Todds
+Updated: Tue Nov 10 2026, 06:12 PM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -156,6 +156,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Nov 10, 04:55 PM ET | The Slim Reapers | TreVeyon Henderson | Devin Singletary |
+| Tue Nov 10, 04:16 PM ET | The Slim Reapers | Corey Kiner | Devin Singletary |
 | Thu Nov 05, 07:34 PM ET | The Slim Reapers | Woody Marks |  |
 | Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. |  |
 | Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. | Justin Herbert |
