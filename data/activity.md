@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 10 2026, 06:12 PM ET · NFL week 10 · The Re-Todds
+Updated: Wed Nov 11 2026, 12:59 AM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -31,7 +31,7 @@ None visible.
 | Wed Oct 28, 04:23 PM ET | The Ghee-talians | Tuten the train gives Tyler Bass; The Ghee-talians gives Harrison Butker | CANCELED |
 | Wed Oct 28, 04:21 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Thr Short Bus gives Brock Purdy, Emeka Egbuka | CANCELED |
 | Wed Oct 28, 08:45 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Tony Pollard, Stefon Diggs; Thr Short Bus gives TreVeyon Henderson, Nico Collins | EXPIRED |
-| Tue Oct 27, 10:44 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr.; Justin Her Tight End gives Jadarian Price | CANCELED |
+| Tue Oct 27, 10:44 PM ET | The Slim Reapers | The Slim Reapers gives Aaron Jones Sr.; Murderapolis gives Jadarian Price | CANCELED |
 | Tue Oct 27, 10:13 PM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Thr Short Bus gives Emeka Egbuka, Brock Purdy | CANCELED |
 | Tue Oct 27, 02:52 PM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Thr Short Bus gives Nico Collins, Brock Purdy | CANCELED |
 | Tue Oct 27, 11:39 AM ET | The Slim Reapers | The Slim Reapers gives Jordan Mason, Aaron Jones Sr.; Thr Short Bus gives Cam Skattebo | CANCELED |
@@ -52,7 +52,7 @@ None visible.
 | Tue Oct 13, 05:17 PM ET | Big Papa | Big Papa gives Bo Nix, Dallas Goedert; Tuten the train gives Kenyon Sadiq, Tyler Shough | CANCELED |
 | Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Dallas Goedert, D'Andre Swift; the blind side gives Ja'Marr Chase | CANCELED |
 | Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Bo Nix, Chuba Hubbard, Jaylen Waddle, Dallas Goedert; the blind side gives Jordan Love, Ja'Marr Chase | CANCELED |
-| Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Bo Nix, D'Andre Swift; Justin Her Tight End gives Josh Allen | CANCELED |
+| Tue Oct 13, 05:06 PM ET | Big Papa | Big Papa gives Bo Nix, D'Andre Swift; Murderapolis gives Josh Allen | CANCELED |
 | Tue Oct 13, 03:42 PM ET | Big Papa | Big Papa gives Jaylen Waddle, Dallas Goedert, Bo Nix; Baba Yaga Swede gives Patrick Mahomes | CANCELED |
 | Tue Oct 13, 03:28 PM ET | Big Papa | Big Papa gives Bo Nix, Dallas Goedert, Jaylen Waddle; Baba Yaga Swede gives Patrick Mahomes, Harold Fannin Jr. | CANCELED |
 | Tue Oct 13, 03:05 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Geno Smith, Deebo Samuel Sr.; Baba Yaga Swede gives Tre Tucker, Patrick Mahomes | CANCELED |
@@ -61,7 +61,7 @@ None visible.
 | Thu Oct 08, 11:28 AM ET | Big Papa | Big Papa gives Emmett Johnson, Devaughn Vele, Browns D/ST; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 12:27 PM ET | Big Papa | Big Papa gives Devaughn Vele, Emmett Johnson; Thr Short Bus gives TreVeyon Henderson, Emeka Egbuka | CANCELED |
 | Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Devaughn Vele, Jaylen Waddle; Frizztards gives Drake London | CANCELED |
-| Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Justin Her Tight End gives Josh Allen | CANCELED |
+| Wed Oct 07, 10:25 AM ET | Big Papa | Big Papa gives Bo Nix, Christian Watson; Murderapolis gives Josh Allen | CANCELED |
 | Wed Oct 07, 01:26 AM ET | Big Papa | Big Papa gives Christian Watson, Bo Nix; Tuten the train gives Michael Wilson, Tyler Shough | CANCELED |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Christian McCracker gives Romeo Doubs, Rachaad White; Tuten the train gives Michael Wilson, Bucky Irving | CANCELED |
 | Thu Oct 01, 03:43 PM ET | the blind side | the blind side gives Kyle Pitts Sr., Kalif Raymond, Terry McLaurin, David Montgomery; Frizztards gives Trey McBride | CANCELED |
@@ -77,7 +77,7 @@ None visible.
 | Thu Sep 17, 02:15 PM ET | Big Papa | Thr Short Bus gives Emeka Egbuka; Big Papa gives Chuba Hubbard, Jaylen Waddle | CANCELED |
 | Wed Sep 16, 01:53 AM ET | Big Papa | Big Papa gives Chuba Hubbard, Christian Watson; Frizztards gives Josh Jacobs, Puka Nacua | CANCELED |
 | Wed Sep 16, 12:14 AM ET | The Ghee-talians | The Ghee-talians gives Hunter Henry, Davante Adams; Christian McCracker gives George Pickens, Sam LaPorta | CANCELED |
-| Wed Sep 16, 12:11 AM ET | The Ghee-talians | The Ghee-talians gives Josh Downs, Hunter Henry; Justin Her Tight End gives Dalton Kincaid, Jalen Coker | CANCELED |
+| Wed Sep 16, 12:11 AM ET | The Ghee-talians | The Ghee-talians gives Josh Downs, Hunter Henry; Murderapolis gives Dalton Kincaid, Jalen Coker | CANCELED |
 | Thu Sep 10, 12:02 AM ET | The Ghee-talians | The Ghee-talians gives Bucky Irving, Isaiah Likely; The Slim Reapers gives Travis Etienne Jr., Tucker Kraft | CANCELED |
 | Thu Sep 10, 12:00 AM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; the blind side gives Kyle Pitts Sr., Jeremiyah Love | CANCELED |
 | Wed Sep 09, 11:56 PM ET | The Ghee-talians | The Ghee-talians gives Isaiah Likely, Bucky Irving; Big Papa gives Kenneth Walker III, George Kittle | CANCELED |
@@ -91,6 +91,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Tue Nov 10, 07:31 PM ET | Big Papa | The Ghee-talians | went through Tue Nov 10, 07:58 PM ET |
 | Fri Nov 06, 03:22 PM ET | the blind side | Big Papa | went through Fri Nov 06, 04:00 PM ET |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
 | Wed Oct 28, 10:39 AM ET | Thr Short Bus | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
@@ -98,10 +99,10 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 | Tue Oct 27, 01:54 PM ET | GioDoesCokeOnKamara | Christian McCracker | went through Tue Oct 27, 02:04 PM ET |
 | Tue Oct 13, 03:26 PM ET | Baba Yaga Swede | the blind side | went through Wed Oct 14, 03:21 PM ET |
 | Tue Oct 13, 03:12 PM ET | Baba Yaga Swede |  | awaiting review |
-| Thu Oct 08, 07:33 PM ET | Justin Her Tight End | Big Papa | went through Thu Oct 08, 09:18 PM ET |
+| Thu Oct 08, 07:33 PM ET | Murderapolis | Big Papa | went through Thu Oct 08, 09:18 PM ET |
 | Wed Oct 07, 12:38 PM ET | Thr Short Bus | The Slim Reapers | went through Wed Oct 07, 12:45 PM ET |
 | Wed Sep 30, 11:27 AM ET | Tuten the train | the blind side | went through Wed Sep 30, 11:40 AM ET |
-| Wed Sep 30, 11:02 AM ET | Justin Her Tight End | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
+| Wed Sep 30, 11:02 AM ET | Murderapolis | GioDoesCokeOnKamara | went through Wed Sep 30, 11:09 AM ET |
 | Tue Sep 29, 05:18 PM ET | The Ghee-talians | Tuten the train | went through Tue Sep 29, 05:21 PM ET |
 | Tue Sep 29, 02:58 PM ET | The Slim Reapers | Baba Yaga Swede | went through Tue Sep 29, 03:35 PM ET |
 | Wed Sep 23, 05:06 PM ET | The Ghee-talians | the blind side | went through Thu Sep 24, 09:04 AM ET |
@@ -112,6 +113,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Tue Nov 10, 07:27 PM ET | Big Papa |
 | Fri Nov 06, 12:48 PM ET | Christian McCracker |
 | Wed Nov 04, 09:43 PM ET | Big Papa |
 | Wed Nov 04, 09:43 PM ET | Big Papa |
@@ -120,14 +122,14 @@ ESPN shows who declined and when, but not the players.
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
 | Sat Oct 31, 02:47 PM ET | Christian McCracker |
 | Sat Oct 31, 07:32 AM ET | The Ghee-talians |
-| Thu Oct 29, 10:18 PM ET | Justin Her Tight End |
+| Thu Oct 29, 10:18 PM ET | Murderapolis |
 | Wed Oct 28, 04:48 PM ET | Tuten the train |
 | Wed Oct 28, 04:48 PM ET | Tuten the train |
 | Tue Oct 27, 01:50 PM ET | Christian McCracker |
 | Sun Oct 25, 11:08 PM ET | The Slim Reapers |
 | Sun Oct 25, 10:39 PM ET | The Ghee-talians |
 | Thu Oct 22, 08:02 PM ET | Christian McCracker |
-| Tue Oct 20, 02:56 PM ET | Justin Her Tight End |
+| Tue Oct 20, 02:56 PM ET | Murderapolis |
 | Thu Oct 15, 03:23 PM ET | Big Papa |
 | Tue Oct 13, 04:16 PM ET | Big Papa |
 | Tue Oct 13, 04:09 PM ET | the blind side |
@@ -163,7 +165,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Nov 03, 05:46 PM ET | The Slim Reapers | Michael Penix Jr. | Justin Herbert |
 | Tue Nov 03, 05:38 PM ET | The Ghee-talians | TreVeyon Henderson | RJ Harvey |
 | Tue Oct 20, 01:25 PM ET | GioDoesCokeOnKamara | Panthers D/ST | Commanders D/ST |
-| Tue Oct 13, 04:48 PM ET | Justin Her Tight End | Colts D/ST | Cowboys D/ST |
+| Tue Oct 13, 04:48 PM ET | Murderapolis | Colts D/ST | Cowboys D/ST |
 | Fri Oct 02, 03:50 PM ET | Christian McCracker | Emanuel Wilson | Austin Ekeler |
 | Wed Sep 30, 12:18 AM ET | The Ghee-talians | Ollie Gordon II | De'Von Achane |
 | Wed Sep 30, 12:02 AM ET | The Ghee-talians | Braelon Allen | De'Von Achane |
@@ -178,6 +180,14 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_SENT | Luther Burden III | WR | CHI |
+| Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_RECEIVED | Luther Burden III | WR | CHI |
+| Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_SENT | Tetairoa McMillan | WR | CAR |
+| Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_RECEIVED | Tetairoa McMillan | WR | CAR |
+| Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_SENT | Jaylen Waddle | WR | DEN |
+| Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_RECEIVED | Jaylen Waddle | WR | DEN |
+| Tue Nov 10, 07:30 PM ET | Big Papa | DROPPED | Ryan Flournoy | WR | DAL |
+| Tue Nov 10, 07:29 PM ET | The Ghee-talians | DROPPED | Chris Godwin Jr. | WR | TB |
 | Sun Nov 08, 12:36 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
 | Sun Nov 08, 12:36 PM ET | The Slim Reapers | DROPPED | Shedeur Sanders | QB | CLE |
 | Sun Nov 08, 03:34 AM ET | the blind side | WAIVER ADDED | Caleb Douglas | WR | MIA |
@@ -206,8 +216,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | DROPPED | TreVeyon Henderson | RB | NE |
 | Wed Nov 04, 07:30 PM ET | Christian McCracker | DROPPED | Emanuel Wilson | RB | SEA |
-| Wed Nov 04, 05:00 PM ET | Justin Her Tight End | DROPPED | Woody Marks | RB | HOU |
-| Wed Nov 04, 05:00 PM ET | Justin Her Tight End | FA ADDED | Mike Washington Jr. | RB | LV |
+| Wed Nov 04, 05:00 PM ET | Murderapolis | DROPPED | Woody Marks | RB | HOU |
+| Wed Nov 04, 05:00 PM ET | Murderapolis | FA ADDED | Mike Washington Jr. | RB | LV |
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | FA ADDED | Joe Milton | QB | PHI |
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | DROPPED | Sam Darnold | QB | SEA |
 | Wed Nov 04, 03:38 PM ET | GioDoesCokeOnKamara | FA ADDED | Drew Stevens | K | WSH |
@@ -222,13 +232,13 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 11:15 AM ET | The Slim Reapers | FA ADDED | Caleb Douglas | WR | MIA |
 | Wed Nov 04, 11:13 AM ET | The Slim Reapers | FA ADDED | TreVeyon Henderson | RB | NE |
 | Wed Nov 04, 11:13 AM ET | The Slim Reapers | DROPPED | Aaron Jones Sr. | RB | MIN |
-| Wed Nov 04, 10:04 AM ET | Justin Her Tight End | FA ADDED | Lions D/ST | D/ST | DET |
-| Wed Nov 04, 10:04 AM ET | Justin Her Tight End | DROPPED | Giants D/ST | D/ST | NYG |
+| Wed Nov 04, 10:04 AM ET | Murderapolis | FA ADDED | Lions D/ST | D/ST | DET |
+| Wed Nov 04, 10:04 AM ET | Murderapolis | DROPPED | Giants D/ST | D/ST | NYG |
 | Wed Nov 04, 09:32 AM ET | the blind side | DROPPED | Kenyon Sadiq | TE | NYJ |
 | Wed Nov 04, 09:32 AM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
 | Wed Nov 04, 09:31 AM ET | the blind side | DROPPED | Bam Knight | RB | ARI |
 | Wed Nov 04, 09:31 AM ET | the blind side | FA ADDED | Kaelon Black | RB | SF |
-| Wed Nov 04, 09:28 AM ET | Justin Her Tight End | DROPPED | J.K. Dobbins | RB | DEN |
+| Wed Nov 04, 09:28 AM ET | Murderapolis | DROPPED | J.K. Dobbins | RB | DEN |
 | Wed Nov 04, 04:01 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
 | Wed Nov 04, 04:01 AM ET | Big Papa | DROPPED | Seth McGowan | RB | IND |
 | Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Michael Penix Jr. | QB | ATL |
@@ -245,13 +255,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | FA ADDED | Rico Dowdle | RB | PIT |
 | Sat Oct 31, 09:31 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
 | Sat Oct 31, 09:31 AM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
-| Fri Oct 30, 06:22 PM ET | Justin Her Tight End | DROPPED | Jaydon Blue | RB | PHI |
-| Fri Oct 30, 06:22 PM ET | Justin Her Tight End | FA ADDED | J.K. Dobbins | RB | DEN |
+| Fri Oct 30, 06:22 PM ET | Murderapolis | DROPPED | Jaydon Blue | RB | None |
+| Fri Oct 30, 06:22 PM ET | Murderapolis | FA ADDED | J.K. Dobbins | RB | DEN |
 | Fri Oct 30, 02:01 PM ET | the blind side | FA ADDED | Kenyon Sadiq | TE | NYJ |
 | Fri Oct 30, 02:01 PM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
-| Fri Oct 30, 02:00 PM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
-| Fri Oct 30, 02:00 PM ET | the blind side | DROPPED | Jake Ferguson | TE | DAL |
-| Fri Oct 30, 01:52 PM ET | Big Papa | DROPPED | Christian Kirk | WR | SF |
-| Fri Oct 30, 01:52 PM ET | Big Papa | FA ADDED | Ryan Flournoy | WR | DAL |
-| Fri Oct 30, 01:38 PM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
-| Fri Oct 30, 01:38 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
