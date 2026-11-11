@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 11 2026, 12:59 AM ET · NFL week 10 · The Re-Todds
+Updated: Wed Nov 11 2026, 09:06 AM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -180,6 +180,22 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 11, 07:23 AM ET | Murderapolis | FA ADDED | Giants D/ST | D/ST | NYG |
+| Wed Nov 11, 07:23 AM ET | Murderapolis | DROPPED | Lions D/ST | D/ST | DET |
+| Wed Nov 11, 03:45 AM ET | Big Papa | DROPPED | Malik Willis | QB | MIA |
+| Wed Nov 11, 03:45 AM ET | Big Papa | FA ADDED | Carson Beck | QB | ARI |
+| Wed Nov 11, 03:44 AM ET | Big Papa | FA ADDED | Kaleb Johnson | RB | GB |
+| Wed Nov 11, 03:44 AM ET | Big Papa | FA ADDED | Xavier Hutchinson | WR | HOU |
+| Wed Nov 11, 03:18 AM ET | Tuten the train | DROPPED | Michael Wilson | WR | ARI |
+| Wed Nov 11, 03:18 AM ET | Tuten the train | WAIVER ADDED | Wan'Dale Robinson | WR | TEN |
+| Wed Nov 11, 03:18 AM ET | The Slim Reapers | DROPPED | Devin Singletary | RB | NYG |
+| Wed Nov 11, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
+| Wed Nov 11, 03:18 AM ET | Tuten the train | DROPPED | Mason Taylor | TE | NYJ |
+| Wed Nov 11, 03:18 AM ET | Tuten the train | WAIVER ADDED | Darren Waller | TE | CAR |
+| Wed Nov 11, 03:18 AM ET | Murderapolis | WAIVER ADDED | Mack Hollins | WR | NE |
+| Wed Nov 11, 03:18 AM ET | Murderapolis | DROPPED | Treylon Burks | WR | WSH |
+| Wed Nov 11, 03:18 AM ET | Frizztards | DROPPED | Khalil Shakir | WR | BUF |
+| Wed Nov 11, 03:18 AM ET | Frizztards | WAIVER ADDED | Tank Dell | WR | HOU |
 | Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_SENT | Luther Burden III | WR | CHI |
 | Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_RECEIVED | Luther Burden III | WR | CHI |
 | Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_SENT | Tetairoa McMillan | WR | CAR |
@@ -244,18 +260,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Michael Penix Jr. | QB | ATL |
 | Wed Nov 04, 04:00 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
 | Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Bo Nix | QB | DEN |
-| Tue Nov 03, 02:49 PM ET | The Slim Reapers | DROPPED | Tre' Harris | WR | LAC |
-| Tue Nov 03, 02:49 PM ET | The Slim Reapers | DROPPED | Quentin Johnston | WR | LAC |
-| Sun Nov 01, 03:37 PM ET | The Slim Reapers | FA ADDED | Quentin Johnston | WR | LAC |
-| Sun Nov 01, 03:37 PM ET | The Slim Reapers | DROPPED | DeMario Douglas | WR | NE |
-| Sun Nov 01, 12:33 PM ET | The Slim Reapers | FA ADDED | Tre' Harris | WR | LAC |
-| Sun Nov 01, 12:33 PM ET | The Slim Reapers | DROPPED | Tank Dell | WR | HOU |
-| Sun Nov 01, 11:13 AM ET | The Slim Reapers | FA ADDED | Tank Dell | WR | HOU |
-| Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | DROPPED | TreVeyon Henderson | RB | NE |
-| Sun Nov 01, 06:20 AM ET | Brock Hard for TDs | FA ADDED | Rico Dowdle | RB | PIT |
-| Sat Oct 31, 09:31 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
-| Sat Oct 31, 09:31 AM ET | the blind side | DROPPED | Caleb Douglas | WR | MIA |
-| Fri Oct 30, 06:22 PM ET | Murderapolis | DROPPED | Jaydon Blue | RB | None |
-| Fri Oct 30, 06:22 PM ET | Murderapolis | FA ADDED | J.K. Dobbins | RB | DEN |
-| Fri Oct 30, 02:01 PM ET | the blind side | FA ADDED | Kenyon Sadiq | TE | NYJ |
-| Fri Oct 30, 02:01 PM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
