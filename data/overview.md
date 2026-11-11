@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Nov 11 2026, 09:06 AM ET · NFL week 10 · The Re-Todds
+Updated: Wed Nov 11 2026, 04:22 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -8,15 +8,15 @@ Updated: Wed Nov 11 2026, 09:06 AM ET · NFL week 10 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 8-1-0 | 1234.7 | 986.5 | W2 | 1 | 99.9 | 1 | 23 | 3 | 52 |
-| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.7 | 3 | 22 | 4 | 85 |
+| 1 | Big Papa | Alex | East | 8-1-0 | 1234.7 | 986.5 | W2 | 1 | 99.9 | 1 | 25 | 3 | 52 |
+| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.7 | 3 | 24 | 4 | 86 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 7-2-0 | 1201.0 | 823.1 | W3 | 7 | 99.5 | 2 | 10 | 1 | 40 |
 | 4 | The Ghee-talians | Christian | East | 6-3-0 | 1169.2 | 1125.5 | W1 | 5 | 95.6 | 4 | 14 | 3 | 71 |
 | 5 | Baba Yaga Swede | Victor | East | 5-4-0 | 1123.2 | 1067.7 | L1 | 3 | 83.2 | 5 | 3 | 3 | 33 |
 | 6 | Frizztards | Spencer | West | 4-5-0 | 1108.8 | 1026.0 | L2 | 9 | 35.4 | 6 | 5 | 0 | 20 |
-| 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 12 | 25.3 | 7 | 19 | 3 | 55 |
+| 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 12 | 25.3 | 7 | 19 | 3 | 56 |
 | 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 11 | 14.8 | 10 | 31 | 2 | 133 |
-| 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 20.7 | 9 | 3 | 3 | 41 |
+| 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 20.7 | 9 | 3 | 3 | 42 |
 | 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 20.3 | 8 | 26 | 2 | 104 |
 | 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 1.3 | 12 | 16 | 3 | 47 |
 | 12 | Christian McCracker | devin | East | 2-7-0 | 934.0 | 1008.1 | L3 | 6 | 5.2 | 11 | 10 | 1 | 75 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 0.0 | 108.28 | vs | Frizztards | 0.0 | 67.28 |
-| Christian McCracker | 0.0 | 104.11 | vs | the blind side | 0.0 | 112.28 |
-| Baba Yaga Swede | 0.0 | 114.94 | vs | GioDoesCokeOnKamara | 0.0 | 86.88 |
-| The Ghee-talians | 0.0 | 133.14 | vs | Brock Hard for TDs | 0.0 | 137.28 |
-| Big Papa | 0.0 | 134.68 | vs | Tuten the train | 0.0 | 112.1 |
-| The Slim Reapers | 0.0 | 114.25 | vs | Murderapolis | 0.0 | 120.13 |
+| Thr Short Bus | 0.0 | 100.45 | vs | Frizztards | 0.0 | 67.29 |
+| Christian McCracker | 0.0 | 104.11 | vs | the blind side | 0.0 | 111.29 |
+| Baba Yaga Swede | 0.0 | 114.93 | vs | GioDoesCokeOnKamara | 0.0 | 86.87 |
+| The Ghee-talians | 0.0 | 133.15 | vs | Brock Hard for TDs | 0.0 | 137.26 |
+| Big Papa | 0.0 | 134.7 | vs | Tuten the train | 0.0 | 110.82 |
+| The Slim Reapers | 0.0 | 114.27 | vs | Murderapolis | 0.0 | 120.14 |
 
 ## My schedule
 

@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 11 2026, 09:06 AM ET · NFL week 10 · The Re-Todds
+Updated: Wed Nov 11 2026, 04:22 PM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -180,6 +180,13 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 11, 01:59 PM ET | Big Papa | FA ADDED | Jonathon Brooks | RB | CAR |
+| Wed Nov 11, 01:59 PM ET | Big Papa | DROPPED | Rico Dowdle | RB | PIT |
+| Wed Nov 11, 10:30 AM ET | the blind side | DROPPED | Greg Dulcich | TE | MIA |
+| Wed Nov 11, 10:30 AM ET | the blind side | FA ADDED | AJ Barner | TE | SEA |
+| Wed Nov 11, 10:19 AM ET | Big Papa | FA ADDED | Rico Dowdle | RB | PIT |
+| Wed Nov 11, 10:19 AM ET | Big Papa | DROPPED | Kaleb Johnson | RB | GB |
+| Wed Nov 11, 09:16 AM ET | the blind side | FA ADDED | Fernando Mendoza | QB | LV |
 | Wed Nov 11, 07:23 AM ET | Murderapolis | FA ADDED | Giants D/ST | D/ST | NYG |
 | Wed Nov 11, 07:23 AM ET | Murderapolis | DROPPED | Lions D/ST | D/ST | DET |
 | Wed Nov 11, 03:45 AM ET | Big Papa | DROPPED | Malik Willis | QB | MIA |
@@ -254,9 +261,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 09:32 AM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
 | Wed Nov 04, 09:31 AM ET | the blind side | DROPPED | Bam Knight | RB | ARI |
 | Wed Nov 04, 09:31 AM ET | the blind side | FA ADDED | Kaelon Black | RB | SF |
-| Wed Nov 04, 09:28 AM ET | Murderapolis | DROPPED | J.K. Dobbins | RB | DEN |
-| Wed Nov 04, 04:01 AM ET | Big Papa | FA ADDED | Emmett Johnson | RB | KC |
-| Wed Nov 04, 04:01 AM ET | Big Papa | DROPPED | Seth McGowan | RB | IND |
-| Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Michael Penix Jr. | QB | ATL |
-| Wed Nov 04, 04:00 AM ET | The Slim Reapers | DROPPED | Justin Herbert | QB | LAC |
-| Wed Nov 04, 04:00 AM ET | The Slim Reapers | WAIVER ADDED | Bo Nix | QB | DEN |
