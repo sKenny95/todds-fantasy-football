@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 11 2026, 04:22 PM ET · NFL week 10 · The Re-Todds
+Updated: Wed Nov 11 2026, 09:53 PM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -180,6 +180,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | FA ADDED | Kaleb Johnson | RB | GB |
+| Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | None |
 | Wed Nov 11, 01:59 PM ET | Big Papa | FA ADDED | Jonathon Brooks | RB | CAR |
 | Wed Nov 11, 01:59 PM ET | Big Papa | DROPPED | Rico Dowdle | RB | PIT |
 | Wed Nov 11, 10:30 AM ET | the blind side | DROPPED | Greg Dulcich | TE | MIA |
@@ -259,5 +261,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 10:04 AM ET | Murderapolis | DROPPED | Giants D/ST | D/ST | NYG |
 | Wed Nov 04, 09:32 AM ET | the blind side | DROPPED | Kenyon Sadiq | TE | NYJ |
 | Wed Nov 04, 09:32 AM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
-| Wed Nov 04, 09:31 AM ET | the blind side | DROPPED | Bam Knight | RB | ARI |
-| Wed Nov 04, 09:31 AM ET | the blind side | FA ADDED | Kaelon Black | RB | SF |
