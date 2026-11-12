@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 11 2026, 09:53 PM ET · NFL week 10 · The Re-Todds
+Updated: Thu Nov 12 2026, 05:55 AM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -113,6 +113,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Wed Nov 11, 09:58 PM ET | The Ghee-talians |
 | Tue Nov 10, 07:27 PM ET | Big Papa |
 | Fri Nov 06, 12:48 PM ET | Christian McCracker |
 | Wed Nov 04, 09:43 PM ET | Big Papa |
@@ -180,6 +181,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 12, 12:13 AM ET | The Ghee-talians | DROPPED | Joe Milton | QB | PHI |
+| Thu Nov 12, 12:13 AM ET | The Ghee-talians | FA ADDED | Baker Mayfield | QB | TB |
 | Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | FA ADDED | Kaleb Johnson | RB | GB |
 | Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | None |
 | Wed Nov 11, 01:59 PM ET | Big Papa | FA ADDED | Jonathon Brooks | RB | CAR |
@@ -259,5 +262,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 11:13 AM ET | The Slim Reapers | DROPPED | Aaron Jones Sr. | RB | MIN |
 | Wed Nov 04, 10:04 AM ET | Murderapolis | FA ADDED | Lions D/ST | D/ST | DET |
 | Wed Nov 04, 10:04 AM ET | Murderapolis | DROPPED | Giants D/ST | D/ST | NYG |
-| Wed Nov 04, 09:32 AM ET | the blind side | DROPPED | Kenyon Sadiq | TE | NYJ |
-| Wed Nov 04, 09:32 AM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
