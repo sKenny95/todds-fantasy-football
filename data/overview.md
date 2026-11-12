@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Nov 12 2026, 05:55 AM ET · NFL week 10 · The Re-Todds
+Updated: Thu Nov 12 2026, 01:50 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -18,7 +18,7 @@ Updated: Thu Nov 12 2026, 05:55 AM ET · NFL week 10 · The Re-Todds
 | 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 11 | 14.2 | 10 | 31 | 2 | 133 |
 | 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 21.1 | 8 | 3 | 3 | 42 |
 | 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 18.8 | 9 | 26 | 2 | 104 |
-| 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 1.4 | 12 | 17 | 3 | 48 |
+| 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 1.4 | 12 | 17 | 3 | 51 |
 | 12 | Christian McCracker | devin | East | 2-7-0 | 934.0 | 1008.1 | L3 | 6 | 5.2 | 11 | 10 | 1 | 75 |
 
 ## Week 10 matchups
@@ -27,9 +27,9 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 0.0 | 100.45 | vs | Frizztards | 0.0 | 67.29 |
+| Thr Short Bus | 0.0 | 112.01 | vs | Frizztards | 0.0 | 67.29 |
 | Christian McCracker | 0.0 | 104.11 | vs | the blind side | 0.0 | 112.43 |
-| Baba Yaga Swede | 0.0 | 118.46 | vs | GioDoesCokeOnKamara | 0.0 | 88.54 |
+| Baba Yaga Swede | 0.0 | 118.46 | vs | GioDoesCokeOnKamara | 0.0 | 103.12 |
 | The Ghee-talians | 0.0 | 133.15 | vs | Brock Hard for TDs | 0.0 | 137.26 |
 | Big Papa | 0.0 | 134.7 | vs | Tuten the train | 0.0 | 110.82 |
 | The Slim Reapers | 0.0 | 114.27 | vs | Murderapolis | 0.0 | 120.14 |
