@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 13 2026, 11:12 AM ET · NFL week 10 · The Re-Todds
+Updated: Fri Nov 13 2026, 05:32 PM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 13, 04:47 PM ET | Murderapolis | DROPPED | Cairo Santos | K | CHI |
+| Fri Nov 13, 04:47 PM ET | Murderapolis | FA ADDED | Jason Sanders | K | NYJ |
+| Fri Nov 13, 04:44 PM ET | Murderapolis | FA ADDED | Tutu Atwell | WR | LAR |
+| Fri Nov 13, 04:44 PM ET | Murderapolis | DROPPED | Mack Hollins | WR | NE |
+| Fri Nov 13, 04:27 PM ET | Murderapolis | DROPPED | Marvin Harrison Jr. | WR | HOU |
+| Fri Nov 13, 04:27 PM ET | Murderapolis | FA ADDED | Quentin Johnston | WR | LAC |
 | Fri Nov 13, 10:55 AM ET | Frizztards | FA ADDED | Rico Dowdle | RB | PIT |
 | Thu Nov 12, 11:24 PM ET | The Ghee-talians | FA ADDED | Panthers D/ST | D/ST | CAR |
 | Thu Nov 12, 11:24 PM ET | The Ghee-talians | DROPPED | Falcons D/ST | D/ST | ATL |
@@ -256,9 +262,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | FA ADDED | Joe Milton | QB | PHI |
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | DROPPED | Sam Darnold | QB | SEA |
 | Wed Nov 04, 03:38 PM ET | GioDoesCokeOnKamara | FA ADDED | Drew Stevens | K | WSH |
-| Wed Nov 04, 12:40 PM ET | the blind side | FA ADDED | Greg Dulcich | TE | MIA |
-| Wed Nov 04, 12:40 PM ET | the blind side | DROPPED | Mike Gesicki | TE | CIN |
-| Wed Nov 04, 12:38 PM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
-| Wed Nov 04, 12:38 PM ET | the blind side | DROPPED | Greg Dulcich | TE | MIA |
-| Wed Nov 04, 12:31 PM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
-| Wed Nov 04, 12:31 PM ET | The Slim Reapers | FA ADDED | Cam Ward | QB | TEN |

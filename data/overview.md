@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Fri Nov 13 2026, 11:12 AM ET · NFL week 10 · The Re-Todds
+Updated: Fri Nov 13 2026, 05:32 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -15,9 +15,9 @@ Updated: Fri Nov 13 2026, 11:12 AM ET · NFL week 10 · The Re-Todds
 | 5 | Baba Yaga Swede | Victor | East | 5-4-0 | 1123.2 | 1067.7 | L1 | 3 | 84.0 | 5 | 3 | 3 | 35 |
 | 6 | Frizztards | Spencer | West | 4-5-0 | 1108.8 | 1026.0 | L2 | 9 | 31.9 | 6 | 6 | 0 | 25 |
 | 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 12 | 26.4 | 7 | 19 | 3 | 58 |
-| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 11 | 14.9 | 10 | 33 | 2 | 138 |
+| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 11 | 14.9 | 10 | 33 | 2 | 139 |
 | 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 23.3 | 8 | 3 | 3 | 42 |
-| 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 19.2 | 9 | 26 | 2 | 104 |
+| 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 19.2 | 9 | 29 | 2 | 106 |
 | 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 1.2 | 12 | 17 | 3 | 51 |
 | 12 | Christian McCracker | devin | East | 2-7-0 | 934.0 | 1008.1 | L3 | 6 | 4.8 | 11 | 10 | 1 | 75 |
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 47.5 | 137.19 | vs | Frizztards | 0.0 | 107.52 |
-| Christian McCracker | 0.0 | 116.64 | vs | the blind side | 0.0 | 111.78 |
-| Baba Yaga Swede | 20.76 | 120.57 | vs | GioDoesCokeOnKamara | 7.0 | 101.35 |
-| The Ghee-talians | 35.1 | 139.32 | vs | Brock Hard for TDs | 0.0 | 137.25 |
-| Big Papa | 0.0 | 134.65 | vs | Tuten the train | 0.0 | 112.13 |
-| The Slim Reapers | 0.0 | 108.79 | vs | Murderapolis | 5.0 | 118.6 |
+| Thr Short Bus | 47.5 | 138.0 | vs | Frizztards | 0.0 | 109.22 |
+| Christian McCracker | 0.0 | 116.12 | vs | the blind side | 0.0 | 111.44 |
+| Baba Yaga Swede | 20.76 | 120.56 | vs | GioDoesCokeOnKamara | 7.0 | 99.61 |
+| The Ghee-talians | 35.1 | 139.34 | vs | Brock Hard for TDs | 0.0 | 132.61 |
+| Big Papa | 0.0 | 134.63 | vs | Tuten the train | 0.0 | 112.3 |
+| The Slim Reapers | 0.0 | 106.49 | vs | Murderapolis | 5.0 | 115.93 |
 
 ## My schedule
 
