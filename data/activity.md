@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Nov 12 2026, 07:12 PM ET · NFL week 10 · The Re-Todds
+Updated: Fri Nov 13 2026, 02:51 AM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 12, 11:24 PM ET | The Ghee-talians | FA ADDED | Panthers D/ST | D/ST | CAR |
+| Thu Nov 12, 11:24 PM ET | The Ghee-talians | DROPPED | Falcons D/ST | D/ST | ATL |
+| Thu Nov 12, 07:55 PM ET | The Slim Reapers | DROPPED | Rico Dowdle | RB | PIT |
+| Thu Nov 12, 07:55 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
+| Thu Nov 12, 07:21 PM ET | The Slim Reapers | DROPPED | Corey Kiner | RB | NE |
+| Thu Nov 12, 07:21 PM ET | The Slim Reapers | FA ADDED | Rico Dowdle | RB | PIT |
 | Thu Nov 12, 12:13 AM ET | The Ghee-talians | DROPPED | Joe Milton | QB | PHI |
 | Thu Nov 12, 12:13 AM ET | The Ghee-talians | FA ADDED | Baker Mayfield | QB | TB |
 | Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | FA ADDED | Kaleb Johnson | RB | GB |
@@ -257,8 +263,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 12:31 PM ET | The Slim Reapers | FA ADDED | Cam Ward | QB | TEN |
 | Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | FA ADDED | Adonai Mitchell | WR | NYJ |
 | Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | DROPPED | Kendrick Bourne | WR | ARI |
-| Wed Nov 04, 11:15 AM ET | The Slim Reapers | FA ADDED | Caleb Douglas | WR | MIA |
-| Wed Nov 04, 11:13 AM ET | The Slim Reapers | FA ADDED | TreVeyon Henderson | RB | NE |
-| Wed Nov 04, 11:13 AM ET | The Slim Reapers | DROPPED | Aaron Jones Sr. | RB | MIN |
-| Wed Nov 04, 10:04 AM ET | Murderapolis | FA ADDED | Lions D/ST | D/ST | DET |
-| Wed Nov 04, 10:04 AM ET | Murderapolis | DROPPED | Giants D/ST | D/ST | NYG |
