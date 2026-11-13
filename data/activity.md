@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 13 2026, 02:51 AM ET · NFL week 10 · The Re-Todds
+Updated: Fri Nov 13 2026, 11:12 AM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 13, 10:55 AM ET | Frizztards | FA ADDED | Rico Dowdle | RB | PIT |
 | Thu Nov 12, 11:24 PM ET | The Ghee-talians | FA ADDED | Panthers D/ST | D/ST | CAR |
 | Thu Nov 12, 11:24 PM ET | The Ghee-talians | DROPPED | Falcons D/ST | D/ST | ATL |
 | Thu Nov 12, 07:55 PM ET | The Slim Reapers | DROPPED | Rico Dowdle | RB | PIT |
@@ -261,5 +262,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 12:38 PM ET | the blind side | DROPPED | Greg Dulcich | TE | MIA |
 | Wed Nov 04, 12:31 PM ET | The Slim Reapers | DROPPED | Michael Penix Jr. | QB | ATL |
 | Wed Nov 04, 12:31 PM ET | The Slim Reapers | FA ADDED | Cam Ward | QB | TEN |
-| Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | FA ADDED | Adonai Mitchell | WR | NYJ |
-| Wed Nov 04, 11:28 AM ET | Brock Hard for TDs | DROPPED | Kendrick Bourne | WR | ARI |
