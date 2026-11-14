@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 13 2026, 10:06 PM ET · NFL week 10 · The Re-Todds
+Updated: Sat Nov 14 2026, 05:15 AM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sat Nov 14, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
+| Sat Nov 14, 03:18 AM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
 | Fri Nov 13, 04:47 PM ET | Murderapolis | DROPPED | Cairo Santos | K | CHI |
 | Fri Nov 13, 04:47 PM ET | Murderapolis | FA ADDED | Jason Sanders | K | NYJ |
 | Fri Nov 13, 04:44 PM ET | Murderapolis | FA ADDED | Tutu Atwell | WR | LAR |
@@ -261,4 +263,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 05:00 PM ET | Murderapolis | FA ADDED | Mike Washington Jr. | RB | LV |
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | FA ADDED | Joe Milton | QB | PHI |
 | Wed Nov 04, 04:18 PM ET | The Ghee-talians | DROPPED | Sam Darnold | QB | SEA |
-| Wed Nov 04, 03:38 PM ET | GioDoesCokeOnKamara | FA ADDED | Drew Stevens | K | WSH |
