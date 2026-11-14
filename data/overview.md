@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Nov 14 2026, 05:15 AM ET · NFL week 10 · The Re-Todds
+Updated: Sat Nov 14 2026, 12:00 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -8,8 +8,8 @@ Updated: Sat Nov 14 2026, 05:15 AM ET · NFL week 10 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 8-1-0 | 1234.7 | 986.5 | W2 | 1 | 100.0 | 1 | 25 | 3 | 52 |
-| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.9 | 3 | 24 | 4 | 89 |
+| 1 | Big Papa | Alex | East | 8-1-0 | 1234.7 | 986.5 | W2 | 1 | 100.0 | 1 | 25 | 3 | 53 |
+| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.9 | 3 | 24 | 4 | 94 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 7-2-0 | 1201.0 | 823.1 | W3 | 7 | 99.6 | 2 | 10 | 1 | 40 |
 | 4 | The Ghee-talians | Christian | East | 6-3-0 | 1169.2 | 1125.5 | W1 | 5 | 95.8 | 4 | 16 | 3 | 71 |
 | 5 | Baba Yaga Swede | Victor | East | 5-4-0 | 1123.2 | 1067.7 | L1 | 3 | 84.6 | 5 | 3 | 3 | 35 |
@@ -28,10 +28,10 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Thr Short Bus | 47.5 | 138.0 | vs | Frizztards | 0.0 | 109.22 |
-| Christian McCracker | 0.0 | 116.12 | vs | the blind side | 0.0 | 111.44 |
+| Christian McCracker | 0.0 | 116.12 | vs | the blind side | 0.0 | 110.3 |
 | Baba Yaga Swede | 20.76 | 120.56 | vs | GioDoesCokeOnKamara | 7.0 | 99.61 |
 | The Ghee-talians | 35.1 | 139.34 | vs | Brock Hard for TDs | 0.0 | 132.61 |
-| Big Papa | 0.0 | 134.63 | vs | Tuten the train | 0.0 | 112.3 |
+| Big Papa | 0.0 | 114.93 | vs | Tuten the train | 0.0 | 112.3 |
 | The Slim Reapers | 0.0 | 106.49 | vs | Murderapolis | 5.0 | 115.93 |
 
 ## My schedule
