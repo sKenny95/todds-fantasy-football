@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Nov 14 2026, 12:00 PM ET · NFL week 10 · The Re-Todds
+Updated: Sat Nov 14 2026, 04:23 PM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sat Nov 14, 02:25 PM ET | Murderapolis | DROPPED | Quentin Johnston | WR | LAC |
+| Sat Nov 14, 02:25 PM ET | Murderapolis | FA ADDED | Khalil Shakir | WR | BUF |
 | Sat Nov 14, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
 | Sat Nov 14, 03:18 AM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
 | Fri Nov 13, 04:47 PM ET | Murderapolis | DROPPED | Cairo Santos | K | CHI |
@@ -261,5 +263,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 04, 07:30 PM ET | Christian McCracker | DROPPED | Emanuel Wilson | RB | SEA |
 | Wed Nov 04, 05:00 PM ET | Murderapolis | DROPPED | Woody Marks | RB | HOU |
 | Wed Nov 04, 05:00 PM ET | Murderapolis | FA ADDED | Mike Washington Jr. | RB | LV |
-| Wed Nov 04, 04:18 PM ET | The Ghee-talians | FA ADDED | Joe Milton | QB | PHI |
-| Wed Nov 04, 04:18 PM ET | The Ghee-talians | DROPPED | Sam Darnold | QB | SEA |
