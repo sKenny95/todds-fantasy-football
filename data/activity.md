@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sun Nov 15 2026, 04:14 AM ET · NFL week 10 · The Re-Todds
+Updated: Sun Nov 15 2026, 12:00 PM ET · NFL week 10 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sun Nov 15, 09:31 AM ET | The Slim Reapers | FA ADDED | MarShawn Lloyd | RB | GB |
+| Sun Nov 15, 09:20 AM ET | The Slim Reapers | DROPPED | Corey Kiner | RB | NE |
 | Sat Nov 14, 02:25 PM ET | Murderapolis | DROPPED | Quentin Johnston | WR | LAC |
 | Sat Nov 14, 02:25 PM ET | Murderapolis | FA ADDED | Khalil Shakir | WR | BUF |
 | Sat Nov 14, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
@@ -260,6 +262,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Nov 05, 07:32 PM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 05, 12:25 PM ET | The Slim Reapers | DROPPED | TreVeyon Henderson | RB | NE |
-| Wed Nov 04, 07:30 PM ET | Christian McCracker | DROPPED | Emanuel Wilson | RB | SEA |
-| Wed Nov 04, 05:00 PM ET | Murderapolis | DROPPED | Woody Marks | RB | HOU |
-| Wed Nov 04, 05:00 PM ET | Murderapolis | FA ADDED | Mike Washington Jr. | RB | LV |

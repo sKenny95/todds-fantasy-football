@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Nov 15 2026, 04:14 AM ET · NFL week 10 · The Re-Todds
+Updated: Sun Nov 15 2026, 12:00 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -9,13 +9,13 @@ Updated: Sun Nov 15 2026, 04:14 AM ET · NFL week 10 · The Re-Todds
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 8-1-0 | 1234.7 | 986.5 | W2 | 1 | 100.0 | 1 | 25 | 3 | 53 |
-| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.8 | 3 | 24 | 4 | 95 |
+| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.8 | 3 | 24 | 4 | 96 |
 | 3 | Brock Hard for TDs **(me)** | Sina | West | 7-2-0 | 1201.0 | 823.1 | W3 | 7 | 99.3 | 2 | 10 | 1 | 40 |
 | 4 | The Ghee-talians | Christian | East | 6-3-0 | 1169.2 | 1125.5 | W1 | 5 | 96.4 | 4 | 16 | 3 | 71 |
 | 5 | Baba Yaga Swede | Victor | East | 5-4-0 | 1123.2 | 1067.7 | L1 | 3 | 83.2 | 5 | 3 | 3 | 35 |
 | 6 | Frizztards | Spencer | West | 4-5-0 | 1108.8 | 1026.0 | L2 | 9 | 34.0 | 6 | 6 | 0 | 25 |
 | 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 11 | 27.8 | 7 | 19 | 3 | 58 |
-| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 12 | 14.1 | 10 | 34 | 2 | 141 |
+| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 12 | 14.1 | 10 | 35 | 2 | 142 |
 | 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 22.0 | 8 | 3 | 3 | 42 |
 | 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 18.6 | 9 | 30 | 2 | 107 |
 | 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 1.0 | 12 | 17 | 3 | 51 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 47.5 | 138.01 | vs | Frizztards | 0.0 | 109.44 |
-| Christian McCracker | 0.0 | 116.12 | vs | the blind side | 0.0 | 110.47 |
+| Thr Short Bus | 47.5 | 126.57 | vs | Frizztards | 4.7 | 105.07 |
+| Christian McCracker | 10.32 | 86.41 | vs | the blind side | 0.0 | 111.62 |
 | Baba Yaga Swede | 20.76 | 120.57 | vs | GioDoesCokeOnKamara | 7.0 | 99.61 |
-| The Ghee-talians | 35.1 | 139.24 | vs | Brock Hard for TDs | 0.0 | 137.94 |
-| Big Papa | 0.0 | 125.0 | vs | Tuten the train | 0.0 | 112.8 |
-| The Slim Reapers | 0.0 | 108.7 | vs | Murderapolis | 5.0 | 115.67 |
+| The Ghee-talians | 35.1 | 139.24 | vs | Brock Hard for TDs | 33.5 | 153.54 |
+| Big Papa | 25.8 | 135.54 | vs | Tuten the train | 0.0 | 112.8 |
+| The Slim Reapers | 1.4 | 100.23 | vs | Murderapolis | 5.0 | 115.67 |
 
 ## My schedule
 
