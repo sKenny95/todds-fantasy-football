@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sun Nov 15 2026, 12:00 PM ET · NFL week 10 · The Re-Todds
+Updated: Sun Nov 15 2026, 02:24 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 47.5 | 126.57 | vs | Frizztards | 4.7 | 105.07 |
-| Christian McCracker | 10.32 | 86.41 | vs | the blind side | 0.0 | 111.62 |
-| Baba Yaga Swede | 20.76 | 120.57 | vs | GioDoesCokeOnKamara | 7.0 | 99.61 |
-| The Ghee-talians | 35.1 | 139.24 | vs | Brock Hard for TDs | 33.5 | 153.54 |
-| Big Papa | 25.8 | 135.54 | vs | Tuten the train | 0.0 | 112.8 |
-| The Slim Reapers | 1.4 | 100.23 | vs | Murderapolis | 5.0 | 115.67 |
+| Thr Short Bus | 71.1 | 117.78 | vs | Frizztards | 15.2 | 100.15 |
+| Christian McCracker | 20.72 | 78.33 | vs | the blind side | 22.56 | 113.74 |
+| Baba Yaga Swede | 48.46 | 123.19 | vs | GioDoesCokeOnKamara | 22.14 | 85.7 |
+| The Ghee-talians | 80.34 | 136.64 | vs | Brock Hard for TDs | 100.36 | 178.42 |
+| Big Papa | 75.2 | 138.9 | vs | Tuten the train | 21.84 | 90.28 |
+| The Slim Reapers | 16.3 | 86.76 | vs | Murderapolis | 24.84 | 106.35 |
 
 ## My schedule
 
