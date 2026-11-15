@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Nov 14 2026, 04:23 PM ET · NFL week 10 · The Re-Todds
+Updated: Sat Nov 14 2026, 08:48 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -15,7 +15,7 @@ Updated: Sat Nov 14 2026, 04:23 PM ET · NFL week 10 · The Re-Todds
 | 5 | Baba Yaga Swede | Victor | East | 5-4-0 | 1123.2 | 1067.7 | L1 | 3 | 84.6 | 5 | 3 | 3 | 35 |
 | 6 | Frizztards | Spencer | West | 4-5-0 | 1108.8 | 1026.0 | L2 | 9 | 35.0 | 6 | 6 | 0 | 25 |
 | 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 11 | 25.3 | 7 | 19 | 3 | 58 |
-| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 12 | 14.3 | 10 | 34 | 2 | 139 |
+| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 12 | 14.3 | 10 | 34 | 2 | 141 |
 | 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 22.5 | 8 | 3 | 3 | 42 |
 | 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 19.0 | 9 | 30 | 2 | 107 |
 | 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 0.9 | 12 | 17 | 3 | 51 |
@@ -32,7 +32,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Baba Yaga Swede | 20.76 | 120.57 | vs | GioDoesCokeOnKamara | 7.0 | 99.56 |
 | The Ghee-talians | 35.1 | 139.29 | vs | Brock Hard for TDs | 0.0 | 137.94 |
 | Big Papa | 0.0 | 125.03 | vs | Tuten the train | 0.0 | 112.83 |
-| The Slim Reapers | 0.0 | 106.48 | vs | Murderapolis | 5.0 | 115.67 |
+| The Slim Reapers | 0.0 | 108.8 | vs | Murderapolis | 5.0 | 115.67 |
 
 ## My schedule
 
