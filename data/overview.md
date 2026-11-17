@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Mon Nov 16 2026, 03:21 PM ET · NFL week 10 · The Re-Todds
+Updated: Mon Nov 16 2026, 10:44 PM ET · NFL week 10 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
 
@@ -29,10 +29,10 @@ Scores are live points so far; Proj is ESPN's projected final.
 |---|---|---|---|---|---|---|
 | Thr Short Bus | 145.16 | 145.16 | vs | Frizztards | 71.96 | 71.96 |
 | Christian McCracker | 113.22 | 113.22 | vs | the blind side | 109.72 | 109.72 |
-| Baba Yaga Swede | 130.66 | 138.95 | vs | GioDoesCokeOnKamara | 133.28 | 141.04 |
-| The Ghee-talians | 132.9 | 132.9 | vs | Brock Hard for TDs | 133.88 | 148.47 |
+| Baba Yaga Swede | 141.66 | 143.51 | vs | GioDoesCokeOnKamara | 136.28 | 137.34 |
+| The Ghee-talians | 132.9 | 132.9 | vs | Brock Hard for TDs | 142.88 | 146.14 |
 | Big Papa | 158.0 | 158.0 | vs | Tuten the train | 82.88 | 82.88 |
-| The Slim Reapers | 63.0 | 82.98 | vs | Murderapolis | 86.54 | 104.73 |
+| The Slim Reapers | 94.04 | 98.5 | vs | Murderapolis | 95.84 | 99.9 |
 
 ## My schedule
 
