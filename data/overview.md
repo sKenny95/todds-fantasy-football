@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Tue Nov 17 2026, 08:11 AM ET · NFL week 11 · The Re-Todds
+Updated: Tue Nov 17 2026, 05:13 PM ET · NFL week 11 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 7.
 
@@ -10,12 +10,12 @@ Updated: Tue Nov 17 2026, 08:11 AM ET · NFL week 11 · The Re-Todds
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 9-1-0 | 1392.7 | 1069.4 | W3 | 1 | 100.0 | 1 | 25 | 3 | 57 |
 | 2 | Brock Hard for TDs **(me)** | Sina | West | 8-2-0 | 1346.2 | 956.0 | W4 | 7 | 100.0 | 2 | 10 | 1 | 40 |
-| 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 8 | 98.7 | 3 | 24 | 4 | 96 |
+| 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 8 | 98.7 | 3 | 24 | 4 | 98 |
 | 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.1 | 4 | 16 | 3 | 74 |
-| 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 90.8 | 5 | 3 | 3 | 35 |
-| 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 9 | 22.1 | 8 | 6 | 0 | 25 |
+| 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 90.8 | 5 | 3 | 3 | 38 |
+| 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 9 | 22.1 | 8 | 6 | 0 | 27 |
 | 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 32.6 | 6 | 3 | 3 | 42 |
-| 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 10 | 29.2 | 7 | 30 | 2 | 107 |
+| 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 10 | 29.2 | 7 | 30 | 2 | 110 |
 | 9 | Tuten the train | Aziz | West | 4-6-0 | 998.8 | 1192.1 | L3 | 11 | 20.3 | 9 | 19 | 3 | 64 |
 | 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 12 | 3.8 | 11 | 35 | 2 | 142 |
 | 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 6 | 9.2 | 10 | 10 | 1 | 78 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 0.0 | 78.7 | vs | Christian McCracker | 0.0 | 114.44 |
-| the blind side | 0.0 | 108.95 | vs | Baba Yaga Swede | 0.0 | 81.59 |
-| GioDoesCokeOnKamara | 0.0 | 93.07 | vs | The Ghee-talians | 0.0 | 131.58 |
-| Brock Hard for TDs | 0.0 | 104.55 | vs | Big Papa | 0.0 | 122.63 |
-| Tuten the train | 0.0 | 113.75 | vs | The Slim Reapers | 0.0 | 69.09 |
-| Murderapolis | 0.0 | 90.98 | vs | Thr Short Bus | 0.0 | 89.4 |
+| Frizztards | 0.0 | 100.59 | vs | Christian McCracker | 0.0 | 110.04 |
+| the blind side | 0.0 | 119.56 | vs | Baba Yaga Swede | 0.0 | 114.38 |
+| GioDoesCokeOnKamara | 0.0 | 93.09 | vs | The Ghee-talians | 0.0 | 131.86 |
+| Brock Hard for TDs | 0.0 | 104.55 | vs | Big Papa | 0.0 | 123.02 |
+| Tuten the train | 0.0 | 113.47 | vs | The Slim Reapers | 0.0 | 71.82 |
+| Murderapolis | 0.0 | 116.59 | vs | Thr Short Bus | 0.0 | 89.45 |
 
 ## My schedule
 

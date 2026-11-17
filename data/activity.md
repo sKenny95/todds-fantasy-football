@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 17 2026, 08:11 AM ET · NFL week 11 · The Re-Todds
+Updated: Tue Nov 17 2026, 05:13 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -181,6 +181,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Nov 17, 09:01 AM ET | Baba Yaga Swede | DROPPED | Audric Estime | RB | NO |
 | Tue Nov 17, 07:07 AM ET | Christian McCracker | DROPPED | Brian Thomas Jr. | WR | JAX |
 | Sun Nov 15, 09:31 AM ET | The Slim Reapers | FA ADDED | MarShawn Lloyd | RB | GB |
 | Sun Nov 15, 09:20 AM ET | The Slim Reapers | DROPPED | Corey Kiner | RB | NE |
@@ -260,4 +261,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | WAIVER ADDED | Woody Marks | RB | HOU |
 | Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | DROPPED | Rico Dowdle | RB | PIT |
 | Thu Nov 05, 07:33 PM ET | The Slim Reapers | FA ADDED | Devin Singletary | RB | NYG |
-| Thu Nov 05, 07:32 PM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
