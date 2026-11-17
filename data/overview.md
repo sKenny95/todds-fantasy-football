@@ -1,38 +1,38 @@
 # League overview
 
-Updated: Mon Nov 16 2026, 10:44 PM ET · NFL week 10 · The Re-Todds
+Updated: Tue Nov 17 2026, 08:11 AM ET · NFL week 11 · The Re-Todds
 
-**My team:** Brock Hard for TDs (team id 2), 7-2-0, seed 3, waiver rank 7.
+**My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 7.
 
 ## Standings
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 8-1-0 | 1234.7 | 986.5 | W2 | 1 | 99.9 | 1 | 25 | 3 | 53 |
-| 2 | the blind side | Nick | West | 7-2-0 | 1038.1 | 982.5 | W3 | 8 | 98.7 | 3 | 24 | 4 | 96 |
-| 3 | Brock Hard for TDs **(me)** | Sina | West | 7-2-0 | 1201.0 | 823.1 | W3 | 7 | 99.5 | 2 | 10 | 1 | 40 |
-| 4 | The Ghee-talians | Christian | East | 6-3-0 | 1169.2 | 1125.5 | W1 | 5 | 95.8 | 4 | 16 | 3 | 71 |
-| 5 | Baba Yaga Swede | Victor | East | 5-4-0 | 1123.2 | 1067.7 | L1 | 3 | 82.2 | 5 | 3 | 3 | 35 |
-| 6 | Frizztards | Spencer | West | 4-5-0 | 1108.8 | 1026.0 | L2 | 9 | 29.5 | 6 | 6 | 0 | 25 |
-| 7 | Tuten the train | Aziz | West | 4-5-0 | 915.9 | 1034.1 | L2 | 11 | 22.5 | 8 | 19 | 3 | 58 |
-| 8 | The Slim Reapers | Yovani | East | 3-6-0 | 994.4 | 1107.0 | W1 | 12 | 13.2 | 10 | 35 | 2 | 142 |
-| 9 | Thr Short Bus | Dunbarr | East | 3-6-0 | 992.6 | 1079.7 | L1 | 2 | 29.1 | 7 | 3 | 3 | 42 |
-| 10 | Murderapolis | Toby | West | 3-6-0 | 873.2 | 1113.1 | L1 | 10 | 22.3 | 9 | 30 | 2 | 107 |
-| 11 | GioDoesCokeOnKamara | Andy | West | 2-7-0 | 851.5 | 1083.1 | W1 | 4 | 1.7 | 12 | 17 | 3 | 51 |
-| 12 | Christian McCracker | devin | East | 2-7-0 | 934.0 | 1008.1 | L3 | 6 | 5.3 | 11 | 10 | 1 | 75 |
+| 1 | Big Papa | Alex | East | 9-1-0 | 1392.7 | 1069.4 | W3 | 1 | 100.0 | 1 | 25 | 3 | 57 |
+| 2 | Brock Hard for TDs **(me)** | Sina | West | 8-2-0 | 1346.2 | 956.0 | W4 | 7 | 100.0 | 2 | 10 | 1 | 40 |
+| 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 8 | 98.7 | 3 | 24 | 4 | 96 |
+| 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.1 | 4 | 16 | 3 | 74 |
+| 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 90.8 | 5 | 3 | 3 | 35 |
+| 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 9 | 22.1 | 8 | 6 | 0 | 25 |
+| 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 32.6 | 6 | 3 | 3 | 42 |
+| 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 10 | 29.2 | 7 | 30 | 2 | 107 |
+| 9 | Tuten the train | Aziz | West | 4-6-0 | 998.8 | 1192.1 | L3 | 11 | 20.3 | 9 | 19 | 3 | 64 |
+| 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 12 | 3.8 | 11 | 35 | 2 | 142 |
+| 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 6 | 9.2 | 10 | 10 | 1 | 78 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 2-8-0 | 988.8 | 1224.8 | L1 | 4 | 0.2 | 12 | 17 | 3 | 51 |
 
-## Week 10 matchups
+## Week 11 matchups
 
 Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Thr Short Bus | 145.16 | 145.16 | vs | Frizztards | 71.96 | 71.96 |
-| Christian McCracker | 113.22 | 113.22 | vs | the blind side | 109.72 | 109.72 |
-| Baba Yaga Swede | 141.66 | 143.51 | vs | GioDoesCokeOnKamara | 136.28 | 137.34 |
-| The Ghee-talians | 132.9 | 132.9 | vs | Brock Hard for TDs | 142.88 | 146.14 |
-| Big Papa | 158.0 | 158.0 | vs | Tuten the train | 82.88 | 82.88 |
-| The Slim Reapers | 94.04 | 98.5 | vs | Murderapolis | 95.84 | 99.9 |
+| Frizztards | 0.0 | 78.7 | vs | Christian McCracker | 0.0 | 114.44 |
+| the blind side | 0.0 | 108.95 | vs | Baba Yaga Swede | 0.0 | 81.59 |
+| GioDoesCokeOnKamara | 0.0 | 93.07 | vs | The Ghee-talians | 0.0 | 131.58 |
+| Brock Hard for TDs | 0.0 | 104.55 | vs | Big Papa | 0.0 | 122.63 |
+| Tuten the train | 0.0 | 113.75 | vs | The Slim Reapers | 0.0 | 69.09 |
+| Murderapolis | 0.0 | 90.98 | vs | Thr Short Bus | 0.0 | 89.4 |
 
 ## My schedule
 
@@ -47,7 +47,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 | 7 | Thr Short Bus | 130.88 | W |
 | 8 | Christian McCracker | 139.3 | W |
 | 9 | Baba Yaga Swede | 116.58 | W |
-| 10 | The Ghee-talians |  |  |
+| 10 | The Ghee-talians | 145.28 | W |
 | 11 | Big Papa |  |  |
 | 12 | The Slim Reapers |  |  |
 | 13 | Thr Short Bus |  |  |
