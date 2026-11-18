@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 17 2026, 11:12 PM ET · NFL week 11 · The Re-Todds
+Updated: Wed Nov 18 2026, 08:51 AM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -159,6 +159,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Nov 17, 11:48 PM ET | The Slim Reapers | Cam Ward | Justin Herbert |
+| Tue Nov 17, 11:48 PM ET | The Slim Reapers | Courtland Sutton | DeMario Douglas |
 | Tue Nov 17, 08:02 PM ET | Tuten the train | Courtland Sutton | Wan'Dale Robinson |
 | Tue Nov 17, 05:34 PM ET | Murderapolis | Ryan Flournoy | Tutu Atwell |
 | Tue Nov 10, 04:55 PM ET | The Slim Reapers | TreVeyon Henderson | Devin Singletary |
@@ -183,6 +185,11 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 18, 04:02 AM ET | Tuten the train | WAIVER ADDED | Pat Bryant | WR | DEN |
+| Wed Nov 18, 04:02 AM ET | Tuten the train | DROPPED | Wan'Dale Robinson | WR | TEN |
+| Wed Nov 18, 04:02 AM ET | Brock Hard for TDs | DROPPED | Geno Smith | QB | NYJ |
+| Wed Nov 18, 04:02 AM ET | Brock Hard for TDs | WAIVER ADDED | Cam Ward | QB | TEN |
+| Wed Nov 18, 04:02 AM ET | Christian McCracker | WAIVER ADDED | Ryan Flournoy | WR | DAL |
 | Tue Nov 17, 10:16 PM ET | Brock Hard for TDs | DROPPED | Adonai Mitchell | WR | NYJ |
 | Tue Nov 17, 09:01 AM ET | Baba Yaga Swede | DROPPED | Audric Estime | RB | NO |
 | Tue Nov 17, 07:07 AM ET | Christian McCracker | DROPPED | Brian Thomas Jr. | WR | JAX |
@@ -258,8 +265,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Tetairoa McMillan | WR | CAR |
 | Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Jordan Love | QB | GB |
 | Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Jordan Love | QB | GB |
-| Fri Nov 06, 02:43 PM ET | The Slim Reapers | DROPPED | Caleb Douglas | WR | MIA |
-| Fri Nov 06, 02:43 PM ET | The Slim Reapers | FA ADDED | DeMario Douglas | WR | NE |
-| Fri Nov 06, 07:58 AM ET | Christian McCracker | FA ADDED | Aaron Jones Sr. | RB | MIN |
-| Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | WAIVER ADDED | Woody Marks | RB | HOU |
-| Fri Nov 06, 03:49 AM ET | Brock Hard for TDs | DROPPED | Rico Dowdle | RB | PIT |

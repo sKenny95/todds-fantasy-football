@@ -1,25 +1,25 @@
 # League overview
 
-Updated: Tue Nov 17 2026, 11:12 PM ET · NFL week 11 · The Re-Todds
+Updated: Wed Nov 18 2026, 08:51 AM ET · NFL week 11 · The Re-Todds
 
-**My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 7.
+**My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 11.
 
 ## Standings
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 9-1-0 | 1392.7 | 1069.4 | W3 | 1 | 100.0 | 1 | 25 | 3 | 57 |
-| 2 | Brock Hard for TDs **(me)** | Sina | West | 8-2-0 | 1346.2 | 956.0 | W4 | 7 | 100.0 | 2 | 10 | 1 | 41 |
-| 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 8 | 98.7 | 3 | 24 | 4 | 98 |
-| 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.1 | 4 | 16 | 3 | 74 |
-| 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 90.8 | 5 | 3 | 3 | 38 |
-| 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 9 | 22.1 | 8 | 6 | 0 | 27 |
-| 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 32.6 | 6 | 3 | 3 | 42 |
-| 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 10 | 29.2 | 7 | 30 | 2 | 112 |
-| 9 | Tuten the train | Aziz | West | 4-6-0 | 998.8 | 1192.1 | L3 | 11 | 20.3 | 9 | 19 | 3 | 64 |
-| 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 12 | 3.8 | 11 | 35 | 2 | 147 |
-| 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 6 | 9.2 | 10 | 10 | 1 | 78 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 2-8-0 | 988.8 | 1224.8 | L1 | 4 | 0.2 | 12 | 17 | 3 | 51 |
+| 2 | Brock Hard for TDs **(me)** | Sina | West | 8-2-0 | 1346.2 | 956.0 | W4 | 11 | 100.0 | 2 | 11 | 1 | 41 |
+| 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 6 | 98.6 | 3 | 24 | 4 | 98 |
+| 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.4 | 4 | 16 | 3 | 74 |
+| 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 92.0 | 5 | 3 | 3 | 38 |
+| 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 7 | 21.8 | 8 | 6 | 0 | 27 |
+| 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 29.8 | 7 | 3 | 3 | 42 |
+| 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 8 | 31.3 | 6 | 30 | 2 | 112 |
+| 9 | Tuten the train | Aziz | West | 4-6-0 | 998.8 | 1192.1 | L3 | 12 | 17.5 | 9 | 20 | 3 | 64 |
+| 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 9 | 5.3 | 11 | 35 | 2 | 147 |
+| 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 10 | 9.9 | 10 | 11 | 1 | 78 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 2-8-0 | 988.8 | 1224.8 | L1 | 4 | 0.4 | 12 | 17 | 3 | 51 |
 
 ## Week 11 matchups
 
