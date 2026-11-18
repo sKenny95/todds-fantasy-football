@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 18 2026, 08:51 AM ET · NFL week 11 · The Re-Todds
+Updated: Wed Nov 18 2026, 04:51 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -185,6 +185,23 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 18, 04:40 PM ET | Big Papa | FA ADDED | Jalon Daniels | QB | TB |
+| Wed Nov 18, 04:40 PM ET | Big Papa | DROPPED | Jacoby Brissett | QB | BAL |
+| Wed Nov 18, 11:56 AM ET | Murderapolis | FA ADDED | Elic Ayomanor | WR | TEN |
+| Wed Nov 18, 11:56 AM ET | Murderapolis | DROPPED | Tutu Atwell | WR | LAR |
+| Wed Nov 18, 10:56 AM ET | Murderapolis | FA ADDED | Lions D/ST | D/ST | DET |
+| Wed Nov 18, 10:56 AM ET | Murderapolis | DROPPED | Raiders D/ST | D/ST | LV |
+| Wed Nov 18, 09:35 AM ET | the blind side | FA ADDED | Courtland Sutton | WR | DEN |
+| Wed Nov 18, 09:35 AM ET | the blind side | DROPPED | Tyreek Hill | WR | None |
+| Wed Nov 18, 09:31 AM ET | the blind side | FA ADDED | Mike Gesicki | TE | CIN |
+| Wed Nov 18, 09:31 AM ET | the blind side | DROPPED | AJ Barner | TE | SEA |
+| Wed Nov 18, 09:30 AM ET | Big Papa | FA ADDED | Joey Slye | K | TEN |
+| Wed Nov 18, 09:30 AM ET | Big Papa | DROPPED | Brandon McManus | K | LAR |
+| Wed Nov 18, 09:29 AM ET | Big Papa | DROPPED | Carson Beck | QB | ARI |
+| Wed Nov 18, 09:29 AM ET | Big Papa | FA ADDED | Jacoby Brissett | QB | BAL |
+| Wed Nov 18, 09:01 AM ET | Brock Hard for TDs | FA ADDED | Seth McGowan | RB | IND |
+| Wed Nov 18, 09:01 AM ET | Brock Hard for TDs | DROPPED | Woody Marks | RB | HOU |
+| Wed Nov 18, 09:00 AM ET | Brock Hard for TDs | FA ADDED | Michael Mayer | TE | LV |
 | Wed Nov 18, 04:02 AM ET | Tuten the train | WAIVER ADDED | Pat Bryant | WR | DEN |
 | Wed Nov 18, 04:02 AM ET | Tuten the train | DROPPED | Wan'Dale Robinson | WR | TEN |
 | Wed Nov 18, 04:02 AM ET | Brock Hard for TDs | DROPPED | Geno Smith | QB | NYJ |
@@ -237,31 +254,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 03:18 AM ET | Tuten the train | WAIVER ADDED | Darren Waller | TE | CAR |
 | Wed Nov 11, 03:18 AM ET | Murderapolis | WAIVER ADDED | Mack Hollins | WR | NE |
 | Wed Nov 11, 03:18 AM ET | Murderapolis | DROPPED | Treylon Burks | WR | WSH |
-| Wed Nov 11, 03:18 AM ET | Frizztards | DROPPED | Khalil Shakir | WR | BUF |
-| Wed Nov 11, 03:18 AM ET | Frizztards | WAIVER ADDED | Tank Dell | WR | HOU |
-| Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_SENT | Luther Burden III | WR | CHI |
-| Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_RECEIVED | Luther Burden III | WR | CHI |
-| Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_SENT | Tetairoa McMillan | WR | CAR |
-| Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_RECEIVED | Tetairoa McMillan | WR | CAR |
-| Tue Nov 10, 07:58 PM ET | Big Papa | TRADE_SENT | Jaylen Waddle | WR | DEN |
-| Tue Nov 10, 07:58 PM ET | The Ghee-talians | TRADE_RECEIVED | Jaylen Waddle | WR | DEN |
-| Tue Nov 10, 07:30 PM ET | Big Papa | DROPPED | Ryan Flournoy | WR | DAL |
-| Tue Nov 10, 07:29 PM ET | The Ghee-talians | DROPPED | Chris Godwin Jr. | WR | TB |
-| Sun Nov 08, 12:36 PM ET | The Slim Reapers | FA ADDED | Justin Herbert | QB | LAC |
-| Sun Nov 08, 12:36 PM ET | The Slim Reapers | DROPPED | Shedeur Sanders | QB | CLE |
-| Sun Nov 08, 03:34 AM ET | the blind side | WAIVER ADDED | Caleb Douglas | WR | MIA |
-| Sun Nov 08, 03:34 AM ET | the blind side | DROPPED | Courtland Sutton | WR | DEN |
-| Sun Nov 08, 03:05 AM ET | Baba Yaga Swede | FA ADDED | Audric Estime | RB | NO |
-| Sun Nov 08, 03:05 AM ET | Baba Yaga Swede | DROPPED | MarShawn Lloyd | RB | GB |
-| Fri Nov 06, 04:10 PM ET | The Slim Reapers | FA ADDED | Shedeur Sanders | QB | CLE |
-| Fri Nov 06, 04:10 PM ET | The Slim Reapers | DROPPED | Cam Ward | QB | TEN |
-| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_SENT | Germie Bernard | WR | PIT |
-| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_RECEIVED | Germie Bernard | WR | PIT |
-| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_SENT | D'Andre Swift | RB | CHI |
-| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_RECEIVED | D'Andre Swift | RB | CHI |
-| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Jeremiyah Love | RB | ARI |
-| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Jeremiyah Love | RB | ARI |
-| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Tetairoa McMillan | WR | CAR |
-| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Tetairoa McMillan | WR | CAR |
-| Fri Nov 06, 04:00 PM ET | the blind side | TRADE_SENT | Jordan Love | QB | GB |
-| Fri Nov 06, 04:00 PM ET | Big Papa | TRADE_RECEIVED | Jordan Love | QB | GB |
