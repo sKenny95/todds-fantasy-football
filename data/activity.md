@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Nov 19 2026, 07:53 AM ET · NFL week 11 · The Re-Todds
+Updated: Thu Nov 19 2026, 04:25 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -185,6 +185,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 19, 03:52 PM ET | GioDoesCokeOnKamara | DROPPED | Tyler Loop | K | BAL |
+| Thu Nov 19, 03:52 PM ET | GioDoesCokeOnKamara | FA ADDED | Cairo Santos | K | CHI |
+| Thu Nov 19, 02:10 PM ET | Tuten the train | FA ADDED | Roman Wilson | WR | PIT |
+| Thu Nov 19, 02:10 PM ET | Tuten the train | DROPPED | Pat Bryant | WR | DEN |
 | Thu Nov 19, 04:02 AM ET | Murderapolis | WAIVER ADDED | Adonai Mitchell | WR | NYJ |
 | Thu Nov 19, 04:02 AM ET | Murderapolis | DROPPED | Khalil Shakir | WR | BUF |
 | Thu Nov 19, 12:33 AM ET | The Slim Reapers | FA ADDED | Chris Godwin Jr. | WR | TB |
@@ -252,5 +256,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 07:23 AM ET | Murderapolis | DROPPED | Lions D/ST | D/ST | DET |
 | Wed Nov 11, 03:45 AM ET | Big Papa | DROPPED | Malik Willis | QB | MIA |
 | Wed Nov 11, 03:45 AM ET | Big Papa | FA ADDED | Carson Beck | QB | ARI |
-| Wed Nov 11, 03:44 AM ET | Big Papa | FA ADDED | Kaleb Johnson | RB | GB |
-| Wed Nov 11, 03:44 AM ET | Big Papa | FA ADDED | Xavier Hutchinson | WR | HOU |
