@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 18 2026, 10:15 PM ET · NFL week 11 · The Re-Todds
+Updated: Thu Nov 19 2026, 07:53 AM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -185,6 +185,12 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 19, 04:02 AM ET | Murderapolis | WAIVER ADDED | Adonai Mitchell | WR | NYJ |
+| Thu Nov 19, 04:02 AM ET | Murderapolis | DROPPED | Khalil Shakir | WR | BUF |
+| Thu Nov 19, 12:33 AM ET | The Slim Reapers | FA ADDED | Chris Godwin Jr. | WR | TB |
+| Thu Nov 19, 12:33 AM ET | The Slim Reapers | DROPPED | DeMario Douglas | WR | NE |
+| Thu Nov 19, 12:32 AM ET | The Slim Reapers | FA ADDED | Bam Knight | RB | ARI |
+| Thu Nov 19, 12:32 AM ET | The Slim Reapers | DROPPED | MarShawn Lloyd | RB | GB |
 | Wed Nov 18, 08:59 PM ET | The Ghee-talians | FA ADDED | Ja'Kobi Lane | WR | BAL |
 | Wed Nov 18, 08:59 PM ET | The Ghee-talians | DROPPED | Xavier Worthy | WR | KC |
 | Wed Nov 18, 04:40 PM ET | Big Papa | FA ADDED | Jalon Daniels | QB | TB |
@@ -248,9 +254,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 03:45 AM ET | Big Papa | FA ADDED | Carson Beck | QB | ARI |
 | Wed Nov 11, 03:44 AM ET | Big Papa | FA ADDED | Kaleb Johnson | RB | GB |
 | Wed Nov 11, 03:44 AM ET | Big Papa | FA ADDED | Xavier Hutchinson | WR | HOU |
-| Wed Nov 11, 03:18 AM ET | Tuten the train | DROPPED | Michael Wilson | WR | ARI |
-| Wed Nov 11, 03:18 AM ET | Tuten the train | WAIVER ADDED | Wan'Dale Robinson | WR | TEN |
-| Wed Nov 11, 03:18 AM ET | The Slim Reapers | DROPPED | Devin Singletary | RB | NYG |
-| Wed Nov 11, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
-| Wed Nov 11, 03:18 AM ET | Tuten the train | DROPPED | Mason Taylor | TE | NYJ |
-| Wed Nov 11, 03:18 AM ET | Tuten the train | WAIVER ADDED | Darren Waller | TE | CAR |
