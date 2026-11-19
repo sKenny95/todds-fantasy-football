@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Nov 18 2026, 04:51 PM ET · NFL week 11 · The Re-Todds
+Updated: Wed Nov 18 2026, 10:15 PM ET · NFL week 11 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 11.
 
@@ -11,7 +11,7 @@ Updated: Wed Nov 18 2026, 04:51 PM ET · NFL week 11 · The Re-Todds
 | 1 | Big Papa | Alex | East | 9-1-0 | 1392.7 | 1069.4 | W3 | 1 | 100.0 | 1 | 28 | 3 | 60 |
 | 2 | Brock Hard for TDs **(me)** | Sina | West | 8-2-0 | 1346.2 | 956.0 | W4 | 11 | 100.0 | 2 | 13 | 1 | 42 |
 | 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 6 | 98.6 | 3 | 26 | 4 | 99 |
-| 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.4 | 4 | 16 | 3 | 74 |
+| 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.4 | 4 | 17 | 3 | 75 |
 | 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 92.0 | 5 | 3 | 3 | 38 |
 | 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 7 | 21.8 | 8 | 6 | 0 | 27 |
 | 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 29.8 | 7 | 3 | 3 | 45 |
@@ -29,7 +29,7 @@ Scores are live points so far; Proj is ESPN's projected final.
 |---|---|---|---|---|---|---|
 | Frizztards | 0.0 | 100.59 | vs | Christian McCracker | 0.0 | 111.99 |
 | the blind side | 0.0 | 126.8 | vs | Baba Yaga Swede | 0.0 | 114.55 |
-| GioDoesCokeOnKamara | 0.0 | 102.2 | vs | The Ghee-talians | 0.0 | 131.85 |
+| GioDoesCokeOnKamara | 0.0 | 102.2 | vs | The Ghee-talians | 0.0 | 134.6 |
 | Brock Hard for TDs | 0.0 | 121.26 | vs | Big Papa | 0.0 | 111.08 |
 | Tuten the train | 0.0 | 113.5 | vs | The Slim Reapers | 0.0 | 117.23 |
 | Murderapolis | 0.0 | 98.43 | vs | Thr Short Bus | 0.0 | 106.9 |

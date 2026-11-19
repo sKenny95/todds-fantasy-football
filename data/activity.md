@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 18 2026, 04:51 PM ET · NFL week 11 · The Re-Todds
+Updated: Wed Nov 18 2026, 10:15 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -185,6 +185,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 18, 08:59 PM ET | The Ghee-talians | FA ADDED | Ja'Kobi Lane | WR | BAL |
+| Wed Nov 18, 08:59 PM ET | The Ghee-talians | DROPPED | Xavier Worthy | WR | KC |
 | Wed Nov 18, 04:40 PM ET | Big Papa | FA ADDED | Jalon Daniels | QB | TB |
 | Wed Nov 18, 04:40 PM ET | Big Papa | DROPPED | Jacoby Brissett | QB | BAL |
 | Wed Nov 18, 11:56 AM ET | Murderapolis | FA ADDED | Elic Ayomanor | WR | TEN |
@@ -252,5 +254,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
 | Wed Nov 11, 03:18 AM ET | Tuten the train | DROPPED | Mason Taylor | TE | NYJ |
 | Wed Nov 11, 03:18 AM ET | Tuten the train | WAIVER ADDED | Darren Waller | TE | CAR |
-| Wed Nov 11, 03:18 AM ET | Murderapolis | WAIVER ADDED | Mack Hollins | WR | NE |
-| Wed Nov 11, 03:18 AM ET | Murderapolis | DROPPED | Treylon Burks | WR | WSH |
