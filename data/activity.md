@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Thu Nov 19 2026, 04:25 PM ET · NFL week 11 · The Re-Todds
+Updated: Thu Nov 19 2026, 10:03 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,7 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Thu Nov 19, 07:30 PM ET | The Ghee-talians | The Ghee-talians gives Jonathan Taylor, Bryce Young; Murderapolis gives Derrick Henry, Josh Allen | CANCELED |
 | Sun Nov 08, 06:56 PM ET | Big Papa | Big Papa gives Jeremiyah Love, Malik Willis, Tetairoa McMillan; Baba Yaga Swede gives Jayden Daniels, Ashton Jeanty | CANCELED |
 | Fri Nov 06, 12:45 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | CANCELED |
 | Thu Nov 05, 05:23 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | EXPIRED |
@@ -185,6 +186,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Thu Nov 19, 07:36 PM ET | The Slim Reapers | DROPPED | Chris Godwin Jr. | WR | TB |
+| Thu Nov 19, 07:36 PM ET | The Slim Reapers | FA ADDED | Michael Pittman Jr. | WR | PIT |
 | Thu Nov 19, 03:52 PM ET | GioDoesCokeOnKamara | DROPPED | Tyler Loop | K | BAL |
 | Thu Nov 19, 03:52 PM ET | GioDoesCokeOnKamara | FA ADDED | Cairo Santos | K | CHI |
 | Thu Nov 19, 02:10 PM ET | Tuten the train | FA ADDED | Roman Wilson | WR | PIT |
@@ -254,5 +257,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 09:16 AM ET | the blind side | FA ADDED | Fernando Mendoza | QB | LV |
 | Wed Nov 11, 07:23 AM ET | Murderapolis | FA ADDED | Giants D/ST | D/ST | NYG |
 | Wed Nov 11, 07:23 AM ET | Murderapolis | DROPPED | Lions D/ST | D/ST | DET |
-| Wed Nov 11, 03:45 AM ET | Big Papa | DROPPED | Malik Willis | QB | MIA |
-| Wed Nov 11, 03:45 AM ET | Big Papa | FA ADDED | Carson Beck | QB | ARI |
