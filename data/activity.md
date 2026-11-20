@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 20 2026, 06:25 AM ET · NFL week 11 · The Re-Todds
+Updated: Fri Nov 20 2026, 03:01 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -8,7 +8,9 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-None visible.
+| Proposed | Offered by | Offer | Expires |
+|---|---|---|---|
+| Fri Nov 20, 12:14 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze; Tuten the train gives Davante Adams | Sun Nov 22, 12:14 PM ET |
 
 ### Offers that were withdrawn, replaced or expired
 
@@ -186,6 +188,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 20, 12:54 PM ET | Tuten the train | FA ADDED | Khalil Shakir | WR | BUF |
+| Fri Nov 20, 12:54 PM ET | Tuten the train | DROPPED | Roman Wilson | WR | PIT |
 | Thu Nov 19, 07:36 PM ET | The Slim Reapers | DROPPED | Chris Godwin Jr. | WR | TB |
 | Thu Nov 19, 07:36 PM ET | The Slim Reapers | FA ADDED | Michael Pittman Jr. | WR | PIT |
 | Thu Nov 19, 03:52 PM ET | GioDoesCokeOnKamara | DROPPED | Tyler Loop | K | BAL |
@@ -255,5 +259,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 10:19 AM ET | Big Papa | FA ADDED | Rico Dowdle | RB | PIT |
 | Wed Nov 11, 10:19 AM ET | Big Papa | DROPPED | Kaleb Johnson | RB | GB |
 | Wed Nov 11, 09:16 AM ET | the blind side | FA ADDED | Fernando Mendoza | QB | LV |
-| Wed Nov 11, 07:23 AM ET | Murderapolis | FA ADDED | Giants D/ST | D/ST | NYG |
-| Wed Nov 11, 07:23 AM ET | Murderapolis | DROPPED | Lions D/ST | D/ST | DET |
