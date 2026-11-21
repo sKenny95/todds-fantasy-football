@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Nov 21 2026, 12:23 PM ET · NFL week 11 · The Re-Todds
+Updated: Sat Nov 21 2026, 06:06 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -8,14 +8,14 @@ Season to date, as ESPN shows them to this login. Offers between other teams are
 
 ### Open offers right now
 
-| Proposed | Offered by | Offer | Expires |
-|---|---|---|---|
-| Fri Nov 20, 12:14 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze; Tuten the train gives Davante Adams | Sun Nov 22, 12:14 PM ET |
+None visible.
 
 ### Offers that were withdrawn, replaced or expired
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Sat Nov 21, 02:44 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze; Tuten the train gives Davante Adams | CANCELED |
+| Fri Nov 20, 12:14 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze; Tuten the train gives Davante Adams | DECLINED |
 | Thu Nov 19, 07:30 PM ET | The Ghee-talians | The Ghee-talians gives Jonathan Taylor, Bryce Young; Murderapolis gives Derrick Henry, Josh Allen | CANCELED |
 | Sun Nov 08, 06:56 PM ET | Big Papa | Big Papa gives Jeremiyah Love, Malik Willis, Tetairoa McMillan; Baba Yaga Swede gives Jayden Daniels, Ashton Jeanty | CANCELED |
 | Fri Nov 06, 12:45 PM ET | Big Papa | Big Papa gives Malik Willis, Christian Watson; Brock Hard for TDs gives Nico Collins, Trevor Lawrence | CANCELED |
@@ -116,6 +116,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Sat Nov 21, 02:44 PM ET | Tuten the train |
 | Wed Nov 11, 09:58 PM ET | The Ghee-talians |
 | Tue Nov 10, 07:27 PM ET | Big Papa |
 | Fri Nov 06, 12:48 PM ET | Christian McCracker |
@@ -188,6 +189,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sat Nov 21, 04:51 PM ET | Thr Short Bus | FA ADDED | Xavier Worthy | WR | KC |
+| Sat Nov 21, 04:50 PM ET | Thr Short Bus | DROPPED | Dontayvion Wicks | WR | PHI |
 | Sat Nov 21, 11:31 AM ET | Big Papa | DROPPED | Jalon Daniels | QB | TB |
 | Sat Nov 21, 11:31 AM ET | Big Papa | FA ADDED | Geno Smith | QB | NYJ |
 | Fri Nov 20, 12:54 PM ET | Tuten the train | FA ADDED | Khalil Shakir | WR | BUF |
@@ -256,7 +259,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | None |
 | Wed Nov 11, 01:59 PM ET | Big Papa | FA ADDED | Jonathon Brooks | RB | CAR |
 | Wed Nov 11, 01:59 PM ET | Big Papa | DROPPED | Rico Dowdle | RB | PIT |
-| Wed Nov 11, 10:30 AM ET | the blind side | DROPPED | Greg Dulcich | TE | MIA |
-| Wed Nov 11, 10:30 AM ET | the blind side | FA ADDED | AJ Barner | TE | SEA |
-| Wed Nov 11, 10:19 AM ET | Big Papa | FA ADDED | Rico Dowdle | RB | PIT |
-| Wed Nov 11, 10:19 AM ET | Big Papa | DROPPED | Kaleb Johnson | RB | GB |

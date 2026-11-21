@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Nov 21 2026, 12:23 PM ET · NFL week 11 · The Re-Todds
+Updated: Sat Nov 21 2026, 06:06 PM ET · NFL week 11 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 10.
 
@@ -14,12 +14,12 @@ Updated: Sat Nov 21 2026, 12:23 PM ET · NFL week 11 · The Re-Todds
 | 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.9 | 4 | 17 | 3 | 75 |
 | 5 | Baba Yaga Swede | Victor | East | 6-4-0 | 1264.9 | 1205.0 | W1 | 3 | 90.5 | 5 | 3 | 3 | 39 |
 | 6 | Frizztards | Spencer | West | 4-6-0 | 1180.7 | 1171.2 | L3 | 7 | 22.1 | 8 | 6 | 0 | 29 |
-| 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 29.8 | 7 | 3 | 3 | 45 |
+| 7 | Thr Short Bus | Dunbarr | East | 4-6-0 | 1137.8 | 1151.7 | W1 | 2 | 29.8 | 7 | 4 | 3 | 46 |
 | 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 12 | 33.2 | 6 | 33 | 2 | 125 |
 | 9 | Tuten the train | Aziz | West | 4-6-0 | 998.8 | 1192.1 | L3 | 11 | 16.5 | 9 | 22 | 3 | 67 |
-| 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 8 | 5.4 | 11 | 38 | 2 | 148 |
+| 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 8 | 5.4 | 11 | 38 | 2 | 149 |
 | 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 9 | 9.3 | 10 | 11 | 1 | 79 |
-| 12 | GioDoesCokeOnKamara | Andy | West | 2-8-0 | 988.8 | 1224.8 | L1 | 4 | 0.4 | 12 | 18 | 3 | 53 |
+| 12 | GioDoesCokeOnKamara | Andy | West | 2-8-0 | 988.8 | 1224.8 | L1 | 4 | 0.4 | 12 | 18 | 3 | 54 |
 
 ## Week 11 matchups
 
@@ -29,9 +29,9 @@ Scores are live points so far; Proj is ESPN's projected final.
 |---|---|---|---|---|---|---|
 | Frizztards | 5.7 | 95.98 | vs | Christian McCracker | 0.0 | 112.31 |
 | the blind side | 21.0 | 133.04 | vs | Baba Yaga Swede | 17.5 | 110.17 |
-| GioDoesCokeOnKamara | 0.0 | 103.36 | vs | The Ghee-talians | 6.7 | 124.7 |
+| GioDoesCokeOnKamara | 0.0 | 102.13 | vs | The Ghee-talians | 6.7 | 124.7 |
 | Brock Hard for TDs | 16.6 | 116.87 | vs | Big Papa | 0.0 | 124.98 |
-| Tuten the train | 0.0 | 114.87 | vs | The Slim Reapers | 0.0 | 118.48 |
+| Tuten the train | 0.0 | 114.87 | vs | The Slim Reapers | 0.0 | 117.79 |
 | Murderapolis | 0.0 | 119.98 | vs | Thr Short Bus | 3.2 | 102.39 |
 
 ## My schedule
