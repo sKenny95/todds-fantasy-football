@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Nov 21 2026, 04:39 AM ET · NFL week 11 · The Re-Todds
+Updated: Sat Nov 21 2026, 12:23 PM ET · NFL week 11 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 10.
 
@@ -8,7 +8,7 @@ Updated: Sat Nov 21 2026, 04:39 AM ET · NFL week 11 · The Re-Todds
 
 | Seed | Team | Owner | Div | W-L-T | PF | PA | Streak | Waiver rank | ESPN playoff % | ESPN projected finish | Adds | Trades | Lineup moves |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Big Papa | Alex | East | 9-1-0 | 1392.7 | 1069.4 | W3 | 1 | 100.0 | 1 | 28 | 3 | 61 |
+| 1 | Big Papa | Alex | East | 9-1-0 | 1392.7 | 1069.4 | W3 | 1 | 100.0 | 1 | 29 | 3 | 62 |
 | 2 | Brock Hard for TDs **(me)** | Sina | West | 8-2-0 | 1346.2 | 956.0 | W4 | 10 | 100.0 | 2 | 13 | 1 | 42 |
 | 3 | the blind side | Nick | West | 7-3-0 | 1147.8 | 1095.7 | L1 | 6 | 99.0 | 3 | 26 | 4 | 100 |
 | 4 | The Ghee-talians | Christian | East | 6-4-0 | 1302.1 | 1270.8 | L1 | 5 | 93.9 | 4 | 17 | 3 | 75 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 5.7 | 95.97 | vs | Christian McCracker | 0.0 | 112.3 |
+| Frizztards | 5.7 | 95.98 | vs | Christian McCracker | 0.0 | 112.31 |
 | the blind side | 21.0 | 133.04 | vs | Baba Yaga Swede | 17.5 | 110.17 |
-| GioDoesCokeOnKamara | 0.0 | 103.36 | vs | The Ghee-talians | 6.7 | 124.69 |
-| Brock Hard for TDs | 16.6 | 116.87 | vs | Big Papa | 0.0 | 110.87 |
-| Tuten the train | 0.0 | 114.82 | vs | The Slim Reapers | 0.0 | 118.48 |
-| Murderapolis | 0.0 | 119.97 | vs | Thr Short Bus | 3.2 | 102.39 |
+| GioDoesCokeOnKamara | 0.0 | 103.36 | vs | The Ghee-talians | 6.7 | 124.7 |
+| Brock Hard for TDs | 16.6 | 116.87 | vs | Big Papa | 0.0 | 124.98 |
+| Tuten the train | 0.0 | 114.87 | vs | The Slim Reapers | 0.0 | 118.48 |
+| Murderapolis | 0.0 | 119.98 | vs | Thr Short Bus | 3.2 | 102.39 |
 
 ## My schedule
 

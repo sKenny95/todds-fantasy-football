@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Sat Nov 21 2026, 04:39 AM ET · NFL week 11 · The Re-Todds
+Updated: Sat Nov 21 2026, 12:23 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -188,6 +188,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Sat Nov 21, 11:31 AM ET | Big Papa | DROPPED | Jalon Daniels | QB | TB |
+| Sat Nov 21, 11:31 AM ET | Big Papa | FA ADDED | Geno Smith | QB | NYJ |
 | Fri Nov 20, 12:54 PM ET | Tuten the train | FA ADDED | Khalil Shakir | WR | BUF |
 | Fri Nov 20, 12:54 PM ET | Tuten the train | DROPPED | Roman Wilson | WR | PIT |
 | Thu Nov 19, 07:36 PM ET | The Slim Reapers | DROPPED | Chris Godwin Jr. | WR | TB |
@@ -258,4 +260,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Wed Nov 11, 10:30 AM ET | the blind side | FA ADDED | AJ Barner | TE | SEA |
 | Wed Nov 11, 10:19 AM ET | Big Papa | FA ADDED | Rico Dowdle | RB | PIT |
 | Wed Nov 11, 10:19 AM ET | Big Papa | DROPPED | Kaleb Johnson | RB | GB |
-| Wed Nov 11, 09:16 AM ET | the blind side | FA ADDED | Fernando Mendoza | QB | LV |
