@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Sat Nov 21 2026, 06:06 PM ET · NFL week 11 · The Re-Todds
+Updated: Sat Nov 21 2026, 10:05 PM ET · NFL week 11 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 10.
 
