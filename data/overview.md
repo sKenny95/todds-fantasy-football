@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Mon Nov 23 2026, 03:56 AM ET · NFL week 11 · The Re-Todds
+Updated: Mon Nov 23 2026, 04:14 PM ET · NFL week 11 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-2-0, seed 2, waiver rank 10.
 
@@ -18,7 +18,7 @@ Updated: Mon Nov 23 2026, 03:56 AM ET · NFL week 11 · The Re-Todds
 | 8 | Murderapolis | Toby | West | 4-6-0 | 978.7 | 1209.8 | W1 | 12 | 37.4 | 6 | 33 | 2 | 125 |
 | 9 | Tuten the train | Aziz | West | 4-6-0 | 998.8 | 1192.1 | L3 | 11 | 17.7 | 9 | 22 | 3 | 67 |
 | 10 | The Slim Reapers | Yovani | East | 3-7-0 | 1091.1 | 1212.5 | L1 | 8 | 5.1 | 11 | 38 | 2 | 149 |
-| 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 9 | 9.3 | 10 | 11 | 1 | 79 |
+| 11 | Christian McCracker | devin | East | 3-7-0 | 1047.3 | 1117.9 | W1 | 9 | 9.3 | 10 | 12 | 1 | 79 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 2-8-0 | 988.8 | 1224.8 | L1 | 4 | 0.2 | 12 | 18 | 3 | 54 |
 
 ## Week 11 matchups

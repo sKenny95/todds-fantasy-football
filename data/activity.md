@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Mon Nov 23 2026, 03:56 AM ET · NFL week 11 · The Re-Todds
+Updated: Mon Nov 23 2026, 04:14 PM ET · NFL week 11 · The Re-Todds
 
 ## Trade offers
 
@@ -189,6 +189,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Mon Nov 23, 11:53 AM ET | Christian McCracker | DROPPED | Drake Maye | QB | NE |
+| Mon Nov 23, 11:53 AM ET | Christian McCracker | FA ADDED | Sam Darnold | QB | SEA |
 | Sat Nov 21, 04:51 PM ET | Thr Short Bus | FA ADDED | Xavier Worthy | WR | KC |
 | Sat Nov 21, 04:50 PM ET | Thr Short Bus | DROPPED | Dontayvion Wicks | WR | PHI |
 | Sat Nov 21, 11:31 AM ET | Big Papa | DROPPED | Jalon Daniels | QB | TB |
@@ -257,5 +259,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Nov 12, 12:13 AM ET | The Ghee-talians | FA ADDED | Baker Mayfield | QB | TB |
 | Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | FA ADDED | Kaleb Johnson | RB | GB |
 | Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | None |
-| Wed Nov 11, 01:59 PM ET | Big Papa | FA ADDED | Jonathon Brooks | RB | CAR |
-| Wed Nov 11, 01:59 PM ET | Big Papa | DROPPED | Rico Dowdle | RB | PIT |
