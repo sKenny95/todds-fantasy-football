@@ -1,326 +1,325 @@
 # All rosters
 
-Updated: Tue Nov 24 2026, 12:56 AM ET · NFL week 11 · The Re-Todds
+Updated: Tue Nov 24 2026, 12:32 PM ET · NFL week 12 · The Re-Todds
 
 Proj and Opp are for this week. Avg/gm and Season pts are season to date.
 
 ## Big Papa
 
-Owner Alex · 9-1-0 · seed 1 · 1392.7 PF · waiver rank 1
+Owner Alex · 10-1-0 · seed 1 · 1512.9 PF · waiver rank 1
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Geno Smith | QB | NYJ |  | LAC (#11 vs QB) | 14.2 | 19.4 | 14.2 | 155.9 | 15.5 | 16.6 | 13 | 16.18 | -0.02 |
-| RB | Chuba Hubbard | RB | CAR |  | BAL (#9 vs RB) | 20.7 | 26.0 | 20.7 | 206.8 | 18.6 | 3.6 | 5 | 98.08 | -0.05 |
-| RB | Emmett Johnson | RB | KC |  | ARI (#19 vs RB) | 20.2 | 24.3 | 12.0 | 120.2 | 8.2 | 6.5 | 5 | 91.06 | -0.08 |
-| WR | Amon-Ra St. Brown | WR | DET |  | TB (#11 vs WR) | 17.7 | 14.7 | 19.8 | 198.1 | 18.1 | 3.8 | 6 | 99.93 | 0.0 |
-| WR | Luther Burden III | WR | CHI |  | NO (#8 vs WR) | 15.1 | 3.3 | 14.0 | 139.6 | 12.7 | 9.5 | 10 | 94.69 | -0.05 |
-| TE | George Kittle | TE | SF |  | MIN (#1 vs TE) | 13.1 | 18.4 | 14.6 | 146.1 | 13.5 | 3.1 | 8 | 98.87 | -0.02 |
-| RB/WR/TE | Jordyn Tyson | WR | NO |  | CHI (#9 vs WR) | 11.8 | 2.0 | 8.7 | 26.0 | 10.4 | 18.8 | 8 | 72.38 | -0.06 |
-| D/ST | Buccaneers D/ST | D/ST | TB |  | DET (#3 vs D/ST) | 4.5 | -1.0 | 9.2 | 92.0 | 2.7 | 15.1 | 10 | 35.89 | -0.02 |
-| K | Joey Slye | K | TEN |  | DAL (#22 vs K) | 8.5 | 13.0 | 8.3 | 83.0 | 8.8 | 14.9 | 9 | 1.14 | 0.0 |
-| BE | Kenneth Walker III | RB | KC | OUT | ARI (#19 vs RB) | 0.0 | 0.0 | 24.6 | 196.4 | 27.4 |  | 5 | 99.85 | 0.0 |
-| BE | Christian Watson | WR | GB |  | BYE | 0.0 | 0 | 18.4 | 183.6 | 14.8 |  | 11 | 97.16 | -0.04 |
-| BE | Dallas Goedert | TE | PHI | QUESTIONABLE | PIT (#15 vs TE) | 8.2 | 4.8 | 9.8 | 78.8 | 7.5 | 12.0 | 10 | 74.71 | -0.03 |
-| BE | Matt Gay | K | LV |  | DEN (#10 vs K) | 8.0 | 6.0 | 9.3 | 102.0 | 8.4 | 17.8 | 13 | 34.19 | -0.14 |
-| BE | Browns D/ST | D/ST | CLE |  | BYE | 0.0 | 0 | 5.7 | 57.0 | 2.1 |  | 11 | 30.75 | -0.07 |
-| BE | Jordan Love | QB | GB |  | BYE | 0.0 | 0 | 19.6 | 195.8 | 17.0 |  | 11 | 89.1 | -0.07 |
-| BE | Xavier Hutchinson | WR | HOU |  | IND (#12 vs WR) | 10.7 | 3.3 | 8.5 | 85.4 | 8.5 |  | 8 | 46.67 | -0.07 |
-| BE | Jonathon Brooks | RB | CAR | INJURY_RESERVE | BAL (#9 vs RB) | 0.0 | 0.0 | 4.7 | 9.3 | 5.3 |  | 5 | 31.34 | 0.0 |
-| IR | Jeremiyah Love | RB | ARI | INJURY_RESERVE | KC (#7 vs RB) | 0.0 | 0.0 | 8.9 | 53.4 | 11.5 |  | 14 | 80.82 | -0.01 |
+| QB | Jordan Love | QB | GB |  | LAR (#8 vs QB) | 13.4 | 0 | 19.6 | 195.8 | 17.0 | 19.8 | 11 | 88.95 | -0.17 |
+| RB | Kenneth Walker III | RB | KC | QUESTIONABLE | BUF (#21 vs RB) | 21.9 | 0 | 24.6 | 196.4 | 27.4 | 2.2 | 5 | 99.7 | -0.15 |
+| RB | Chuba Hubbard | RB | CAR |  | TB (#1 vs RB) | 17.0 | 0 | 20.7 | 206.8 | 18.6 | 8.8 | 5 | 98.01 | -0.08 |
+| WR | Amon-Ra St. Brown | WR | DET |  | CHI (#9 vs WR) | 17.8 | 0 | 19.8 | 198.1 | 18.1 | 4.9 | 6 | 99.8 | -0.13 |
+| WR | Christian Watson | WR | GB |  | LAR (#3 vs WR) | 14.1 | 0 | 18.4 | 183.6 | 14.8 | 15.2 | 11 | 97.01 | -0.16 |
+| TE | George Kittle | TE | SF |  | SEA (#7 vs TE) | 13.0 | 0 | 14.6 | 146.1 | 13.5 | 3.0 | 8 | 98.78 | -0.09 |
+| RB/WR/TE | Luther Burden III | WR | CHI |  | DET (#22 vs WR) | 13.0 | 0 | 14.0 | 139.6 | 12.7 | 19.0 | 10 | 94.48 | -0.22 |
+| D/ST | Browns D/ST | D/ST | CLE |  | LV (#13 vs D/ST) | 6.7 | 0 | 5.7 | 57.0 | 2.1 | 9.8 | 11 | 30.72 | -0.05 |
+| K | Matt Gay | K | LV |  | CLE (#17 vs K) | 7.9 | 0 | 9.3 | 102.0 | 8.4 | 20.6 | 13 | 34.12 | -0.08 |
+| BE | Dallas Goedert | TE | PHI | QUESTIONABLE | DAL (#15 vs TE) | 8.3 | 0 | 9.8 | 78.8 | 7.5 | 14.0 | 10 | 74.5 | -0.21 |
+| BE | Jordyn Tyson | WR | NO |  | CIN (#10 vs WR) | 10.3 | 0 | 8.7 | 26.0 | 10.4 | 32.8 | 8 | 72.06 | -0.34 |
+| BE | Buccaneers D/ST | D/ST | TB |  | CAR (#20 vs D/ST) | 6.4 | 0 | 9.2 | 92.0 | 2.7 | 13.4 | 10 | 35.81 | -0.08 |
+| BE | Emmett Johnson | RB | KC |  | BUF (#21 vs RB) | 7.7 | 0 | 12.0 | 120.2 | 8.2 | 41.2 | 5 | 90.95 | -0.12 |
+| BE | Xavier Hutchinson | WR | HOU |  | BAL (#17 vs WR) | 8.8 | 0 | 8.5 | 85.4 | 8.5 | 45.6 | 8 | 46.06 | -0.63 |
+| BE | Jonathon Brooks | RB | CAR | INJURY_RESERVE | TB (#1 vs RB) | 4.2 | 0 | 4.7 | 9.3 | 5.3 |  | 5 | 31.28 | -0.05 |
+| BE | Joey Slye | K | TEN |  | JAX (#11 vs K) | 8.0 | 0 | 8.3 | 83.0 | 8.8 | 19.8 | 9 | 1.13 | -0.01 |
+| BE | Geno Smith | QB | NYJ |  | MIA (#14 vs QB) | 15.5 | 0 | 14.2 | 155.9 | 15.5 | 15.7 | 13 | 16.15 | -0.04 |
+| IR | Jeremiyah Love | RB | ARI | INJURY_RESERVE | WSH (#14 vs RB) | 0.0 | 0 | 8.9 | 53.4 | 11.5 |  | 14 | 80.72 | -0.1 |
 
 ## Brock Hard for TDs (MY TEAM)
 
-Owner Sina · 8-2-0 · seed 2 · 1346.2 PF · waiver rank 10
+Owner Sina · 8-3-0 · seed 2 · 1447.7 PF · waiver rank 10
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Trevor Lawrence | QB | JAX |  | NYG (#27 vs QB) | 19.5 | 12.7 | 18.7 | 186.7 | 19.7 | 5.6 | 7 | 94.76 | -0.05 |
-| RB | Jahmyr Gibbs | RB | DET |  | TB (#1 vs RB) | 21.9 | 27.8 | 28.1 | 281.2 | 26.0 | 1.2 | 6 | 99.95 | 0.0 |
-| RB | Seth McGowan | RB | IND | OUT | HOU (#18 vs RB) | 5.3 | 1.8 | 4.4 | 48.2 | 2.6 |  | 13 | 18.28 | -0.03 |
-| WR | Zay Flowers | WR | BAL |  | CAR (#14 vs WR) | 14.1 | 16.4 | 15.5 | 155.3 | 14.5 | 11.2 | 13 | 98.68 | -0.01 |
-| WR | Nico Collins | WR | HOU |  | IND (#12 vs WR) | 15.8 | 14.8 | 16.4 | 130.8 | 14.8 |  | 8 | 99.11 | 0.0 |
-| TE | Michael Mayer | TE | LV |  | DEN (#30 vs TE) | 8.9 | 1.4 | 7.9 | 87.0 | 6.1 | 16.8 | 13 | 36.81 | -0.03 |
-| RB/WR/TE | Rome Odunze | WR | CHI |  | NO (#8 vs WR) | 11.5 | 8.5 | 9.7 | 97.3 | 10.6 | 22.4 | 10 | 87.74 | -0.05 |
-| D/ST | Jaguars D/ST | D/ST | JAX |  | NYG (#16 vs D/ST) | 7.1 | 5.0 | 7.5 | 75.0 | 2.8 | 3.5 | 7 | 89.51 | -0.08 |
-| K | Cam Little | K | JAX |  | NYG (#4 vs K) | 10.8 | 13.0 | 11.0 | 110.0 | 11.6 | 3.4 | 7 | 87.46 | -0.03 |
-| BE | Brock Bowers | TE | LV | OUT | DEN (#30 vs TE) | 0.0 | 0.0 | 18.7 | 149.8 | 19.3 | 4.2 | 13 | 99.83 | 0.0 |
-| BE | Kyren Williams | RB | LAR |  | BYE | 0.0 | 0 | 16.4 | 164.3 | 14.8 |  | 11 | 98.46 | -0.02 |
-| BE | Blake Corum | RB | LAR |  | BYE | 0.0 | 0 | 11.6 | 115.5 | 11.7 |  | 11 | 82.37 | -0.07 |
-| BE | Deebo Samuel Sr. | WR | SF |  | MIN (#5 vs WR) | 10.3 | 7.7 | 13.4 | 94.0 | 11.4 | 28.8 | 8 | 83.43 | -0.08 |
-| BE | Vikings D/ST | D/ST | MIN |  | SF (#2 vs D/ST) | 4.5 | 0.0 | 10.6 | 106.0 | 2.7 | 13.0 | 6 | 87.12 | -0.06 |
-| BE | Spencer Shrader | K | IND |  | HOU (#24 vs K) | 9.4 | 1.0 | 10.3 | 113.0 | 9.4 |  | 13 | 84.85 | -0.09 |
-| BE | Keenan Allen | WR | SF |  | MIN (#5 vs WR) | 7.7 | 6.8 | 9.9 | 99.0 | 7.2 | 41.4 | 8 | 51.71 | -0.07 |
-| BE | Cam Ward | QB | TEN |  | DAL (#30 vs QB) | 17.0 | 22.2 | 14.2 | 141.9 | 14.8 | 10.9 | 9 | 37.28 | 0.01 |
-| IR | Terrance Ferguson | TE | LAR | INJURY_RESERVE | BYE | 0.0 | 0 | 6.4 | 19.3 | 0.0 |  | 11 | 10.46 | -1.44 |
-
-## the blind side
-
-Owner Nick · 7-3-0 · seed 3 · 1147.8 PF · waiver rank 6
-
-Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
-
-| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Joe Burrow | QB | CIN |  | WSH (#25 vs QB) | 22.9 | 19.9 | 25.2 | 252.2 | 23.3 | 1.4 | 6 | 99.53 | -0.01 |
-| RB | Javonte Williams | RB | DAL |  | TEN (#16 vs RB) | 19.5 | 24.1 | 17.4 | 191.4 | 15.3 | 5.2 | 14 | 99.46 | 0.0 |
-| RB | D'Andre Swift | RB | CHI |  | NO (#31 vs RB) | 16.9 | 11.9 | 16.6 | 165.7 | 14.1 | 10.6 | 10 | 97.62 | -0.02 |
-| WR | Ja'Marr Chase | WR | CIN |  | WSH (#20 vs WR) | 25.4 | 8.1 | 20.2 | 201.9 | 25.3 | 1.0 | 6 | 99.93 | 0.0 |
-| WR | Courtland Sutton | WR | DEN |  | LV (#24 vs WR) | 10.3 | 0.0 | 6.4 | 63.6 | 8.0 | 31.1 | 10 | 67.44 | -0.02 |
-| TE | Mike Gesicki | TE | CIN |  | WSH (#31 vs TE) | 7.4 | 12.7 | 9.5 | 94.8 | 7.3 | 13.6 | 6 | 30.82 | 0.2 |
-| RB/WR/TE | Caleb Douglas | WR | MIA |  | BUF (#23 vs WR) | 9.7 | 5.0 | 10.8 | 75.7 | 10.0 | 31.0 | 6 | 36.34 | -0.02 |
-| D/ST | Texans D/ST | D/ST | HOU |  | IND (#31 vs D/ST) | 6.7 | 15.0 | 6.1 | 61.0 | 2.6 |  | 8 | 91.45 | -0.01 |
-| K | Ka'imi Fairbairn | K | HOU |  | IND (#29 vs K) | 10.7 | 6.0 | 10.5 | 105.0 | 9.3 |  | 8 | 89.14 | -0.04 |
-| BE | Chase McLaughlin | K | TB |  | DET (#1 vs K) | 9.5 | 3.0 | 10.2 | 102.0 | 8.9 | 9.1 | 10 | 34.84 | -0.02 |
-| BE | Tyler Allgeier | RB | ARI |  | KC (#7 vs RB) | 7.1 | 2.3 | 8.6 | 94.4 | 7.0 | 36.2 | 14 | 54.97 | -0.09 |
-| BE | Malik Washington | WR | MIA |  | BUF (#23 vs WR) | 7.7 | 7.1 | 9.6 | 96.3 | 8.0 | 42.4 | 6 | 31.39 | -0.05 |
-| BE | Kyle Pitts Sr. | TE | ATL |  | BYE | 0.0 | 0 | 7.8 | 78.0 | 8.7 |  | 11 | 72.71 | -0.11 |
-| BE | Commanders D/ST | D/ST | WSH |  | CIN (#5 vs D/ST) | 4.4 | 3.0 | 4.9 | 49.0 | 1.9 | 18.1 | 7 | 15.68 | 0.07 |
-| BE | Kaelon Black | RB | SF |  | MIN (#4 vs RB) | 6.5 | 2.5 | 5.5 | 54.8 | 7.0 | 36.8 | 8 | 37.97 | -0.05 |
-| BE | Germie Bernard | WR | PIT |  | PHI (#29 vs WR) | 6.8 | 10.0 | 7.8 | 77.8 | 6.7 | 58.0 | 9 | 41.1 | -0.1 |
-| BE | Fernando Mendoza | QB | LV |  | DEN (#15 vs QB) | 14.5 | 22.9 | 7.8 | 39.0 | 17.9 | 18.5 | 13 | 22.27 | -0.02 |
-| IR | Jacory Croskey-Merritt | RB | WSH |  | CIN (#14 vs RB) | 7.5 | 15.7 | 10.1 | 60.6 | 7.6 | 34.9 | 7 | 45.57 | 0.18 |
+| QB | Trevor Lawrence | QB | JAX |  | TEN (#31 vs QB) | 23.2 | 0 | 18.7 | 186.7 | 19.7 | 2.3 | 7 | 94.59 | -0.17 |
+| RB | Jahmyr Gibbs | RB | DET |  | CHI (#10 vs RB) | 25.6 | 0 | 28.1 | 281.2 | 26.0 | 1.0 | 6 | 99.89 | -0.06 |
+| RB | Kyren Williams | RB | LAR |  | GB (#25 vs RB) | 16.8 | 0 | 16.4 | 164.3 | 14.8 | 11.2 | 11 | 98.31 | -0.16 |
+| WR | Zay Flowers | WR | BAL |  | HOU (#27 vs WR) | 14.6 | 0 | 15.5 | 155.3 | 14.5 | 13.9 | 13 | 98.58 | -0.11 |
+| WR | Nico Collins | WR | HOU |  | BAL (#17 vs WR) | 15.2 | 0 | 16.4 | 130.8 | 14.8 | 10.1 | 8 | 98.99 | -0.12 |
+| TE | Brock Bowers | TE | LV | QUESTIONABLE | CLE (#22 vs TE) | 15.1 | 0 | 18.7 | 149.8 | 19.3 | 1.0 | 13 | 99.64 | -0.2 |
+| RB/WR/TE | Blake Corum | RB | LAR |  | GB (#25 vs RB) | 13.8 | 0 | 11.6 | 115.5 | 11.7 | 21.6 | 11 | 82.24 | -0.13 |
+| D/ST | Vikings D/ST | D/ST | MIN |  | ATL (#24 vs D/ST) | 6.3 | 0 | 10.6 | 106.0 | 2.7 | 12.4 | 6 | 86.95 | -0.17 |
+| K | Cam Little | K | JAX |  | TEN (#31 vs K) | 12.6 | 0 | 11.0 | 110.0 | 11.6 | 1.1 | 7 | 87.38 | -0.08 |
+| BE | Rome Odunze | WR | CHI |  | DET (#22 vs WR) | 10.9 | 0 | 9.7 | 97.3 | 10.6 | 30.5 | 10 | 87.6 | -0.15 |
+| BE | Deebo Samuel Sr. | WR | SF |  | SEA (#1 vs WR) | 10.8 | 0 | 13.4 | 94.0 | 11.4 | 32.8 | 8 | 83.3 | -0.15 |
+| BE | Jaguars D/ST | D/ST | JAX |  | TEN (#20 vs D/ST) | 6.9 | 0 | 7.5 | 75.0 | 2.8 | 6.2 | 7 | 89.31 | -0.22 |
+| BE | Spencer Shrader | K | IND |  | NYG (#6 vs K) | 9.6 | 0 | 10.3 | 113.0 | 9.4 | 10.5 | 13 | 84.44 | -0.44 |
+| BE | Keenan Allen | WR | SF |  | SEA (#1 vs WR) | 6.9 | 0 | 9.9 | 99.0 | 7.2 | 60.9 | 8 | 51.51 | -0.21 |
+| BE | Cam Ward | QB | TEN |  | JAX (#7 vs QB) | 12.0 | 0 | 14.2 | 141.9 | 14.8 | 25.7 | 9 | 36.83 | -0.46 |
+| BE | Michael Mayer | TE | LV |  | CLE (#22 vs TE) | 5.7 | 0 | 7.9 | 87.0 | 6.1 |  | 13 | 35.72 | -1.1 |
+| BE | Seth McGowan | RB | IND | OUT | NYG (#4 vs RB) | 0.0 | 0 | 4.4 | 48.2 | 2.6 |  | 13 | 17.19 | -1.1 |
+| IR | Terrance Ferguson | TE | LAR | INJURY_RESERVE | GB (#3 vs TE) | 0.0 | 0 | 6.4 | 19.3 | 0.0 |  | 11 | 9.81 | -2.08 |
 
 ## The Ghee-talians
 
-Owner Christian · 6-4-0 · seed 4 · 1302.1 PF · waiver rank 5
+Owner Christian · 7-4-0 · seed 3 · 1430.1 PF · waiver rank 5
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Bryce Young | QB | CAR |  | BAL (#18 vs QB) | 17.4 | 16.0 | 17.1 | 170.6 | 15.4 | 10.8 | 5 | 76.92 | -0.08 |
-| RB | Jonathan Taylor | RB | IND |  | HOU (#18 vs RB) | 16.6 | 6.7 | 15.7 | 172.6 | 13.8 |  | 13 | 99.85 | 0.0 |
-| RB | James Cook III | RB | BUF |  | MIA (#28 vs RB) | 20.9 | 17.2 | 18.7 | 187.3 | 17.6 | 1.9 | 7 | 99.92 | 0.0 |
-| WR | Malik Nabers | WR | NYG |  | JAX (#19 vs WR) | 16.2 | 18.5 | 15.6 | 155.7 | 16.4 | 6.5 | 8 | 99.41 | 0.0 |
-| WR | Parker Washington | WR | JAX |  | NYG (#13 vs WR) | 15.3 | 18.3 | 15.6 | 156.1 | 16.2 | 7.5 | 7 | 97.03 | -0.04 |
-| TE | Isaiah Likely | TE | NYG |  | JAX (#6 vs TE) | 13.1 | 4.5 | 16.1 | 161.0 | 12.1 | 2.8 | 8 | 97.26 | -0.05 |
-| RB/WR/TE | Jonah Coleman | RB | DEN |  | LV (#27 vs RB) | 19.4 | 34.9 | 16.3 | 97.8 | 16.2 | 7.4 | 10 | 90.59 | -0.08 |
-| D/ST | Panthers D/ST | D/ST | CAR |  | BAL (#17 vs D/ST) | 5.9 | 4.0 | 4.3 | 43.0 | 1.9 | 9.5 | 5 | 20.8 | 0.02 |
-| K | Wil Lutz | K | DEN |  | LV (#9 vs K) | 9.9 | 8.0 | 7.9 | 79.0 | 8.7 | 7.4 | 10 | 16.05 | 0.02 |
-| BE | Seahawks D/ST | D/ST | SEA |  | BYE | 0.0 | 0 | 8.9 | 89.0 | 3.0 |  | 11 | 86.83 | -0.07 |
-| BE | RJ Harvey | RB | DEN | INJURY_RESERVE | LV (#27 vs RB) | 0.0 | 0.0 | 11.2 | 67.4 | 8.4 |  | 10 | 48.54 | -0.04 |
-| BE | Brenton Strange | TE | JAX |  | NYG (#18 vs TE) | 8.0 | 4.6 | 8.5 | 85.1 | 7.8 | 11.9 | 7 | 54.69 | -0.05 |
-| BE | Andre Szmyt | K | CLE |  | BYE | 0.0 | 0 | 8.9 | 89.0 | 9.8 |  | 11 | 2.7 | -0.03 |
-| BE | Jaylen Waddle | WR | DEN |  | LV (#24 vs WR) | 12.5 | 9.1 | 9.1 | 91.1 | 10.8 | 19.9 | 10 | 85.7 | -0.02 |
-| BE | Tetairoa McMillan | WR | CAR |  | BAL (#17 vs WR) | 13.9 | 19.1 | 15.0 | 150.1 | 14.0 | 13.9 | 5 | 98.23 | -0.01 |
-| BE | Baker Mayfield | QB | TB |  | DET (#32 vs QB) | 12.0 | 19.1 | 10.0 | 70.0 | 13.9 | 20.2 | 10 | 17.88 | -0.01 |
-| BE | Ja'Kobi Lane | WR | BAL |  | CAR (#14 vs WR) | 6.4 | 0.0 | 3.9 | 27.0 | 4.9 | 56.5 | 13 | 7.49 | 0.0 |
-| IR | De'Zhaun Stribling | WR | SF | INJURY_RESERVE | MIN (#5 vs WR) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |  | 8 | 17.98 | 0.0 |
+| QB | Bryce Young | QB | CAR |  | TB (#4 vs QB) | 14.2 | 0 | 17.1 | 170.6 | 15.4 | 22.5 | 5 | 76.74 | -0.21 |
+| RB | James Cook III | RB | BUF |  | KC (#7 vs RB) | 14.5 | 0 | 18.7 | 187.3 | 17.6 | 13.8 | 7 | 99.8 | -0.11 |
+| RB | Jonah Coleman | RB | DEN |  | PIT (#17 vs RB) | 16.0 | 0 | 16.3 | 97.8 | 16.2 | 10.8 | 10 | 90.56 | -0.03 |
+| WR | Malik Nabers | WR | NYG |  | IND (#13 vs WR) | 16.5 | 0 | 15.6 | 155.7 | 16.4 | 8.4 | 8 | 99.32 | -0.09 |
+| WR | Parker Washington | WR | JAX |  | TEN (#32 vs WR) | 17.8 | 0 | 15.6 | 156.1 | 16.2 | 6.2 | 7 | 96.94 | -0.1 |
+| TE | Isaiah Likely | TE | NYG |  | IND (#19 vs TE) | 12.2 | 0 | 16.1 | 161.0 | 12.1 | 3.9 | 8 | 97.06 | -0.2 |
+| RB/WR/TE | Tetairoa McMillan | WR | CAR |  | TB (#11 vs WR) | 13.4 | 0 | 15.0 | 150.1 | 14.0 | 20.8 | 5 | 98.14 | -0.09 |
+| D/ST | Seahawks D/ST | D/ST | SEA |  | SF (#2 vs D/ST) | 4.5 | 0 | 8.9 | 89.0 | 3.0 | 20.1 | 11 | 86.69 | -0.18 |
+| K | Andre Szmyt | K | CLE |  | LV (#9 vs K) | 10.9 | 0 | 8.9 | 89.0 | 9.8 | 5.5 | 11 | 2.71 | 0.0 |
+| BE | Jonathan Taylor | RB | IND |  | NYG (#4 vs RB) | 14.0 | 0 | 15.7 | 172.6 | 13.8 | 23.0 | 13 | 99.66 | -0.2 |
+| BE | Wil Lutz | K | DEN |  | PIT (#32 vs K) | 7.8 | 0 | 7.9 | 79.0 | 8.7 | 20.1 | 10 | 15.99 | -0.07 |
+| BE | RJ Harvey | RB | DEN | INJURY_RESERVE | PIT (#17 vs RB) | 0.0 | 0 | 11.2 | 67.4 | 8.4 |  | 10 | 48.46 | -0.09 |
+| BE | Brenton Strange | TE | JAX |  | TEN (#18 vs TE) | 8.5 | 0 | 8.5 | 85.1 | 7.8 | 11.5 | 7 | 54.45 | -0.26 |
+| BE | Jaylen Waddle | WR | DEN |  | PIT (#12 vs WR) | 10.2 | 0 | 9.1 | 91.1 | 10.8 | 35.4 | 10 | 85.57 | -0.14 |
+| BE | Baker Mayfield | QB | TB |  | CAR (#11 vs QB) | 14.2 | 0 | 10.0 | 70.0 | 13.9 | 20.8 | 10 | 17.85 | -0.03 |
+| BE | Panthers D/ST | D/ST | CAR |  | TB (#26 vs D/ST) | 5.3 | 0 | 4.3 | 43.0 | 1.9 | 18.9 | 5 | 20.56 | -0.24 |
+| BE | Ja'Kobi Lane | WR | BAL |  | HOU (#27 vs WR) | 5.0 | 0 | 3.9 | 27.0 | 4.9 |  | 13 | 7.29 | -0.2 |
+| IR | De'Zhaun Stribling | WR | SF | INJURY_RESERVE | SEA (#1 vs WR) | 0.0 | 0 | 0.0 | 0.0 | 0.0 |  | 8 | 17.96 | -0.03 |
 
 ## Baba Yaga Swede
 
-Owner Victor · 6-4-0 · seed 5 · 1264.9 PF · waiver rank 3
+Owner Victor · 7-4-0 · seed 4 · 1370.1 PF · waiver rank 3
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Jayden Daniels | QB | WSH |  | CIN (#17 vs QB) | 19.6 | 17.1 | 19.1 | 153.0 | 20.6 | 6.2 | 7 | 94.87 | 0.0 |
-| RB | Ashton Jeanty | RB | LV |  | DEN (#22 vs RB) | 14.1 | 27.9 | 16.1 | 177.6 | 16.0 | 16.6 | 13 | 98.65 | 0.0 |
-| RB | Travis Etienne Jr. | RB | NO |  | CHI (#12 vs RB) | 11.9 | 7.6 | 9.0 | 44.9 | 12.1 | 20.8 | 8 | 85.62 | -0.02 |
-| WR | Tee Higgins | WR | CIN |  | WSH (#20 vs WR) | 16.7 | 12.3 | 18.4 | 183.7 | 16.7 | 4.9 | 6 | 99.04 | -0.01 |
-| WR | Garrett Wilson | WR | NYJ |  | LAC (#26 vs WR) | 14.1 | 6.9 | 13.6 | 136.2 | 14.1 | 11.0 | 13 | 97.88 | -0.01 |
-| TE | Dalton Schultz | TE | HOU |  | IND (#19 vs TE) | 8.7 | 2.1 | 8.2 | 81.6 | 7.5 |  | 8 | 32.11 | -0.04 |
-| RB/WR/TE | David Montgomery | RB | HOU |  | IND (#26 vs RB) | 13.7 | 15.4 | 10.2 | 60.9 | 10.8 |  | 8 | 85.9 | -0.05 |
-| D/ST | Chiefs D/ST | D/ST | KC |  | ARI (#20 vs D/ST) | 7.0 | 8.0 | 6.7 | 67.0 | 2.8 | 1.9 | 5 | 86.5 | -0.08 |
-| K | Cameron Dicker | K | LAC |  | NYJ (#7 vs K) | 10.2 | 8.0 | 7.9 | 79.0 | 8.8 | 10.6 | 7 | 61.96 | 0.08 |
-| BE | Jaxon Smith-Njigba | WR | SEA |  | BYE | 0.0 | 0 | 26.3 | 263.2 | 21.2 |  | 11 | 99.9 | 0.0 |
-| BE | Harold Fannin Jr. | TE | CLE |  | BYE | 0.0 | 0 | 11.8 | 118.4 | 10.3 |  | 11 | 88.98 | -0.06 |
-| BE | Mike Evans | WR | SF |  | MIN (#5 vs WR) | 11.5 | 22.9 | 16.0 | 111.9 | 15.5 | 24.2 | 8 | 91.56 | -0.04 |
-| BE | Tre Tucker | WR | LV |  | DEN (#6 vs WR) | 9.7 | 7.0 | 10.8 | 118.2 | 8.4 | 38.1 | 13 | 51.51 | -0.08 |
-| BE | Patrick Mahomes | QB | KC |  | ARI (#31 vs QB) | 21.8 | 25.0 | 20.2 | 202.4 | 19.7 | 3.8 | 5 | 95.47 | -0.04 |
-| BE | Trey Smack | K | GB |  | BYE | 0.0 | 0 | 7.1 | 71.0 | 8.2 |  | 11 | 5.52 | -0.04 |
-| BE | Bengals D/ST | D/ST | CIN |  | WSH (#13 vs D/ST) | 5.0 | 0.0 | 5.8 | 58.0 | 2.6 | 10.8 | 6 | 36.87 | 0.35 |
-| BE | Quinshon Judkins | RB | CLE |  | BYE | 0.0 | 0 | 12.0 | 108.2 | 12.1 |  | 11 | 91.98 | -0.04 |
+| QB | Jayden Daniels | QB | WSH |  | ARI (#32 vs QB) | 22.5 | 0 | 19.1 | 153.0 | 20.6 | 3.7 | 7 | 94.75 | -0.11 |
+| RB | Ashton Jeanty | RB | LV |  | CLE (#12 vs RB) | 15.3 | 0 | 16.1 | 177.6 | 16.0 | 13.1 | 13 | 98.59 | -0.06 |
+| RB | Quinshon Judkins | RB | CLE |  | LV (#28 vs RB) | 15.3 | 0 | 12.0 | 108.2 | 12.1 | 15.6 | 11 | 91.86 | -0.13 |
+| WR | Jaxon Smith-Njigba | WR | SEA |  | SF (#24 vs WR) | 21.6 | 0 | 26.3 | 263.2 | 21.2 | 2.1 | 11 | 99.71 | -0.19 |
+| WR | Tee Higgins | WR | CIN |  | NO (#8 vs WR) | 17.2 | 0 | 18.4 | 183.7 | 16.7 | 7.0 | 6 | 98.9 | -0.14 |
+| TE | Harold Fannin Jr. | TE | CLE |  | LV (#28 vs TE) | 11.1 | 0 | 11.8 | 118.4 | 10.3 | 6.2 | 11 | 88.86 | -0.13 |
+| RB/WR/TE | Mike Evans | WR | SF |  | SEA (#1 vs WR) | 14.9 | 0 | 16.0 | 111.9 | 15.5 | 13.6 | 8 | 91.48 | -0.08 |
+| D/ST | Bengals D/ST | D/ST | CIN |  | NO (#26 vs D/ST) | 6.7 | 0 | 5.8 | 58.0 | 2.6 | 9.9 | 6 | 36.71 | 0.03 |
+| K | Cameron Dicker | K | LAC |  | NE (#15 vs K) | 9.5 | 0 | 7.9 | 79.0 | 8.8 | 12.8 | 7 | 61.87 | -0.09 |
+| BE | Garrett Wilson | WR | NYJ |  | MIA (#4 vs WR) | 14.1 | 0 | 13.6 | 136.2 | 14.1 | 16.4 | 13 | 97.71 | -0.17 |
+| BE | Tre Tucker | WR | LV |  | CLE (#14 vs WR) | 7.8 | 0 | 10.8 | 118.2 | 8.4 | 54.6 | 13 | 51.36 | -0.16 |
+| BE | Patrick Mahomes | QB | KC |  | BUF (#9 vs QB) | 18.5 | 0 | 20.2 | 202.4 | 19.7 | 7.3 | 5 | 95.37 | -0.1 |
+| BE | Chiefs D/ST | D/ST | KC |  | BUF (#7 vs D/ST) | 5.1 | 0 | 6.7 | 67.0 | 2.8 | 19.6 | 5 | 85.79 | -0.73 |
+| BE | Trey Smack | K | GB |  | LAR (#24 vs K) | 7.2 | 0 | 7.1 | 71.0 | 8.2 |  | 11 | 5.5 | -0.03 |
+| BE | Dalton Schultz | TE | HOU |  | BAL (#21 vs TE) | 7.7 | 0 | 8.2 | 81.6 | 7.5 | 16.5 | 8 | 31.85 | -0.27 |
+| BE | Travis Etienne Jr. | RB | NO |  | CIN (#13 vs RB) | 11.7 | 0 | 9.0 | 44.9 | 12.1 | 27.5 | 8 | 85.49 | -0.14 |
+| BE | David Montgomery | RB | HOU |  | BAL (#15 vs RB) | 11.2 | 0 | 10.2 | 60.9 | 10.8 | 30.1 | 8 | 85.81 | -0.1 |
+
+## the blind side
+
+Owner Nick · 7-4-0 · seed 5 · 1250.5 PF · waiver rank 6
+
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+
+| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| QB | Joe Burrow | QB | CIN |  | NO (#15 vs QB) | 24.8 | 0 | 25.2 | 252.2 | 23.3 | 1.0 | 6 | 99.38 | -0.14 |
+| RB | Javonte Williams | RB | DAL |  | PHI (#8 vs RB) | 17.1 | 0 | 17.4 | 191.4 | 15.3 | 7.9 | 14 | 99.38 | -0.08 |
+| RB | D'Andre Swift | RB | CHI |  | DET (#6 vs RB) | 14.0 | 0 | 16.6 | 165.7 | 14.1 | 19.8 | 10 | 97.48 | -0.14 |
+| WR | Ja'Marr Chase | WR | CIN |  | NO (#8 vs WR) | 25.9 | 0 | 20.2 | 201.9 | 25.3 | 1.0 | 6 | 99.73 | -0.2 |
+| WR | Caleb Douglas | WR | MIA |  | NYJ (#7 vs WR) | 10.6 | 0 | 10.8 | 75.7 | 10.0 | 32.5 | 6 | 36.23 | -0.11 |
+| TE | Mike Gesicki | TE | CIN |  | NO (#26 vs TE) | 7.6 | 0 | 9.5 | 94.8 | 7.3 | 17.0 | 6 | 30.71 | -0.02 |
+| RB/WR/TE | Jacory Croskey-Merritt | RB | WSH |  | ARI (#20 vs RB) | 8.4 | 0 | 10.1 | 60.6 | 7.6 | 37.8 | 7 | 45.53 | 0.11 |
+| D/ST | Texans D/ST | D/ST | HOU |  | BAL (#17 vs D/ST) | 7.3 | 0 | 6.1 | 61.0 | 2.6 | 4.5 | 8 | 91.36 | -0.1 |
+| K | Ka'imi Fairbairn | K | HOU |  | BAL (#29 vs K) | 9.8 | 0 | 10.5 | 105.0 | 9.3 | 8.2 | 8 | 88.98 | -0.16 |
+| BE | Chase McLaughlin | K | TB |  | CAR (#13 vs K) | 9.3 | 0 | 10.2 | 102.0 | 8.9 | 11.4 | 10 | 34.71 | -0.14 |
+| BE | Malik Washington | WR | MIA |  | NYJ (#7 vs WR) | 8.5 | 0 | 9.6 | 96.3 | 8.0 | 47.9 | 6 | 31.3 | -0.1 |
+| BE | Kyle Pitts Sr. | TE | ATL |  | MIN (#1 vs TE) | 8.3 | 0 | 7.8 | 78.0 | 8.7 | 15.5 | 11 | 72.6 | -0.15 |
+| BE | Commanders D/ST | D/ST | WSH |  | ARI (#22 vs D/ST) | 8.9 | 0 | 4.9 | 49.0 | 1.9 | 1.0 | 7 | 15.79 | 0.15 |
+| BE | Kaelon Black | RB | SF |  | SEA (#11 vs RB) | 6.2 | 0 | 5.5 | 54.8 | 7.0 | 49.5 | 8 | 37.83 | -0.14 |
+| BE | Germie Bernard | WR | PIT |  | DEN (#6 vs WR) | 6.5 | 0 | 7.8 | 77.8 | 6.7 | 58.5 | 9 | 40.96 | -0.15 |
+| BE | Fernando Mendoza | QB | LV |  | CLE (#10 vs QB) | 16.1 | 0 | 7.8 | 39.0 | 17.9 | 15.7 | 13 | 22.28 | 0.01 |
+| BE | Courtland Sutton | WR | DEN |  | PIT (#12 vs WR) | 8.0 | 0 | 6.4 | 63.6 | 8.0 | 54.2 | 10 | 66.95 | -0.49 |
+
+## Murderapolis
+
+Owner Toby · 5-6-0 · seed 6 · 1090.4 PF · waiver rank 12
+
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+
+| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| QB | C.J. Stroud | QB | HOU |  | BAL (#18 vs QB) | 21.4 | 0 | 20.5 | 204.9 | 20.0 | 4.7 | 8 | 85.89 | -0.12 |
+| RB | Derrick Henry | RB | BAL |  | HOU (#16 vs RB) | 14.5 | 0 | 16.4 | 180.4 | 14.5 | 16.8 | 13 | 99.49 | -0.09 |
+| RB | Saquon Barkley | RB | PHI | QUESTIONABLE | DAL (#31 vs RB) | 14.2 | 0 | 9.0 | 72.2 | 11.8 | 19.1 | 10 | 96.53 | -0.11 |
+| WR | Justin Jefferson | WR | MIN |  | ATL (#26 vs WR) | 20.1 | 0 | 13.9 | 125.3 | 19.4 | 4.4 | 6 | 99.73 | -0.14 |
+| WR | Ladd McConkey | WR | LAC |  | NE (#31 vs WR) | 12.2 | 0 | 10.3 | 72.3 | 11.6 | 25.4 | 7 | 79.46 | -0.03 |
+| TE | T.J. Hockenson | TE | MIN |  | ATL (#16 vs TE) | 10.9 | 0 | 10.8 | 97.3 | 10.6 | 7.1 | 6 | 85.04 | -0.14 |
+| RB/WR/TE | Adonai Mitchell | WR | NYJ |  | MIA (#4 vs WR) | 10.2 | 0 | 8.9 | 62.4 | 10.2 | 35.8 | 13 | 48.01 | -0.25 |
+| D/ST | Giants D/ST | D/ST | NYG |  | IND (#31 vs D/ST) | 7.0 | 0 | 6.1 | 61.0 | 2.4 | 6.9 | 8 | 15.98 | 0.05 |
+| K | Brandon Aubrey | K | DAL |  | PHI (#30 vs K) | 10.4 | 0 | 9.2 | 101.0 | 9.9 | 5.1 | 14 | 98.37 | -0.11 |
+| BE | Josh Allen | QB | BUF |  | KC (#3 vs QB) | 18.7 | 0 | 23.5 | 235.2 | 21.0 | 4.3 | 7 | 99.72 | -0.21 |
+| BE | Jadarian Price | RB | SEA |  | SF (#9 vs RB) | 8.0 | 0 | 6.1 | 42.9 | 8.6 | 42.5 | 11 | 76.25 | -0.19 |
+| BE | Dalton Kincaid | TE | BUF | QUESTIONABLE | KC (#27 vs TE) | 8.5 | 0 | 10.3 | 92.7 | 10.3 | 13.8 | 7 | 74.23 | -0.15 |
+| BE | Devaughn Vele | WR | NO |  | CIN (#10 vs WR) | 8.2 | 0 | 10.8 | 107.5 | 7.8 | 52.5 | 8 | 34.31 | -0.06 |
+| BE | Mike Washington Jr. | RB | LV |  | CLE (#12 vs RB) | 7.0 | 0 | 4.1 | 45.5 | 7.3 | 47.8 | 13 | 17.55 | -0.07 |
+| BE | Jason Sanders | K | NYJ |  | MIA (#23 vs K) | 10.2 | 0 | 10.1 | 111.0 | 10.3 | 8.4 | 13 | 24.17 | -0.01 |
+| BE | Lions D/ST | D/ST | DET |  | CHI (#12 vs D/ST) | 5.5 | 0 | 5.7 | 57.0 | 2.2 | 17.6 | 6 | 58.15 | -0.39 |
+| BE | Elic Ayomanor | WR | TEN |  | JAX (#16 vs WR) | 6.8 | 0 | 5.9 | 58.7 | 7.3 |  | 9 | 18.64 | -0.58 |
+
+## Tuten the train
+
+Owner Aziz · 5-6-0 · seed 7 · 1105.7 PF · waiver rank 11
+
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+
+| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| QB | Caleb Williams | QB | CHI |  | DET (#30 vs QB) | 16.0 | 0 | 17.8 | 124.7 | 15.7 | 11.8 | 10 | 90.93 | -0.15 |
+| RB | Zach Charbonnet | RB | SEA |  | SF (#9 vs RB) | 11.7 | 0 | 8.3 | 24.9 | 13.2 | 27.6 | 11 | 80.17 | -0.16 |
+| RB | Bucky Irving | RB | TB |  | CAR (#32 vs RB) | 20.9 | 0 | 17.8 | 178.1 | 20.2 | 2.9 | 10 | 97.92 | -0.1 |
+| WR | Rashee Rice | WR | KC |  | BUF (#18 vs WR) | 10.9 | 0 | 11.3 | 90.7 | 11.5 | 27.2 | 5 | 95.97 | -0.13 |
+| WR | Denzel Boston | WR | CLE |  | LV (#23 vs WR) | 12.9 | 0 | 10.5 | 105.3 | 11.8 | 23.4 | 11 | 72.93 | -0.14 |
+| TE | Colston Loveland | TE | CHI |  | DET (#32 vs TE) | 10.5 | 0 | 9.5 | 95.2 | 10.2 | 8.5 | 10 | 96.65 | -0.12 |
+| RB/WR/TE | Antonio Williams | WR | WSH |  | ARI (#21 vs WR) | 9.6 | 0 | 9.4 | 93.8 | 9.3 | 37.1 | 7 | 22.05 | 0.2 |
+| D/ST | Jets D/ST | D/ST | NYJ |  | MIA (#30 vs D/ST) | 6.5 | 0 | 4.6 | 51.0 | 2.3 | 10.4 | 13 | 38.8 | -0.24 |
+| K | Tyler Bass | K | BUF |  | KC (#14 vs K) | 11.3 | 0 | 11.5 | 115.0 | 11.8 | 2.0 | 7 | 85.95 | -0.07 |
+| BE | Bhayshul Tuten | RB | JAX | QUESTIONABLE | TEN (#19 vs RB) | 18.6 | 0 | 15.6 | 155.8 | 16.3 | 5.2 | 7 | 95.53 | -0.17 |
+| BE | Rams D/ST | D/ST | LAR |  | GB (#14 vs D/ST) | 7.8 | 0 | 6.4 | 64.0 | 2.8 | 3.4 | 11 | 71.36 | -0.16 |
+| BE | Jason Myers | K | SEA |  | SF (#21 vs K) | 7.4 | 0 | 7.7 | 77.0 | 7.6 | 20.6 | 11 | 54.68 | -0.26 |
+| BE | Tyler Shough | QB | NO |  | CIN (#17 vs QB) | 14.2 | 0 | 17.0 | 169.9 | 15.3 | 18.5 | 8 | 63.18 | -0.17 |
+| BE | Omar Cooper Jr. | WR | NYJ | QUESTIONABLE | MIA (#4 vs WR) | 9.0 | 0 | 10.4 | 62.6 | 10.8 | 41.5 | 13 | 39.27 | -0.17 |
+| BE | Kyle Monangai | RB | CHI |  | DET (#6 vs RB) | 7.8 | 0 | 12.2 | 61.1 | 7.9 | 43.1 | 10 | 76.3 | -0.26 |
+| BE | Darren Waller | TE | CAR |  | TB (#23 vs TE) | 7.2 | 0 | 8.8 | 88.5 | 7.5 | 22.8 | 5 | 27.84 | -0.18 |
+| BE | Khalil Shakir | WR | BUF |  | KC (#2 vs WR) | 9.3 | 0 | 9.9 | 99.0 | 9.8 | 38.1 | 7 | 63.25 | -0.06 |
+| IR | Davante Adams | WR | LAR | INJURY_RESERVE | GB (#28 vs WR) | 0.0 | 0 | 17.0 | 102.0 | 16.3 |  | 11 | 90.26 | -0.12 |
+
+## Christian McCracker
+
+Owner devin · 4-7-0 · seed 8 · 1175.0 PF · waiver rank 9
+
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+
+| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| QB | Dak Prescott | QB | DAL |  | PHI (#23 vs QB) | 19.5 | 0 | 21.6 | 237.8 | 17.9 | 5.8 | 14 | 95.1 | -0.06 |
+| RB | Christian McCaffrey | RB | SF |  | SEA (#11 vs RB) | 18.1 | 0 | 22.7 | 227.2 | 19.7 | 4.5 | 8 | 99.78 | -0.15 |
+| RB | Breece Hall | RB | NYJ |  | MIA (#27 vs RB) | 13.8 | 0 | 14.7 | 88.0 | 13.8 | 23.2 | 13 | 95.56 | -0.09 |
+| WR | DJ Moore | WR | BUF |  | KC (#2 vs WR) | 12.9 | 0 | 12.8 | 102.0 | 13.5 | 21.5 | 7 | 93.78 | -0.07 |
+| WR | Ryan Flournoy | WR | DAL |  | PHI (#30 vs WR) | 8.0 | 0 | 9.6 | 105.0 | 7.9 | 52.8 | 14 | 43.94 | -0.37 |
+| TE | Sam LaPorta | TE | DET | QUESTIONABLE | CHI (#9 vs TE) | 10.8 | 0 | 10.5 | 104.9 | 11.0 | 7.9 | 6 | 95.23 | -0.13 |
+| RB/WR/TE | Jakobi Meyers | WR | JAX |  | TEN (#32 vs WR) | 12.4 | 0 | 9.4 | 94.5 | 11.2 | 26.1 | 7 | 73.91 | -0.07 |
+| D/ST | 49ers D/ST | D/ST | SF |  | SEA (#23 vs D/ST) | 7.5 | 0 | 8.1 | 81.0 | 3.2 | 3.6 | 8 | 49.38 | -0.01 |
+| K | Ryan Fitzgerald | K | CAR |  | TB (#22 vs K) | 7.4 | 0 | 8.4 | 84.0 | 7.8 | 20.5 | 5 | 6.04 | -0.01 |
+| BE | DK Metcalf | WR | PIT |  | DEN (#6 vs WR) | 9.6 | 0 | 9.4 | 94.5 | 11.0 | 39.8 | 9 | 88.02 | -0.43 |
+| BE | Patriots D/ST | D/ST | NE |  | LAC (#32 vs D/ST) | 5.9 | 0 | 4.4 | 44.0 | 1.4 | 16.1 | 11 | 29.95 | -0.07 |
+| BE | Rachaad White | RB | WSH |  | ARI (#20 vs RB) | 8.3 | 0 | 8.4 | 75.9 | 7.8 | 42.2 | 7 | 66.93 | -0.49 |
+| BE | Hunter Henry | TE | NE |  | LAC (#10 vs TE) | 7.2 | 0 | 8.4 | 84.3 | 6.5 | 23.0 | 11 | 47.71 | -0.2 |
+| BE | Chad Ryland | K | ARI |  | WSH (#15 vs K) | 7.3 | 0 | 8.4 | 92.0 | 7.3 |  | 14 | 18.66 | -0.07 |
+| BE | A.J. Brown | WR | NE | DOUBTFUL | LAC (#25 vs WR) | 0.0 | 0 | 6.0 | 23.8 | 9.6 |  | 11 | 82.83 | -0.28 |
+| BE | Aaron Jones Sr. | RB | MIN |  | ATL (#29 vs RB) | 10.3 | 0 | 10.7 | 106.7 | 9.4 | 31.9 | 6 | 81.37 | -0.09 |
+| BE | Sam Darnold | QB | SEA | QUESTIONABLE | SF (#13 vs QB) | 12.5 | 0 | 13.2 | 92.3 | 15.2 | 25.8 | 11 | 18.29 | -0.06 |
+| IR | Romeo Doubs | WR | NE | INJURY_RESERVE | LAC (#25 vs WR) | 0.0 | 0 | 9.7 | 58.1 | 0.0 |  | 11 | 38.01 | -0.1 |
+
+## Thr Short Bus
+
+Owner Dunbarr · 4-7-0 · seed 9 · 1217.1 PF · waiver rank 2
+
+Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
+
+| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| QB | Brock Purdy | QB | SF |  | SEA (#2 vs QB) | 18.8 | 0 | 22.5 | 225.2 | 20.4 | 7.5 | 8 | 98.5 | -0.12 |
+| RB | Cam Skattebo | RB | NYG |  | IND (#24 vs RB) | 17.4 | 0 | 11.5 | 103.4 | 16.0 | 9.0 | 8 | 94.71 | -0.16 |
+| RB | Tony Pollard | RB | TEN |  | JAX (#3 vs RB) | 14.3 | 0 | 15.1 | 151.4 | 17.0 | 18.2 | 9 | 93.14 | -0.17 |
+| WR | Emeka Egbuka | WR | TB |  | CAR (#15 vs WR) | 10.3 | 0 | 10.2 | 81.8 | 10.3 | 35.4 | 10 | 91.58 | -0.17 |
+| WR | Stefon Diggs | WR | WSH |  | ARI (#21 vs WR) | 13.8 | 0 | 13.2 | 119.1 | 13.4 | 19.6 | 7 | 88.82 | -0.14 |
+| TE | Tyler Warren | TE | IND |  | NYG (#14 vs TE) | 7.5 | 0 | 10.0 | 89.7 | 7.7 | 20.2 | 13 | 94.22 | -0.23 |
+| RB/WR/TE | Bijan Robinson | RB | ATL |  | MIN (#5 vs RB) | 17.7 | 0 | 19.8 | 197.7 | 19.8 | 5.4 | 11 | 99.71 | -0.17 |
+| D/ST | Bills D/ST | D/ST | BUF |  | KC (#1 vs D/ST) | 3.4 | 0 | 6.1 | 61.0 | 2.5 | 20.8 | 7 | 80.45 | -0.8 |
+| K | Will Reichard | K | MIN |  | ATL (#10 vs K) | 11.0 | 0 | 10.4 | 104.0 | 10.7 | 3.5 | 6 | 90.49 | -0.2 |
+| BE | Mark Andrews | TE | BAL |  | HOU (#2 vs TE) | 6.8 | 0 | 7.1 | 78.3 | 6.8 | 25.6 | 13 | 63.93 | -0.55 |
+| BE | Jordan Addison | WR | MIN | DOUBTFUL | ATL (#26 vs WR) | 0.0 | 0 | 7.7 | 53.9 | 11.4 | 46.8 | 6 | 63.52 | -0.13 |
+| BE | Jared Goff | QB | DET |  | CHI (#19 vs QB) | 16.9 | 0 | 18.8 | 188.1 | 17.2 | 9.8 | 6 | 87.86 | -0.1 |
+| BE | Saints D/ST | D/ST | NO |  | CIN (#6 vs D/ST) | 2.7 | 0 | 4.4 | 44.0 | 1.7 |  | 8 | 3.48 | -0.02 |
+| BE | Keon Coleman | WR | BUF |  | KC (#2 vs WR) | 5.1 | 0 | 7.7 | 77.2 | 5.3 |  | 7 | 16.62 | -0.09 |
+| BE | Braelon Allen | RB | NYJ |  | MIA (#27 vs RB) | 8.2 | 0 | 10.9 | 120.0 | 8.2 | 39.2 | 13 | 67.54 | -0.13 |
+| BE | Eddy Pineiro | K | SF |  | SEA (#5 vs K) | 6.5 | 0 | 6.2 | 62.0 | 6.7 | 20.9 | 8 | 32.1 | -0.04 |
+| BE | Xavier Worthy | WR | KC |  | BUF (#18 vs WR) | 6.2 | 0 | 7.9 | 78.6 | 6.5 |  | 5 | 56.79 | -0.08 |
+| IR | Alec Pierce | WR | IND | INJURY_RESERVE | NYG (#19 vs WR) | 0.0 | 0 | 6.1 | 12.2 | 0.0 |  | 13 | 41.2 | -0.93 |
 
 ## Frizztards
 
-Owner Spencer · 4-6-0 · seed 6 · 1180.7 PF · waiver rank 7
+Owner Spencer · 4-7-0 · seed 10 · 1277.8 PF · waiver rank 7
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 4/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Aaron Rodgers | QB | PIT |  | PHI (#24 vs QB) | 15.2 | 16.0 | 14.9 | 148.7 | 15.1 | 13.8 | 9 | 39.01 | -0.04 |
-| RB | Jaylen Warren | RB | PIT |  | PHI (#8 vs RB) | 15.7 | 4.9 | 15.5 | 154.8 | 14.8 | 11.4 | 9 | 96.29 | -0.05 |
-| RB | Rico Dowdle | RB | PIT |  | PHI (#8 vs RB) | 9.1 | 7.4 | 8.2 | 57.4 | 8.7 | 22.9 | 9 | 69.33 | -0.04 |
-| WR | Jameson Williams | WR | DET |  | TB (#11 vs WR) | 11.2 | 19.3 | 13.4 | 134.0 | 12.5 | 22.1 | 6 | 93.03 | -0.04 |
-| WR | Tank Dell | WR | HOU |  | IND (#12 vs WR) | 10.4 | 5.7 | 9.2 | 36.8 | 8.6 |  | 8 | 60.63 | -0.07 |
-| TE | Trey McBride | TE | ARI |  | KC (#27 vs TE) | 13.1 | 14.8 | 16.9 | 186.3 | 14.9 | 3.1 | 14 | 99.88 | 0.0 |
-| RB/WR/TE | Pat Freiermuth | TE | PIT |  | PHI (#4 vs TE) | 7.5 | 9.0 | 9.9 | 99.5 | 7.3 | 13.6 | 9 | 44.22 | -0.04 |
-| D/ST | Steelers D/ST | D/ST | PIT |  | PHI (#27 vs D/ST) | 8.3 | 7.0 | 7.3 | 73.0 | 2.9 | 1.5 | 9 | 95.05 | -0.01 |
-| K | Chris Boswell | K | PIT |  | PHI (#30 vs K) | 10.2 | 13.0 | 9.5 | 95.0 | 10.4 | 4.5 | 9 | 63.46 | -0.05 |
-| BE | Drake London | WR | ATL |  | BYE | 0.0 | 0 | 13.8 | 138.5 | 14.9 |  | 11 | 98.96 | -0.01 |
-| BE | Josh Jacobs | RB | GB | OUT | BYE | 0.0 | 0 | 14.6 | 43.8 | 16.3 |  | 11 | 89.96 | -0.06 |
-| BE | Kenny Gainwell | RB | TB |  | DET (#2 vs RB) | 8.8 | 9.9 | 7.3 | 73.5 | 9.1 | 24.8 | 10 | 59.83 | -0.01 |
-| BE | Makai Lemon | WR | PHI |  | PIT (#16 vs WR) | 7.8 | 1.3 | 7.5 | 75.0 | 6.5 | 49.5 | 10 | 44.45 | -0.03 |
-| BE | Matthew Stafford | QB | LAR |  | BYE | 0.0 | 0 | 16.3 | 162.6 | 14.3 |  | 11 | 83.58 | -0.07 |
-| BE | Jake Bates | K | DET |  | TB (#21 vs K) | 9.1 | 8.0 | 9.2 | 92.0 | 9.6 | 11.0 | 6 | 53.16 | -0.04 |
-| BE | Bears D/ST | D/ST | CHI |  | NO (#24 vs D/ST) | 5.9 | 15.0 | 8.4 | 84.0 | 2.1 | 6.8 | 10 | 66.66 | -0.05 |
-| IR | Puka Nacua | WR | LAR | INJURY_RESERVE | BYE | 0.0 | 0 | 24.8 | 173.6 | 0.0 |  | 11 | 84.92 | -0.99 |
-
-## Thr Short Bus
-
-Owner Dunbarr · 4-6-0 · seed 7 · 1137.8 PF · waiver rank 2
-
-Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
-
-| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Brock Purdy | QB | SF |  | MIN (#1 vs QB) | 17.6 | 22.2 | 22.5 | 225.2 | 20.4 | 8.9 | 8 | 98.62 | -0.02 |
-| RB | Cam Skattebo | RB | NYG |  | JAX (#6 vs RB) | 14.5 | 5.8 | 11.5 | 103.4 | 16.0 | 15.5 | 8 | 94.87 | -0.01 |
-| RB | Tony Pollard | RB | TEN |  | DAL (#32 vs RB) | 20.8 | 11.0 | 15.1 | 151.4 | 17.0 | 7.1 | 9 | 93.3 | -0.06 |
-| WR | Emeka Egbuka | WR | TB |  | DET (#21 vs WR) | 10.9 | 3.8 | 10.2 | 81.8 | 10.3 | 27.1 | 10 | 91.74 | -0.01 |
-| WR | Stefon Diggs | WR | WSH |  | CIN (#10 vs WR) | 12.9 | 8.5 | 13.2 | 119.1 | 13.4 | 17.1 | 7 | 88.97 | -0.03 |
-| TE | Tyler Warren | TE | IND |  | HOU (#5 vs TE) | 8.6 | 3.2 | 10.0 | 89.7 | 7.7 |  | 13 | 94.45 | -0.01 |
-| RB/WR/TE | Xavier Worthy | WR | KC |  | ARI (#18 vs WR) | 7.7 | 11.8 | 7.9 | 78.6 | 6.5 | 46.6 | 5 | 56.86 | -0.05 |
-| D/ST | Bills D/ST | D/ST | BUF |  | MIA (#30 vs D/ST) | 7.1 | 10.0 | 6.1 | 61.0 | 2.5 | 3.1 | 7 | 81.22 | -0.07 |
-| K | Will Reichard | K | MIN |  | SF (#26 vs K) | 10.1 | 3.0 | 10.4 | 104.0 | 10.7 | 3.6 | 6 | 90.68 | -0.06 |
-| BE | Bijan Robinson | RB | ATL |  | BYE | 0.0 | 0 | 19.8 | 197.7 | 19.8 |  | 11 | 99.87 | 0.0 |
-| BE | Mark Andrews | TE | BAL |  | CAR (#12 vs TE) | 7.7 | 3.4 | 7.1 | 78.3 | 6.8 | 13.9 | 13 | 64.47 | -0.03 |
-| BE | Jordan Addison | WR | MIN | OUT | SF (#22 vs WR) | 0.0 | 0.0 | 7.7 | 53.9 | 11.4 |  | 6 | 63.65 | -0.07 |
-| BE | Jared Goff | QB | DET |  | TB (#3 vs QB) | 14.8 | 20.4 | 18.8 | 188.1 | 17.2 | 12.6 | 6 | 87.95 | -0.07 |
-| BE | Saints D/ST | D/ST | NO |  | CHI (#11 vs D/ST) | 3.5 | 6.0 | 4.4 | 44.0 | 1.7 | 19.6 | 8 | 3.49 | -0.01 |
-| BE | Keon Coleman | WR | BUF |  | MIA (#3 vs WR) | 8.2 | 3.7 | 7.7 | 77.2 | 5.3 | 42.1 | 7 | 16.71 | -0.01 |
-| BE | Braelon Allen | RB | NYJ |  | LAC (#21 vs RB) | 7.7 | 9.4 | 10.9 | 120.0 | 8.2 | 30.1 | 13 | 67.65 | -0.09 |
-| BE | Eddy Pineiro | K | SF |  | MIN (#5 vs K) | 6.8 | 5.0 | 6.2 | 62.0 | 6.7 | 20.9 | 8 | 32.14 | 0.01 |
-| IR | Alec Pierce | WR | IND | INJURY_RESERVE | HOU (#30 vs WR) | 0.0 | 0.0 | 6.1 | 12.2 | 0.0 |  | 13 | 42.13 | -0.01 |
-
-## Murderapolis
-
-Owner Toby · 4-6-0 · seed 8 · 978.7 PF · waiver rank 12
-
-Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
-
-| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Josh Allen | QB | BUF |  | MIA (#13 vs QB) | 23.4 | 12.2 | 23.5 | 235.2 | 21.0 | 1.6 | 7 | 99.93 | 0.0 |
-| RB | Derrick Henry | RB | BAL |  | CAR (#30 vs RB) | 14.5 | 19.1 | 16.4 | 180.4 | 14.5 | 14.0 | 13 | 99.58 | 0.0 |
-| RB | Saquon Barkley | RB | PHI | QUESTIONABLE | PIT (#20 vs RB) | 12.1 | 13.5 | 9.0 | 72.2 | 11.8 | 19.6 | 10 | 96.63 | 0.0 |
-| WR | Justin Jefferson | WR | MIN |  | SF (#22 vs WR) | 20.0 | 13.7 | 13.9 | 125.3 | 19.4 | 3.4 | 6 | 99.86 | 0.0 |
-| WR | Adonai Mitchell | WR | NYJ |  | LAC (#26 vs WR) | 10.7 | 5.0 | 8.9 | 62.4 | 10.2 | 28.0 | 13 | 48.25 | -0.04 |
-| TE | T.J. Hockenson | TE | MIN |  | SF (#16 vs TE) | 11.7 | 11.5 | 10.8 | 97.3 | 10.6 | 6.0 | 6 | 85.17 | -0.05 |
-| RB/WR/TE | Ladd McConkey | WR | LAC |  | NYJ (#7 vs WR) | 10.8 | 20.7 | 10.3 | 72.3 | 11.6 | 27.1 | 7 | 79.49 | -0.02 |
-| D/ST | Lions D/ST | D/ST | DET |  | TB (#29 vs D/ST) | 5.7 | 6.0 | 5.7 | 57.0 | 2.2 | 8.6 | 6 | 58.53 | -0.04 |
-| K | Brandon Aubrey | K | DAL |  | TEN (#32 vs K) | 11.2 | 10.0 | 9.2 | 101.0 | 9.9 | 1.1 | 14 | 98.48 | 0.0 |
-| BE | Jadarian Price | RB | SEA |  | BYE | 0.0 | 0 | 6.1 | 42.9 | 8.6 |  | 11 | 76.39 | -0.12 |
-| BE | Dalton Kincaid | TE | BUF | OUT | MIA (#28 vs TE) | 0.0 | 0.0 | 10.3 | 92.7 | 10.3 |  | 7 | 74.37 | -0.12 |
-| BE | C.J. Stroud | QB | HOU |  | IND (#19 vs QB) | 21.8 | 20.5 | 20.5 | 204.9 | 20.0 |  | 8 | 86.0 | -0.09 |
-| BE | Devaughn Vele | WR | NO |  | CHI (#9 vs WR) | 6.1 | 14.6 | 10.8 | 107.5 | 7.8 | 55.5 | 8 | 34.36 | -0.07 |
-| BE | Mike Washington Jr. | RB | LV |  | DEN (#22 vs RB) | 6.4 | 4.2 | 4.1 | 45.5 | 7.3 | 39.8 | 13 | 17.62 | -0.03 |
-| BE | Giants D/ST | D/ST | NYG |  | JAX (#3 vs D/ST) | 3.6 | 6.0 | 6.1 | 61.0 | 2.4 | 17.9 | 8 | 15.93 | -0.05 |
-| BE | Jason Sanders | K | NYJ |  | LAC (#25 vs K) | 9.5 | 11.0 | 10.1 | 111.0 | 10.3 | 8.4 | 13 | 24.17 | -0.01 |
-| BE | Elic Ayomanor | WR | TEN |  | DAL (#27 vs WR) | 9.4 | 5.7 | 5.9 | 58.7 | 7.3 | 34.6 | 9 | 19.22 | 0.01 |
-
-## Tuten the train
-
-Owner Aziz · 4-6-0 · seed 9 · 998.8 PF · waiver rank 11
-
-Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
-
-| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Caleb Williams | QB | CHI |  | NO (#14 vs QB) | 19.0 | 14.3 | 17.8 | 124.7 | 15.7 | 7.1 | 10 | 91.08 | -0.04 |
-| RB | Bhayshul Tuten | RB | JAX | QUESTIONABLE | NYG (#5 vs RB) | 16.9 | 8.3 | 15.6 | 155.8 | 16.3 | 9.9 | 7 | 95.7 | -0.04 |
-| RB | Bucky Irving | RB | TB |  | DET (#2 vs RB) | 17.5 | 19.0 | 17.8 | 178.1 | 20.2 | 9.6 | 10 | 98.02 | -0.01 |
-| WR | Rashee Rice | WR | KC |  | ARI (#18 vs WR) | 12.8 | 11.3 | 11.3 | 90.7 | 11.5 | 17.1 | 5 | 96.1 | -0.01 |
-| WR | Khalil Shakir | WR | BUF |  | MIA (#3 vs WR) | 10.1 | 15.3 | 9.9 | 99.0 | 9.8 | 32.6 | 7 | 63.3 | -0.04 |
-| TE | Colston Loveland | TE | CHI |  | NO (#26 vs TE) | 12.6 | 11.9 | 9.5 | 95.2 | 10.2 | 4.4 | 10 | 96.77 | -0.01 |
-| RB/WR/TE | Kyle Monangai | RB | CHI |  | NO (#31 vs RB) | 8.9 | 1.8 | 12.2 | 61.1 | 7.9 | 23.1 | 10 | 76.56 | -0.05 |
-| D/ST | Jets D/ST | D/ST | NYJ |  | LAC (#32 vs D/ST) | 6.2 | 8.0 | 4.6 | 51.0 | 2.3 | 6.2 | 13 | 39.03 | 0.02 |
-| K | Tyler Bass | K | BUF |  | MIA (#17 vs K) | 10.9 | 17.0 | 11.5 | 115.0 | 11.8 | 2.9 | 7 | 86.0 | -0.08 |
-| BE | Rams D/ST | D/ST | LAR |  | BYE | 0.0 | 0 | 6.4 | 64.0 | 2.8 |  | 11 | 71.47 | -0.14 |
-| BE | Jason Myers | K | SEA |  | BYE | 0.0 | 0 | 7.7 | 77.0 | 7.6 |  | 11 | 54.86 | -0.2 |
-| BE | Zach Charbonnet | RB | SEA |  | BYE | 0.0 | 0 | 8.3 | 24.9 | 13.2 |  | 11 | 80.3 | -0.13 |
-| BE | Tyler Shough | QB | NO |  | CHI (#21 vs QB) | 14.9 | 14.3 | 17.0 | 169.9 | 15.3 | 13.5 | 8 | 63.33 | -0.07 |
-| BE | Antonio Williams | WR | WSH |  | CIN (#10 vs WR) | 9.0 | 21.2 | 9.4 | 93.8 | 9.3 | 36.0 | 7 | 21.95 | 0.22 |
-| BE | Omar Cooper Jr. | WR | NYJ | OUT | LAC (#26 vs WR) | 0.0 | 0.0 | 10.4 | 62.6 | 10.8 |  | 13 | 39.43 | -0.09 |
-| BE | Denzel Boston | WR | CLE |  | BYE | 0.0 | 0 | 10.5 | 105.3 | 11.8 |  | 11 | 73.02 | -0.15 |
-| BE | Darren Waller | TE | CAR |  | BAL (#17 vs TE) | 8.4 | 7.2 | 8.8 | 88.5 | 7.5 | 11.1 | 5 | 28.01 | -0.04 |
-| IR | Davante Adams | WR | LAR | INJURY_RESERVE | BYE | 0.0 | 0 | 17.0 | 102.0 | 16.3 |  | 11 | 90.37 | -0.02 |
+| QB | Aaron Rodgers | QB | PIT |  | DEN (#20 vs QB) | 14.2 | 0 | 14.9 | 148.7 | 15.1 | 23.3 | 9 | 38.81 | -0.21 |
+| RB | Jaylen Warren | RB | PIT |  | DEN (#26 vs RB) | 14.8 | 0 | 15.5 | 154.8 | 14.8 | 16.2 | 9 | 96.09 | -0.21 |
+| RB | Rico Dowdle | RB | PIT |  | DEN (#26 vs RB) | 8.7 | 0 | 8.2 | 57.4 | 8.7 | 35.4 | 9 | 69.16 | -0.18 |
+| WR | Jameson Williams | WR | DET |  | CHI (#9 vs WR) | 12.3 | 0 | 13.4 | 134.0 | 12.5 | 24.2 | 6 | 92.94 | -0.09 |
+| WR | Tank Dell | WR | HOU |  | BAL (#17 vs WR) | 8.9 | 0 | 9.2 | 36.8 | 8.6 | 45.8 | 8 | 60.28 | -0.36 |
+| TE | Trey McBride | TE | ARI |  | WSH (#31 vs TE) | 14.7 | 0 | 16.9 | 186.3 | 14.9 | 2.1 | 14 | 99.76 | -0.12 |
+| RB/WR/TE | Pat Freiermuth | TE | PIT |  | DEN (#30 vs TE) | 7.5 | 0 | 9.9 | 99.5 | 7.3 | 19.4 | 9 | 44.11 | -0.13 |
+| D/ST | Steelers D/ST | D/ST | PIT |  | DEN (#10 vs D/ST) | 6.4 | 0 | 7.3 | 73.0 | 2.9 | 13.4 | 9 | 94.75 | -0.31 |
+| K | Chris Boswell | K | PIT |  | DEN (#8 vs K) | 10.3 | 0 | 9.5 | 95.0 | 10.4 | 7.0 | 9 | 63.38 | -0.1 |
+| BE | Drake London | WR | ATL |  | MIN (#5 vs WR) | 14.0 | 0 | 13.8 | 138.5 | 14.9 | 18.8 | 11 | 98.8 | -0.17 |
+| BE | Josh Jacobs | RB | GB | QUESTIONABLE | LAR (#2 vs RB) | 0.0 | 0 | 14.6 | 43.8 | 16.3 |  | 11 | 89.85 | -0.13 |
+| BE | Kenny Gainwell | RB | TB |  | CAR (#32 vs RB) | 9.2 | 0 | 7.3 | 73.5 | 9.1 | 34.0 | 10 | 59.74 | -0.09 |
+| BE | Makai Lemon | WR | PHI |  | DAL (#29 vs WR) | 7.3 | 0 | 7.5 | 75.0 | 6.5 | 59.2 | 10 | 44.26 | -0.19 |
+| BE | Matthew Stafford | QB | LAR |  | GB (#5 vs QB) | 15.3 | 0 | 16.3 | 162.6 | 14.3 | 18.3 | 11 | 83.46 | -0.14 |
+| BE | Jake Bates | K | DET |  | CHI (#2 vs K) | 9.6 | 0 | 9.2 | 92.0 | 9.6 | 10.1 | 6 | 53.09 | -0.08 |
+| BE | Bears D/ST | D/ST | CHI |  | DET (#2 vs D/ST) | 3.7 | 0 | 8.4 | 84.0 | 2.1 |  | 10 | 66.28 | -0.39 |
+| IR | Puka Nacua | WR | LAR | INJURY_RESERVE | GB (#28 vs WR) | 0.0 | 0 | 24.8 | 173.6 | 0.0 |  | 11 | 83.69 | -1.84 |
 
 ## The Slim Reapers
 
-Owner Yovani · 3-7-0 · seed 10 · 1091.1 PF · waiver rank 8
+Owner Yovani · 3-8-0 · seed 11 · 1196.7 PF · waiver rank 8
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Bo Nix | QB | DEN |  | LV (#29 vs QB) | 20.8 | 11.5 | 14.2 | 142.3 | 17.4 | 7.6 | 10 | 79.71 | -0.03 |
-| RB | Omarion Hampton | RB | LAC |  | NYJ (#23 vs RB) | 13.5 | 10.3 | 9.6 | 96.0 | 11.7 | 19.5 | 7 | 91.78 | 0.0 |
-| RB | Ollie Gordon II | RB | MIA |  | BUF (#24 vs RB) | 13.8 | 8.7 | 10.4 | 103.8 | 12.0 | 16.5 | 6 | 89.74 | -0.09 |
-| WR | CeeDee Lamb | WR | DAL |  | TEN (#32 vs WR) | 22.4 | 30.2 | 22.9 | 252.2 | 20.2 | 2.0 | 14 | 99.93 | 0.0 |
-| WR | DeVonta Smith | WR | PHI |  | PIT (#16 vs WR) | 13.4 | 9.1 | 15.6 | 78.1 | 12.9 | 16.0 | 10 | 95.05 | 0.0 |
-| TE | Juwan Johnson | TE | NO | QUESTIONABLE | CHI (#10 vs TE) | 6.1 | 0.0 | 8.4 | 83.7 | 5.3 | 23.4 | 8 | 35.32 | -0.05 |
-| RB/WR/TE | Carnell Tate | WR | TEN |  | DAL (#27 vs WR) | 13.1 | 13.8 | 11.4 | 91.1 | 12.9 | 15.5 | 9 | 85.78 | -0.04 |
-| D/ST | Broncos D/ST | D/ST | DEN |  | LV (#12 vs D/ST) | 6.5 | 12.0 | 6.8 | 68.0 | 2.6 | 5.9 | 10 | 85.55 | 0.03 |
-| K | Evan McPherson | K | CIN |  | WSH (#15 vs K) | 8.3 | 10.0 | 9.4 | 94.0 | 8.8 | 13.2 | 6 | 24.45 | 0.1 |
-| BE | Tucker Kraft | TE | GB |  | BYE | 0.0 | 0 | 9.3 | 93.3 | 9.7 |  | 11 | 86.62 | -0.1 |
-| BE | Jordan Mason | RB | MIN |  | SF (#10 vs RB) | 8.6 | 4.7 | 6.2 | 37.5 | 10.2 | 26.1 | 6 | 56.55 | -0.06 |
-| BE | Matthew Golden | WR | GB |  | BYE | 0.0 | 0 | 17.6 | 175.9 | 17.5 |  | 11 | 96.63 | -0.05 |
-| BE | Packers D/ST | D/ST | GB |  | BYE | 0.0 | 0 | 7.1 | 71.0 | 1.9 |  | 11 | 25.74 | -0.08 |
-| BE | Dominic Zvada | K | NYG |  | JAX (#8 vs K) | 9.0 | 15.0 | 9.1 | 91.0 | 10.4 | 14.0 | 8 | 32.06 | -0.06 |
-| BE | Justin Herbert | QB | LAC | QUESTIONABLE | NYJ (#22 vs QB) | 14.7 | 22.4 | 11.9 | 119.3 | 14.1 | 17.0 | 7 | 36.55 | 0.01 |
-| BE | Bam Knight | RB | ARI |  | KC (#7 vs RB) | 7.4 | 5.5 | 3.2 | 32.5 | 8.4 | 35.2 | 14 | 7.06 | 0.0 |
-| BE | Michael Pittman Jr. | WR | PIT | INJURY_RESERVE | PHI (#29 vs WR) | 0.0 | 0.0 | 5.3 | 15.9 | 5.6 | 60.2 | 9 | 37.12 | 0.0 |
-| IR | Lamar Jackson | QB | BAL | INJURY_RESERVE | CAR (#12 vs QB) | 0.0 | 0.0 | 15.8 | 79.1 | 0.0 |  | 13 | 75.24 | 0.01 |
-
-## Christian McCracker
-
-Owner devin · 3-7-0 · seed 11 · 1047.3 PF · waiver rank 9
-
-Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
-
-| Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Dak Prescott | QB | DAL |  | TEN (#28 vs QB) | 21.9 | 35.9 | 21.6 | 237.8 | 17.9 | 3.2 | 14 | 95.16 | -0.04 |
-| RB | Christian McCaffrey | RB | SF |  | MIN (#4 vs RB) | 19.8 | 14.2 | 22.7 | 227.2 | 19.7 | 3.9 | 8 | 99.93 | 0.0 |
-| RB | Breece Hall | RB | NYJ |  | LAC (#21 vs RB) | 13.1 | 19.0 | 14.7 | 88.0 | 13.8 | 17.6 | 13 | 95.64 | -0.01 |
-| WR | DJ Moore | WR | BUF |  | MIA (#3 vs WR) | 13.7 | 23.1 | 12.8 | 102.0 | 13.5 | 14.2 | 7 | 93.84 | -0.04 |
-| WR | DK Metcalf | WR | PIT |  | PHI (#29 vs WR) | 11.1 | 1.2 | 9.4 | 94.5 | 11.0 | 23.4 | 9 | 88.44 | -0.06 |
-| TE | Sam LaPorta | TE | DET | QUESTIONABLE | TB (#23 vs TE) | 9.5 | 9.2 | 10.5 | 104.9 | 11.0 | 8.5 | 6 | 95.36 | -0.03 |
-| RB/WR/TE | Ryan Flournoy | WR | DAL |  | TEN (#32 vs WR) | 9.6 | 2.1 | 9.6 | 105.0 | 7.9 | 31.0 | 14 | 44.29 | -0.02 |
-| D/ST | 49ers D/ST | D/ST | SF |  | MIN (#25 vs D/ST) | 5.4 | 14.0 | 8.1 | 81.0 | 3.2 | 10.6 | 8 | 49.39 | -0.01 |
-| K | Ryan Fitzgerald | K | CAR |  | BAL (#27 vs K) | 8.1 | 9.0 | 8.4 | 84.0 | 7.8 | 16.4 | 5 | 6.06 | -0.01 |
-| BE | Patriots D/ST | D/ST | NE |  | BYE | 0.0 | 0 | 4.4 | 44.0 | 1.4 |  | 11 | 30.0 | -0.09 |
-| BE | Rachaad White | RB | WSH |  | CIN (#14 vs RB) | 7.7 | 0.0 | 8.4 | 75.9 | 7.8 | 25.8 | 7 | 67.29 | -0.24 |
-| BE | Hunter Henry | TE | NE |  | BYE | 0.0 | 0 | 8.4 | 84.3 | 6.5 |  | 11 | 47.85 | -0.16 |
-| BE | Chad Ryland | K | ARI |  | KC (#20 vs K) | 7.1 | 1.0 | 8.4 | 92.0 | 7.3 | 20.1 | 14 | 18.72 | -0.04 |
-| BE | A.J. Brown | WR | NE | DOUBTFUL | BYE | 0.0 | 0 | 6.0 | 23.8 | 9.6 |  | 11 | 83.04 | -0.13 |
-| BE | Jakobi Meyers | WR | JAX |  | NYG (#13 vs WR) | 10.9 | 12.5 | 9.4 | 94.5 | 11.2 | 26.4 | 7 | 73.97 | -0.05 |
-| BE | Aaron Jones Sr. | RB | MIN |  | SF (#10 vs RB) | 8.4 | 11.3 | 10.7 | 106.7 | 9.4 | 26.6 | 6 | 81.46 | -0.05 |
-| BE | Sam Darnold | QB | SEA | OUT | BYE | 0.0 | 0 | 13.2 | 92.3 | 15.2 |  | 11 | 18.33 | -0.03 |
-| IR | Romeo Doubs | WR | NE | INJURY_RESERVE | BYE | 0.0 | 0 | 9.7 | 58.1 | 0.0 |  | 11 | 38.08 | -0.08 |
+| QB | Bo Nix | QB | DEN |  | PIT (#6 vs QB) | 14.0 | 0 | 14.2 | 142.3 | 17.4 | 21.8 | 10 | 79.21 | -0.5 |
+| RB | Omarion Hampton | RB | LAC |  | NE (#18 vs RB) | 13.6 | 0 | 9.6 | 96.0 | 11.7 | 24.8 | 7 | 91.63 | -0.15 |
+| RB | Ollie Gordon II | RB | MIA |  | NYJ (#23 vs RB) | 13.9 | 0 | 10.4 | 103.8 | 12.0 | 21.6 | 6 | 89.6 | -0.17 |
+| WR | CeeDee Lamb | WR | DAL |  | PHI (#30 vs WR) | 20.3 | 0 | 22.9 | 252.2 | 20.2 | 3.0 | 14 | 99.88 | -0.05 |
+| WR | Matthew Golden | WR | GB |  | LAR (#3 vs WR) | 16.7 | 0 | 17.6 | 175.9 | 17.5 | 8.1 | 11 | 96.48 | -0.16 |
+| TE | Tucker Kraft | TE | GB |  | LAR (#8 vs TE) | 9.2 | 0 | 9.3 | 93.3 | 9.7 | 11.1 | 11 | 86.51 | -0.13 |
+| RB/WR/TE | DeVonta Smith | WR | PHI |  | DAL (#29 vs WR) | 14.4 | 0 | 15.6 | 78.1 | 12.9 | 15.4 | 10 | 94.93 | -0.13 |
+| D/ST | Broncos D/ST | D/ST | DEN |  | PIT (#15 vs D/ST) | 6.2 | 0 | 6.8 | 68.0 | 2.6 | 13.5 | 10 | 85.43 | -0.12 |
+| K | Dominic Zvada | K | NYG |  | IND (#27 vs K) | 10.5 | 0 | 9.1 | 91.0 | 10.4 | 6.1 | 8 | 32.04 | -0.03 |
+| BE | Carnell Tate | WR | TEN |  | JAX (#16 vs WR) | 11.8 | 0 | 11.4 | 91.1 | 12.9 | 26.5 | 9 | 85.66 | -0.13 |
+| BE | Jordan Mason | RB | MIN |  | ATL (#29 vs RB) | 11.4 | 0 | 6.2 | 37.5 | 10.2 | 29.2 | 6 | 56.44 | -0.13 |
+| BE | Juwan Johnson | TE | NO | QUESTIONABLE | CIN (#24 vs TE) | 5.3 | 0 | 8.4 | 83.7 | 5.3 |  | 8 | 35.13 | -0.19 |
+| BE | Packers D/ST | D/ST | GB |  | LAR (#9 vs D/ST) | 4.4 | 0 | 7.1 | 71.0 | 1.9 |  | 11 | 25.62 | -0.12 |
+| BE | Evan McPherson | K | CIN |  | NO (#27 vs K) | 9.2 | 0 | 9.4 | 94.0 | 8.8 | 15.4 | 6 | 24.4 | 0.01 |
+| BE | Justin Herbert | QB | LAC | QUESTIONABLE | NE (#21 vs QB) | 16.2 | 0 | 11.9 | 119.3 | 14.1 | 14.7 | 7 | 36.48 | -0.06 |
+| BE | Bam Knight | RB | ARI |  | WSH (#14 vs RB) | 8.5 | 0 | 3.2 | 32.5 | 8.4 | 38.0 | 14 | 7.03 | -0.03 |
+| BE | Michael Pittman Jr. | WR | PIT | INJURY_RESERVE | DEN (#6 vs WR) | 4.5 | 0 | 5.3 | 15.9 | 5.6 |  | 9 | 37.07 | -0.05 |
+| IR | Lamar Jackson | QB | BAL | INJURY_RESERVE | HOU (#16 vs QB) | 0.0 | 0 | 15.8 | 79.1 | 0.0 |  | 13 | 75.12 | -0.12 |
 
 ## GioDoesCokeOnKamara
 
-Owner Andy · 2-8-0 · seed 12 · 988.8 PF · waiver rank 4
+Owner Andy · 2-9-0 · seed 12 · 1104.3 PF · waiver rank 4
 
 Players held against the position limit (IR slot not counted): QB 2/2, RB 4/4, WR 5/5, TE 2/2, K 2/2, D/ST 2/2
 
 | Slot | Player | Pos | NFL | Injury | Opp this week | Proj | Pts so far | Avg/gm | Season pts | ESPN proj/gm | Expert rank this wk | Bye wk | % rostered | % change |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| QB | Kirk Cousins | QB | MIN |  | SF (#16 vs QB) | 14.7 | 7.4 | 17.7 | 195.1 | 16.2 | 13.5 | 6 | 67.8 | -0.08 |
-| RB | Alvin Kamara | RB | NO |  | CHI (#12 vs RB) | 9.3 | 7.2 | 10.8 | 97.3 | 4.9 | 29.1 | 8 | 61.91 | -0.08 |
-| RB | Chase Brown | RB | CIN |  | WSH (#15 vs RB) | 15.6 | 8.6 | 13.8 | 138.3 | 16.1 | 12.8 | 6 | 98.64 | 0.0 |
-| WR | Chris Olave | WR | NO |  | CHI (#9 vs WR) | 14.2 | 19.2 | 16.7 | 166.6 | 14.9 | 10.5 | 8 | 99.23 | 0.0 |
-| WR | George Pickens | WR | DAL |  | TEN (#32 vs WR) | 15.7 | 23.8 | 17.2 | 171.6 | 14.8 | 7.1 | 14 | 99.09 | 0.0 |
-| TE | Travis Kelce | TE | KC |  | ARI (#29 vs TE) | 11.3 | 25.4 | 13.0 | 129.7 | 12.5 | 6.8 | 5 | 94.38 | -0.05 |
-| RB/WR/TE | Josh Downs | WR | KC |  | ARI (#18 vs WR) | 9.2 | 9.9 | 9.1 | 100.3 | 8.5 | 31.4 | 5 | 77.88 | -0.06 |
-| D/ST | Cowboys D/ST | D/ST | DAL |  | TEN (#21 vs D/ST) | 3.7 | 6.0 | 1.6 | 18.0 | 1.7 | 18.4 | 14 | 9.28 | -0.01 |
-| K | Cairo Santos | K | CHI |  | NO (#28 vs K) | 9.8 | 8.0 | 8.7 | 87.0 | 8.8 | 7.6 | 10 | 31.14 | 0.0 |
-| BE | Rhamondre Stevenson | RB | NE |  | BYE | 0.0 | 0 | 11.5 | 115.2 | 12.2 |  | 11 | 87.87 | -0.08 |
-| BE | Ravens D/ST | D/ST | BAL |  | CAR (#18 vs D/ST) | 4.9 | 9.0 | 4.2 | 46.0 | 2.1 | 13.0 | 13 | 57.13 | -0.05 |
-| BE | Jalen Coker | WR | CAR |  | BAL (#17 vs WR) | 8.8 | 8.7 | 10.6 | 95.0 | 9.4 | 36.9 | 5 | 77.03 | -0.08 |
-| BE | J.J. McCarthy | QB | NYG |  | JAX (#5 vs QB) | 13.4 | 14.2 | 10.9 | 65.3 | 15.5 | 18.1 | 8 | 24.96 | -0.04 |
-| BE | KC Concepcion | WR | CLE |  | BYE | 0.0 | 0 | 10.0 | 100.1 | 10.5 |  | 11 | 65.16 | -0.1 |
-| BE | Chig Okonkwo | TE | WSH |  | CIN (#24 vs TE) | 10.1 | 10.6 | 7.7 | 61.9 | 9.9 | 8.4 | 7 | 61.07 | 0.14 |
-| BE | Drew Stevens | K | WSH |  | CIN (#13 vs K) | 8.6 | 18.0 | 9.4 | 94.0 | 8.8 | 13.6 | 7 | 2.92 | 0.14 |
-| BE | Kaleb Johnson | RB | GB |  | BYE | 0.0 | 0 | 3.4 | 27.4 | 3.0 |  | 11 | 7.0 | -0.01 |
+| QB | Kirk Cousins | QB | MIN |  | ATL (#27 vs QB) | 17.4 | 0 | 17.7 | 195.1 | 16.2 | 10.8 | 6 | 67.67 | -0.15 |
+| RB | Alvin Kamara | RB | NO |  | CIN (#13 vs RB) | 4.8 | 0 | 10.8 | 97.3 | 4.9 | 49.9 | 8 | 61.67 | -0.26 |
+| RB | Chase Brown | RB | CIN |  | NO (#30 vs RB) | 16.7 | 0 | 13.8 | 138.3 | 16.1 | 10.4 | 6 | 98.47 | -0.17 |
+| WR | Chris Olave | WR | NO |  | CIN (#10 vs WR) | 14.4 | 0 | 16.7 | 166.6 | 14.9 | 14.0 | 8 | 99.13 | -0.09 |
+| WR | George Pickens | WR | DAL |  | PHI (#30 vs WR) | 15.0 | 0 | 17.2 | 171.6 | 14.8 | 11.1 | 14 | 99.02 | -0.07 |
+| TE | Travis Kelce | TE | KC |  | BUF (#11 vs TE) | 11.9 | 0 | 13.0 | 129.7 | 12.5 | 5.2 | 5 | 94.33 | -0.05 |
+| RB/WR/TE | Josh Downs | WR | KC |  | BUF (#18 vs WR) | 8.0 | 0 | 9.1 | 100.3 | 8.5 | 51.4 | 5 | 77.75 | -0.13 |
+| D/ST | Cowboys D/ST | D/ST | DAL |  | PHI (#25 vs D/ST) | 7.1 | 0 | 1.6 | 18.0 | 1.7 | 7.8 | 14 | 9.27 | -0.01 |
+| K | Cairo Santos | K | CHI |  | DET (#1 vs K) | 8.8 | 0 | 8.7 | 87.0 | 8.8 | 15.6 | 10 | 31.05 | -0.09 |
+| BE | Rhamondre Stevenson | RB | NE |  | LAC (#22 vs RB) | 13.0 | 0 | 11.5 | 115.2 | 12.2 | 25.9 | 11 | 87.76 | -0.13 |
+| BE | Ravens D/ST | D/ST | BAL |  | HOU (#8 vs D/ST) | 3.0 | 0 | 4.2 | 46.0 | 2.1 |  | 13 | 56.92 | -0.21 |
+| BE | Jalen Coker | WR | CAR |  | TB (#11 vs WR) | 9.0 | 0 | 10.6 | 95.0 | 9.4 | 42.1 | 5 | 76.86 | -0.19 |
+| BE | J.J. McCarthy | QB | NYG |  | IND (#22 vs QB) | 16.5 | 0 | 10.9 | 65.3 | 15.5 | 13.3 | 8 | 24.92 | -0.05 |
+| BE | KC Concepcion | WR | CLE |  | LV (#23 vs WR) | 11.7 | 0 | 10.0 | 100.1 | 10.5 | 28.8 | 11 | 65.07 | -0.12 |
+| BE | Chig Okonkwo | TE | WSH |  | ARI (#29 vs TE) | 10.1 | 0 | 7.7 | 61.9 | 9.9 | 10.4 | 7 | 60.88 | -0.17 |
+| BE | Drew Stevens | K | WSH |  | ARI (#19 vs K) | 9.2 | 0 | 9.4 | 94.0 | 8.8 | 14.8 | 7 | 2.92 | 0.06 |
+| BE | Kaleb Johnson | RB | GB |  | LAR (#2 vs RB) | 5.4 | 0 | 3.4 | 27.4 | 3.0 | 50.0 | 11 | 6.95 | -0.04 |
 

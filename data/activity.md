@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 24 2026, 12:56 AM ET · NFL week 11 · The Re-Todds
+Updated: Tue Nov 24 2026, 12:32 PM ET · NFL week 12 · The Re-Todds
 
 ## Trade offers
 
@@ -163,6 +163,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Nov 24, 07:26 AM ET | The Ghee-talians | Anthony Richardson Sr. | Baker Mayfield |
 | Tue Nov 17, 11:48 PM ET | The Slim Reapers | Cam Ward | Justin Herbert |
 | Tue Nov 17, 11:48 PM ET | The Slim Reapers | Courtland Sutton | DeMario Douglas |
 | Tue Nov 17, 08:02 PM ET | Tuten the train | Courtland Sutton | Wan'Dale Robinson |
@@ -189,6 +190,7 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Tue Nov 24, 08:00 AM ET | the blind side | DROPPED | Tyler Allgeier | RB | ARI |
 | Mon Nov 23, 11:53 AM ET | Christian McCracker | DROPPED | Drake Maye | QB | NE |
 | Mon Nov 23, 11:53 AM ET | Christian McCracker | FA ADDED | Sam Darnold | QB | SEA |
 | Sat Nov 21, 04:51 PM ET | Thr Short Bus | FA ADDED | Xavier Worthy | WR | KC |
@@ -257,5 +259,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Nov 12, 07:21 PM ET | The Slim Reapers | FA ADDED | Rico Dowdle | RB | PIT |
 | Thu Nov 12, 12:13 AM ET | The Ghee-talians | DROPPED | Joe Milton | QB | PHI |
 | Thu Nov 12, 12:13 AM ET | The Ghee-talians | FA ADDED | Baker Mayfield | QB | TB |
-| Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | FA ADDED | Kaleb Johnson | RB | GB |
-| Wed Nov 11, 06:54 PM ET | GioDoesCokeOnKamara | DROPPED | Kendre Miller | RB | None |
