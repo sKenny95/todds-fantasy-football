@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 24 2026, 09:19 PM ET · NFL week 12 · The Re-Todds
+Updated: Wed Nov 25 2026, 07:41 AM ET · NFL week 12 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,9 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Tue Nov 24, 11:13 PM ET | The Ghee-talians | The Ghee-talians gives Tetairoa McMillan, Bryce Young; Murderapolis gives Josh Allen | CANCELED |
+| Tue Nov 24, 10:54 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Zay Flowers; The Ghee-talians gives Tetairoa McMillan, Parker Washington | CANCELED |
+| Tue Nov 24, 10:49 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Zay Flowers; The Ghee-talians gives Tetairoa McMillan, Parker Washington | DECLINED |
 | Sat Nov 21, 02:44 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze; Tuten the train gives Davante Adams | CANCELED |
 | Fri Nov 20, 12:14 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze; Tuten the train gives Davante Adams | DECLINED |
 | Thu Nov 19, 07:30 PM ET | The Ghee-talians | The Ghee-talians gives Jonathan Taylor, Bryce Young; Murderapolis gives Derrick Henry, Josh Allen | CANCELED |
@@ -118,6 +121,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Tue Nov 24, 10:54 PM ET | The Ghee-talians |
 | Sat Nov 21, 02:44 PM ET | Tuten the train |
 | Wed Nov 11, 09:58 PM ET | The Ghee-talians |
 | Tue Nov 10, 07:27 PM ET | Big Papa |
@@ -194,6 +198,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 25, 07:16 AM ET | Christian McCracker | DROPPED | Chad Ryland | K | ARI |
+| Wed Nov 25, 07:16 AM ET | Christian McCracker | FA ADDED | Harrison Butker | K | KC |
 | Tue Nov 24, 08:00 AM ET | the blind side | DROPPED | Tyler Allgeier | RB | ARI |
 | Mon Nov 23, 11:53 AM ET | Christian McCracker | DROPPED | Drake Maye | QB | NE |
 | Mon Nov 23, 11:53 AM ET | Christian McCracker | FA ADDED | Sam Darnold | QB | SEA |
@@ -261,5 +267,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Thu Nov 12, 07:55 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
 | Thu Nov 12, 07:21 PM ET | The Slim Reapers | DROPPED | Corey Kiner | RB | NE |
 | Thu Nov 12, 07:21 PM ET | The Slim Reapers | FA ADDED | Rico Dowdle | RB | PIT |
-| Thu Nov 12, 12:13 AM ET | The Ghee-talians | DROPPED | Joe Milton | QB | PHI |
-| Thu Nov 12, 12:13 AM ET | The Ghee-talians | FA ADDED | Baker Mayfield | QB | TB |
