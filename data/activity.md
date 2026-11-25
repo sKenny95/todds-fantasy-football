@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 25 2026, 07:41 AM ET · NFL week 12 · The Re-Todds
+Updated: Wed Nov 25 2026, 05:26 PM ET · NFL week 12 · The Re-Todds
 
 ## Trade offers
 
@@ -14,6 +14,13 @@ None visible.
 
 | Proposed | Offered by | Offer | Status |
 |---|---|---|---|
+| Wed Nov 25, 01:00 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Rome Odunze; The Slim Reapers gives Matthew Golden | CANCELED |
+| Wed Nov 25, 01:00 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze, Kyren Williams, Deebo Samuel Sr.; Thr Short Bus gives Bijan Robinson | CANCELED |
+| Wed Nov 25, 01:00 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Rome Odunze; Frizztards gives Drake London | CANCELED |
+| Wed Nov 25, 09:53 AM ET | The Ghee-talians | The Ghee-talians gives Tetairoa McMillan, Jonathan Taylor, Bryce Young; Murderapolis gives Devaughn Vele, Derrick Henry, Josh Allen | CANCELED |
+| Wed Nov 25, 08:33 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Rome Odunze; Frizztards gives Drake London | EXPIRED |
+| Wed Nov 25, 08:32 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Rome Odunze; The Slim Reapers gives Matthew Golden | EXPIRED |
+| Wed Nov 25, 08:29 AM ET | Brock Hard for TDs | Brock Hard for TDs gives Rome Odunze, Kyren Williams, Deebo Samuel Sr.; Thr Short Bus gives Bijan Robinson | EXPIRED |
 | Tue Nov 24, 11:13 PM ET | The Ghee-talians | The Ghee-talians gives Tetairoa McMillan, Bryce Young; Murderapolis gives Josh Allen | CANCELED |
 | Tue Nov 24, 10:54 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Zay Flowers; The Ghee-talians gives Tetairoa McMillan, Parker Washington | CANCELED |
 | Tue Nov 24, 10:49 PM ET | Brock Hard for TDs | Brock Hard for TDs gives Deebo Samuel Sr., Zay Flowers; The Ghee-talians gives Tetairoa McMillan, Parker Washington | DECLINED |
@@ -97,8 +104,7 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
-| Tue Nov 24, 12:36 PM ET | the blind side |  | awaiting review |
-| Tue Nov 24, 12:35 PM ET | Christian McCracker |  | awaiting review |
+| Tue Nov 24, 12:36 PM ET | the blind side | Christian McCracker | went through Wed Nov 25, 09:42 AM ET |
 | Tue Nov 10, 07:31 PM ET | Big Papa | The Ghee-talians | went through Tue Nov 10, 07:58 PM ET |
 | Fri Nov 06, 03:22 PM ET | the blind side | Big Papa | went through Fri Nov 06, 04:00 PM ET |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
@@ -121,6 +127,7 @@ ESPN shows who declined and when, but not the players.
 
 | Declined | Declined by |
 |---|---|
+| Wed Nov 25, 08:53 AM ET | The Ghee-talians |
 | Tue Nov 24, 10:54 PM ET | The Ghee-talians |
 | Sat Nov 21, 02:44 PM ET | Tuten the train |
 | Wed Nov 11, 09:58 PM ET | The Ghee-talians |
@@ -198,6 +205,18 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 25, 03:53 PM ET | Baba Yaga Swede | FA ADDED | Brandon Aiyuk | WR | None |
+| Wed Nov 25, 03:53 PM ET | Baba Yaga Swede | DROPPED | Tre Tucker | WR | LV |
+| Wed Nov 25, 09:42 AM ET | Christian McCracker | TRADE_SENT | Rachaad White | RB | WSH |
+| Wed Nov 25, 09:42 AM ET | the blind side | TRADE_RECEIVED | Rachaad White | RB | WSH |
+| Wed Nov 25, 09:42 AM ET | the blind side | TRADE_SENT | Kaelon Black | RB | SF |
+| Wed Nov 25, 09:42 AM ET | Christian McCracker | TRADE_RECEIVED | Kaelon Black | RB | SF |
+| Wed Nov 25, 08:26 AM ET | Murderapolis | FA ADDED | DeMario Douglas | WR | NE |
+| Wed Nov 25, 08:26 AM ET | Murderapolis | DROPPED | Elic Ayomanor | WR | TEN |
+| Wed Nov 25, 08:20 AM ET | Brock Hard for TDs | DROPPED | Seth McGowan | RB | IND |
+| Wed Nov 25, 08:20 AM ET | Brock Hard for TDs | FA ADDED | Sione Vaki | RB | DET |
+| Wed Nov 25, 08:17 AM ET | Murderapolis | DROPPED | Mike Washington Jr. | RB | LV |
+| Wed Nov 25, 08:17 AM ET | Murderapolis | FA ADDED | Justice Hill | RB | BAL |
 | Wed Nov 25, 07:16 AM ET | Christian McCracker | DROPPED | Chad Ryland | K | ARI |
 | Wed Nov 25, 07:16 AM ET | Christian McCracker | FA ADDED | Harrison Butker | K | KC |
 | Tue Nov 24, 08:00 AM ET | the blind side | DROPPED | Tyler Allgeier | RB | ARI |
@@ -258,12 +277,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Fri Nov 13, 04:47 PM ET | Murderapolis | FA ADDED | Jason Sanders | K | NYJ |
 | Fri Nov 13, 04:44 PM ET | Murderapolis | FA ADDED | Tutu Atwell | WR | LAR |
 | Fri Nov 13, 04:44 PM ET | Murderapolis | DROPPED | Mack Hollins | WR | NE |
-| Fri Nov 13, 04:27 PM ET | Murderapolis | DROPPED | Marvin Harrison Jr. | WR | HOU |
-| Fri Nov 13, 04:27 PM ET | Murderapolis | FA ADDED | Quentin Johnston | WR | LAC |
-| Fri Nov 13, 10:55 AM ET | Frizztards | FA ADDED | Rico Dowdle | RB | PIT |
-| Thu Nov 12, 11:24 PM ET | The Ghee-talians | FA ADDED | Panthers D/ST | D/ST | CAR |
-| Thu Nov 12, 11:24 PM ET | The Ghee-talians | DROPPED | Falcons D/ST | D/ST | ATL |
-| Thu Nov 12, 07:55 PM ET | The Slim Reapers | DROPPED | Rico Dowdle | RB | PIT |
-| Thu Nov 12, 07:55 PM ET | The Slim Reapers | FA ADDED | Chris Rodriguez Jr. | RB | JAX |
-| Thu Nov 12, 07:21 PM ET | The Slim Reapers | DROPPED | Corey Kiner | RB | NE |
-| Thu Nov 12, 07:21 PM ET | The Slim Reapers | FA ADDED | Rico Dowdle | RB | PIT |
