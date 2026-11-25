@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Tue Nov 24 2026, 12:32 PM ET · NFL week 12 · The Re-Todds
+Updated: Tue Nov 24 2026, 09:19 PM ET · NFL week 12 · The Re-Todds
 
 ## Trade offers
 
@@ -94,6 +94,8 @@ ESPN leaves the players off these records. Match them by date to the TRADE rows 
 
 | Accepted | Accepted by | Other team | Outcome |
 |---|---|---|---|
+| Tue Nov 24, 12:36 PM ET | the blind side |  | awaiting review |
+| Tue Nov 24, 12:35 PM ET | Christian McCracker |  | awaiting review |
 | Tue Nov 10, 07:31 PM ET | Big Papa | The Ghee-talians | went through Tue Nov 10, 07:58 PM ET |
 | Fri Nov 06, 03:22 PM ET | the blind side | Big Papa | went through Fri Nov 06, 04:00 PM ET |
 | Wed Oct 28, 10:46 AM ET | Brock Hard for TDs | Brock Hard for TDs | went through Wed Oct 28, 10:46 AM ET |
@@ -163,6 +165,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Wanted | Would have dropped |
 |---|---|---|---|
+| Tue Nov 24, 12:55 PM ET | Christian McCracker | Harrison Butker | Chad Ryland |
+| Tue Nov 24, 12:35 PM ET | Christian McCracker | Justice Hill | Rachaad White |
 | Tue Nov 24, 07:26 AM ET | The Ghee-talians | Anthony Richardson Sr. | Baker Mayfield |
 | Tue Nov 17, 11:48 PM ET | The Slim Reapers | Cam Ward | Justin Herbert |
 | Tue Nov 17, 11:48 PM ET | The Slim Reapers | Courtland Sutton | DeMario Douglas |
