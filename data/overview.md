@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Thu Nov 26 2026, 10:02 AM ET · NFL week 12 · The Re-Todds
+Updated: Thu Nov 26 2026, 06:46 PM ET · NFL week 12 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-3-0, seed 2, waiver rank 10.
 
@@ -13,8 +13,8 @@ Updated: Thu Nov 26 2026, 10:02 AM ET · NFL week 12 · The Re-Todds
 | 3 | The Ghee-talians | Christian | East | 7-4-0 | 1430.1 | 1386.3 | W1 | 5 | 97.0 | 4 | 17 | 3 | 81 |
 | 4 | Baba Yaga Swede | Victor | East | 7-4-0 | 1370.1 | 1307.7 | W2 | 3 | 97.1 | 5 | 4 | 3 | 44 |
 | 5 | the blind side | Nick | West | 7-4-0 | 1250.5 | 1201.0 | L2 | 6 | 97.6 | 3 | 26 | 5 | 101 |
-| 6 | Murderapolis | Toby | West | 5-6-0 | 1090.4 | 1289.1 | W2 | 12 | 48.0 | 6 | 36 | 2 | 137 |
-| 7 | Tuten the train | Aziz | West | 5-6-0 | 1105.7 | 1297.7 | W1 | 11 | 26.2 | 7 | 22 | 3 | 77 |
+| 6 | Murderapolis | Toby | West | 5-6-0 | 1090.4 | 1289.1 | W2 | 12 | 48.0 | 6 | 36 | 2 | 140 |
+| 7 | Tuten the train | Aziz | West | 5-6-0 | 1105.7 | 1297.7 | W1 | 11 | 26.2 | 7 | 22 | 3 | 78 |
 | 8 | Christian McCracker | devin | East | 4-7-0 | 1175.0 | 1214.9 | W2 | 9 | 14.8 | 8 | 13 | 2 | 82 |
 | 9 | Thr Short Bus | Dunbarr | East | 4-7-0 | 1217.1 | 1263.3 | L1 | 2 | 10.1 | 9 | 4 | 3 | 47 |
 | 10 | Frizztards | Spencer | West | 4-7-0 | 1277.8 | 1298.9 | L4 | 7 | 8.8 | 10 | 7 | 0 | 31 |
@@ -27,12 +27,12 @@ Scores are live points so far; Proj is ESPN's projected final.
 
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
-| Frizztards | 0.0 | 108.59 | vs | Baba Yaga Swede | 0.0 | 132.07 |
-| the blind side | 0.0 | 127.02 | vs | The Ghee-talians | 0.0 | 121.05 |
-| GioDoesCokeOnKamara | 0.0 | 116.68 | vs | Big Papa | 25.12 | 118.16 |
-| Brock Hard for TDs | 45.0 | 157.9 | vs | The Slim Reapers | 8.3 | 100.85 |
-| Tuten the train | 0.0 | 104.79 | vs | Thr Short Bus | 0.0 | 113.74 |
-| Murderapolis | 0.0 | 115.55 | vs | Christian McCracker | 0.0 | 109.87 |
+| Frizztards | 14.0 | 110.33 | vs | Baba Yaga Swede | 0.0 | 132.07 |
+| the blind side | 58.8 | 163.26 | vs | The Ghee-talians | 0.0 | 121.05 |
+| GioDoesCokeOnKamara | 14.9 | 116.49 | vs | Big Papa | 54.22 | 116.46 |
+| Brock Hard for TDs | 93.2 | 180.5 | vs | The Slim Reapers | 36.5 | 111.68 |
+| Tuten the train | 24.8 | 106.96 | vs | Thr Short Bus | 0.0 | 113.74 |
+| Murderapolis | 4.7 | 110.0 | vs | Christian McCracker | 29.26 | 114.57 |
 
 ## My schedule
 
