@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Wed Nov 25 2026, 05:26 PM ET · NFL week 12 · The Re-Todds
+Updated: Wed Nov 25 2026, 11:57 PM ET · NFL week 12 · The Re-Todds
 
 ## Trade offers
 
@@ -205,6 +205,10 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Wed Nov 25, 10:02 PM ET | Frizztards | FA ADDED | Deshaun Watson | QB | CLE |
+| Wed Nov 25, 10:02 PM ET | Frizztards | DROPPED | Aaron Rodgers | QB | None |
+| Wed Nov 25, 07:07 PM ET | Murderapolis | FA ADDED | Jack Bech | WR | LV |
+| Wed Nov 25, 07:07 PM ET | Murderapolis | DROPPED | DeMario Douglas | WR | NE |
 | Wed Nov 25, 03:53 PM ET | Baba Yaga Swede | FA ADDED | Brandon Aiyuk | WR | None |
 | Wed Nov 25, 03:53 PM ET | Baba Yaga Swede | DROPPED | Tre Tucker | WR | LV |
 | Wed Nov 25, 09:42 AM ET | Christian McCracker | TRADE_SENT | Rachaad White | RB | WSH |
@@ -273,7 +277,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Sat Nov 14, 02:25 PM ET | Murderapolis | FA ADDED | Khalil Shakir | WR | BUF |
 | Sat Nov 14, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
 | Sat Nov 14, 03:18 AM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
-| Fri Nov 13, 04:47 PM ET | Murderapolis | DROPPED | Cairo Santos | K | CHI |
-| Fri Nov 13, 04:47 PM ET | Murderapolis | FA ADDED | Jason Sanders | K | NYJ |
-| Fri Nov 13, 04:44 PM ET | Murderapolis | FA ADDED | Tutu Atwell | WR | LAR |
-| Fri Nov 13, 04:44 PM ET | Murderapolis | DROPPED | Mack Hollins | WR | NE |
