@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Wed Nov 25 2026, 11:57 PM ET · NFL week 12 · The Re-Todds
+Updated: Thu Nov 26 2026, 10:02 AM ET · NFL week 12 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-3-0, seed 2, waiver rank 10.
 
@@ -10,15 +10,15 @@ Updated: Wed Nov 25 2026, 11:57 PM ET · NFL week 12 · The Re-Todds
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 10-1-0 | 1512.9 | 1170.8 | W4 | 1 | 100.0 | 1 | 29 | 3 | 68 |
 | 2 | Brock Hard for TDs **(me)** | Sina | West | 8-3-0 | 1447.7 | 1076.2 | L1 | 10 | 100.0 | 2 | 14 | 1 | 47 |
-| 3 | The Ghee-talians | Christian | East | 7-4-0 | 1430.1 | 1386.3 | W1 | 5 | 97.5 | 5 | 17 | 3 | 81 |
-| 4 | Baba Yaga Swede | Victor | East | 7-4-0 | 1370.1 | 1307.7 | W2 | 3 | 97.0 | 4 | 4 | 3 | 44 |
-| 5 | the blind side | Nick | West | 7-4-0 | 1250.5 | 1201.0 | L2 | 6 | 98.2 | 3 | 26 | 5 | 101 |
-| 6 | Murderapolis | Toby | West | 5-6-0 | 1090.4 | 1289.1 | W2 | 12 | 47.8 | 6 | 36 | 2 | 137 |
-| 7 | Tuten the train | Aziz | West | 5-6-0 | 1105.7 | 1297.7 | W1 | 11 | 26.6 | 7 | 22 | 3 | 77 |
-| 8 | Christian McCracker | devin | East | 4-7-0 | 1175.0 | 1214.9 | W2 | 9 | 14.4 | 8 | 13 | 2 | 82 |
-| 9 | Thr Short Bus | Dunbarr | East | 4-7-0 | 1217.1 | 1263.3 | L1 | 2 | 8.9 | 9 | 4 | 3 | 47 |
-| 10 | Frizztards | Spencer | West | 4-7-0 | 1277.8 | 1298.9 | L4 | 7 | 8.9 | 10 | 7 | 0 | 31 |
-| 11 | The Slim Reapers | Yovani | East | 3-8-0 | 1196.7 | 1319.5 | L2 | 8 | 0.7 | 11 | 38 | 2 | 154 |
+| 3 | The Ghee-talians | Christian | East | 7-4-0 | 1430.1 | 1386.3 | W1 | 5 | 97.0 | 4 | 17 | 3 | 81 |
+| 4 | Baba Yaga Swede | Victor | East | 7-4-0 | 1370.1 | 1307.7 | W2 | 3 | 97.1 | 5 | 4 | 3 | 44 |
+| 5 | the blind side | Nick | West | 7-4-0 | 1250.5 | 1201.0 | L2 | 6 | 97.6 | 3 | 26 | 5 | 101 |
+| 6 | Murderapolis | Toby | West | 5-6-0 | 1090.4 | 1289.1 | W2 | 12 | 48.0 | 6 | 36 | 2 | 137 |
+| 7 | Tuten the train | Aziz | West | 5-6-0 | 1105.7 | 1297.7 | W1 | 11 | 26.2 | 7 | 22 | 3 | 77 |
+| 8 | Christian McCracker | devin | East | 4-7-0 | 1175.0 | 1214.9 | W2 | 9 | 14.8 | 8 | 13 | 2 | 82 |
+| 9 | Thr Short Bus | Dunbarr | East | 4-7-0 | 1217.1 | 1263.3 | L1 | 2 | 10.1 | 9 | 4 | 3 | 47 |
+| 10 | Frizztards | Spencer | West | 4-7-0 | 1277.8 | 1298.9 | L4 | 7 | 8.8 | 10 | 7 | 0 | 31 |
+| 11 | The Slim Reapers | Yovani | East | 3-8-0 | 1196.7 | 1319.5 | L2 | 8 | 0.4 | 11 | 38 | 2 | 154 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 2-9-0 | 1104.3 | 1352.9 | L2 | 4 | 0.0 | 12 | 18 | 3 | 57 |
 
 ## Week 12 matchups
@@ -28,11 +28,11 @@ Scores are live points so far; Proj is ESPN's projected final.
 | Team | Score | Proj | vs | Team | Score | Proj |
 |---|---|---|---|---|---|---|
 | Frizztards | 0.0 | 108.59 | vs | Baba Yaga Swede | 0.0 | 132.07 |
-| the blind side | 0.0 | 127.1 | vs | The Ghee-talians | 0.0 | 121.05 |
-| GioDoesCokeOnKamara | 0.0 | 116.75 | vs | Big Papa | 25.12 | 118.15 |
-| Brock Hard for TDs | 45.0 | 157.88 | vs | The Slim Reapers | 8.3 | 100.83 |
+| the blind side | 0.0 | 127.02 | vs | The Ghee-talians | 0.0 | 121.05 |
+| GioDoesCokeOnKamara | 0.0 | 116.68 | vs | Big Papa | 25.12 | 118.16 |
+| Brock Hard for TDs | 45.0 | 157.9 | vs | The Slim Reapers | 8.3 | 100.85 |
 | Tuten the train | 0.0 | 104.79 | vs | Thr Short Bus | 0.0 | 113.74 |
-| Murderapolis | 0.0 | 115.63 | vs | Christian McCracker | 0.0 | 109.86 |
+| Murderapolis | 0.0 | 115.55 | vs | Christian McCracker | 0.0 | 109.87 |
 
 ## My schedule
 
