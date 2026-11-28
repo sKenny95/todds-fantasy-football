@@ -1,6 +1,6 @@
 # League overview
 
-Updated: Fri Nov 27 2026, 08:54 PM ET · NFL week 12 · The Re-Todds
+Updated: Sat Nov 28 2026, 05:14 AM ET · NFL week 12 · The Re-Todds
 
 **My team:** Brock Hard for TDs (team id 2), 8-3-0, seed 2, waiver rank 10.
 
@@ -10,14 +10,14 @@ Updated: Fri Nov 27 2026, 08:54 PM ET · NFL week 12 · The Re-Todds
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Big Papa | Alex | East | 10-1-0 | 1512.9 | 1170.8 | W4 | 1 | 100.0 | 1 | 29 | 3 | 68 |
 | 2 | Brock Hard for TDs **(me)** | Sina | West | 8-3-0 | 1447.7 | 1076.2 | L1 | 10 | 100.0 | 2 | 14 | 1 | 47 |
-| 3 | The Ghee-talians | Christian | East | 7-4-0 | 1430.1 | 1386.3 | W1 | 5 | 96.6 | 5 | 17 | 3 | 82 |
-| 4 | Baba Yaga Swede | Victor | East | 7-4-0 | 1370.1 | 1307.7 | W2 | 3 | 97.2 | 4 | 4 | 3 | 44 |
-| 5 | the blind side | Nick | West | 7-4-0 | 1250.5 | 1201.0 | L2 | 6 | 98.1 | 3 | 26 | 5 | 102 |
-| 6 | Murderapolis | Toby | West | 5-6-0 | 1090.4 | 1289.1 | W2 | 12 | 44.0 | 6 | 36 | 2 | 140 |
-| 7 | Tuten the train | Aziz | West | 5-6-0 | 1105.7 | 1297.7 | W1 | 11 | 24.6 | 7 | 22 | 3 | 78 |
-| 8 | Christian McCracker | devin | East | 4-7-0 | 1175.0 | 1214.9 | W2 | 9 | 16.8 | 8 | 13 | 2 | 82 |
-| 9 | Thr Short Bus | Dunbarr | East | 4-7-0 | 1217.1 | 1263.3 | L1 | 2 | 12.0 | 9 | 5 | 3 | 48 |
-| 10 | Frizztards | Spencer | West | 4-7-0 | 1277.8 | 1298.9 | L4 | 7 | 10.1 | 10 | 7 | 0 | 31 |
+| 3 | The Ghee-talians | Christian | East | 7-4-0 | 1430.1 | 1386.3 | W1 | 5 | 96.3 | 5 | 17 | 3 | 82 |
+| 4 | Baba Yaga Swede | Victor | East | 7-4-0 | 1370.1 | 1307.7 | W2 | 3 | 96.8 | 4 | 4 | 3 | 44 |
+| 5 | the blind side | Nick | West | 7-4-0 | 1250.5 | 1201.0 | L2 | 6 | 98.7 | 3 | 26 | 5 | 102 |
+| 6 | Murderapolis | Toby | West | 5-6-0 | 1090.4 | 1289.1 | W2 | 12 | 43.7 | 6 | 36 | 2 | 140 |
+| 7 | Tuten the train | Aziz | West | 5-6-0 | 1105.7 | 1297.7 | W1 | 11 | 23.3 | 7 | 22 | 3 | 78 |
+| 8 | Christian McCracker | devin | East | 4-7-0 | 1175.0 | 1214.9 | W2 | 9 | 18.2 | 8 | 13 | 2 | 82 |
+| 9 | Thr Short Bus | Dunbarr | East | 4-7-0 | 1217.1 | 1263.3 | L1 | 2 | 12.4 | 9 | 5 | 3 | 48 |
+| 10 | Frizztards | Spencer | West | 4-7-0 | 1277.8 | 1298.9 | L4 | 7 | 9.9 | 10 | 7 | 0 | 31 |
 | 11 | The Slim Reapers | Yovani | East | 3-8-0 | 1196.7 | 1319.5 | L2 | 8 | 0.7 | 11 | 38 | 2 | 154 |
 | 12 | GioDoesCokeOnKamara | Andy | West | 2-9-0 | 1104.3 | 1352.9 | L2 | 4 | 0.0 | 12 | 18 | 3 | 57 |
 
