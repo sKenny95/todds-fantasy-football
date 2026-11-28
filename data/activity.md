@@ -1,6 +1,6 @@
 # Trades and recent moves
 
-Updated: Fri Nov 27 2026, 01:52 PM ET · NFL week 12 · The Re-Todds
+Updated: Fri Nov 27 2026, 08:54 PM ET · NFL week 12 · The Re-Todds
 
 ## Trade offers
 
@@ -205,6 +205,8 @@ These never show in the ESPN app. They hint at who a team wanted.
 
 | When | Team | Move | Player | Pos | NFL |
 |---|---|---|---|---|---|
+| Fri Nov 27, 07:52 PM ET | Thr Short Bus | FA ADDED | Anthony Richardson Sr. | QB | IND |
+| Fri Nov 27, 07:52 PM ET | Thr Short Bus | DROPPED | Jordan Addison | WR | MIN |
 | Wed Nov 25, 10:02 PM ET | Frizztards | FA ADDED | Deshaun Watson | QB | CLE |
 | Wed Nov 25, 10:02 PM ET | Frizztards | DROPPED | Aaron Rodgers | QB | None |
 | Wed Nov 25, 07:07 PM ET | Murderapolis | FA ADDED | Jack Bech | WR | LV |
@@ -273,7 +275,3 @@ These never show in the ESPN app. They hint at who a team wanted.
 | Tue Nov 17, 07:07 AM ET | Christian McCracker | DROPPED | Brian Thomas Jr. | WR | JAX |
 | Sun Nov 15, 09:31 AM ET | The Slim Reapers | FA ADDED | MarShawn Lloyd | RB | GB |
 | Sun Nov 15, 09:20 AM ET | The Slim Reapers | DROPPED | Corey Kiner | RB | NE |
-| Sat Nov 14, 02:25 PM ET | Murderapolis | DROPPED | Quentin Johnston | WR | LAC |
-| Sat Nov 14, 02:25 PM ET | Murderapolis | FA ADDED | Khalil Shakir | WR | BUF |
-| Sat Nov 14, 03:18 AM ET | The Slim Reapers | WAIVER ADDED | Corey Kiner | RB | NE |
-| Sat Nov 14, 03:18 AM ET | The Slim Reapers | DROPPED | Chris Rodriguez Jr. | RB | JAX |
